@@ -158,8 +158,10 @@
 		<revisionDesc>
 			<change when="2019-02-18" who="#oj">Ajout des balises div type="textpart"
 				subtype="chapter".</change>
-			<change when="2019-02-18" who="#oj">Rajout des chapitres 2-31 qui étaient absents.</change>
+			<change when="2019-02-18" who="#oj">Rajout des chapitres 2-31 qui étaient
+				absents.</change>
 			<change when="2019-02-18" who="#oj">Remplacement des "æ" par ae".</change>
+			<change when="2019-02-18" who="#oj">Suppression des tirets et des espaces avant et après les balises lb correspondantes.</change>
 		</revisionDesc>
 
 	</teiHeader>
@@ -172,11 +174,11 @@
 				</head>
 
 				<p>Hortatur et instituitad decertandum cbristiana pugna cum diabolo. llunc vincia
-					nobis ac subigi,quando vincuntur cu- <lb/> piditales et corp ui in servitutem
+					nobis ac subigi,quando vincuntur cu<lb/>piditales et corp ui in servitutem
 					redigitur; ipsumvero corpus servitutisubjici docet, si uos ipsossubjiciamus Deo,
 					cui <lb/> creatura omnis aut voluntale servit aut necessitate. subsidio fidei
-					munitamesse humanam imbecillitatem ciqueper Fi­ <lb/> lium Dei caruem hac um
-					quam opportuao remedio subventumesse osteudit. Postea catholicae fidei capita
+					munitamesse humanam imbecillitatem ciqueper Fi<lb/>lium Dei caruem hac um quam
+					opportuao remedio subventumesse osteudit. Postea catholicae fidei capita
 					singulasymbole. <lb/> comprehensa percurrens, exortas varias in eam haereses
 					detegit et vari jubet.</p>
 
@@ -218,12 +220,12 @@
 							fuerunt Mss. praeter tres vaticanos, Gallicantseptemdecim unus la <lb/>
 							primislaudandus codex, quem Germanensi nostrae bibliothecaedono dedit
 							illustrissimus Dominus D. Dux Noaliensis, codex <lb/>
-							itemcollegli-Navarrici Parisiensis,codex abbatiae victorinae, Germanensis,
-							Corheiensis, Remensis s. Remigii vindocinen- <lb/> sis,
+							itemcollegli-Navarrici Parisiensis,codex abbatiae victorinae,
+							Germanensis, Corheiensis, Remensis s. Remigii vindocinen<lb/>sis,
 							Lyrensis,Ulicensis s Ebrulphi. s. Michaelis in Periculo maris,
 							Andegavensis S. Albini, et Andegavensiss. sergii , casa <lb/> II
-							Benedicti, duo Floriacensis bibliothecae, ac totidem colbertinaequi aliis
-							thuanae tuerunt et collegii Fuxensis Lova- <lb/> niensium
+							Benedicti, duo Floriacensis bibliothecae, ac totidem colbertinaequi
+							aliis thuanae tuerunt et collegii Fuxensis Lova<lb/>niensium
 							quoquevarianteslectionesex tribus Belgicis Mss. collectae ; II editiones
 							veteres Parv., id est, Joannis Parvi, <lb/> an. 1513, Am. Amerbachii,
 							Er. Erasmi, et Lov. Lovaniensium. </note><note type="footnote">
@@ -1010,46 +1012,46 @@
 
 				<div type="textpart" subtype="chapter" n="32">
 					<p><hi rend="italic">Nec qui</hi> resurrectionem <lb/>
-						<hi rend="italic">carnis negant.</hi> Nec eos audiamus, qui carnis resur­
-						<lb/> rectionem futuram negant, et commemorant quod ait <lb/> apostolus
-						Paulus, <hi rend="italic">Caro et sanguis regnum Dei non pos­</hi>
-						<lb/> sidebunt ; non intelligentes quod ipse dicit Apostolus, <lb/>
-						<hi rend="italic">Oportel corruptibile hoc induere incorruptionem, et mor­
-							<lb/> tale hoc induere immortalitatem.</hi> Cum enim hoc factum <lb/>
-						fuerit, jam non erit caro et sanguis, sed coeleste cor­ <lb/> pus <hi
+						<hi rend="italic">carnis negant.</hi> Nec eos audiamus, qui carnis
+						resur<lb/>rectionem futuram negant, et commemorant quod ait <lb/> apostolus
+						Paulus, <hi rend="italic">Caro et sanguis regnum Dei non
+						pos</hi><lb/>sidebunt ; non intelligentes quod ipse dicit Apostolus, <lb/>
+						<hi rend="italic">Oportel corruptibile hoc induere incorruptionem, et
+							mor<lb/>tale hoc induere immortalitatem.</hi> Cum enim hoc factum <lb/>
+						fuerit, jam non erit caro et sanguis, sed coeleste cor<lb/>pus <hi
 							rend="italic">(a).</hi> Quod et Dominus promittit, cum dicit, <hi
-							rend="italic">Ne­</hi>
-						<lb/> que <hi rend="italic">nubent, neque uxores ducent, sed erunt aequales
-							<lb/> Angelis Dei (Matth.</hi> XXII, 30). Non enin jam homi­ <lb/>
-						nibus, sed Deo vivent, cum aequales Angelis facti <lb/> ruerint. Immutabitur
-						ergo caro et sanguis, et fiet <lb/> corpus coeleste et angelicum. <hi
+							rend="italic">Ne</hi>
+						<lb/>que <hi rend="italic">nubent, neque uxores ducent, sed erunt aequales
+							<lb/> Angelis Dei (Matth.</hi> XXII, 30). Non enin jam homi<lb/>nibus,
+						sed Deo vivent, cum aequales Angelis facti <lb/> ruerint. Immutabitur ergo
+						caro et sanguis, et fiet <lb/> corpus coeleste et angelicum. <hi
 							rend="italic">Et mortui enim resur­ <lb/> gent incorrupti, et nos
-							immutabimur</hi> (I <hi rend="italic">Cor.</hi> xv, 50- <lb/> 53) : ut
-						et illud verum sit, quod resurget caro; et <lb/> illud verum sit, quod caro
-							<hi rend="italic">et sanguis regnum Dei noM <lb/> possidebunt.</hi>
+							immutabimur</hi> (I <hi rend="italic">Cor.</hi> xv, 50-<lb/>53) : ut et
+						illud verum sit, quod resurget caro; et <lb/> illud verum sit, quod caro <hi
+							rend="italic">et sanguis regnum Dei noM <lb/> possidebunt.</hi>
 					</p>
 				</div>
 
 				<div type="textpart" subtype="chapter" n="33">
 					<p><hi rend="italic">Fidei simplicitate lactari <lb/> eportet, cum parvuli
-							sumus. Charitas perfecta nec</hi> cu­ <lb/> piditatem <hi rend="italic"
+							sumus. Charitas perfecta nec</hi> cu<lb/>piditatem <hi rend="italic"
 							>saeculi compatitur9 nec timorem. Cognitio<lb/> veritatis</hi> in <hi
 							rend="italic">corde mundato.</hi> Ista fidei simplicitate et <lb/>
-						sinceritate lactati nutriamur in Christo ; et cum par-<note type="footnote">
+						sinceritate lactati nutriamur in Christo ; et cum par<note type="footnote">
 							(a) II Retract., cap. 3. </note>
-						<lb/> vuli sumus, majorum cibos non appetamus, sed un­ <lb/> trimentis
+						<lb/>vuli sumus, majorum cibos non appetamus, sed un<lb/>trimentis
 						saluberrimis crescamus in Christo, acco. <lb/> dentibus bonis moribus ct
 						christiana justitia, in qua <lb/> est charitas Dei et proximi perfecta et
 						firmata : ut <lb/> unusquisque nostrum de diabolo inimico et angelis <lb/>
 						ejus triumphet in semetipso in Christo quem induit. <lb/> Quia perfecta
 						charitas nec cupiditatem habet saeculi, <lb/> nee timorem saeculi ; id est,
-						nec cupiditatem ut ac­ <lb/> quirat res temporales, nec timorem ne amittat
-						res <lb/> temporales. Per quas duas januas intrat et regnat <lb/> inimicus,
-						qui primo Dei timore, deinde charitate pel­ <lb/> lendus est. Debemus itaque
-						tanto avidius appetere <lb/> apertissimam et evidentissimam cognitionem
-						verita­ <lb/> tis, quanto nos videmus in charitate proficere, et ejus <lb/>
-						simplicitate I cor habere mundatum, quia ipso inte­ <lb/> riore oculo
-						videtur veritas : <hi rend="italic">Beati</hi> enim mundo <hi rend="italic"
+						nec cupiditatem ut ac<lb/>quirat res temporales, nec timorem ne amittat res
+						<lb/> temporales. Per quas duas januas intrat et regnat <lb/> inimicus, qui
+						primo Dei timore, deinde charitate pel<lb/>lendus est. Debemus itaque tanto
+						avidius appetere <lb/> apertissimam et evidentissimam cognitionem
+						verita<lb/>tis, quanto nos videmus in charitate proficere, et ejus <lb/>
+						simplicitate I cor habere mundatum, quia ipso inte<lb/>riore oculo videtur
+						veritas : <hi rend="italic">Beati</hi> enim mundo <hi rend="italic"
 							>corde,</hi>
 						<lb/> in tuit, <hi rend="italic">quia</hi> ,ipsi <hi rend="italic">Deum
 							videbunt (Malth.</hi> v, 8). <hi rend="italic">Ut</hi> in <lb/>
@@ -1059,7 +1061,7 @@
 							supereminentem<lb/> scientiam charitatis Christi, ut impleamur in omnem
 							<lb/> plenitudinem Dei (Ephes.</hi> III, 17-19) : et post ista cun.
 						<lb/> ii:visibili hoste certamina, quoniam yolentibus et <lb/> amantibus
-						jugum Christi lene est, et sarcina rjus le­ <lb/> vis ( <hi rend="italic"
+						jugum Christi lene est, et sarcina rjus le<lb/>vis ( <hi rend="italic"
 							>Matth.</hi> XI, 30), coronam victoriaE mercamur. <note type="footnote">
 							I Editi, in <hi rend="italic">ejus simplicitate.</hi> Abest, <hi
 								rend="italic">in,</hi> a Mss. </note>
