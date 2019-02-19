@@ -84,7 +84,13 @@
 			<langUsage>
 				<language ident="la">Latin</language>
 			</langUsage>
-		</profileDesc>
+		</profileDesc>		
+		<revisionDesc>			
+			<change who="Marie Morillon" when="2019-02-19">Remplacement des caractères æ en ae</change>
+			<change who="Marie Morillon" when="2019-02-19">Correction de l'OCR sur un échantillon, première colonne</change>
+			<change who="Marie Morillon" when="2019-02-19">Collage des hyphénisations</change>
+			<change who="Marie Morillon" when="2019-02-19">Structuration du texte selon les guidelines CapiTainS</change>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
