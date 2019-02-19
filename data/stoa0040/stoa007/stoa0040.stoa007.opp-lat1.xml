@@ -120,7 +120,7 @@
 								instituta.</hi>
 						</title>
 					</ab>
-					<p>i. AUGUSTINUS : Quid tibi videmur efficere velle <lb/> cum loquiniur ?
+					<div type="textpart" subtype="paragraph" n="1"><p>i. AUGUSTINUS : Quid tibi videmur efficere velle <lb/> cum loquiniur ?
 						ADEODATUS : Quantum quidem mibi <lb/> nunc occurrit, aut docere, aut
 						discere. <hi rend="italic">Aug.</hi> Unum <lb/> torum video et assentior :
 						nam loquendo nos doccre <lb/> velle manifestum est; discere autem quomodo?
@@ -166,8 +166,9 @@
 						cantare? Nam ei tibiis <lb/> et cithara cantatur, et aves cantant. et nos
 						interdum <lb/> sine verbis musicum aliquid sonamus, qui sonus can­ <lb/> tus
 						dlci potest, locutio non potest : an quidquam est <lb/> quod contradicas?
-							<hi rend="italic">Ad.</hi> Nihil sane.</p>
-					<p>2. <hi rend="italic">Aug.</hi> Vidctur ergo tibi, nisi aut docendi, aut com­
+							<hi rend="italic">Ad.</hi> Nihil sane.</p></div>
+					<div type="textpart" subtype="paragrpah" n="
+						2"><p>2. <hi rend="italic">Aug.</hi> Vidctur ergo tibi, nisi aut docendi, aut com­
 						<lb/> memorandi causa non esse institutam locutionem? Ad. <lb/> Videretur,
 						nisi me moveret quod dum oramus, utique <lb/> loquimur; nec tamen Deum aut
 							d<unclear>oceri</unclear> aliquid a no<lb/>bis, aut commemorari £as est
@@ -208,7 +209,7 @@
 						cogitamus, nos intus <lb/> apud animum loqui, sic quoque locutione nibil
 						aliud <lb/> agcre quam commonere, cum memoria cui verba in<lb/>haerent, ea
 						revolvendo facit vcnire in mentem res ipsas <lb/> quarum signa sunt verba.
-							<hi rend="italic">Ad.</hi> Intelligo ac sequor.</p>
+							<hi rend="italic">Ad.</hi> Intelligo ac sequor.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="2">
 					<ab>
@@ -216,7 +217,7 @@
 								homine ostenditur.</hi>
 						</title>
 					</ab>
-					<p>3. <hi rend="italic">Aug.</hi> Constat ergo inter nos verba signa esse. Ad.
+					<div type="textpart" subtype="paragraph" n="3"><p>3. <hi rend="italic">Aug.</hi> Constat ergo inter nos verba signa esse. Ad.
 						<lb/> Constat. <hi rend="italic">Aug.</hi> Quid? signum, nisi aliquid
 						significet, <lb/> potest esse signum ? <hi rend="italic">Ad.</hi> Non
 						potest. <hi rend="italic">Aug.</hi> Quot verba <lb/> sunt in hoc versu,
@@ -259,8 +260,8 @@
 							>Ad.</hi> Quae <lb/> tandem ? <hi rend="italic">Aug.</hi> Si nihil nos
 						teneat, et moras patiamur. <lb/>
 						<hi rend="italic">Ad.</hi> Ridiculum hocquidemesl, ettamen nescio
-						quomo<lb/>do video posse contingere; imo plene video contigisse.</p>
-					<p>4. <hi rend="italic">Aug.</hi> Suo loco genus hoc repugnantiae, si Deus
+						quomo<lb/>do video posse contingere; imo plene video contigisse.</p></div>
+					<div type="textpart" subtype="paragraph" n="4"><p>4. <hi rend="italic">Aug.</hi> Suo loco genus hoc repugnantiae, si Deus
 						si<lb/>verit, planius intelligemus : nune ad illum versum te re<lb/>fer, et
 						conare, ut potes, caetera ejus verba quid significetnt <lb/> pandere. <hi
 							rend="italic">Ad.</hi> Tertia praepositio est, <hi rend="italic"
@@ -284,7 +285,7 @@
 						regulam <lb/> reperiantur; illud certe tibi attendere facije est,
 						ex<lb/>posuisse te verbis verba, id est signis signa, eisdemque <lb/>
 						Hotissimis notissima : ego autcm illa ipsa quorum haec <lb/> signa sunt,
-						mibi, si pr.sses, vellem ut ostenderes.</p>
+						mibi, si pr.sses, vellem ut ostenderes.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="3">
 					<ab>
@@ -292,7 +293,7 @@
 								possit.</hi>
 						</title>
 					</ab>
-					<p>5. <hi rend="italic">Ad.</hi> Miror te nescire, vcj potius simulare
+					<div type="textpart" subtype="paragraph" n="5"><p>5. <hi rend="italic">Ad.</hi> Miror te nescire, vcj potius simulare
 						ne<lb/>scientem, responsione mea fieri quod vis omnino non <lb/> posse;
 						siquidem sermocinamur, ubi non possumus re<lb/>spondere nisi verbis. Tu
 						autem res quaeris eas quae , <lb/> quodlibet sint, verba certe non sunt,
@@ -329,8 +330,8 @@
 						plerumque aperiunt et exponunt. <hi rend="italic">Ad.</hi> Nihil habeo quod
 						<lb/> contradicam, nisi quod illud, <hi rend="italic">ex,</hi> non modo ego,
 						sed <lb/> nec ipse quidem saltator histrio tibi sinc verbis quid <lb/>
-						significet posset ostendecre.</p>
-					<p>6. <hi rend="italic">Aug.</hi> Verum fortasse dicis : sed fingamus eum <lb/>
+						significet posset ostendecre.</p></div>
+					<div type="textpart" subtype="paragraph" n="6"><p>6. <hi rend="italic">Aug.</hi> Verum fortasse dicis : sed fingamus eum <lb/>
 						posse; non, ut arbitror, dubitas, quisquis illc motus <lb/> corporis fucrit,
 						quo mihi rem quae hec verbo signi<lb/>ficatur, demonstrare conabitur, non
 						ipsam rem fu<lb/>turam esse, sed signum. Quare hic quoque non quidem <lb/>
@@ -371,14 +372,14 @@
 						eum doceam, loquar necesse <lb/> est: ex quo sccutus docebo, donec ei planum
 						faciam <lb/> quod vult, non recedens a re ipsa quam sibi voluit
 						de<lb/>monstrari, nec signa quaerens quibus cam pstendam <lb/> praeter
-						ipsam.</p>
+						ipsam.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="4">
 					<ab>
 						<title type="sub"><hi rend="italic">An signa signis monstrentur.</hi>
 						</title>
 					</ab>
-					<p>7. <hi rend="italic">Aug.</hi> Acutissime omnino : quare vide utrum <lb/>
+					<div type="textpart" subtype="paragraph" n="8"><p>7. <hi rend="italic">Aug.</hi> Acutissime omnino : quare vide utrum <lb/>
 						conveniat jam inter nos ea posse demonstrari sine <lb/> signis, quae aut non
 						agimus cum interrogamur, et <lb/> tamen statim agere possumus, aut ipsa
 						signa forte <lb/> agimus. Cum enim loquimur, signa facimus, de quo <lb/>
@@ -403,8 +404,8 @@
 						<lb/> quod signis signa monstrantur, ct partes in eo duas <lb/> comperimus,
 						cum aut eadem aut alia signa signis do<lb/>cemus vcl commemoramus : an non
 						tibi videtur? <hi rend="italic">Ad.</hi>
-						<lb/> Manifestum est.</p>
-					<p>8. <hi rend="italic">Avg.</hi> Dic ergo signa quae verba sunt, ad quem <lb/>
+						<lb/> Manifestum est.</p></div>
+					<div type="textpart" subtype="paragraph" n="8"><p>8. <hi rend="italic">Avg.</hi> Dic ergo signa quae verba sunt, ad quem <lb/>
 						sensum pertineant. <hi rend="italic">Ad.</hi> Ad auditum. <hi rend="italic"
 							>Aug.</hi> Quid gestus? <lb/>
 						<hi rend="italic">Ad.</hi> Ad visum. <hi rend="italic">Aug.</hi> Quid , cum
@@ -449,8 +450,8 @@
 						distare video, quod illud audibile signum est si<lb/>gnorum audibilium :
 						haec vero audibilia quidem signa <lb/> sunt , non tanicn signorum , sed
 						rerum partim visi<lb/>hilium , sicut csi Romulus, Roma . fluvius; partim
-						<lb/> intelligibilium, sicut est virtus .</p>
-					<p>9. <hi rend="italic">Aug.</hi> Accipio et probo : sed scisne omnia qua <lb/>
+						<lb/> intelligibilium, sicut est virtus .</p></div>
+					<div type="textpart" subtype="paragraph" n="9"><p>9. <hi rend="italic">Aug.</hi> Accipio et probo : sed scisne omnia qua <lb/>
 						voce ariiculata cum aliquo significatu proferuntur, <lb/> verba appellari?
 							<hi rend="italic">Ad.</hi> Scio. <hi rend="italic">Aug.</hi> Ergoetnomen
 						verbum <lb/> est, quandoqnidcm id videmus cum aliquo significatu <lb/>
@@ -495,8 +496,8 @@
 						verbum signum, non autem omne signum <lb/> verbum est, nihil, ut opinor,
 						dubitares. <hi rend="italic">Ad.</hi> Jain intel<lb/>ligo, et prorsus
 						assemior, hoc interesse inter uni<lb/>versale illud verbum et nomen, quod
-						inter animal et <lb/> equum.</p>
-					<p>10. <hi rend="italic">Aug.</hi> Scisne etiam, cum dicimus, Animal, aliud
+						inter animal et <lb/> equum.</p></div>
+					<div type="textpart" subtype="paragraph" n="10"><p>10. <hi rend="italic">Aug.</hi> Scisne etiam, cum dicimus, Animal, aliud
 						<lb/> esse hoc trisyllabum nomen, quod voce prolatum est, <lb/> aliud id
 						quod significatur? <hi rend="italic">Ad.</hi> Jam line supra con<lb/>cessi
 						de omnibus signis et significabilibus. <hi rend="italic">Aug.</hi> Num <lb/>
@@ -520,13 +521,13 @@
 						qua<lb/>drisyllabum signum, cum dicimus, Conjunctio? <hi rend="italic"
 							>Ad.</hi>
 						<lb/> Nullomodo: nam ea quae significat, non sunt nomina; <lb/> hoc autem
-						nomen est.</p>
+						nomen est.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="5">
 					<ab>
 						<title type="sub"><hi rend="italic">Signa</hi> mutua.</title>
 					</ab>
-					<p>11. <hi rend="italic">Aug.</hi> Bene attendisti : nunc illud vide, utrum <unclear/>
+					<div type="textpart" subtype="paragraph" n="11"><p>11. <hi rend="italic">Aug.</hi> Bene attendisti : nunc illud vide, utrum <unclear/>
 						<lb/> veniantur signa quae se invicem signiflcent, ut <lb/> quemadmodum boc
 						ab illo, sic illud ab hoc significe<lb/>tur : non enim ita sunt inter se hoc
 						quadrisyllabum, <lb/> cum dicimus, Conjunctio, et illa quae ab hoc
@@ -547,8 +548,8 @@
 						enim cum dicimus, omne quod articulata <lb/> voce cum aliquo significatu
 						profertur, significamus; <lb/> unde omne nomen , et ipsum cum dichnus,
 						Nomen, <lb/> verbum est: at non omne verbum nomen est, quam<lb/>vis nomen
-						sit, cum dicimus, Verbum.</p>
-					<p>12. <hi rend="italic">Aug.</hi> Quid, siquisquam tibi affirmet et probet, ut
+						sit, cum dicimus, Verbum.</p></div>
+					<div type="textpart" subtype="paragraph" n="12"><p>12. <hi rend="italic">Aug.</hi> Quid, siquisquam tibi affirmet et probet, ut
 						<lb/> omne nomen verbum est, ita Qmne verbum nomen esse? <lb/> poterisne
 						invenire quiddislent, praeter diversum in lit<lb/>teris sonum? Ad. Non
 						potero, nec omnino distare aliquid <lb/> puto. <hi rend="italic">Aug.</hi>
@@ -574,8 +575,8 @@
 						<hi rend="italic">Aug.</hi> Quid, si horum duorum ex uno appellata sinit
 						<lb/> verbar ex altero nomina; verba scilicet a verberando, <lb/> nomina
 						vero a noscendo, ut illud primum ab nuribus; <lb/> hoc autem secundum ab
-						animo vocari meruerit?</p>
-					<p>13. <hi rend="italic">Ad.</hi> Concedam, cum ostenderis quomodo recte <lb/>
+						animo vocari meruerit?</p></div>
+					<div type="textpart" subtype="paragraph" n="13"><p>13. <hi rend="italic">Ad.</hi> Concedam, cum ostenderis quomodo recte <lb/>
 						possimus omnia verba nomina dicere. <hi rend="italic">Aug.</hi> Facile <lb/>
 						est: nam credo te accepisse ac tenere pronomen di<lb/>ctum, quod pro ipso
 						nomine valeat, rem tamen nolet <lb/> minus plena significatione quam nomen.
@@ -603,8 +604,8 @@
 						dici<lb/>tur, Ilac verba omnia. Si autem a me quaeras quae sit <lb/> pars
 						orationis, Verba; nihil aliud respondebo quam, <lb/> Nomen. Quare huic
 						nomini fortasse pronomen ad­ <lb/> junctum est, ut illa recta esset locutio
-						tua.</p>
-					<p>1 i. <hi rend="italic">Aug.</hi> Acute quidem falleris, sed ut falli desinas,
+						tua.</p></div>
+					<div type="textpart" subtype="paragraph" n="14"><p>1 i. <hi rend="italic">Aug.</hi> Acute quidem falleris, sed ut falli desinas,
 						<lb/> acutius attende quod dicam, si tamen id dicere. ut <lb/> volo, valuero
 						: nam verbis de verbis agcre tam impli <lb/> catum est, quam digitos digiti
 						inserere et confricare; <lb/> ubi vix dignoscitur, nisi ab eo ipso qui id
@@ -651,8 +652,8 @@
 						quas significant, quid <lb/> singulae appellentur, id est nominentur,
 						interroges; <lb/> respondere non possum, nisi cas ipsas partes
 						oratio<lb/>nis, quas nomina uon vocamus, sed, ut cerno, vocare <lb/>
-						convincimur.</p>
-					<p>15. <hi rend="italic">Aug.</hi> Nihilne tc movet, ne quis existat qui
+						convincimur.</p></div>
+					<div type="textpart" subtype="paragraph" n="15"><p>15. <hi rend="italic">Aug.</hi> Nihilne tc movet, ne quis existat qui
 						no<lb/>stram istam rationem labefactet dicendo, Apostolo <lb/> non verborum,
 						sed rerum auctoritatem esse tribuen<lb/>dam; quamobrem fundamentum
 						persuasionis hujus <lb/> non tam esse firmum quam putamus : fieri enim <lb/>
@@ -685,8 +686,8 @@
 						possimus; quid opus est <lb/> quarere cujus persona sententia nostra
 						falciatur? <note type="footnote"> » IUI. habent, <hi rend="italic"
 								>dixerU</hi> praeceperitque rectissimc. </note>
-					</p>
-					<p>16. Sed ne quis tardior aut impudentior nondum <lb/> cedat, asseratque, nisi
+					</p></div>
+					<div type="textpart" subtype="paragraph" n="16"><p>16. Sed ne quis tardior aut impudentior nondum <lb/> cedat, asseratque, nisi
 						illis auctoribus, quibus verbo<lb/>rum leges consensu omnium tribuuntur,
 						nullo modo <lb/> esse cessurum; quid in latina lingua excellentius
 						Ci<lb/>cerone inveniri potest? At hie in suis nobilissimis <lb/> orationibus
@@ -725,14 +726,14 @@
 						duas conjunctiones etiam <lb/> nomina esse salis probatum est. <hi
 							rend="italic">Ad.</hi> Prorsus satis. <lb/>
 						<hi rend="italic">Aug.</hi> Potesne ipse per tc in aliis partibus orationis
-						hoc <lb/> idcin ad camdem regulam docere? Ad. Possum.</p>
+						hoc <lb/> idcin ad camdem regulam docere? Ad. Possum.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="6">
 					<ab>
 						<title type="sub"><hi rend="italic">Signa sui significativa.</hi>
 						</title>
 					</ab>
-					<p>17. <hi rend="italic">Aug.</hi> Transeamus ergo hinc. et jam dic mihi <lb/>
+					<div type="textpart" subtype="paragraph" n="17"><p>17. <hi rend="italic">Aug.</hi> Transeamus ergo hinc. et jam dic mihi <lb/>
 						utrum sicut omnia verba nomina, cet omnia nomina <lb/> verba esse
 						comperimus, ita libi ct omnia nomina <lb/> vocabula, et omnia vocabula
 						nurnina esse videantur. <lb/>
@@ -750,8 +751,8 @@
 						<pb n="1205"/> pertinet : nam ct speciale nomen dicimus, qnod inter <lb/>
 						octo partes orationis ita est, ut alias septem non con<lb/>tiurat. <hi
 							rend="italic">Ad.</hi> Intelligo. <hi rend="italic">Aug.</hi> At boc ost
-						qnod dixi, se <lb/> invicem significare vocabulum et nomen.</p>
-					<p>i8. <hi rend="italic">Ad.</hi> Teneo, sed quaero quid dixeris, Cum etiam
+						qnod dixi, se <lb/> invicem significare vocabulum et nomen.</p></div>
+					<div type="textpart" subtype="paragraph" n="18"><p>i8. <hi rend="italic">Ad.</hi> Teneo, sed quaero quid dixeris, Cum etiam
 						<lb/> scipsa significant cum. aliis partibus orationis. <hi rend="italic"
 							>Aug.</hi>
 						<lb/> Nonne superior ratio docuit nos, omwes partes oratio­ <lb/> uis, et
@@ -777,7 +778,7 @@
 						seipsa significent , et aliud ab alio invi<lb/>cem siguificelur, et quidquid
 						ab uno hoc et ab alio; <lb/> cl nibil praeter sonum inter se differant: nam
 						hoc <lb/> quartum modo invenimos; tria enim superiora, et de <lb/> nomine et
-						verbo intelliguntur. <hi rend="italic">Ad.</hi> Omnino perventum.</p>
+						verbo intelliguntur. <hi rend="italic">Ad.</hi> Omnino perventum.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="7">
 					<ab>
@@ -785,7 +786,7 @@
 								rend="italic">capitum.</hi>
 						</title>
 					</ab>
-					<p>19. <hi rend="italic">Aug.</hi> Jam quae sermocinando invenerimus, ve<lb/>lin
+					<div type="textpart" subtype="paragraph" n="19"><p>19. <hi rend="italic">Aug.</hi> Jam quae sermocinando invenerimus, ve<lb/>lin
 						recenseas. <hi rend="italic">Ad.</hi> Faciam quantum possuln. Nam <lb/>
 						primo omnium rccordor aliquandiu nos quaesisse quam <lb/> ob causam
 						loquamur, iuventumquc esse docendi com<lb/>memorandive gratia nos loqui,
@@ -823,8 +824,8 @@
 						quae cum a nobis quaerun<lb/>tur, non agimus, et post inquisitionem agere
 						possumus; <lb/> locutionem tamen ex eo non esse genere : siquidem et <lb/>
 						loquentes cnm interrogamur quid sit locutio, istam per <lb/> seipsam
-						demonstrare facile esse satis apparuit.</p>
-					<p>20. Ex quo admoniti sumus aut signis signa mon<lb/>sLrari, aut signis alia
+						demonstrare facile esse satis apparuit.</p></div>
+					<div type="textpart" subtype="paragraph" n="20"><p>20. Ex quo admoniti sumus aut signis signa mon<lb/>sLrari, aut signis alia
 						quae signa non sunt, aut etiam <lb/> sine signo res quas agere post
 						interrogationem pos<lb/>sumus : horumque trium primum diligentius conside­
 						<lb/> randum discutiendumque suscepimus. Qua disputa<lb/>tionc declaratum
@@ -861,7 +862,7 @@
 						<lb/> nos signum comperisse, quod non inter caetera quae <lb/> significat,
 						se quoque significet. Haec quantum potui <lb/> recordatus sum. Tu jam
 						videris, quem nibil pulo in <lb/> hoc sermone nisi scientem certumque
-						dixisse , utrum <lb/> ista bene ordinateque digesserim.</p>
+						dixisse , utrum <lb/> ista bene ordinateque digesserim.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="8">
 					<ab>
@@ -871,7 +872,7 @@
 								esse referendum.</hi>
 						</title>
 					</ab>
-					<p>21. <hi rend="italic">Aug.</hi> Satis tu quidem memoriter omnia quae <lb/>
+					<div type="textpart" subtype="paragraph" n="21"><p>21. <hi rend="italic">Aug.</hi> Satis tu quidem memoriter omnia quae <lb/>
 						vellem recoluisti; et, ut tibi fatear, multo evidentius <lb/> mihi nunc
 						videntur ista distincta, quam cum ea in<lb/>quirendo ac disserendo de nescio
 						quibus latebris ambo <lb/> crueremus. Sed quonam tantis ambagibus tecum
@@ -892,8 +893,8 @@
 						et mentis acicm,quibus regionis illius, <lb/> ubi beata vita est, calorem ac
 						lucem non modo sus <lb/> tinere, verum ctiam amare possimus. <hi
 							rend="italic">Ad.</hi> Perge po<lb/>tius ut cœpisti : nam nunquam ego
-						contemnenda pu­ <lb/> tem quae tu dicenda vel agenda putaveris.</p>
-					<p>22. <hi rend="italic">Aug.</hi> Age, jati ergo illam partem
+						contemnenda pu­ <lb/> tem quae tu dicenda vel agenda putaveris.</p></div>
+					<div type="textpart" subtype="paragraph" n="22"><p>22. <hi rend="italic">Aug.</hi> Age, jati ergo illam partem
 						considere<lb/>mus, cuna signis non a!ia signa significantur, sed ca <lb/>
 						quae significabilia vocamus. Et primum die mihi <lb/> utrum homo, homo sit.
 							<hi rend="italic">Ad.</hi> Nunc vero an ludas nc­ <lb/> scio. <hi
@@ -940,8 +941,8 @@
 						ista sunt signa. Quare ostende nunc, <lb/> quomodo ista ratiocinatione
 						deceptus sim, qua me <lb/> hominem non esse concluditur. <hi rend="italic"
 							>Aug.</hi> Imo eadem <lb/> rursus interrogabo, ut ipse invenias ubi
-						lapsus sis<lb/><hi rend="italic">Ad.</hi> Bene facis.</p>
-					<p>23. <hi rend="italic">Aug.</hi> Illud ergo quod primo quaesieram, quia <lb/>
+						lapsus sis<lb/><hi rend="italic">Ad.</hi> Bene facis.</p></div>
+					<div type="textpart" subtype="paragraph" n="23"><p>23. <hi rend="italic">Aug.</hi> Illud ergo quod primo quaesieram, quia <lb/>
 						jam dcdisti,non quaeram. Vide igitur diligentius, <lb/> utrum syllaba, ho,
 						nihil aliud sit quam, iro; et utrum, <lb/> mo, nihil aliud sit quam, mo. <hi
 							rend="italic">Ad.</hi> Hie prorsus nihil <lb/> aliud video. <hi
@@ -967,8 +968,8 @@
 						ore nostro exire quodcumque <lb/> loquimur. Nam quae loquimur, ea
 						significamus; non <lb/> autem quae res significatur , sed signum quo
 						signifi­ <lb/> catur loqucntis ore procedit, nisi cum ipsa signa
-						si<lb/>gnificantur : quod genus paulo ante tractavimus.</p>
-					<p>24. <hi rend="italic">Aug.</hi> Bene tu quidcm hoc modo adversus illum <lb/>
+						si<lb/>gnificantur : quod genus paulo ante tractavimus.</p></div>
+					<div type="textpart" subtype="paragraph" n="24"><p>24. <hi rend="italic">Aug.</hi> Bene tu quidcm hoc modo adversus illum <lb/>
 						esses pnratus: verumtamen mihi quid respondehis, <lb/> utrum homo nomen sit
 						requirenti ? <hi rend="italic">Ad.</hi> Quid, nisi <lb/> esse nomen? <hi
 							rend="italic">Aug.</hi> Quid? cum te video, num nomen <lb/> video? <hi
@@ -1005,7 +1006,7 @@
 						syllabis si<lb/>gnificatur, simul atque ista verba sonnerint, ea
 						scili<lb/>cet regula, quae naturaliter plurimum valet, ut au<lb/>ditis
 						signis ad res significatas feratur intentio. <hi rend="italic">Ad.</hi>
-						<lb/> Accipio quod dicis.</p>
+						<lb/> Accipio quod dicis.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="9">
 					<ab>
@@ -1013,7 +1014,7 @@
 								pluris habenda</hi> sit quam <hi rend="italic">ipsius signa.</hi>
 						</title>
 					</ab>
-					<p>25. <hi rend="italic">Aug.</hi> Jam ergo iulelligas volo, res quae
+					<div type="textpart" subtype="paragraph" n="25"><p>25. <hi rend="italic">Aug.</hi> Jam ergo iulelligas volo, res quae
 						signifi<lb/>cantur, pluris quam signa esse pendendas. Quidquid <lb/> enim
 						propter aliud est, vilius sit necesse cst quam <lb/> id propter quod est;
 						nisi tu aliud existimas. <hi rend="italic">Ad.</hi> Vi<lb/>detur mihi non
@@ -1040,8 +1041,8 @@
 						no<lb/>men, vel exhibetur tibi; nonne charius quam ipsum <lb/> nomen
 						habendum est9 <hi rend="italic">Ad.</hi> Concedo ipsam scientiam, <lb/> quae
 						per hoc signum evenit, eidem signo esse ante<lb/>ponendam; sed non ideo
-						etiam rem ipsam puto.</p>
-					<p>tG. <hi rend="italic">4ug.</hi> In illa igitur sententia nostra, quanquam
+						etiam rem ipsam puto.</p></div>
+					<div type="textpart" subtype="paragraph" n="26"><p>tG. <hi rend="italic">4ug.</hi> In illa igitur sententia nostra, quanquam
 						<lb/> sit falsum, res omnes signis suis praeponi oportere; <lb/> non tamen
 						falsum est, omne quod propter aliud est, <lb/> vilius esse quam id propter
 						quod est. Cognitio quippe <lb/> coeni, propur quam hoc nomen est institutum,
@@ -1073,8 +1074,8 @@
 						</note>
 						<lb/>
 						<pb n="1211"/> verba Sed cupio audire quia forte contradicendum <lb/>
-						putes.</p>
-					<p><hi rend="italic">27. Ad.</hi> Assentior quidem mcliorem quam verba <lb/>
+						putes.</p></div>
+					<div type="textpart" subtype="paragraph" n="27"><p><hi rend="italic">27. Ad.</hi> Assentior quidem mcliorem quam verba <lb/>
 						esse doctrinam; scd utrum adversus istam regulam <lb/> qua dicitur, Omne
 						quod propter aliud est, inferius <lb/> esse quam id propter quod est, nihil
 						sit quod objici <lb/> possit, ignoro. <hi rend="italic">Aug.</hi> Alias hoc
@@ -1090,8 +1091,8 @@
 						rei est ante<lb/>pUDenda, quamvis ea cognitione sit ipsum nomen
 						in<lb/>furius? Quatuor quippe sunt: nomen, ct res, cognitio <lb/> nominis,
 						et cognitio rei. Sicut ergo primum secundo, <lb/> cur non ct tertium quarto
-						antecellat? Sed ut non an<lb/>tecellat, num ctiam subjiciendum est?</p>
-					<p>28. <hi rend="italic">Aug.</hi> Mire omnino tc video et trnuisse quid <lb/>
+						antecellat? Sed ut non an<lb/>tecellat, num ctiam subjiciendum est?</p></div>
+					<div type="textpart" subtype="paragraph" n="28"><p>28. <hi rend="italic">Aug.</hi> Mire omnino tc video et trnuisse quid <lb/>
 						concesseris, et explicasse quid senscris. Sed, ut opi<lb/>nor, intelligis,
 						hoc trisyllabum nomen, quod sonat <lb/> rum dicimus, Vitium, melius esse
 						quam id quod <lb/> significat ; cnm ipsius cognitio nominis multo sit <lb/>
@@ -1127,7 +1128,7 @@
 						discutiamus, quale <lb/> sit genus rerum quas sinc signis monstrari posse
 						di&lt; cu<lb/>bamus per seipsas, ut loqui, ambulare, sedere, jacere, <lb/>
 						atque hujusmodi caetera. <hi rend="italic">Ad.</hi> Jam recolo quid
-						dicas.</p>
+						dicas.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="10">
 					<ab>
@@ -1136,7 +1137,7 @@
 								ipsa verba.</hi>
 						</title>
 					</ab>
-					<p>29. <hi rend="italic">Aug.</hi> Omniane tihi videntur, quae interrogati <lb/>
+					<div type="textpart" subtype="paragraph" n="29"><p>29. <hi rend="italic">Aug.</hi> Omniane tihi videntur, quae interrogati <lb/>
 						mox agere possumus, sine signo posse monstrari ? an <lb/> aliquid excipis ?
 							<hi rend="italic">Ad.</hi> Ego vero etiain atque etiam ge<lb/>nus hoc
 						totum considerans, nihil adhuc invenio quod <lb/> sine signo valeat doceri,
@@ -1150,8 +1151,8 @@
 						quisquis enim plus minusve quam <lb/> ego ambulaverit, hunc ille ambulasse
 						non arbitrabi<lb/>tur. Et quod de hoc uno verbo dixi, transit in omnia <lb/>
 						qn;c sine signo monstrari posse consenseram praeter <lb/> duo illa quae
-						excopimus.</p>
-					<p>30. Aug. Accipio quidem istud : sed nonne tibi vi<lb/>dctur aliud esse loqui,
+						excopimus.</p></div>
+					<div type="textpart" subtype="paragraph" n="30"><p>30. Aug. Accipio quidem istud : sed nonne tibi vi<lb/>dctur aliud esse loqui,
 						aliud docere? <hi rend="italic">Ad.</hi> Videtur sane : <lb/> nam si esset
 						idem, non doceret quisquam nisi loqucns; <lb/> cum vero ct aliis signis,
 						practer verba, multa docea<lb/>mus, quis de ista differentia dubitaverit?
@@ -1176,8 +1177,8 @@
 						inventum est, quod monstrari pcr scipsum <lb/> qncat praeter locutionem,
 						quae inter alia se qooque si<lb/>gnificat : quae tamen cum etiam ipsa signum
 						sh <lb/> nondum prorsus exstat quod sine signis doceri posse <lb/> videatur.
-							<hi rend="italic">Ad.</hi> Nihil habeo cur non assentiar..</p>
-					<p>31. <hi rend="italic">Aug.</hi> Confectum est igitur et nihil sinc signis
+							<hi rend="italic">Ad.</hi> Nihil habeo cur non assentiar..</p></div>
+					<div type="textpart" subtype="paragraph" n="31"><p>31. <hi rend="italic">Aug.</hi> Confectum est igitur et nihil sinc signis
 						<lb/> doceri, etcognitionem ipsam signis quibus cognosci<lb/>mus, chariorem
 						nobis esse oportere : quamvis noti <lb/> omnia quc significantur possint
 						signis suis esse po. <lb/> tiora. <hi rend="italic">Ad.</hi> Ita videtur.
@@ -1205,8 +1206,8 @@
 						coguilis <lb/> habere periculosum. Metus est enim ne cum saepe <lb/>
 						subruuntur quae firnlissimc statura et mansura prae<lb/>sumimus, in tantum
 						odium vel timorem rationis inci<lb/>danaus, ut ne ipsi qaidem perspicuae
-						vcritati fides <lb/> habenda videatur.</p>
-					<p>32. Sed age, nunc expeditius retractemus utrum <lb/> recte ista dubitanda
+						vcritati fides <lb/> habenda videatur.</p></div>
+					<div type="textpart" subtype="paragraph" n="32"><p>32. Sed age, nunc expeditius retractemus utrum <lb/> recte ista dubitanda
 						putaveris. Nam qua;ro abs te, si <lb/> quisquam ignarus deceptionis avium,
 						quae calamis et <lb/> visco affectatur, obviam fieret aucupi, armis quidem
 						<lb/> suis instructo, non tamen aucupanti, sed iter agenti, <lb/> quo viso
@@ -1237,8 +1238,8 @@
 						exhibentium; solem certe istum tu<lb/>cemque haec omnia perfundentem atque
 						vestientem, <lb/> lunam et ca:tera sidera, terras et maria, quasqUe in <lb/>
 						his innumerabiliter gignuntur, nonne per seipsa exhi<lb/>bet atque ostendit
-						Deus et natura cernentibus'</p>
-					<p>35. Quod si diligentius consideremus, fortasse nihil <lb/> invenies, quod per
+						Deus et natura cernentibus'</p></div>
+					<div type="textpart" subtype="paragraph" n="33"><p>35. Quod si diligentius consideremus, fortasse nihil <lb/> invenies, quod per
 						sua signa discatur. Cum enim <lb/> mihi signum datur, si nescientem me
 						invenit cujus <lb/> rei signum sit docere me nihil potest: si vero scien.
 						<lb/> tem, quid disco pur signum? Non enim mihi reu: <lb/> quam significat
@@ -1255,8 +1256,8 @@
 						priusquam rcperissem, <lb/> tantum milii souus erat hoc verbum : signum vero
 						<lb/> esse didici, quando cujus rei signum esset iuveni; <lb/> qnam quidem,
 						ut dixi, non significatu, sed aspectu <lb/> didiceram. Itaque magis signum
-						re cognita, quam signo <lb/> dato ipsa res discilur.</p>
-					<p>34. Quod ut apertius intelligas, finge nos primum <lb/> nunc audirc quod
+						re cognita, quam signo <lb/> dato ipsa res discilur.</p></div>
+					<div type="textpart" subtype="paragraph" n="34"><p>34. Quod ut apertius intelligas, finge nos primum <lb/> nunc audirc quod
 						dicitur, caput; et nescientes utrum <lb/> vox ista sit tantummodo sonans, an
 						aliquid etiam <lb/> significans, quaerere quid sit caput (memento nos non
 						<lb/> rei quae significatur, sed ipsius signi velle habere no<lb/>titiam,
@@ -1305,8 +1306,8 @@
 						signa quae <lb/> verba appellantur, nos nihil discerc; potius enim, ut <lb/>
 						dixi, vim verbi, id est signilicationem quae latet in <lb/> sono, re ipsa
 						quae significatur cognita, discimus, quam <lb/> illam tali significatione
-						percipimus.</p>
-					<p>35. Et quod dixi de capite, hoc etiam de tegmini<lb/>bus, deque aliis rebus
+						percipimus.</p></div>
+					<div type="textpart" subtype="paragraph" n="35"><p>35. Et quod dixi de capite, hoc etiam de tegmini<lb/>bus, deque aliis rebus
 						innumerabilibus dixerim : quas <lb/> tamen-cum jam noverim, saraballas illas
 						adhuc usque <lb/> non novi ; quas mihi si gestu quispiam significarit aut
 						<lb/> pinxerit, aut aliquid cui similes sunt, ostenderit, non <lb/> dicam
@@ -1318,14 +1319,14 @@
 						etiam nomen illud quid valeret, <lb/> nossem ac tcnerem. Non enim cum rem
 						ipsam didici, <lb/> verbis alienis credidi, sed oculis meis : illis tamen
 						<lb/> fortasse ut attenderem credidi, id est ut aspectu quae<lb/>rerem quid
-						viderem.</p>
+						viderem.</p></div>
 				</div>
 				<div type="textpart" subtype="chapter" n="11"><ab>
 					<title type="sub"><hi rend="italic">Discimus non verbis foris
 							sonantibus, sed docente</hi> intus <hi rend="italic">veritate.</hi>
 					</title>
 				</ab>
-				<p>36. <unclear>Hactenus</unclear> verba valucrunt, quibus ut plurimum <lb/>
+				<div type="textpart" subtype="paragraph" n="36"><p>36. <unclear>Hactenus</unclear> verba valucrunt, quibus ut plurimum <lb/>
 					tribuam, admonent tantum ut quaeramus res, non <lb/> exhibent ut noverimus. Is
 					me autem aliquid docet, <lb/> qui vel oculis, veL ulli corporis sensui, vul ipsi
 					etiam <lb/> menti praebet ea quae cognoscere volo. Verbis igitur <lb/> nisi
@@ -1339,8 +1340,8 @@
 					cognitione con<lb/>tingit. Verissima quip;.e ratio est, et verissime
 					dici<lb/>tur, cum verba proferuntur, aut scire nos quid signi<lb/>ficent, aut
 					nescire : si scimus, commemorari potius <lb/> qnam discere; si autem nescimus,
-					ne commemorari <lb/> quidcm, sed fortasse ad quaerendum admoneri. '</p>
-				<p>37. Quod si dixeris, tegmina quidem illa capitum, <lb/> quorum nomen sono tantum
+					ne commemorari <lb/> quidcm, sed fortasse ad quaerendum admoneri. '</p></div>
+				<div type="textpart" subtype="paragraph" n="37"><p>37. Quod si dixeris, tegmina quidem illa capitum, <lb/> quorum nomen sono tantum
 					tenemus, non nos posse <lb/> nisi visa cognoscere, neque nomen ipsum plenius
 					nisi <lb/> ipsis cognitis nosse : quod tamen de ipsis pucris ac<lb/>&lt; epimus,
 					ut regem ac flammas fide ac religione supe<lb/>raverint, quas laudes Deo
@@ -1362,8 +1363,8 @@
 					credo, <lb/> scio. Nec idco nescio quam sit utile credere eliam <lb/> multa quae
 					nescio; cui utilitati hanc quoque adjungo <lb/> de tribus pueris historiam :
 					quare pteraque rerum <lb/> cum scire non possim, quaRta LameD utilitate credan­
-					<lb/> tur, scio.</p>
-				<p>38. De universis autem quae intelligimus non lo<lb/>qucntem qui personat foris,
+					<lb/> tur, scio.</p></div>
+				<div type="textpart" subtype="paragraph" n="38"><p>38. De universis autem quae intelligimus non lo<lb/>qucntem qui personat foris,
 					sed intus ipsi menti prae<lb/>sidentem consulimus veritatem, verbis fortasse ut
 					<lb/> consulamus admoniti. Ille autem qui consulitur, docet, <lb/> qui in
 					interiore homine habitare dictus est Christus <lb/>
@@ -1374,13 +1375,13 @@
 					tit vitio consultae veritatis, ut neque hujus, quae foris <lb/> est, lucis
 					vitium est, quod corporei oculi saepe falluo<lb/>tur: quam lucem de rebus
 					visibilibus consuli fate<lb/>mur, ut eas nobis quantum cernere valemus, <lb/>
-					ostendat.</p></div>
+					ostendat.</p></div></div>
 				<div type="textpart" subtype="chapter" n="12"><ab>
 					<title type="sub"><hi rend="italic">Christus veritas</hi> intus <hi
 							rend="italic">ducet.</hi>
 					</title>
 				</ab>
-				<p>39. Quod si et de coloribus luccm, et de caeteris <lb/> quae per corpus sentimus,
+				<div type="textpart" subtype="paragraph" n="39"><p>39. Quod si et de coloribus luccm, et de caeteris <lb/> quae per corpus sentimus,
 					elementa hujus muhdi ea<lb/>demque corpora quae sentimus, sensusque ipsos
 					qui<lb/>bus tanquam interpretibus ad talia noscenda mens <lb/> utitur; de his
 					autem quae intelliguntur, interiorem ve<lb/>ritatem ratione consulimus : quid
@@ -1405,8 +1406,8 @@
 					nobis sunt ista documenta; <lb/> is euim qui audit, si ea sensit atque adfuit,
 					non di<lb/>scit meis verbis, sed recognoscit ablatis secum et <lb/> ipse
 					imaginibus: si autem illa non sensit1, quis non <lb/> cum credere potius verbis
-					quam discere intelligat?</p>
-				<p>40. Cum vero de iis agitur quae mente conspicimus. <lb/> id est intellectu atque
+					quam discere intelligat?</p></div>
+				<div type="textpart" subtype="paragraph" n="40"><p>40. Cum vero de iis agitur quae mente conspicimus. <lb/> id est intellectu atque
 					ratione, ea quidem loquimur <lb/> quae praesculia contuemur in illa interiore
 					luce veri<lb/>tatis, qua ipsc qui dicitur homo interior, illustratur et <lb/>
 					fruitur : sed tunc quoque noster auditor, si et ipse <lb/> ilia secreto ac
@@ -1445,13 +1446,13 @@
 						si <hi rend="italic">autem ille xon sen:;il.</hi> M. </note>
 					<lb/> nescit, et qui se falsa novit audissc, et qui posset in­ <lb/> terrogatus
 					eadem respondere quae dicta sunt, nihil <lb/> verbis meis didicisse
-					convincitur.</p></div>
+					convincitur.</p></div></div>
 				<div type="textpart" subtype="chapter" n="13"><ab>
 					<title type="sub"><hi rend="italic">—Verborum vi ne quidem animus
 							loquentis aperitur.</hi>
 					</title>
 				</ab>
-				<p>41. Quamobrem in iis etiam quae mente cernuntur, <lb/> frustra cernentis loquelas
+				<div type="textpart" subtype="paragraph" n="41"><p>41. Quamobrem in iis etiam quae mente cernuntur, <lb/> frustra cernentis loquelas
 					audit quisquis ca cernere <lb/> non potest, nisi quia talia quamdiu ignorantur
 					utile <lb/> est credere : quisquis autem cernere potest, intus est ' <lb/>
 					discipulus veritatis, foris judex loquentis, vel potius <lb/> ipsius locutionis.
@@ -1462,8 +1463,8 @@
 					<lb/> contucri potest ; judicat iste cum vera dicere : at ille <lb/> qui dicit,
 					utrum vera dicat ignorat, imo etiam falsis<lb/>sima existimat : num igitur
 					putandus est ca docere <lb/> qn:c nescit? Atqui iisdem verbis utitur, quibus uti
-					<lb/> etiam sciens posset.</p>
-				<p>42. Quare jam ne hoc quidem relinquitur verbis, ut <lb/> his saltem loquentis
+					<lb/> etiam sciens posset.</p></div>
+				<div type="textpart" subtype="paragraph" n="42"><p>42. Quare jam ne hoc quidem relinquitur verbis, ut <lb/> his saltem loquentis
 					animus indicetur; si quidem in.­ <lb/> certum est utrum ca qurc loquitur, sciat.
 					Adde men<lb/>tientes atque fallentes, pcr quos facile intelligas nou <lb/> modo
 					non apcriri, verum etiam occultari anamum ver<lb/>bis. Nam nullo modo ambigo id
@@ -1480,8 +1481,8 @@
 					sciamus tamen eos in aniano <lb/> habere quod dicunt, si non cis aliquid duorum
 					quae <lb/> dixi accidat: quae si quis et interdum accidere conten<lb/>dit, et
 					cum accidit apparere, quanquam saepe occul<lb/>tum est, et saepe me fefellit
-					audientem, non resisto. ;</p>
-				<p>43. Sed his accidit aliud genus, sane lalc patens, <lb/> et semen innumerabilium
+					audientem, non resisto. ;</p></div>
+				<div type="textpart" subtype="paragraph" n="43"><p>43. Sed his accidit aliud genus, sane lalc patens, <lb/> et semen innumerabilium
 					dissensionum atque certa<lb/>minum : cum ille qui loquitur, cadem quidem signi­
 					<lb/> ficat quae cogitat, sed plerumque tantum sibi et aliis <lb/> quibusdam ;
 					ei vcro cui loquitur et itern aliis nou<lb/>nullis, non idem significat. Dixerit
@@ -1499,8 +1500,8 @@
 					rc, sed de verbo esse controver<lb/>siam : quod ut concedam ita esse,
 					quotusquisque <lb/> bonus definitor inveniri potest? et tamen adversus <lb/>
 					disciplinam definiendi multa disputata sunt; qum ne<lb/>que hoc loco tractare
-					opportunum est, nec usquequa<lb/>que a me probantur.</p>
-				<p>44. Omitto quod multa non bene audimus, et quasi <lb/> dc anditis diu multumque
+					opportunum est, nec usquequa<lb/>que a me probantur.</p></div>
+				<div type="textpart" subtype="paragraph" n="44"><p>44. Omitto quod multa non bene audimus, et quasi <lb/> dc anditis diu multumque
 					contendimus ; velut tu nu<lb/>por verbo quodam punico , cum ego misericordiam
 					<lb/> dixissem, pietatem significari te audisse dicebas ab <lb/> eis quibus haec
 					lingua magis nota esset : ego autcm <lb/> resistens, quid acceperis tibi omnino
@@ -1513,17 +1514,17 @@
 					ut <lb/> dixi, omittamus , no calumniam verbis de audieritis <lb/> negligentia,
 					vel etiam de surditate hominum videar <lb/> commovere : itta magis angunt quae
 					superius enume<lb/>ravi, ubi verbis liquidissime aure perceptis et la<lb/>tinis
-					non valens, cum ejusdem linguae simus, lo<lb/>quentium cogitata cognoscere.</p>
-				<p>45. Sed ecce jani remitto et concedo, com verba <lb/> ejus auditu cui nota sunt,
+					non valens, cum ejusdem linguae simus, lo<lb/>quentium cogitata cognoscere.</p></div>
+				<div type="textpart" subtype="paragraph" n="45"><p>45. Sed ecce jani remitto et concedo, com verba <lb/> ejus auditu cui nota sunt,
 					accepta fuerint, poste <lb/> illi esse nolum de iis rebus quas significant,
 					loqnen<lb/>tem cogilavissc : num ideo etiam quod nuuc quaeri<lb/>tur, utrum vera
-					dixerit, discit'</p></div>
+					dixerit, discit'</p></div></div>
 				<div type="textpart" subtype="chapter" n="14"><ab>
 					<title type="sub">Christus intus <hi rend="italic">docet,</hi> homo
 							<hi rend="italic">verbis foris admonet.</hi>
 					</title>
 				</ab>
-				<p>Num hoc magistri profitentur, ut cogitata eorum , <lb/> ac non ipsae disciplinae
+				<div type="textpart" subtype="paragraph" n="46"><p>Num hoc magistri profitentur, ut cogitata eorum , <lb/> ac non ipsae disciplinae
 					quas loquendo se tradere pu<lb/>tant, percipiantur atque teneantur? Nam quis tam
 					<lb/> stulte curiosus est, qai filium suum mittat in scho<lb/>latn, ut quid
 					magister cogitet discat? At istas omnes <lb/> disciplinas quas se docere
@@ -1536,8 +1537,8 @@
 					non sunt magistros vocent, <lb/> quia plerumque inter tempus locutionis et
 					tempus co<lb/>gnitionis, nulla mora interponitur; et quoniam post <lb/>
 					admonitionem sermocinantis cito intus discunt, foris <lb/> se ab eo qui
-					admonuit, didicisse arbitrantur.</p>
-				<p>46. Scd de tota utilitate verborum, quae si bene <lb/> consideretur non parva
+					admonuit, didicisse arbitrantur.</p></div>
+				<div type="textpart" subtype="paragraph" n="47"><p>46. Scd de tota utilitate verborum, quae si bene <lb/> consideretur non parva
 					est, alias , si Deus siverit, <lb/> requiremus. Nunc enim ne plus eis quam
 					oportet <lb/> tribueremus, admonui te; ut jam non crederemus <lb/> tantum, sed
 					etiam intelligere inciperemus qnam vere <lb/> scriptum sit auctoritate divina,
@@ -1561,7 +1562,7 @@
 					perpetua usus es, ob hoc habe <lb/> maxime gratiam, quod omnia quoe contradicere
 					para<lb/>tus eram, praeoccupavit atque dissolvit; nibilqu4 <lb/> omnino abs te
 					dcrelictom est, quod me dubium fa<lb/>ciebat, de quo non ita mihi responderet
-					secretum <lb/> illud oraculum, ut tuis verbis asserebatur.</p></div>
+					secretum <lb/> illud oraculum, ut tuis verbis asserebatur.</p></div></div>
 			</div>
 
 		</body>
