@@ -135,6 +135,10 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+  	
+  	<revisionDesc>
+  		<change who="Marine Frey" when="2019-02-20">Structuration du fichier selon les recommandations CapiTainS.</change>
+  	</revisionDesc>
 
 	</teiHeader>
   <text>
