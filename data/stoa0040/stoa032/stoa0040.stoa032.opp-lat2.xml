@@ -174,7 +174,8 @@
 			<change when="2019-02-21" who="#oj">Correction et ajout des balises hi
 				rend=italic.</change>
 			<change when="2019-02-21" who="#oj">Ajout des balises pb n.</change>
-			<change when="2019-02-21" who="#oj">Correction des notes de bas de page.</change>
+			<change when="2019-02-21" who="#oj">Correction et ajout des notes de bas de page.</change>
+			<change when="2019-02-21" who="#oj">Correction des appel de notes (non mis en exposant).</change>
 		</revisionDesc>
 
 	</teiHeader>
@@ -353,8 +354,8 @@
 							peccati crimine. Nunc vero infelices au<lb/>dent adhuc dicere nec totam
 							posse purgari; et <lb/>ipsam partem quae purgari non potuerit,
 							proficere<lb/> ad vinculum, ut inde involvatur et illigetur malitiae
-							<lb/>sepulcro ; et sic ibi semper sit pars ipsa Dei mi<lb/>sera, quae
-							nihil peccavit, et affligatur in aeternum <lb/>carcere tenebrarum. Hoc
+							<lb/>sepulcro 1 ; et sic ibi semper sit pars ipsa Dei mi<lb/>sera, quae
+							nihil peccavit, et affligatur in aeternum <lb/>carcere tenebrarum 2. Hoc
 							illi dicunt, ut simplices<lb/> animas fallant. Sed quis tam simplex est,
 							ut ista non <lb/>sentiat esse sacrilega, quibus affirmant
 							omnipoten<lb/>tem Deum necessitate oppressum esse, ut partem <lb/>suam
@@ -363,7 +364,7 @@
 							non potuerit,<lb/> aeternis vinculis colligaret? Quis ergo ista non
 							ex<lb/>secretur? quis non intelligat impia esse et nefanda? <lb/>Sed
 							illi quando capiunt homines, non ista prius di<lb/>cunt; quae si
-							dicerent, riderentur, aut fugerentur ab <lb/>omnibus : sed eligunt
+							dicerent, riderentur, aut fugerentur ab <lb/>omnibus 3 : sed eligunt
 							capitula de Scripturis, quae <lb/>simplices homines non intelligunt; et
 							per illa dec<lb/>ipiunt animas imperitas, quaerendo unde sit malum.
 							<lb/>Sicut in isto capitulo faciunt, quod ab Apostolo scri<lb/>ptum est,
@@ -377,7 +378,7 @@
 							nesciat, respondet illis tamen. Nec enim <lb/>decipi potest, qui jam
 							novit quid pertineat ad chri<lb/>stianam fidem, quae catholica dicitur,
 							per orbem ter<lb/>rarum sparsa, et contra omnes impios et
-							peccatores,<lb/> negligentes autem etiam suos, Domino gubernante<lb/>
+							peccatores,<lb/> negligentes autem etiam suos 4, Domino gubernante<lb/>
 							secura.</p>
 					</div>
 				</div>
@@ -439,7 +440,7 @@
 							perniciosam <lb/>curiositatem nobis dominari potest hic mundus, id
 							<lb/>est, ea quae in hoc mundo perniciosa delectatione<lb/> colligant
 							amatores rerum temporalium, et diabolo<lb/> atque angelis ejus servire
-							cogunt: quibus omnibus <lb/>si renuntiavimus, redigamus in servitutem
+							cogunt: quibus omnibus <lb/>si renuntiavimus, redigamus 1 in servitutem
 							corpus nostrum. </p>
 					</div>
 				</div>
@@ -486,7 +487,7 @@
 								sanctum qui datus est nobis</hi> (<hi rend="italic">Rom</hi>.
 							V,<lb/> 3-5). Si ergo in hac vita, ubi tanta tormenta sunt, <lb/>possunt
 							boni et justi viri, cum talia patiuntur, non <lb/>solum aequo animo
-							tolerare, sed etiam in Dei chari<lb/>tate gloriari ; quid cogitandum est
+							tolerare, sed etiam in Dei chari<lb/>tate gloriari 1 ; quid cogitandum est
 							de illa vita, quae<lb/> nobis promittitur, ubi nullam de corpore
 							molestiam<lb/> sentiemus? Quoniam non ad hoc resurget corpus
 							ju<lb/>storum, ad quod resurget corpus impiorum: sicut<lb/> scriptum
@@ -548,7 +549,7 @@
 							ratione naturali;<lb/> quae quidem omnia de magnis sui Creatoris opibus
 							<lb/>acceperunt. Qui ergo potest intelligere quomodo<lb/> universae
 							creaturae conditor Deus gubernet eam <lb/>per animas sanctas, quae
-							ministeria ejus sunt in coelis<lb/> et in terris; quia et ipsae sanctae
+							ministeria 1 ejus sunt in coelis<lb/> et in terris; quia et ipsae sanctae
 							animae ab ipso <lb/>factae sunt, et in ejus creatura primatum tenent:
 							<lb/>qui ergo potest intelligere, intelligat, et intret <lb/>in gaudium
 							Domini sui (<hi rend="italic">Matth</hi>. XXV, 21). </p>
@@ -561,7 +562,7 @@
 							autem hoc non possumus, quamdiu su<lb/>mus in corpore, et peregrinamur a
 							Domino (II <hi rend="italic">Cor</hi>.<lb/> V, 6), gustemus saltem quam
 							suavis est Dominus,<lb/> (<hi rend="italic">Psal</hi>. XXXIII, 9) quia
-							dedit nobis pignus Spiritum <lb/>(II <hi rend="italic">Cor</hi>. I, 22,
+							dedit nobis 2 pignus Spiritum <lb/>(II <hi rend="italic">Cor</hi>. I, 22,
 							et V, 5) , in quo sentiamus ejus dul<lb/>cedinem: et desideremus ipsum
 							vitae fontem, ubi<lb/> sobria ebrietate inundemur et irrigemur, sicut
 							lignum<lb/> quod plantatum est secundum decursus aquarum, et <lb/>dat
@@ -606,7 +607,7 @@
 							<lb/>naturam nostram non sanari nisi recte faciendo;<lb/> fateantur eam
 							non infirmari nisi peccando. Et ideo <lb/>non est credendum animam
 							nostram hoc esse quod<lb/> Deus est: quia si hoc esset, nec sua
-							voluntate, nec<lb/> aliqua necessitate in deterius mutaretur ; quoniam
+							voluntate, nec<lb/> aliqua necessitate in deterius mutaretur 1 ; quoniam
 							<lb/>omni modo incommutabilis intelligitur Deus, sed ab <lb/>eis qui non
 							in contentione et aemulatione et vanae<lb/> gloriae cupiditate amant
 							loqui quod nesciunt, sed humilitate christiana sentiunt de Domino in
@@ -651,7 +652,7 @@
 							Quae iracundia sanari potest, si patientia Filii<lb/> Dei non sanatur?
 							Quae impietas sanari potest, si cha<lb/>ritate Filii Dei non sanatur?
 							Postremo quae timiditas <lb/>sanari potest, si resurrectione corporis
-							Christi Do<lb/>mini non sanatur? Erigat spem suam genus huma<lb/>num, et
+							Christi Do<lb/>mini 2 non sanatur? Erigat spem suam genus huma<lb/>num, et
 							recognoscat naturam suam; videat quantum<note type="footnote">1 Omnes
 								fere Mss., <hi rend="italic">moveretur</hi>.</note><note
 								type="footnote">2 Editi Parv. Am. Er. et Mss., omittunt, <hi
@@ -682,9 +683,9 @@
 							desperet, pro<lb/> quo tam humilis esse voluit Filius Dei? Quis
 							bea<lb/>tam vitam esse arbitretur in iis quae contemnenda<lb/> esse
 							docuit Filius Dei? Quibus adversitatibus cedat,<lb/> qui naturam hominis
-							tantis persecutionibus custo<lb/>ditam credit in Filio Dei? Quis sibi
+							tantis 1 persecutionibus custo<lb/>ditam credit in Filio Dei? Quis sibi
 							esse clausum re<lb/>gnum coelorum putet, qui cognoscit publicanos
-							et<lb/> meretrices imitatos esse Filium Dei (<hi rend="italic"
+							et<lb/> meretrices imitatos esse Filium Dei 2 (<hi rend="italic"
 								>Matth</hi>. XXI,<lb/> 31) ? Qua perversitate non careat, qui facta
 							et dicta <lb/>intuetur et diligit et sectatur illius hominis, in<lb/>
 							quo se nobis ad exemplum vitae praebuit Filius <lb/>Dei?</p>
@@ -695,14 +696,14 @@
 					<div type="textpart" subtype="paragraph" n="13">
 						<p><hi rend="italic">Christiana fides ubique viget et<lb/> vincit</hi>.
 							Itaque jam et masculi et feminae, et omnis aetas, et omnis <lb/>hujus
-							saeculi dignitas ad spem vitae<lb/> aeternae commota est. Alii neglectis
+							saeculi dignitas ad spem vitae<lb/> aeternae commota est 3. Alii neglectis
 							temporalibus <lb/>bonis convolant ad divina. Alii cedunt eorum
 							virtu<lb/>tibus qui haec faciunt, et laudant quod imitari non
 							<lb/>audent. Pauci autem adhuc murmurant, et inani li<lb/>vore
 							torquentur; aut qui sua quaerunt in Ecclesia, <lb/>quamvis videantur
 							catholici, aut ex ipso Christi no<lb/>mine gloriam quaerentes haeretici,
 							aut peccatum imp<lb/>ietatis suae defendere cupientes Judaei, aut
-							curiosi<lb/>tatem vanae licentiae perdere timentes Pagani. Sed
+							curiosi<lb/>tatem vanae licentiae 4 perdere timentes Pagani. Sed
 							<lb/>Ecclesia catholica per totum orbem longe lateque<lb/> diffusa,
 							impetus eorum prioribus temporibus fran<lb/>gens, magis magisque
 							roborata est; non resistendo,<lb/> sed perferendo. Nunc vero insidiosas
@@ -732,16 +733,16 @@
 							est prima quae subjugat<lb/> animam Deo; deinde praecepta vivendi,
 							quibus cu<lb/>stoditis spes nostra firmatur, et nutritur charitas,
 							et<lb/> lucere incipit quod antea tantummodo credebatur. <lb/>Cum enim
-							cognitio et actio beatum hominem fa<lb/>ciant ; sicut in cognitione
+							cognitio et actio beatum hominem fa<lb/>ciant 1 ; sicut in cognitione
 							cavendus est error, sic in <lb/>actione cavenda est nequitia. Errat
 							autem quisquis<lb/> putat veritatem se posse cognoscere, cum adhuc
 							<lb/>nequiter vivat. Nequitia est autem mundum istum di<lb/>ligere, et
 							ea quae nascuntur et transeunt, pro magno<lb/> habere; et ea
 							concupiscere, et pro his laborare, ut <lb/>acquirantur; et laetari, cum
 							abundaverint; et time<lb/>re, ne pereant; et contristari, cum pereunt.
-							Talis<lb/> vita non potest puram illam et sinceram et
+							Talis<lb/> vita non potest puram illam et sinceram 2 et
 							incom<lb/>mutabilem videre veritatem, et inhaerere illi, et in
-							<lb/>aeternum jam non moveri . Itaque priusquam mens<lb/> nostra
+							<lb/>aeternum jam non moveri 3. Itaque priusquam mens<lb/> nostra
 							purgetur, debemus credere quod intelligere<lb/> nondum valemus; quoniam
 							verissime dictum est per <lb/>prophetam, <hi rend="italic">Nisi
 								credideritis, non intelligetis</hi> (<hi rend="italic"
@@ -810,8 +811,8 @@
 							<lb/>ergo fieri ut illi haec videant, qui terrenas genera<lb/>tiones
 							nimis intuentur, et ad istas tenebras addunt<lb/> adhuc fumum, quem sibi
 							contentionibus et certami<lb/>nibus quotidianis excitare non cessant;
-							habentes an<lb/>imas carnis affectibus diffluentes , tanquam ligna
-							<lb/>humore saginata, in quibus ignis fumum solum vo<lb/>mit et habere
+							habentes an<lb/>imas carnis affectibus diffluentes 1, tanquam ligna
+							<lb/>humore saginata, in quibus ignis fumum solum vo<lb/>mit 2 et habere
 							flammas lucidas non potest. Et hoc <lb/>quidem de omnibus haereticis
 							rectissime dici potest.</p>
 					</div>
@@ -822,7 +823,7 @@
 						<p><hi rend="italic">Fides incarnationis Christi. <lb/>Negantes Christum
 								esse Deum, non audiendi</hi>. Creden<lb/>tes ergo incommutabilem
 							Trinitatem, credamus etiam<lb/> dispensationem temporalem pro salute
-							generis hu<lb/>mani . Nec eos audiamus, qui Filium Dei Jesum
+							generis hu<lb/>mani 3. Nec eos audiamus, qui Filium Dei Jesum
 							<lb/>Christum nihil esse aliud quam hominem dicunt,<lb/> sed ita justum,
 							ut dignus sit appellari Filius Dei. Et <lb/>hos enim catholica
 							disciplina misit foras; quoniam <lb/>vanae gloriae cupiditate decepti,
@@ -861,7 +862,7 @@
 								<hi rend="italic">Non erat in illo Est et Non, sed <lb/>Est in illo
 								erat</hi> (II <hi rend="italic">Cor</hi>. I, 19) ; isti totum corpus
 							ejus <lb/>falsam carnem fuisse contendunt, ut non sibi videan<lb/>tur
-							imitari Christum, si non suis auditoribus men<lb/>tiantur.</p>
+							imitari Christum, si non suis auditoribus 1 men<lb/>tiantur.</p>
 					</div>
 				</div>
 
@@ -918,8 +919,8 @@
 								Auditores.</note><lb/><pb n="302"/>propterea Sapientia Dei, et
 							Verbum in principio per <lb/>quod facta sunt omnia, non sic assumpsit
 							illum ho<lb/>minem ut caeteros sanctos; sed multo excellentius,<lb/>
-							multoque sublimius: quomodo ipsum solum assumi<lb/> oportuit, in quo
-							Sapientia hominibus appareret,<lb/> sicut eam visibiliter decebat
+							multoque sublimius: quomodo ipsum 1 solum assumi<lb/> oportuit, in quo
+							Sapientia 2 hominibus appareret,<lb/> sicut eam visibiliter decebat
 							ostendi. Quapropter aliter <lb/>sunt sapientes caeteri homines quicumque
 							sunt, vel <lb/>esse potuerunt, vel poterunt; et aliter ille unus
 							Me<lb/>diator Dei et hominum homo Christus Jesus, qui Sa<lb/>pientiae
@@ -998,7 +999,7 @@
 							de nihilo fabricavit, non erat difficile verum corpus <lb/>columbae sine
 							aliorum columborum ministerio figu<lb/>rare, sicut ei non fuit difficile
 							verum corpus in utero <lb/>Mariae sine virili semine fabricare; cum
-							natura cor<lb/>porea et in visceribus feminae ad formandum hom<lb/>inem,
+							natura cor<lb/>porea 1 et in visceribus feminae ad formandum hom<lb/>inem,
 							et in ipso mundo ad formandam columbam <lb/>imperio Domini voluntatique
 							serviret. Sed stulti ho<lb/>mines, et miseri, quod aut ipsi facere non
 							possunt, <lb/>aut in vita sua nunquam viderunt, etiam ab
@@ -1044,7 +1045,7 @@
 							negant tale corpus Domini resur<lb/>rexisse, quale positum est in
 							monumento. Si enim<lb/> tale non fuisset, non ipse dixisset post
 							resurrectio<lb/>nem discipulis: <hi rend="italic">Palpate, et videte,
-								quoniam spiritus <lb/>ossa et carnem non habet, sicut me videtis
+								quoniam spiritus <lb/>ossa et carnem 1 non habet, sicut me videtis
 								habere</hi> (<hi rend="italic">Luc</hi>.<lb/> XXIV, 39). Sacrilegum
 							est enim credere Dominum<lb/> nostrum, cum ipse sit Veritas, in aliquo
 							fuisse men<lb/>titum. Nec nos moveat quod clausis ostiis subito eum
@@ -1090,8 +1091,8 @@
 							negant ad dexteram Patris sedere<lb/> Filium. Dicunt enim: Numquid Deus
 							Pater habet la<lb/>tus dextrum aut sinistrum, sicuti corpora? Nec nos
 							<lb/>hoc de Deo Patre sentimus: nulla enim forma cor<lb/>poris Deus
-							definitur atque concluditur. Sed dextera <lb/>Patris est beatitudo
-							perpetua, quae sanctis promitti<lb/>tur ; sicut sinistra ejus rectissime
+							definitur 2 atque concluditur. Sed dextera <lb/>Patris est beatitudo
+							perpetua, quae sanctis promitti<lb/>tur 3 ; sicut sinistra ejus rectissime
 							dicitur miseria <lb/>perpetua, quae impiis datur: ut non in ipso Deo,
 							sed <lb/>in creaturis hoc modo, quo diximus, intelligatur dex<lb/>tera
 							et sinistra. Quia et corpus Christi, quod est Ec<note type="footnote">1
@@ -1182,9 +1183,9 @@
 							ante<lb/> monuerat, implevisse illos, ita ut loquerentur linguis.<lb/>
 							Nam diversae nationes quae tunc aderant, unusquisque<lb/> audientium
 							suam linguam intelligebant (<hi rend="italic">Act</hi>. II, 1-11).<lb/>
-							Sed isti homines decipiunt eos qui negligentes catho<lb/>licam fidem, et
-							ipsam fidem suam quae in Scripturis<lb/> manifesta est, nolunt discere,
-							et quod est gravius <lb/>et multum dolendum, cum in Catholica
+							Sed isti homines decipiunt eos qui negligentes catho<lb/>licam fidem 1, et
+							ipsam fidem suam quae in Scripturis<lb/> manifesta est, nolunt discere 2,
+							et quod est gravius <lb/>et multum dolendum, cum in Catholica 3
 							negligen<lb/>ter versentur, haereticis aurem diligenter
 							accommo<lb/>dant.</p>
 					</div>
@@ -1256,7 +1257,7 @@
 							ceciderunt a fide, et <lb/>in sola parte Donati remansit Ecclesia, cum
 							manife<lb/>stum sit, ex quo ista pars ab unitate praecisa est,<lb/>
 							nonnullas gentes postea credidisse, et adhuc esse ali<lb/>quas quae
-							nondum crediderunt, quibus quotidie non<lb/> cessatur Evangelium
+							nondum crediderunt, quibus quotidie non<lb/> cessatur 1 Evangelium
 							praedicari? Quis non miretur<lb/> esse aliquem qui se christianum dici
 							velit, et adver<lb/>sus Christi gloriam tanta impietate rapiatur, ut
 							au<lb/>deat dicere omnes populos gentium, qui modo adhuc <lb/>accedunt
@@ -1340,7 +1341,7 @@
 							suum si vellent agno<lb/>scere, mundanos se potius, quam mundos
 							vocarent.<lb/> Nolentes enim, si peccaverint, corrigi, nihil aliud
 							<lb/>elegerunt, nisi cum hoc mundo damnari. Nam <lb/>quibus veniam
-							peccatorum negant, non eos aliqua<lb/> sanitate custodiunt, sed aegris
+							peccatorum negant, non eos aliqua<lb/> sanitate 2 custodiunt, sed aegris
 							subtrahunt medici<lb/>nam; et viduas suas uri cogunt, quas nubere non
 							<lb/>permittunt. Non enim prudentiores habendi sunt, <note type="footenote">1 Nonnulli codices, <hi rend="italic">perturbatione</hi>.</note><note type="footnote">2 Duo Mss., <hi rend="italic">sanctitate</hi>.</note><lb/><pb n="309"/>
 							quam Paulus apostolus, qui maluit eas nubere, quam <lb/>uri (I <hi
@@ -1389,7 +1390,7 @@
 							januas intrat et regnat <lb/> inimicus, qui primo Dei timore, deinde
 							charitate pel<lb/>lendus est. Debemus itaque tanto avidius appetere
 							<lb/> apertissimam et evidentissimam cognitionem verita<lb/>tis, quanto
-							nos videmus in charitate proficere, et ejus <lb/> simplicitate I cor
+							nos videmus in charitate proficere, et ejus <lb/> simplicitate 1 cor
 							habere mundatum, quia ipso inte<lb/>riore oculo videtur veritas : <hi
 								rend="italic">Beati</hi> enim <hi rend="italic">mundo corde</hi>,
 							<lb/> inquit, <hi rend="italic">quia, ipsi Deum videbunt</hi> (<hi
@@ -1402,7 +1403,7 @@
 							invisibili hoste certamina, quoniam yolentibus et <lb/> amantibus jugum
 							Christi lene est, et sarcina ejus le<lb/>vis (<hi rend="italic"
 								>Matth</hi>. XI, 30), coronam victoriae mereamur. <note
-								type="footnote">I Editi, in <hi rend="italic">ejus
+								type="footnote">1 Editi, in <hi rend="italic">ejus
 									simplicitate.</hi> Abest, <hi rend="italic">in,</hi> a Mss.
 							</note>
 						</p>
