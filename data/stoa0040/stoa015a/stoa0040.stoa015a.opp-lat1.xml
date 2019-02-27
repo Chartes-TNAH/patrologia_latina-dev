@@ -135,7 +135,11 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
-
+<revisionDesc>
+	<change n="1" when="2019-02-27" who="Céline Champcourt">
+		 Ajout du revisionDesc dans le TEI header		
+	</change>
+</revisionDesc>
 	</teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa015a.opp-lat1">
