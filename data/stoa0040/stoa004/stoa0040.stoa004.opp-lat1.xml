@@ -92,7 +92,13 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
-
+  	<revisionDesc>
+  		<listChange>
+  			<change who="Caroline Méot" when="2019-02-21">Correction des hyphénisations.</change>
+  			<change who="Caroline Méot" when="2019-02-21">Remplacement du graphème  a-e entrelacé par ae.</change>
+  			<change who="Caroline Méot" when="2019-02-21">Capitanisation du texte selon les guidelines CapiTAinS: structuration en chapitres.</change>
+  		</listChange>
+  	</revisionDesc>
 	</teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa004.opp-lat1">
