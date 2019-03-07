@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" lang="eng">
   <teiHeader>
     <fileDesc>
 			<titleStmt>
@@ -101,7 +101,7 @@
   	</revisionDesc>
 	</teiHeader>
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa004.opp-lat1">
+    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa004.opp-lat1" lang="la">
 					<head>
 						<title type="main">PRINCIPIA DIALECTICAE (a).</title>
 					</head>
