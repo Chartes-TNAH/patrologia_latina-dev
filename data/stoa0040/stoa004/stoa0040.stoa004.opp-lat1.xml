@@ -97,10 +97,10 @@
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa004.opp-lat1">
 					<head>
-						<title type="main">PRINCIPIA DIALECTICae (a).</title>
+						<title type="main">PRINCIPIA DIALECTICAE (a).</title>
 					</head>
-					<ab>
-						<title type="sub">CAPUT PRIMUM. — <hi rend="italic">De simplicibus verbis.</hi>
+					<div type="textpart" subtype="chapter" n="1"><ab>
+						<title type="sub"><hi rend="italic">De simplicibus verbis.</hi>
 						</title>
 					</ab>
 					<p>Dialectica est bene disputandi scientia. Disputamus <lb/> autem verbis. Verba igitur
@@ -121,9 +121,9 @@
 						simplicia numerabitur ; et nondum aut affirmari <lb/> aut negari potest, nisi talia
 						verba sint, quibus neces<lb/>sario cohaeret personae significatio consuetndinc lo­
 						<lb/> quendi, ut cum dicimus, pluit aut ningit, etiamsi non <lb/> addatur quis pluat aut
-						ningat, tamen quia intelligitur, <lb/> non potest inter simplicia numerari.</p>
-					<ab>
-						<title type="sub">CAPUT II. — <hi rend="italic">Verba conjuncta.</hi>
+						ningat, tamen quia intelligitur, <lb/> non potest inter simplicia numerari.</p></div>
+					<div type="textpart" subtype="chapter" n="2"><ab>
+						<title type="sub"><hi rend="italic">Verba conjuncta.</hi>
 						</title>
 					</ab>
 					<p>Conjuncta verba sunt, quae sibi connexa res plures <lb/> significant, ut cum dicimus,
@@ -141,9 +141,9 @@
 						<lb/> Nam si quis dieat, perge ad villam, vel utinam pergat <lb/> ad villain, aut, dii
 						illum perdant ;non potest argui <lb/> quod mentiatur, ant credi quod verum dicat. Nihil
 						<lb/> enim affirmavit vel negavit : ergo ner tales sententiae <lb/> in quaestionem
-						veniunt, aut disputatorem requirunt.</p>
-					<ab>
-						<title type="sub">CAPUT III.— Quae <hi rend="italic">simplices sententiae, quae
+						veniunt, aut disputatorem requirunt.</p></div>
+					<div type="textpart" subtype="chapter" n="3"><ab>
+						<title type="sub"> Quae <hi rend="italic">simplices sententiae, quae
 								conjunctae.</hi>
 						</title>
 					</ab>
@@ -164,9 +164,9 @@
 						<lb/> quisqnis autem ambulat, movetur. Et hanc etiam si <lb/> concessero, ex hac
 						junctione sententiarum quamvis <lb/> singillatim enuntiatarum et concessarum, illa summa
 						<lb/> sequitur, quae jam necessario concedatur, id esi, tgr<lb/>tur homo iste
-						movetur.</p>
-					<ab>
-						<title type="sub">CAPUT IV. — <hi rend="italic">Conjunctas sententias subdividit.</hi>
+						movetur.</p></div>
+					<div type="textpart" subtype="chapter" n="4"><ab>
+						<title type="sub"><hi rend="italic">Conjunctas sententias subdividit.</hi>
 						</title>
 					</ab>
 					<p>Ilis igitur breviter constitutis, singulas partes con<lb/>sideremus. Nam sunt primae
@@ -179,9 +179,9 @@
 						sensum , ut de sententiis simplicibus judicetur, voca<lb/>tur de proloquendo. Illa
 						quae sic comprehendit sen<lb/>tentiam, ut de ipsa etiam copulatione judicetur, donec
 						<lb/> perveniatur ad summam, vocatur de proloquiorum <lb/> summa. Has ergo singulas
-						partes diligentius expli<lb/>cemus.</p>
-					<ab>
-						<title type="sub">CAPUT V. — <hi rend="italic">Quomodo de rcbus, verbis, dicibilibus,
+						partes diligentius expli<lb/>cemus.</p></div>
+					<div type="textpart" subtype="chapter" n="5"><ab>
+						<title type="sub"><hi rend="italic">Quomodo de rcbus, verbis, dicibilibus,
 								dictionibus,</hi> tractetur <hi rend="italic">in logica. Differunt dicibile, et</hi>
 							dictio.</title>
 					</ab>
@@ -253,9 +253,9 @@
 						disputare conceditur. <lb/> Igitur verbum quodlibet, excepto suno, de quo bene <lb/>
 						disputatur, ad facultatem dialectiae pertinet, non ad <lb/> dialecticam disciplinam. Ut
 						defensiones Ciceronis suni <lb/> x quidem i rhetoricae facultatis, sed non bis docetur
-						ipsa <lb/> rhetorica.</p>
-					<ab>
-						<title type="sub">CAIUT VI. — <hi rend="italic">De origine</hi> terat. <hi rend="italic">Verbum unde dicium. Stoicorum de origine</hi> rerbi <hi rend="italic">opinio.</hi>
+						ipsa <lb/> rhetorica.</p></div>
+				<div type="textpart" subtype="chapter" n="6">	<ab>
+						<title type="sub"><hi rend="italic">De origine</hi> terat. <hi rend="italic">Verbum unde dicium. Stoicorum de origine</hi> rerbi <hi rend="italic">opinio.</hi>
 						</title>
 					</ab>
 					<p>Ergo omne verbum propter id quod sonat, quatuor <lb/> quaedam necessaria vocat in
@@ -361,9 +361,9 @@
 						Vis quare sic appellatur, requiret : redditur ratio, <lb/> quia robusto et valido sono
 						verbum rei, quae significa<lb/>tur, congruit. Ultra quod requirat non hab( t. Quot
 						<lb/> modis autem origo verborum corruptione vocum va<lb/>rietur, ineptum cst
-						prosequi: nam et longum, et mi<lb/>nus quam illa quae dicta suut, necessarium est.</p>
-					<ab>
-						<title type="sub">CAPUt VII.— <hi rend="italic">De vi verbi.</hi>
+						prosequi: nam et longum, et mi<lb/>nus quam illa quae dicta suut, necessarium est.</p></div>
+					<div type="textpart" subtype="chapter" n="7"><ab>
+						<title type="sub"><hi rend="italic">De vi verbi.</hi>
 						</title>
 					</ab>
 					<p>Nunc vim verborum, quantum ros palilur, breviter <lb/> consideremus. Vis verbi est, qua
@@ -412,8 +412,8 @@
 						corporibus nostris, nee lir<lb/>mitati virium subtrahere potuit, nec oculorum offen­
 						<lb/> sioni patere permisil. Itaque nunc propter veritatem <lb/> dijudicandam,quod
 						dialectica profitetur, ex hac ver<lb/>borum vi, cujus quaedam sentina sparsimus, quae
-						im<lb/>pedimenta nascantur videamus.</p>
-					<ab>
+						im<lb/>pedimenta nascantur videamus.</p></div>
+					<div type="textpart" subtype="chapter" n="8"><ab>
 						<title type="sub">CAPUT VIII. — <hi rend="italic">Obscurum et ambiguum. Differentiae
 								obscuri et ambigui. Tria genera obscurorum.</hi>
 						</title>
@@ -472,8 +472,8 @@
 						supra dictum est quasi eminuisse <lb/> multivium? Nam boc unum quod dictum est, magmis,
 						<lb/> et nomen est, et pes chorius est, et Pompeius est. ct <lb/> Virgilius est, et
 						negligentiae torpor. Et si qua alia vel <lb/> innumerabilia non commemorata suut, quae
-						tamen <lb/> per hanc enuntiationem verbi possunt intelligi.</p>
-					<ab>
+						tamen <lb/> per hanc enuntiationem verbi possunt intelligi.</p></div>
+					<div type="textpart" subtype="chapter" n="9"><ab>
 						<title type="sub">CAPUT IX. — <hi rend="italic">Ambignitatum genera duo.</hi>
 						</title>
 					</ab>
@@ -537,9 +537,9 @@
 						distingui possunt. Diversa <lb/> f'nim nomina, puer, adolescens. divcs et pauper, li­
 						<lb/> her et servus, et si quod aliud differentiarum est, et <lb/> inter se idco
 						proprias definitioncs habebunt: sed ut <lb/> illis unum commune nomen est homo, sic
-						animal ra<lb/>tionale mortale definitio una communis est.</p>
-					<ab>
-						<title type="sub">CAPUT X. — Ambiguitas <hi rend="italic">ex aequivocis varia.</hi>
+						animal ra<lb/>tionale mortale definitio una communis est.</p></div>
+					<div type="textpart" subtype="chapter" n="10"><ab>
+						<title type="sub">Ambiguitas <hi rend="italic">ex aequivocis varia.</hi>
 						</title>
 					</ab>
 					<p>Nunc requivoca videamus, in quibus <unclear>ambiguitature</unclear>
@@ -669,7 +669,7 @@
 						<lb/> incertum est propter latentem acuminis locnm. Al <lb/> vero ex utroquc fit, ut in
 						superioribus de lepore dixi<lb/>mus; nam non solum producenda, sed acuenda est <lb/>
 						etiam penultima syllaba hujus verbi, si ab eo quod est <lb/> lepos, non ab eo quod est
-						lepus, deflexum est.</p>
+						lepus, deflexum est.</p></div>
 				</div>
 
 				</body>
