@@ -25,7 +25,6 @@
 					<resp>Technical Advisor (Mount Allison University)</resp>
 				</respStmt>
 			</titleStmt>
-
 			<publicationStmt>
 				<authority>University of Leipzig</authority>
 				<idno type="filename">PL42.xml</idno>
@@ -38,7 +37,6 @@
 				<publisher>University of Leipzig</publisher>
 				<pubPlace>Germany</pubPlace>
 			</publicationStmt>
-
 			<sourceDesc>
 				<listBibl xml:lang="la">
 					<biblStruct>
@@ -125,7 +123,6 @@
 					</biblStruct>
 				</listBibl>
 			</sourceDesc>
-
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
@@ -154,7 +151,6 @@
 				<refState unit="paragraph"/>
 			</refsDecl>
 		</encodingDesc>
-
 		<profileDesc>
 			<langUsage>
 				<language ident="la">Latin</language>
@@ -649,13 +645,12 @@
 								ejus incarnationem <lb/> accedere , et Manichaeus obsistit impurus.
 								Quare <lb/> Quia Dei Filium uon vult dici eliam hominis filium <lb/>
 								Et ubi est quod scriptum est, <hi rend="italic">Rorate, caeli ,
-									de</hi>
-								<lb/>super, <hi rend="italic">et</hi> nubes <hi rend="italic">pluant
-									justum ; aperiatur</hi> terT, eI <hi rend="italic">ger­ <lb/>
-									minet</hi> Salvatorem ; <hi rend="italic">et justitia oriatur
-									simul, ego</hi> .bominuM <lb/> creavi <hi rend="italic">eum
-									(Ibid.,</hi> 8) ? item, <hi rend="italic">Ecce parvulus natus
-									est</hi>
+									de</hi><lb/>super, <hi rend="italic">et</hi> nubes <hi
+									rend="italic">pluant justum ; aperiatur</hi> terT, eI <hi
+									rend="italic">ger­ <lb/> minet</hi> Salvatorem ; <hi
+									rend="italic">et justitia oriatur simul, ego</hi> .bominuM <lb/>
+								creavi <hi rend="italic">eum (Ibid.,</hi> 8) ? item, <hi
+									rend="italic">Ecce parvulus natus est</hi>
 								<lb/> nobis, <hi rend="italic">et</hi> filius datus <hi
 									rend="italic">est nobis : et factus est principatus <lb/> super
 									humerum ejus et vocabitur nomen ejus, Admira<lb/>bilis,
@@ -1453,9 +1448,9 @@
 					</div>
 				</div>
 				<div type="textpart" subtype="appendix">
-					<ab>
+					<head>
 						<title type="sub">ADMONITIO IN SUBSEQUENTEM SERMONEM.</title>
-					</ab>
+					</head>
 					<p>Iste quoque sermo sub Arianorum dominatu habitus est, eo tempore quo
 						haereticis illis disputantibus, etCatho<lb/>licos, alios pollicitatione ac
 						praemio, alios vi potentiaque deducere a fide nitentibus obsistere nullus
@@ -1492,7 +1487,7 @@
 						<title type="sub">jam nova progenies coelo demittitur alto,</title>
 					</ab>
 					<p>testimonium Christo perhibuisse: quod Augustinus in epistola 104 ad
-						Nectarium, n. ! i, longe verius appellat <lb/>
+						Nectarium, n. 11, longe verius appellat <lb/>
 						<hi rend="italic">carmen adulatorium,</hi> dictum <hi rend="italic">viro
 							nobili,</hi> scilicet Pollioni. Dictionis barbariem monstrat Bernardus
 						Vindingusin <lb/> Crilico Augustiniano , et nounulla velut inepta
@@ -1501,7 +1496,6 @@
 							rend="italic">Augustini de</hi> Symbolo; ex Vatica<lb/>nis tribus, ex
 						uno Bellovacensi abbatiae S. Quintini, ex Corbe<unclear>iensi</unclear>,
 						etc.</p>
-					<pb n="-"/>
 				</div>
 			</div>
 		</body>
