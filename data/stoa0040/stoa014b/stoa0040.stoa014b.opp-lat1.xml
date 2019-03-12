@@ -128,6 +128,10 @@
 
 		</fileDesc>
 		<encodingDesc>
+			<projectDesc>
+				<p>This document is compatible with<ref target="http://capitains.github.io"
+						>CapiTainS Guidelines</ref></p>
+			</projectDesc>
 			<p>The following text is encoded in accordance with EpiDoc standards and with the
 				CTS/CITE Architecture.</p>
 			<refsDecl n="CTS">
@@ -144,6 +148,11 @@
 					<p>This pointer pattern extracts appendix</p>
 				</cRefPattern>
 			</refsDecl>
+			<refsDecl>
+				<refState unit="appendix"/>
+				<refState unit="chapter"/>
+				<refState unit="paragraph"/>
+			</refsDecl>
 		</encodingDesc>
 
 		<profileDesc>
@@ -152,7 +161,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
-			<change who="Floriane Chiffoleau" when="2019-02-23">Changement dans le document pour
+			<change who="Floriane Chiffoleau" when="2019-03-12">Changement dans le document pour
 				qu'il réponde aux normes de CapiTainS</change>
 			<change who="Floriane Chiffoleau" when="2019-02-24">Correction des hyphénisations et des
 				ae du texte</change>
@@ -162,7 +171,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa014b.opp-lat1">
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa014b.opp-lat1" xml:lang="la">
 				<div type="textpart" subtype="appendix">
 					<head>
 						<title type="main">ADVERSUS QUINQUE HÆRESES, SEU CONTRA QUINQUE HOSTIUM
