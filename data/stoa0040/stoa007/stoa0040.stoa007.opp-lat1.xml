@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:space="preserve" xml:lang="fr">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -13,15 +13,15 @@
 					<resp>OCR-ed, corrected and encoded the text</resp>
 				</respStmt>
 				<respStmt>
-					<persName>Greta Franzini</persName>
+					<persName xml:id="Franzini">Greta Franzini</persName>
 					<resp>Project Manager (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
-					<persName>Simona Stoyanova</persName>
+					<persName xml:id="Stoyanova">Simona Stoyanova</persName>
 					<resp>Project Assistant (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
-					<persName>Bruce Robertson</persName>
+					<persName xml:id="Robertson">Bruce Robertson</persName>
 					<resp>Technical Advisor (Mount Allison University)</resp>
 				</respStmt>
 			</titleStmt>
