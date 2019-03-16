@@ -146,6 +146,7 @@
 		<revisionDesc>
 			<change who="Marine Frey" when="2019-02-20">Structuration du fichier selon les
 				recommandations CapiTainS.</change>
+			<change who="Marine Frey" when="2019-03-12">Correction des æ en ae.</change>
 		</revisionDesc>
 
 	</teiHeader>
@@ -157,7 +158,7 @@
 						quindecim (a).</title>
 				</head>
 
-				<div type="textpart" subtype="book" n="1">
+				<div type="textpart" subtype="book" n="a.1">
 					<ab>
 						<title type="sub">
 							<hi rend="italic">LIBER PRIMUS.</hi>
@@ -166,7 +167,7 @@
 					<p>la qua srcu ndum Scripturas sacras ostenditur unitas et aequalitas summae
 						Trinitatis, ct quaedam loca contra Filii aequalita<lb/>tem allata
 						diluuntur.</p>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="1">
 							<p>1. <hi rend="italic">Scribit contra eos qui ratione <lb/> abutentes
 									calumniantur fidem Trinitatis. Error dispu</hi>
@@ -324,7 +325,7 @@
 								turbatique discedunt.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">De Trinitate quomodo hoc</hi> in <hi
 									rend="italic">opere<lb/> disserendum.</hi> Quapropter adjuvante
@@ -355,7 +356,7 @@
 								sicubi <lb/> haesito, quaerere; nec pudebit, sicubi erro, discere.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="5">
 							<p>5. <hi rend="italic">Quid a suis lectoribus exposcat<lb/> Augustinus.
 									Lectorum tardiorum errores auctori</hi> non <lb/>
@@ -449,7 +450,7 @@
 							</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. Quas <hi rend="italic">sit doctrina fidei catholicœ <lb/> de
 									Trinitate.</hi> Omnes quos legere potui, qui ante me <lb/>
@@ -485,7 +486,7 @@
 								est catholica fides.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="8">
 							<p>8, <hi rend="italic">Difficultates de</hi> Trinitale : qUo­ <lb/>
 								<hi rend="italic">modo tres</hi> unus <hi rend="italic">Deus, et
@@ -535,7 +536,7 @@
 								cognoscere.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="9">
 							<p>9. <hi rend="italic">Filium esse verum</hi> Deum <hi rend="italic"
 									>ejus­ <lb/> dem cnm Patre subtantiœ. Non solus Puter, sed
@@ -764,7 +765,7 @@
 								<lb/> VI. 19. 15, 20).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="14">
 							<p>14 <hi rend="italic">Filius quomodo minor Patre ac<lb/> se</hi> ipso.
 								His et talibus divinarum Scripturarum testi­ <lb/> moniis, quibus,
@@ -841,7 +842,7 @@
 								creatura.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<div type="textpart" subtype="section" n="15">
 							<p>15. <hi rend="italic">Scripturas de subjectione Filii <lb/> sub Patre
 									perperam intellectas explicat. Regnum Patri <lb/> non sic tradet
@@ -1100,7 +1101,7 @@
 						<pb n="833"/>
 					</div>
 
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<p>In una persona <hi rend="italic">interdum intelli­<lb/> guntur
 								omnes.</hi> Hoc autem dixit, non propter in­ <lb/> aequalitatem Verbi
 							Dei et Spiritus sancti, sed tanquam <lb/> impedimento esset praesentia
@@ -1180,7 +1181,7 @@
 								Spiritus sancti.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="20">
 							<p>20. <hi rend="italic">Quomodo Christus tradet regnum<lb/> Deo et
 									Patri. Tradito regno Deo et Patri, Christus jam <lb/> non
@@ -1303,7 +1304,7 @@
 								velimus.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="11">
+					<div type="textpart" subtype="chapter" n="b.11">
 						<div type="textpart" subtype="section" n="22">
 							<p>22. <hi rend="italic">Regula qua intelligitur Filius in<lb/>
 									Scripturis nunc aequalis, nunc minor.</hi> Quapropter, co­ <lb/>
@@ -1365,7 +1366,7 @@
 								illius qui <lb/> cum misit <hi rend="italic">(Id.</hi> VII, 16).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="12">
+					<div type="textpart" subtype="chapter" n="b.12">
 						<p><hi rend="italic">Qua ratione</hi> Filius <hi rend="italic">dicatur
 								nescire <lb/> diem et horam</hi> quam <hi rend="italic">scit Pater.
 								Dicta de Christo alia<lb/> secundum</hi> formam <hi rend="italic"
@@ -1634,7 +1635,7 @@
 								corda hominum, <lb/> propter quae sublevanda descendit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="13">
+					<div type="textpart" subtype="chapter" n="b.13">
 						<div type="textpart" subtype="section" n="28">
 							<p>28. <hi rend="italic">De eodem Christo diversa prae­ <lb/> dicantur,
 									ob diversas naturas</hi> hypostaseos. <hi rend="italic">Cur
@@ -1960,7 +1961,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="2">
+				<div type="textpart" subtype="book" n="a.2">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER SECUNDUS.</hi>
@@ -2007,7 +2008,7 @@
 								impinguabit caput</hi> meum <hi rend="italic">(Psal.</hi> CIL, 5
 							).</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="2">
 							<p>2. <hi rend="italic">Regula duplex ad</hi> intelli­ <lb/> gendas <hi
 									rend="italic">Scripturarum locutiones de Filio Dei. Locutiones
@@ -2107,7 +2108,7 @@
 								<lb/> sed nativitas ejus ostenditur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">Ex utralibet regula intelligi quas­</hi>
 								<lb/> dam locutiones de <hi rend="italic">Filio.</hi> Sunt ergo
@@ -2137,7 +2138,7 @@
 								ab illo qui me misit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="5">
 							<p>5. <hi rend="italic">De</hi> Spiritu sancto <hi rend="italic"
 									>quaedam</hi> ex <hi rend="italic">al­ <lb/> tera tantum regula
@@ -2195,7 +2196,7 @@
 								25).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="6">
 							<p>6. <hi rend="italic">Glorificatio Filii a Patre,</hi> non ar­ <lb/>
 								<hi rend="italic">guit inaequalitatem.</hi> Verumtamen hic evigilent,
@@ -2220,7 +2221,7 @@
 								glorificari.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. Filius et <hi rend="italic">Spiritus sanctus</hi> non <lb/>
 								<hi rend="italic">ideo minor quia missus.</hi> Filius <hi
@@ -2413,7 +2414,7 @@
 								praesentis <lb/> converterentur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="11">
 							<p>11. <hi rend="italic">Non ac assumpta creatura a</hi>
 								<lb/> Spiritu <hi rend="italic">sancto, ut caro</hi> a <hi
@@ -2508,7 +2509,7 @@
 								atque praeteriret.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="12">
 							<p>12. <hi rend="italic">Dubitalio de</hi> apparitionibus di­ <lb/>
 								vinis. Propter has ergo corporales formas, quae ad <lb/> eum
@@ -2567,7 +2568,7 @@
 							</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<div type="textpart" subtype="section" n="14">
 							<p>14. <hi rend="italic">Tota</hi> Trinitas <hi rend="italic"
 									>invisibilis.</hi> Omit­ <lb/> tamus igitur eos qui nimis
@@ -2603,7 +2604,7 @@
 								disseruist <lb/> arbitror.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<div type="textpart" subtype="section" n="15">
 							<p>15. <hi rend="italic">Contra eoa qui credebant solum <lb/>
 									Patrem</hi> immortalem et <hi rend="italic">invisibilem.
@@ -2675,7 +2676,7 @@
 								singillatim quasi per <lb/> vices.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="17">
 							<p>17. <hi rend="italic">An indiscrete Deus Trinitas</hi> Pa­ <lb/>
 								<hi rend="italic">tribus apparuerit, an aliqua ex Trinitate
@@ -2856,7 +2857,7 @@
 									rend="italic">Gen.</hi> XVIII).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="11">
+					<div type="textpart" subtype="chapter" n="b.11">
 						<div type="textpart" subtype="section" n="20">
 							<p>20. <hi rend="italic">De eadem visione.</hi> Non parvam <lb/> neque
 								transitoriam considerationem postulat isto <lb/> Scripturae locus.
@@ -2906,7 +2907,7 @@
 									rend="italic">ad locum</hi> suum.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="12">
+					<div type="textpart" subtype="chapter" n="b.12">
 						<p><hi rend="italic">Visio Loth excutitur.- Venerunt autem <lb/> duo angeli
 								in Sodomis vespere.</hi> Hic attentius conside­ <lb/> tandum est,
 							quod ostendere institui. Cum tribus certe <lb/> loquebatur Abraham, et
@@ -2963,7 +2964,7 @@
 								Scripturarum nobis occurrit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="13">
+					<div type="textpart" subtype="chapter" n="b.13">
 						<div type="textpart" subtype="section" n="23">
 							<p>23. <hi rend="italic">Visio in rubo.</hi> Moyses autem <lb/> quando
 								ad populum Israel ex Ægypto educendum <unclear/>
@@ -3054,7 +3055,7 @@
 								<lb/> lorum.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="14">
+					<div type="textpart" subtype="chapter" n="b.14">
 						<div type="textpart" subtype="section" n="24">
 							<p>24. <hi rend="italic">De</hi> visionein <hi rend="italic">columna
 									nubis et</hi>
@@ -3076,7 +3077,7 @@
 								<lb/> xvi, 10-12) , etc.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="15">
+					<div type="textpart" subtype="chapter" n="b.15">
 						<div type="textpart" subtype="section" n="25">
 							<p>25. <hi rend="italic">De</hi> visione <hi rend="italic">in Sina. An
 									Trinitas,</hi>
@@ -3176,7 +3177,7 @@
 								sensus capacitatem perti­ <lb/> net, non videmus.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="16">
+					<div type="textpart" subtype="chapter" n="b.16">
 						<div type="textpart" subtype="section" n="27">
 							<p>27. <hi rend="italic">Moyses</hi> quomodo <hi rend="italic">viderit
 									Deum.</hi>
@@ -3236,7 +3237,7 @@
 									apparebit tibi <lb/> (Exod.</hi> XXXIII, 11-23).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="17">
+					<div type="textpart" subtype="chapter" n="b.17">
 						<p><hi rend="italic">Posteriora Dei quomodo visa. Re­</hi>
 							<lb/> surrectionis <hi rend="italic">Christi fides. Catholica Ecclesia
 								sola eat</hi> io­ <lb/> cus <hi rend="italic">unde videntur
@@ -3450,7 +3451,7 @@
 								temporibus oportuit, ostendentes Deum.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="18">
+					<div type="textpart" subtype="chapter" n="b.18">
 						<div type="textpart" subtype="section" n="33">
 							<p>33. <hi rend="italic">Visio Danielis.</hi> Quanquam <lb/> nescio
 								quemadmodum isti inlelligant quod Qanieli <lb/> apparuerit Antiquus
@@ -3573,7 +3574,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="3">
+				<div type="textpart" subtype="book" n="a.3">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER TERTIUS.</hi>
@@ -3689,7 +3690,7 @@
 							Trinitate <lb/> personam , quam lectionis textus iudiciis circumstan­
 							<lb/> tibus significaret.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">Quid deinceps dicendum.</hi>
 								<lb/> Nunc ergo primum quaeramus quod sequitur. Nam se­ <lb/> cundo
@@ -3757,7 +3758,7 @@
 								suavitcr <hi rend="italic">(Id.</hi> VIII, 1)?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. <hi rend="italic">Voluntas Dei causa superior<lb/> omnia corporeae
 									mutationis. Exemplo id demonstra­ <lb/> tur.</hi> Sed alius est
@@ -3813,7 +3814,7 @@
 								<lb/> CI, 27, 28).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<p><hi rend="italic">De eodem argumento.</hi> Constitua­ <lb/> mus ergo
 							animo talcm sapicntein, cujus anima ratio­ <lb/> nalis jam sit particeps
 							incommutabilis aeternaeque ve­ <lb/> ritatis, quam de omnibus suis
@@ -3867,7 +3868,7 @@
 							ipsa bona anima ct sancta, quam <lb/> sibi ad pium et religiosnm
 							obsequium subdidisset?</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="9">
 							<p>9. <hi rend="italic">Deus omnibus creatnris utitur</hi> ut <lb/>
 								uult, <hi rend="italic">el visibilia facit ad se</hi> ipsum <hi
@@ -3982,7 +3983,7 @@
 							scentia, nisi qui et illum serpentem ad horam, sicut <lb/> opus fuerat,
 							animavit?</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<p><hi rend="italic">Sola varietas facil miraculum.</hi> Ei <lb/> quis
 							reddidit cadaveribus animas suas, cum resurge­ <lb/> ret mortui <hi
 								rend="italic">(Ezech.</hi> XXXVII, 1-10). nisi qui animat <note
@@ -3998,7 +3999,7 @@
 							,cro admo­ <lb/> nendis hominibus inusitata mutabilitate ingeruntur,
 							<lb/> magnalia nominantur.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="12">
 							<p>12. <hi rend="italic">Miracula magna per magicas</hi>
 								<lb/> artes. Hie videoquid infirma: cogitationi possit occur­ <lb/>
@@ -4029,7 +4030,7 @@
 							</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<div type="textpart" subtype="section" n="13">
 							<p>13. <hi rend="italic">Solus Deus creat etiam illa quae <lb/> magicis
 									artibus transformantur.</hi> Nec idco putandum est <lb/> istis
@@ -4172,7 +4173,7 @@
 								Pharaonis tunc illa fece­ <lb/> runt.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<div type="textpart" subtype="section" n="16">
 							<p>16. <hi rend="italic">Causa origimlis omnium a Deo.</hi>
 								<lb/> Aliud est enim ex intimo ac summo causnrum cardine <lb/>
@@ -4284,7 +4285,7 @@
 								<lb/> CXLVIII , 8) :</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<p><hi rend="italic">Quot modis creatura assumitur ad si­<lb/> gnificandum.
 								Eucharistia.</hi> Sed his, ut dicere coepcram, <lb/> exceptis, alia
 							sunt ilia quoe quamvis ex eadem materia <lb/> corporali, ad aHquid tamen
@@ -4428,7 +4429,7 @@
 								non sit mutabile.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="11">
+					<div type="textpart" subtype="chapter" n="b.11">
 						<p><hi rend="italic">Essentia Dei nunquam per se appa­ <lb/> ruit. Angelorum
 								ministerio factae divinae Patribus appa­ <lb/> ritiones. Objectio ex
 								loquendi modo ducta diluitur. <lb/> Apparitionem Dei ipsi Abrahce
@@ -4757,7 +4758,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="4">
+				<div type="textpart" subtype="book" n="a.4">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER QUARTUS.</hi>
@@ -4823,7 +4824,7 @@
 							vera ibi est charitas, vera <lb/> aeternitas; et chara ibi est
 							aeternitas, chara ve­ <lb/> ritas.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="2">
 							<p>2. <hi rend="italic">Per agnitionem infirmi­ <lb/> tatis nostrae</hi>
 								perficimur. <hi rend="italic">Verbum incarnatum tenebras</hi>
@@ -4932,7 +4933,7 @@
 									<hi rend="italic">( Act.</hi> XiII, 27. 28).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">Quomodo per Verbum</hi> incarnatum <lb/>
 								<hi rend="italic">reddimur habiles percipiendos veritati. — Sed
@@ -4979,7 +4980,7 @@
 								potest ab eo qui novit in regulari mono­ <lb/> chordo.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="5">
 							<p>5. <hi rend="italic">Una</hi> mora <hi rend="italic">et resurrectio
 									corporis<lb/> Christi, duplici nostrae morti ac resurrectioni
@@ -5168,7 +5169,7 @@
 								quadam convenientia ministra­ <lb/> tum est.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. <hi rend="italic">Ratio simpli ad duplum ex per­</hi>
 								<lb/> fectione <hi rend="italic">senarii</hi> numeri. <hi
@@ -5252,7 +5253,7 @@
 								valet.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="9">
 							<p>9. <hi rend="italic">Senarius item</hi> in <hi rend="italic"
 									>aedificatione<lb/> corporis</hi> Christi <hi rend="italic">ac
@@ -5295,7 +5296,7 @@
 									noctibus (Matth.</hi> XII, 40).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="10">
 							<p>10. <hi rend="italic">Triduum resurrectionis, in quo <lb/> etiam
 									apparet ratio simpli ad duplum.</hi> Ipsum autem <lb/> triduum
@@ -5363,7 +5364,7 @@
 								contra Ecclesiam nemo pacificus senserit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="11">
 							<p>11. <hi rend="italic">Quomodo</hi> per unum <hi rend="italic"
 									>Mediatorem<lb/> ex multis colligamur in</hi> unum. Hoc
@@ -5397,7 +5398,7 @@
 								reamus uni, fruamur uno, permaneamus unum.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<div type="textpart" subtype="section" n="12">
 							<p>12. <hi rend="italic">Quomodo Christus vult omnes<lb/> in se
 									unum</hi> esse. Sic ipse Filius Dei, Verbum Dei. et <lb/> idem
@@ -5420,7 +5421,7 @@
 									rend="italic">(Joan.</hi> XVII, 20-22).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<p><hi rend="italic">Sequitur de eodem argumento.</hi>
 							<lb/> Non dixit, Ego et ipsi vinum ; quamvis per id quod <lb/> Ecclesiae
 							caput est et corpus ejus Ecclesia <hi rend="italic">(Ephes.</hi>
@@ -5448,7 +5449,7 @@
 								tu in me, ut sint</hi> consummati in unum <hi rend="italic"
 								>(Id.</hi> XVII, 23).</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="13">
 							<p>13. <hi rend="italic">Ut Christus mediator vitae , ila <lb/> diabolus
 									mediator mortis.</hi> Haec est vera pax, et <lb/> cum Creatore
@@ -5491,7 +5492,7 @@
 								ct prodigiis mendacii.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="11">
+					<div type="textpart" subtype="chapter" n="b.11">
 						<div type="textpart" subtype="section" n="14">
 							<p>14. Miracula <hi rend="italic">quae a daemonibus</hi> fiunt, <lb/>
 								<hi rend="italic">spernenda.</hi> Facile est enim spiritibus
@@ -5518,7 +5519,7 @@
 								fecerunt, sive homines, sive Angeli <lb/> boni.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="12">
+					<div type="textpart" subtype="chapter" n="b.12">
 						<div type="textpart" subtype="section" n="15">
 							<p>15. <hi rend="italic">Diabolus</hi> mortis , <hi rend="italic"
 									>Christus vitae <lb/> medialor.</hi> Nequaquam igitur per
@@ -5584,7 +5585,7 @@
 								paena peccati, mors illius facta <lb/> est hostia pro peccato.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="13">
+					<div type="textpart" subtype="chapter" n="b.13">
 						<div type="textpart" subtype="section" n="16">
 							<p>16. <hi rend="italic">Mors Christi spontanea. Quo­ <lb/> modo vitae
 									Mediator mediatorem mortis expugnavit. <lb/> Quomodo
@@ -5742,7 +5743,7 @@
 								nostri.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="14">
+					<div type="textpart" subtype="chapter" n="b.14">
 						<div type="textpart" subtype="section" n="19">
 							<p>19.<hi rend="italic">Christus perfectissima victima pro <lb/>
 									mundandis vitiis nostris.</hi> In omni sacrificio quatuor consi­
@@ -5773,7 +5774,7 @@
 								rebat.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="15">
+					<div type="textpart" subtype="chapter" n="b.15">
 						<div type="textpart" subtype="section" n="20">
 							<p>20. <hi rend="italic">Superbi putantes se propria <lb/> virtute posse
 									purgari ad videndum Deum.</hi> Sunt autem <lb/> quidam qui se
@@ -5805,7 +5806,7 @@
 								eam venicnti, <lb/> quo dedignatur ille portari? .</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="16">
+					<div type="textpart" subtype="chapter" n="b.16">
 						<div type="textpart" subtype="section" n="21">
 							<p>21. <hi rend="italic">Philosophi veteres de resurre­ <lb/> ctione ac
 									rebus futuris non</hi> consulendi. Hi etiam resur­ <lb/>
@@ -5837,7 +5838,7 @@
 								vales, a nostris Prophetae appellati <lb/> sunt.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="17">
+					<div type="textpart" subtype="chapter" n="b.17">
 						<div type="textpart" subtype="section" n="22">
 							<p>22. <hi rend="italic">Futura quot modis praescian­ <lb/> tur.
 									Philosophi, nec illi qui inter antiquos excelluerunt <lb/>
@@ -5907,7 +5908,7 @@
 								testimonium.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="18">
+					<div type="textpart" subtype="chapter" n="b.18">
 						<div type="textpart" subtype="section" n="24">
 							<p>24. <hi rend="italic">Filius Dei</hi> incarnatus <hi rend="italic"
 									>est ut</hi>
@@ -5999,7 +6000,7 @@
 								ipsa est aeternitas.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="19">
+					<div type="textpart" subtype="chapter" n="b.19">
 						<div type="textpart" subtype="section" n="25">
 							<p>25. <hi rend="italic">Filius quomodo</hi> missus <hi rend="italic"
 									>et</hi> prae- <lb/>
@@ -6070,7 +6071,7 @@
 								servabat?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="20">
+					<div type="textpart" subtype="chapter" n="b.20">
 						<div type="textpart" subtype="section" n="27">
 							<p>27. <hi rend="italic">Mittens et missus</hi> aequalis<hi rend="italic"
 									>.</hi> Filius <lb/> cur <hi rend="italic">dicitur missus</hi> a
@@ -6305,7 +6306,7 @@
 								praenuntiaret; <lb/> non expropriare, ut ipsa esset.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="21">
+					<div type="textpart" subtype="chapter" n="b.21">
 						<p>De sensibili demonstratione sancti<lb/> Spiritus, et de <hi rend="italic"
 								>coœternitate Trinitatis. Quid dictum</hi> sit <lb/>
 							<hi rend="italic">et quid dicendum</hi> restet. De sensibili aulem
@@ -6403,7 +6404,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="5">
+				<div type="textpart" subtype="book" n="a.5">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER QUINTUS.</hi>
@@ -6422,7 +6423,7 @@
 						aliquid quod <lb/> ipse non est, etiam ex tempore dicitur, sicuti est,
 						Domine, refugium factus es nobis; nihil ei accidere quo mutetur, sed <lb/>
 						omnino ipsum in natura vel essentia sua immutabilem permanere.</p>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="1">
 							<p>1. <hi rend="italic">Quid</hi> a Beo , <hi rend="italic">quid a
 									lectore</hi>
@@ -6485,7 +6486,7 @@
 								potest, aliquid de eo sentire quod non sit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="3">
 							<p>3. Deus sola <hi rend="italic">incommutabilis</hi> essentia. <lb/>
 								Est tamen sine dubilatione substantia, vel, si me­ <lb/> lius hoc
@@ -6511,7 +6512,7 @@
 								occurrit quod verissime dicatur esse.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">Arianorum argumentum</hi> ex voce <lb/>
 								<hi rend="italic">geniti</hi> et ingeniti desumptum diluitur.
@@ -6547,7 +6548,7 @@
 								cundum substantiam Filius aequalis est Patri.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="5">
 							<p>5. <hi rend="italic">Accidens arguit semper</hi> aliquam <lb/> rei
 									<hi rend="italic">mutationem.</hi> Accidens autem non solet
@@ -6577,7 +6578,7 @@
 								ali­ <lb/> quid in Dco fit, quia omnino incommutabilis manet.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="6">
 							<p>6. In <hi rend="italic">Deo</hi> nihil secundum <hi rend="italic"
 									>accidens dici­</hi>
@@ -6618,9 +6619,9 @@
 								mutabile.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
-						<div>
-							<p type="textpart" subtype="section" n="7">7. <hi rend="italic">Occurrii
+					<div type="textpart" subtype="chapter" n="b.6">
+						<div type="textpart" subtype="section" n="7">
+							<p>7. <hi rend="italic">Occurrii
 									haereticorum cavillationi­</hi>
 								<lb/> bus in <hi rend="italic">eadem voce geniti et ingenitu</hi> Si
 								autem huic sic <lb/> putant resistendum esse sermoni, quod Pater
@@ -6680,7 +6681,7 @@
 								secundum sub­ <lb/> stautiam dicitur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="8">
 							<p>8. <hi rend="italic">Negatio addita non mutat praedica­<lb/>
 									mentum.</hi> noc exemplis planum faciendum est. Ac pri­ <lb/>
@@ -6751,7 +6752,7 @@
 								<lb/> tur necesse est.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<div type="textpart" subtype="section" n="9">
 							<p>9. Quidquid <hi rend="italic">substantialiter de neo <lb/> dicitur,
 									de singulis personis</hi> singulariter <hi rend="italic">et
@@ -6820,7 +6821,7 @@
 								tres substantias.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<p><hi rend="italic">Personae tres non proprie dictae.</hi>
 							<lb/> Sed quia nostra loquendi consuetudo jam obtinuit, ut <lb/> hoc
 							intelligatur cum dicimus essentiam, quod intel­ <note type="footnote">•
@@ -6841,7 +6842,7 @@
 							prorsus <lb/> inopia humanum laborat eloquium. Dicturo est tamen, <lb/>
 							Tres personae, non ut illud diccretur, sed ne taceretur.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="11">
 							<p>11. <hi rend="italic">Quae Deo absolute conveniunt ut<lb/> essentia,
 									de Trinitate singulariter dicuntur, non plura­ <lb/> liter.</hi>
@@ -6874,7 +6875,7 @@
 								<lb/> de illo proprie aliquid diei ore hominis potest.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="11">
+					<div type="textpart" subtype="chapter" n="b.11">
 						<div type="textpart" subtype="section" n="12">
 							<p>12. <hi rend="italic">Quid</hi> in <hi rend="italic">Trinitate</hi>
 								relative <hi rend="italic">dien-</hi>
@@ -6927,7 +6928,7 @@
 								<lb/> gnitudo, bonitas, aeternitas, omnipotentia.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="12">
+					<div type="textpart" subtype="chapter" n="b.12">
 						<div type="textpart" subtype="section" n="13">
 							<p>13. <hi rend="italic">In relativis mutuis interdum <lb/> desunt
 									vocabula.</hi> Nec movere debet, quoniam diximus <lb/> relative
@@ -6954,7 +6955,7 @@
 								<lb/> bulum, illic non potuit.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="13">
+					<div type="textpart" subtype="chapter" n="b.13">
 						<div type="textpart" subtype="section" n="14">
 							<p>14. <hi rend="italic">Princifium quomodo</hi> in <hi rend="italic"
 									>Tri­</hi>
@@ -7003,7 +7004,7 @@
 								principia.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="14">
+					<div type="textpart" subtype="chapter" n="b.14">
 						<div type="textpart" subtype="section" n="15">
 							<p>15. <hi rend="italic">Pater et Filius unicum</hi> prin­ <lb/>
 								<hi rend="italic">cipium Spiritus sancti.</hi> Ad se autem invicem
@@ -7060,7 +7061,7 @@
 								minus.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="15">
+					<div type="textpart" subtype="chapter" n="b.15">
 						<div type="textpart" subtype="section" n="16">
 							<p>16. <hi rend="italic">An Spiritus sanctus esset donum <lb/> ei
 									antequam daretur.</hi> Ulterius 2 autem quaeritur, <lb/> utrum
@@ -7091,7 +7092,7 @@
 								<lb/> autem nisi datum fuerit nullo modo dict potest.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="16">
+					<div type="textpart" subtype="chapter" n="b.16">
 						<div type="textpart" subtype="section" n="17">
 							<p>17. <hi rend="italic">Quod de Deo</hi> ex tempore <hi rend="italic"
 									>dici- <lb/>
@@ -7183,7 +7184,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="6">
+				<div type="textpart" subtype="book" n="a.6">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER SEXTUS.</hi>
@@ -7196,7 +7197,7 @@
 						et aeqnaliias Patris et Filii ac Spiritus sancti: et non Deum triplicem, sed
 						Trinitatem credi oportere. Illud <lb/> postremo loco explicatur Hilarii
 						dictum : « Æternitas iu Patre, species in Imagine, usus in Munere.»</p>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="1">
 							<p>1. Filius secundum <hi rend="italic">Aposto­<lb/> lum virtus et
 									sapientia Dei Patris. Hinc ratiocinatio <lb/> Catholicorum
@@ -7260,7 +7261,7 @@
 								commemorari adhuc possunt.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="3">
 							<p>3. <hi rend="italic">Quae de Patre et Filio simul dicun­ <lb/> tur,
 									quae non.</hi> Sed si non dicitur in se ipso nisi quod <lb/> ad
@@ -7338,7 +7339,7 @@
 								secun­ <lb/> dum essentiam, non secundum relativum.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. Unitatem essentiae Patris et Filii<lb/> haberi ex verbis, Unum
 								sumus. <hi rend="italic">Filius</hi> etin <hi rend="italic"
@@ -7411,7 +7412,7 @@
 								dicuntur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="6">
 							<p>6. <hi rend="italic">Sequitur de eodem argumento.</hi>
 								<lb/> Sic euim virtutes quoe sunt in animo humano, <lb/> quamvis
@@ -7454,7 +7455,7 @@
 								unius ejusdemque substantiae.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. <hi rend="italic">Spiritus sanctus etiam Patri ct<lb/> Filio
 									aequalis</hi> in <hi rend="italic">omnibus.</hi> Quapropter etiam
@@ -7505,7 +7506,7 @@
 								substantia est?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="8">
 							<p>8. <hi rend="italic">Quomodo Deus substantia simplex<lb/> et
 									multiplex.</hi> Si autem quaeritur quomodo simplex et <lb/>
@@ -7545,7 +7546,7 @@
 								simplex mutabile est; omnis autem crea­ <lb/> tura mutabilis.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<p>Deus Trinitas, sed non triplex. Deus vero <lb/> multipliciter quidem
 							dicitur magnus, bonus, sapiens, <lb/> beatus, verus, et quidquid aliud
 							non indigne dici vi­ <lb/> dctur : sed eadem magnitudo ejus est, quae
@@ -7568,7 +7569,7 @@
 								sunt.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="b.8">
 						<p><hi rend="italic">Dei naturae nulla fit accessio.</hi> Cum <lb/> itaque
 							tantus est solus Pater, vel solus Filius, vel so­ <lb/> lus Spiritus
 							sanctus, quantus est simul Pater et Filius <lb/> et Spiritus sanctus,
@@ -7591,7 +7592,7 @@
 							perfectus Deus Pater <lb/> et Filius et Spiritus sanctus : et idco
 							Trinitas potius <lb/> quam triplex.</p>
 					</div>
-					<div type="textpart" subtype="chapter" n="9">
+					<div type="textpart" subtype="chapter" n="b.9">
 						<div type="textpart" subtype="section" n="10">
 							<p>10. <hi rend="italic">An</hi> una <hi rend="italic">vel tres simul
 									personae <lb/> dicantur solus Deus.</hi> Et quoniam ostendimus
@@ -7661,7 +7662,7 @@
 								Spiritus sancii.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="11">
 							<p>11. <hi rend="italic">AUributa per Hilarium singulis <lb/>
 									personis.</hi> Trinitas in <hi rend="italic">rebus factis
@@ -7746,7 +7747,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="7">
+				<div type="textpart" subtype="book" n="a.7">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER SEPTIMUS.</hi>
@@ -7763,7 +7764,7 @@
 						monstratur, ut ne omnino taceremus interrogai quid <lb/> tres sint, quos
 						tres esse veraciter confitemur, Patrem scilicet, et Filium, et spiritum
 						sanctum.</p>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="1">
 							<p>1. Redi' <hi rend="italic">ad quaestionem, an<lb/> quaelibet Trinitatis
 									persona</hi> per se sit <hi rend="italic">sapientia. Quam <lb/>
@@ -7964,7 +7965,7 @@
 								essentia</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="3">
 							<p>3. <hi rend="italic">Pater et Filius simul una sapientia,</hi>
 								<lb/> sicut <hi rend="italic">una essentia, tametsi non</hi> simul
@@ -8004,7 +8005,7 @@
 								<lb/> dici.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. Sapientiae <hi rend="italic">nomine cur Filius</hi> po­ <lb/>
 								tissimum insinuetur in <hi rend="italic">Scripturis cum</hi> et <hi
@@ -8181,7 +8182,7 @@
 								Deus Pater <lb/> et Filius et Spiritus sanctus.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="7">
 							<p>7. <hi rend="italic">Qua necessitate Grœci rea hypo­<lb/> stases
 									dixerint ; Latini, tres personas. Scriptura nullibi <lb/> dicit
@@ -8358,7 +8359,7 @@
 								subsistit; quanto magis Deus?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<div type="textpart" subtype="section" n="10">
 							<p>10. <hi rend="italic">In Deo substantia abusive dici­ <lb/> tur,
 									essentia proprie.</hi> Si tamen dignum est ut Deus <lb/> dicatur
@@ -8401,7 +8402,7 @@
 								personaT, quam tres substantiae.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="11">
 							<p>11. <hi rend="italic">Curin Trinitate non dicatur una</hi>
 								<lb/> persona, <hi rend="italic">cl tres essentiae. De Trinitate quid
@@ -8625,7 +8626,7 @@
 						</div>
 					</div>
 				</div>
-				<div type="textpart" subtype="book" n="8">
+				<div type="textpart" subtype="book" n="a.8">
 					<head>
 						<title type="main">
 							<hi rend="italic">LIBER OCTAVUS.</hi>
@@ -8675,7 +8676,7 @@
 						quam superiora 3 tractabimus, <lb/> cum sint eadem : servata illa regula, ut
 						quod intel­ <lb/> lectui nostro nondum eluxerit, a firmitate fulci non <lb/>
 						dimittatur.</p>
-					<div type="textpart" subtype="chapter" n="1">
+					<div type="textpart" subtype="chapter" n="b.1">
 						<div type="textpart" subtype="section" n="1">
 							<p>1, In <hi rend="italic">Deo non esse majus quid <lb/> tres quam</hi>
 								unam <hi rend="italic">personam, ratione monstratur.</hi> Dici­
@@ -8729,7 +8730,7 @@
 								magnum sit necesse <lb/> est.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="b.2">
 						<div type="textpart" subtype="section" n="3">
 							<p>3. <hi rend="italic">Respuenda omnis corporatis cogi­<lb/> tatio, ut
 									Deus</hi> capiatur <hi rend="italic">quomodo Deus est
@@ -8790,7 +8791,7 @@
 								cupiditatis visco et <lb/> peregrinationis erroribus ?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="b.3">
 						<div type="textpart" subtype="section" n="4">
 							<p>4. <hi rend="italic">Quomodo cognoscatur Deum esse</hi>
 								<lb/> nummum <hi rend="italic">bonum. Animus</hi> nonnisi <hi
@@ -8893,7 +8894,7 @@
 								28).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="b.4">
 						<div type="textpart" subtype="section" n="6">
 							<p>6. <hi rend="italic">Deus</hi> prius <hi rend="italic">fide non
 									errante cogno­</hi>
@@ -8960,7 +8961,7 @@
 								, statim bominem esse cognoscimus vel <lb/> hcminisformam.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="b.5">
 						<p><hi rend="italic">Quomodo Trinitas diligatur incognita.</hi>
 							<lb/> Secundum hanc notitiam cogitatio nostra informatur, <lb/> cum
 							credimus pro nobis Deum hominem factum , ad <lb/> humilitatis exemplum,
@@ -9039,7 +9040,7 @@
 								quaeritur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.6">
 						<div type="textpart" subtype="section" n="9">
 							<p>9. <hi rend="italic">Quomodo nondurn justus justum</hi>
 								<lb/> cognoscat <hi rend="italic">quem diligit.</hi> Redi ergo mecum
@@ -9199,7 +9200,7 @@
 								<lb/> i, 6).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="b.7">
 						<div type="textpart" subtype="section" n="10">
 							<p>10. <hi rend="italic">De vera dilectione, per quam ad <lb/>
 									Trinitatis cognitionem pervenitur. Quaerendus Deus,<lb/> non</hi>
@@ -9453,7 +9454,7 @@
 								cognoscatur mani­ <lb/> festius, et quo firmius diligatur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="10">
+					<div type="textpart" subtype="chapter" n="b.10">
 						<div type="textpart" subtype="section" n="14">
 							<p>14. <hi rend="italic">Tria quaedam in charitate, velut</hi> "V <lb/>
 								<hi rend="italic">vestigium Trinitatis.</hi> Quid est autcm dilectio
