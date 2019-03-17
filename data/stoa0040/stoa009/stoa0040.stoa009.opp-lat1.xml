@@ -131,9 +131,18 @@
 			<p>The following text is encoded in accordance with EpiDoc standards and with the
 				CTS/CITE Architecture.</p>
 			<refsDecl n="CTS">
-				<cRefPattern n="no citable units founds" matchPattern="(.+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
-				/>
+				<cRefPattern n="section" matchPattern="(.+).(.+).(.+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+					<p>This pointer pattern extracts book level, chapter level and section level.</p>
+				</cRefPattern>
+				<cRefPattern n="chapter" matchPattern="(.+).(.+)" 
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+					<p>This pointer pattern extracts book level and chapter level.</p>
+				</cRefPattern>
+				<cRefPattern n="book" matchPattern="(.+)" 
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+					<p>This pointer pattern extracts book level.</p>
+				</cRefPattern>
 			</refsDecl>
 		</encodingDesc>
 
