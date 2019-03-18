@@ -141,8 +141,9 @@
 
 				<div type="textpart" subtype="chapter" n="1">
 					<ab>
-						<title type="sub"><hi rend="italic">De oratione : et quam late pateat
-								significatio <foreign xml:lang="grc">ούσίας</foreign>.</hi>
+						<title type="sub">
+							<hi rend="italic">De oratione : et quam late pateat significatio
+									<foreign xml:lang="grc">ούσίας</foreign>.</hi>
 						</title>
 					</ab>
 					<p>Cum omnis scientia disciplinaque artium diversa<lb/>rum non nisi oratione
@@ -216,7 +217,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="2">
 					<ab>
-						<title type="sub"><hi rend="italic">De aequivocis et multivocis.</hi>
+						<title type="sub">
+							<hi rend="italic">De aequivocis et multivocis.</hi>
 						</title>
 					</ab>
 					<p>His ita compositis, ea quae mente concepta signari<lb/>et demonstrari
@@ -277,8 +279,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="3">
 					<ab>
-						<title type="sub"><hi rend="italic">Quid Aristoteles agat in
-								categoriis.</hi>
+						<title type="sub">
+							<hi rend="italic">Quid Aristoteles agat in categoriis.</hi>
 						</title>
 					</ab>
 					<p>Sed plerique movere assolent quaestionem, de qui<lb/>bus magis Aristoteles
@@ -308,8 +310,10 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="4">
 					<ab>
-						<title type="sub"><hi rend="italic">De denominativis. Differunt paranyma ab
-								homonymis.</hi></title>
+						<title type="sub">
+							<hi rend="italic">De denominativis. Differunt paranyma ab
+								homonymis.</hi>
+						</title>
 					</ab>
 					<p>His ergo cognitis, paronyma videamus, quae sunt<lb/>in homonymorum et
 						synonymorum medio constituta,<lb/>et quae nec paronyma dici possunt, nisi in
@@ -346,7 +350,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="5">
 					<ab>
-						<title type="sub"><hi rend="italic">Substantia et accidens.</hi>
+						<title type="sub">
+							<hi rend="italic">Substantia et accidens.</hi>
 						</title>
 					</ab>
 					<p>Restat ut cerum quae sunt, quo pacto Aristoteles<lb/>tractaverit, enarremus.
@@ -384,8 +389,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="6">
 					<ab>
-						<title type="sub"><hi rend="italic">Quae dicuntur de subjecto, quae sunt in
-								subjecto.</hi>
+						<title type="sub">
+							<hi rend="italic">Quae dicuntur de subjecto, quae sunt in subjecto.</hi>
 						</title>
 					</ab>
 					<p>Rursus ad ea quae significantur, Aristoteles regressus<lb/>est, quot modis ea
@@ -457,7 +462,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="7">
 					<ab>
-						<title type="sub"><hi rend="italic">Quid genus, quid species.</hi>
+						<title type="sub">
+							<hi rend="italic">Quid genus, quid species.</hi>
 						</title>
 					</ab>
 					<p>Dehinc nos Aristoteles docet, et illa quae de subje<lb/>cto significantur,
@@ -526,7 +532,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="8">
 					<ab>
-						<title type="sub"><hi rend="italic">De praedicamentis in generali.</hi>
+						<title type="sub">
+							<hi rend="italic">De praedicamentis in generali.</hi>
 						</title>
 					</ab>
 					<p>Rursus Aristoteles ad ea, qaae dicuntur, revertitur,<lb/>quarquam superius
@@ -579,8 +586,9 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="9">
 					<ab>
-						<title><hi rend="italic">De usia sive substantia. Usia proprie. Secundae
-								usiae quae dicantur.</hi>
+						<title>
+							<hi rend="italic">De usia sive substantia. Usia proprie. Secundae usiae
+								quae dicantur.</hi>
 						</title>
 					</ab>
 					<p>Expositis igitur onmibus quae disputaturis necessa<lb/>ria videbantur,
@@ -681,8 +689,9 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="10">
 					<ab>
-						<title type="sub"><hi rend="italic">De quantitate. Quanto nihil ell
-								contrarium. Contraria quae dicantur.</hi>
+						<title type="sub">
+							<hi rend="italic">De quantitate. Quanto nihil ell contrarium. Contraria
+								quae dicantur.</hi>
 						</title>
 					</ab>
 					<p>Descripta igitur usia, quia definiri non potuit pro<lb/>pter eas causas quas
@@ -833,8 +842,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="11">
 					<ab>
-						<title type="sub"><hi rend="italic">Ad aliquid. Ad aliquid quando dicitur.
-								Opposita.</hi>
+						<title type="sub">
+							<hi rend="italic">Ad aliquid. Ad aliquid quando dicitur. Opposita.</hi>
 						</title>
 					</ab>
 					<p>Categoriarum tertia est quae latine ad aliquid, graece<lb/>
@@ -891,332 +900,334 @@
 						singulare ad singulare re<lb/>fertur. Si quidem cum dicimus duplum , sine
 						dubio<lb/>non generaliter, sed specialiter hoc duplum dicimus,<lb/>et hujus
 						simpli duplum dicimus. Ac propterea tunc<lb/>vere ad aliquid categoria est,
-						quoties, verbi gratia,<lb/> 
-						<!-- ici -->
+						quoties, verbi gratia,<lb/>
 						<pb n="1431"/> Socratem Chrysippo dicimus esse vultu
 						consimilem.<lb/>Caeterum quo pacto vel quis, vel cui sit similis
-						dc<lb/>monstrabimus, nisi et quis similis sit, ei cui sit
-						similis<lb/>personaliter indiccmus? Sed sunt quidam qui huic<lb/>definitioni
-						velint movere superfluam quaestionem ,<lb/>asserentes inveniri posse ad
-						aliquid dicium quod ante<lb/>sit, ct postea nascatur quod de ipso debeat
-						nuncupari;<lb/>ut jam videantur haec duo lice ortu nec occasu sihi<lb/>esse
+						de<lb/>monstrabimus, nisi et quis similis sit, et cui sit
+						similis<lb/>personaliter indicemus? Sed sunt quidam qui huic<lb/>definitioni
+						velint movere superfluam quaestionem,<lb/>asserentes inveniri posse ad
+						aliquid dicium quod ante<lb/>sit, et postea nascatur quod de ipso debeat
+						nuncupari ;<lb/>ut jam videantur haec duo nec ortu nec occasu sihi<lb/>esse
 						conjuncta : ac dant exempla scibilis et scientiae,<lb/>asserentes ante
-						scibile fuisse, et post cjus scientiam<lb/>conscutam. Verbi gratia apud
-						geometricos ante <foreign xml:lang="grc">γραμμζ</foreign>,<lb/>vel circulus
-						fuit, sed corum scientia postea a sapien<lb/>tibus comprehensa est:
-						proptereaque ante fuisse sci<lb/>bile, iii quo possit scientia rcperiri. Hoc
+						scibile fuisse, et post ejus scientiam<lb/>consecutam. Verbi gratia apud
+						geometricos ante <foreign xml:lang="grc">γραμμῆ</foreign>,<lb/>vel circulus
+						fuit, sed eorum scientia postea a sapien<lb/>tibus comprehensa est :
+						proptereaque ante fuisse sci<lb/>bile, in quo possit scientia reperiri. Hoc
 						argumento<lb/>igitur monstrant multa esse hujus categoriae, quibus<lb/>non
-						et ortus et occasus videatur esse communis. Et<lb/> sensibilis cnim
-						sensusque exemplum simili ratione<lb/>constare contendunt : siquidem
-						sensibilia anie fue<lb/>rint. Elementa cnim quibus omnc corpus
-						constat,<lb/>ante fuerunt, duam corpus ex his aliquod nasce<lb/>rctur, in
-						quo sensus existeret. Ilis igitur argumentis<lb/>estendunt definitionem
-						categoriae?, quae ad aliquid di<lb/>citur, non recte esse defixam. Haec
-						solent parum<lb/>diligenter naturam rerum intuentes astruere. Omnia<lb/>cnim
-						quae sunt, aut naturali potentia dicuntur esse,<lb/>aut operatione faciendi,
-						quas Graeci <foreign xml:lang="grc">δύναμινϰαί<lb/>ένέργειαν</foreign>
-						vocant. Quas si quis separare voluerit,<lb/>nec ulla societate confundere,
-						intelliget ad aliquid<lb/>dictum non posse esse sine allero, cujus esse
-						dicitur.<lb/>Scibili cnim sivc circulo, in ipso ortu naturae,<lb/>scientia
-						sociata est. Simul namque ut scibile esse<lb/>coepit, habuit scientiam sui,
-						sed necdum <foreign xml:lang="grc">ένεργεία</foreign>, id<lb/>est
-						operatione monstrata est. Non ergo tunc coepit<lb/>esse scientia cjus,
-						quando coepit opcrari, sed cum<lb/>ipso scibili orta est, operatio postea
-						est consecuta. Dis<lb/>cernere enim nos oportet opcrationis cxordium
-						:<lb/>tunc onim possumus advertere scicntiam cum scibili<lb/>esse procreatam
-						, operationem veTO ejus apparuisse<lb/>postea indagatione prudentium. Quibus
-						depulsis, opti<lb/>ma dcfiuitio est ad aliquid relatorum, semper ea
-						si<lb/>mul vel exstingui, vcl nasci. Illud sane debemus me<lb/>moria
-						continere non omnia ad aliquid dicta iisdem<lb/>casibus referri ad ea quibus
-						junguntur; sed alia geni<lb/>tivo casui, alia dativo, pleraque ablativo
-						copulari. Et<lb/>genitivo quidem, ut servus domini, duplum
-						simpli.<lb/>Dativo, simile simili, par pari. Ablativo vero, sensi<lb/>bile
-						sensu sensible, scibile scientia scibile, et caetera<lb/>hujusmodi, quae
-						variis casibus alterius societate IIC.<lb/>« tuntur. Inest autem huic
-						categoriae et soli et omni,<lb/>ut inter conjuncta duo, quae ex se pendeant,
-						sit alterna<lb/>conversio, quae graece dicitur <foreign xml:lang="grc"
-							>άντιστριϕή</foreign>. Ut duplum<lb/>simpli dicilur, et simplum dupli,
-						et servus domini, et<lb/>dominus SCI'vi. Apparet ergo haec copulata vicaria
+						et ortus et occasus videatur esse communis. Et<lb/>sensibilis enim sensusque
+						exemplum simili ratione<lb/>constare contendunt : siquidem sensibilia ante
+						fue<lb/>rint. Elementa enim quibus omne corpus constat,<lb/>ante fuerunt,
+						quam corpus ex his aliquod nasce<lb/>retur, in quo sensus existeret. His
+						igitur argumentis<lb/>ostendunt definitionem categoriae, quae ad aliquid
+						di<lb/>citur, non recte esse defixam. Haec solent parum<lb/>diligenter
+						naturam rerum intuentes astruere. Omnia<lb/>enim quae sunt, aut naturali
+						potentia dicuntur esse,<lb/>aut operatione faciendi, quas Graeci <foreign
+							xml:lang="grc">δύναμιν ϰαί<lb/>ένέργειαν</foreign> vocant. Quas si
+						quis separare voluerit,<lb/>nec ulla societate confundere, intelliget ad
+						aliquid<lb/>dictum non posse esse sine allero, cujus esse
+						dicitur.<lb/>Scibili enim <foreign xml:lang="grc">γραμμῆ</foreign>, sive
+						circulo, in ipso ortu naturae<lb/>scientia sociata est. Simul namque ut
+						scibile esse<lb/>coepit, habuit scientiam sui, sed necdum <foreign
+							xml:lang="grc">ένεργεία</foreign>, id<lb/>est operatione monstrata
+						est. Non ergo tunc coepit<lb/>esse scientia ejus, quando coepit operari, sed
+						cum<lb/>ipso scibili orta est, operatio postea est consecuta.
+						Dis<lb/>cernere enim nos oportet operationis exordium :<lb/>tunc enim
+						possumus advertere scientiam cum scibili<lb/>esse procreatam, operationem
+						vero ejus apparuisse<lb/>postea indagatione prudentium. Quibus depulsis,
+						opti<lb/>ma definitio est ad aliquid relatorum, semper ea si<lb/>mul vel
+						exstingui, vel nasci. Illud sane debemus me<lb/>moria continere non omnia ad
+						aliquid dicta iisdem<lb/>casibus referri ad ea quibus junguntur ; sed alia
+						geni<lb/>tivo casui, alia dativo, pleraque ablativo copulari.
+						Et<lb/>genitivo quidem, ut servus domini, duplum simpli.<lb/>Dativo, simile
+						simili, par pari. Ablativo vero, sensi<lb/>bile sensu sensibile, scibile
+						scientia scibile, et caetera<lb/>hujusmodi, quae variis casibus alterius
+						societate ne<lb/>ctuntur. Inest autem huic categoriae et soli et
+						omni,<lb/>ut inter conjuncta duo, quae ex se pendeant, sit
+						alterna<lb/>conversio, quae graece dicitur <foreign xml:lang="grc"
+							>άντιστρσφή</foreign>. Ut duplum<lb/>simpli dicitur, et simplum dupli,
+						et servus domini, et<lb/>dominus servi. Apparet ergo haec copulata vicaria
 						in<lb/>semet replicatione converti, si tamen scienter et pru<lb/>denter ista
 						fiat conversio. Nam si imperite haec voca<lb/>bula convertantur, oritur
-						magna confusio : ut si quis<lb/>imperite dixerit, avis pennam , stulta
-						conversio est.<lb/>Non enim penna omnis avis est : si quidcm sunt
+						magna confusio : ut si quis<lb/>imperite dixerit, avis pennam, stulta
+						conversio est.<lb/>Non enim penna omnis avis est : si quidem sunt
 						quae<lb/>dam pennae, quae non sunt avium, ut cicadarum, musca<lb/>rum,
 						caeterorumque animalium, quae similiter natura<lb/>formavit. Quod si quis
-						pennam pennati pennam dixcrit,<lb/>quasi rata conversio cst. Hoc loco
-						libitum est, quas<lb/>dam tenebras, quae emergere ex categoriarum simili­
+						pennam pennati pennam dixerit,<lb/>quasi rata conversio est. Hoc loco
+						libitum est, quas<lb/>dam tenebras, quae emergere ex categoriarum simili
 						<lb/>tudine assolent, aperire. Siquidem cum dicimus pen<lb/>nam pennati, et
-						caput capitati, vidcmur usiae parles<lb/>in accidentibus ponere. Penna enim
-						sine dublo pars<lb/>usiaecst, vel caput vel manus, quae si nd aliquid
-						refe<lb/>rantur, inter usias ct ad aliquid videbitur nulla
+						caput capitati, videmur usiae partes<lb/>in accidentibus ponere. Penna enim
+						sine dubio pars<lb/>usiae est, vel caput vel manus, quae si ad aliquid
+						refe<lb/>rantur, inter usias et ad aliquid videbitur nulla
 						esse<lb/>discretio. Ut igitur amoveatur universa confusio, ad<lb/>vertere
-						nos oportet quo pacto, et vere ct proprie ad<lb/>aliquid definitum sit. Ita
-						enim ejns definitio sc habet,<lb/>ut dicatur ad aliquid, cujus id quod est
+						nos oportet quo pacto, et vere et proprie ad<lb/>aliquid definitum sit. Ita
+						enim ejus definitio se habet,<lb/>ut dicatur ad aliquid, cujus id quod est
 						pendet ex al<lb/>tero, cuique necesse sit singulariter, id est <foreign
-							xml:lang="grc">ϰαθέϰαστον</foreign>,<lb/>vicaria in sciet mutatione
-						converti. Hoc quis consi<lb/>derato, reperiet, nec pennati pennam , nec
-						capitati<lb/>caput rectc posse ad aliquid nominari : non enim ut<lb/>pennati
-						pennam dicimus, sic: possumus dicere penne<lb/>pennatum, vel capitis
-						capitatum : id namque qui dixe<lb/>rit, irridebitur. Esse enim pennato, non
-						ex penna<lb/>descendit; neque penna ex pennato constat. Simili<lb/>terque
-						capitatum non constat ex capite. neque caput<lb/>ex capitato videtur
-						consistere. At quod vere ad ali- <lb/>quid dicitur, converti per vices
-						potest, ut superius<lb/>diximus, dominus servi dominus, et servus
-						domini<lb/>servus : et rursus subtracto servo dominus non est,<lb/>remoto
-						domino nec servus apparet. Pennatuin vero<lb/>esse poterit, etiam penna
-						pereunte: et rursum penna,<lb/>pereunte pennatn, potest esse. Considerata
-						ergo defi<lb/>nitione hujus categoriae, poterit etiam confusionis
-						ex<lb/>similitudine exortae discretio reperiri. Eodem pacto<lb/>possumus
-						hanc categoriam et ab oppositornm simili<lb/>tudine separare. Nam et
-						opposita <foreign xml:lang="grc">άντιϰείμενα</foreign>. Aristote<lb/> les
-						vocat, quamdam hujus categoriae sirnililudinem<lb/>reddunt: siquidem calidum
-						et frigidum videntur sibi<lb/>oppositionis societate conjuncta : sed calidum
-						non<lb/>frigidi calidum, sed frigido oppositum dicimus; et<lb/> justum non
-						injusti justum, sed injusto contrarium<lb/>nominamus. Aristoteles qnidcm, ut
-						in principio hujus<lb/>categoriae diximus, multa exempla proponit, quae
-						ad<lb/>hanc non sub certa forma pertinere videantur, volens<lb/>de
-						consequentibus reprehendere vitia caeterorum, qui<lb/>hanc secus definire
-						voluerunt. Denique et virtutem<lb/>malitiae et scientie ignorantiam, quasi
-						ad aliquid po<lb/>suit, eaque dixit posse recipere contrarium, non
-						qno<lb/>ila res postulet, sed ut inducte disserentium vitia pos- .<lb/>set
-						ostendere. Haec namque, ut superius explicavimus,<lb/>opposita potius quam
-						ad aliquid dicta judicanda sunt.<lb/>Mihi vero, ut et ipsi Aristoteli
-						placet, magis et minus<lb/>haec categoria, non omnis quidem, nee sola
-						videtur<lb/>posse suscipere. Simile enim cuilibet, et magis simile,<lb/>et
-						minus simile possumus dicere. Sed hoc non in<lb/>omnibus, ut dixi, quae sunt
-						ad aliquid poterit inve<lb/>Diri. Namque nec magis pater, nec minus pater
-						potest<lb/>dici; nec minus filius, aut magis filius; nec minus<lb/>duplum,
+							xml:lang="grc">ϰαθέϰαστον</foreign>,<lb/>vicaria in semet mutatione
+						converti. Hoc quis consi<lb/>derato, reperiet, nec pennati pennam, nec
+						capitati<lb/>caput recte posse ad aliquid nominari : non enim ut<lb/><hi
+							rend="italic">pennati</hi> pennam dicimus, sic possumus dicere
+						pennae<lb/>pennatum, vel capitis capitatum : id namque qui dixe<lb/>rit,
+						irridebitur. Esse enim pennato, non ex penna<lb/>descendit ; neque penna ex
+						pennato constat. Simili<lb/>terque capitatum non constat ex capite, neque
+						caput<lb/>ex capitato videtur consistere. At quod vere ad ali<lb/>quid
+						dicitur, converti per vices potest, ut superius<lb/>diximus, dominus servi
+						dominus, et servus domini<lb/>servus : et rursus subtracto servo dominus non
+						est,<lb/>remoto domino nec servus apparet. Pennatum vero<lb/>esse poterit,
+						etiam penna pereunte ; et rursum penna,<lb/>pereunte pennato, potest esse.
+						Considerata ergo defi<lb/>nitione hujus categoriae, poterit etiam
+						confusionis ex<lb/>similitudine exortae discretio reperiri. Eodem
+						pacto<lb/>possumus hanc categoriam et ab oppositornm simili<lb/>tudine
+						separare. Nam et opposita <foreign xml:lang="grc">άντιϰείμενα</foreign>
+						Aristote<lb/>les vocat, quamdam hujus categoriae similitudinem<lb/>reddunt :
+						siquidem calidum et frigidum videntur sibi<lb/>oppositionis societate
+						conjuncta : sed calidum non<lb/>frigidi calidum, sed frigido oppositum
+						dicimus ; et<lb/>justum non injusti justum, sed injusto
+						contrarium<lb/>nominamus. Aristoteles quidem, ut in principio
+						hujus<lb/>categoriae diximus, multa exempla proponit, quae ad<lb/>hanc non
+						sub certa forma pertinere videantur, volens<lb/>de consequentibus
+						reprehendere vitia caeterorum, qui<lb/>hanc secus definire voluerunt.
+						Denique et virtutem<lb/>malitiae et scientiae ignorantiam, quasi ad aliquid
+						po<lb/>suit, eaque dixit posse recipere contrarium, non quo<lb/>ita res
+						postulet, sed ut indocte disserentium vitia pos<lb/>set ostendere. Haec
+						namque, ut superius explicavimus,<lb/>opposita potius quam ad aliquid dicta
+						judicanda sunt.<lb/>Mihi vero, ut et ipsi Aristoteli placet, magis et
+						minus<lb/>haec categoria, non omnis quidem, nee sola videtur<lb/>posse
+						suscipere. Simile enim cuilibet, et magis simile,<lb/>et minus simile
+						possumus dicere. Sed hoc non in<lb/>omnibus, ut dixi, quae sunt ad aliquid
+						poterit inve<lb/>niri. Namque nec magis pater, nec minus pater
+						potest<lb/>dici ; nec minus filius, aut magis filius ; nec minus<lb/>duplum,
 						aut magis duplum. Non nos autem fallat, ut<lb/>putemus ad aliquid esse
-						quoties, verbi gratia, dici<lb/> mus, cuius equus, vel cujus lignum, vel
-						cujus fundus:<lb/>haec cnim dominum, vel possidentis personam
-						mon<lb/>strantia, non ad aliquid dicta censenda sunt. De qna<lb/>categoria
-						quantum potuimus , explanaviinus : licet<lb/> tanta huic nim caeteris
-						videatur esse permixtio, ut<lb/>ipse quoquc Aristoteles hujus discretionem
-						haud fa<lb/>cile repererit, cujus etiam longa ac diuturna non
-						sit<lb/>indecens retractatio.</p>
+						quoties, verbi gratia, dici<lb/>mus, cujus equus, vel cujus lignum, vel
+						cujus fundus :<lb/>haec enim dominum, vel possidentis personam
+						mon<lb/>strantia, non ad aliquid dicta censenda sunt. De qua<lb/>categoria
+						quantum potuimus, explanavimus : licet<lb/>tanta huic cum caeteris videatur
+						esse permixtio, ut<lb/>ipse quoque Aristoteles hujus discretionem haud
+						fa<lb/>cile repererit, cujus etiam longa ac diuturna non sit<lb/>indecens
+						retractatio.</p>
 				</div>
 				<div type="textpart" subtype="chapter" n="12">
 					<ab>
-						<title type="sub"><hi rend="italic">De qualitate. Species qualitatis
-								quatuor. Habitus. Affectio. Potentia naturalis. Passivae quali­
-								tates.</hi>
+						<title type="sub">
+							<hi rend="italic">De qualitate. Species qualitatis quatuor. Habitus.
+								Affectio. Potentia naturalis. Passivae qualitates.</hi>
 						</title>
 					</ab>
 					<p>Nunc de qualitate tractemus, secundum quam ea<lb/>quae sunt, qualia
 						nuncupantur. Multi autem quaerunt<lb/>quid sit qualitas, et quid quale,
 						quorum facilis se<lb/>paratio est. Qualitatem namque dicimus
-						dulcedi<lb/>ncm, austeritatem, albedinem, nigredinem. Quale<lb/>vero
-						intelligitnr, quoties album aliquid, vel dulce, vel<lb/>austerum, vel nigrum
-						dicimus. Licet Aristoteles in<lb/>difTerenter et pro qualitate quale
+						dulcedi<lb/>nem, austeritatem, albedinem, nigredinem. Quale<lb/>vero
+						intelligitur, quoties album aliquid, vel dulce, vel<lb/>austerum, vel nigrum
+						dicimus. Licet Aristoteles in<lb/>differenter et pro qualitate quale
 						posuerit, et qualita<lb/>tem pro quali, proptereaque etiam nos eumdem
-							<unclear>securi</unclear>
-						<lb/>similia senserimus. Hanc autcm categoi iam propterea<lb/>caeteris
-						difficiliorem volunt , quia facilius quam cae<lb/>terae in omnes videtur
-						incurrere : ut puta in usia inve<lb/>nitur, cum dicimus, homo grammaticus;
-						in quanto,<lb/>alba vel nigra epiphania ; in ad aliquid, prudens pater,
-						<lb/>optimus lilius; in facere, dure saltat ; in pati, fert for<lb/>titer
-						vulnera; in loco, obscurus locus; in tempore,<lb/>calidus mensis, aut
-						frigidus; in jaccre, pronus autsu<lb/>pinus jacet; in habere, decenter
-						armatus. Erit igitur<lb/>non parvae prudentiae, qualitatem cum cereris
-						pene<lb/>confusam, mentis vivacitate secernere. Hujus sunt<lb/>species
-						numero quatuor, quas Aristoteles pro generi<lb/>bus posuit, scilicet
-						propterea quia et ipsae singulae<lb/>habent species suas. Id vero cum
-						acciderit, subalterna<lb/>nominantur, quae Graeci <foreign xml:lang="grc"
-							>ύπάλληλα</foreign> vocaverunt. Ergo<lb/>primum genus est habitus ct
-						affectio : secundum, po<lb/>tentia naturalis : tertium, passivae qualitates
-						sive pas<lb/>sions : quartum, formae ac figurae. Haec Aristoteles<lb/>
+							<unclear>seenti</unclear><lb/>similia senserimus. Hanc autem categoriam
+						propterea<lb/>caeteris difficiliorem volunt, quia facilius quam
+						cae<lb/>terae in omnes videtur incurrere : ut puta in usia inve<lb/>nitur,
+						cum dicimus, homo grammaticus ; in quanto,<lb/>alba vel nigra epiphania ; in
+						ad aliquid, prudens pater, <lb/>optimus filius ; in facere, dure saltat ; in
+						pati, fert for<lb/>titer vulnera ; in loco, obscurus locus ; in
+						tempore,<lb/>calidus mensis, aut frigidus ; in jaccre, pronus aut
+						su<lb/>pinus jacet ; in habere, decenter armatus. Erit igitur<lb/>non parvae
+						prudentiae, qualitatem cum caeteris pene<lb/>confusam, mentis vivacitate
+						secernere. Hujus sunt<lb/>species numero quatuor, quas Aristoteles pro
+						generi<lb/>bus posuit, scilicet propterea quia et ipsae singulae<lb/>habent
+						species suas. Id vero cum acciderit, subalterna<lb/>nominantur, quae Graeci
+							<foreign xml:lang="grc">ύπάλληλα</foreign> vocaverunt. Ergo<lb/>primum
+						genus est habitus et affectio : secundum, po<lb/>tentia naturalis : tertium,
+						passivae qualitates sive pas<lb/>siones : quartum, formae, ac figurae. Haec Aristoteles<lb/>
 						<pb n="1433"/>
-						<foreign xml:lang="grc">έξιν</foreign>
-						<hi rend="italic"><foreign xml:lang="grc">ϰαὶ διύθισιν</foreign></hi>
-						dixit, <foreign xml:lang="grc">ϕυσιϰή, δύναμιν, παθητιϰὰς ποιδτη<lb/>τας
-							ϰαὶ πάθη</foreign>, <hi rend="italic"><foreign xml:lang="grc"
-								>σχήματαϰαὶ</foreign></hi>
-						<foreign xml:lang="grc">μορϕάς</foreign>. Habitus affectio est<lb/>animi
-						longo tempore persevcrans : ut est virtus et di<lb/>sciplina quae
-						perseveratione sui et perpetuitate tempo<lb/>ris aestimantur, nisi forte eas
-						languorcorporisaliquis,<lb/>et casu injecta debilitas amputaverit. Affectio
-						vero est<lb/>mutabilis mentis impulsio, vel cupiditas levis, quae bre<lb/>vi
-						tempore deleatur. Habitus ergo et affectio videri po<lb/>test; ab bac namque
-						incipit, etsi ipsa permanserit,<lb/>habitus nascitur. Affectio autem habitus
-						videri non<lb/>potest; si euim ad habitum pervenerit, vocabulum<lb/>proprium
-						non tenebit. Hoc loco non cst incongruum,<lb/>quod saepe quaesitum est,
-						brevi tractatu dissolvere ac<lb/>docere, quid virtutem disciplinamque
-						discernat. Hoc<lb/>profectoquod disciplina in ca parte animae, quae
-						ra<lb/>tionalis dicilur, tantummodo diversatur; virtus vero<lb/>omnes animae
-						partes amplectitur, omnemque animam<lb/>suo imperio gubernat ac rcgit: ut ct
-						iracundiam do<lb/>. met, et cupiditates animo amove at qnod discipli
-						a<lb/>facere haudquaquam valet. Potentia naturalis cst,<lb/>quoties quis
-						videtur vc! posse, vel non posse aliquid<lb/>-por naturam facere : ut verbi
-						gralia, plerumque visis<lb/>corporibus pucrorum, ct contemplatis artubus
-						pro<lb/>nuntiamus aliquid de futuro, eosque dicimus vel pu<lb/>gillatores
-						fore, vel cursorcs: non quod jam hac arte<lb/>vel studio teneautur, sed quod
-						videantur positione<lb/>corporis haec facilius impleturi. Similiter salubres
-						vel<lb/>imbecilles dicimus, qui aut facile aut non facile reci<lb/>piant
-						aegritudinem. Eodem modo namque et in his po<lb/>tentia naturalis
-						advertitur, quae cos facit vel languori<lb/>a-ebrius subjacere, vel retinere
-						perpetuam sospitatem.<lb/>Durum quoque et molle cum dicitur, ostendit
-						poten<lb/>tiam naturalem. Durum siquidem est, quod firmitate<lb/>natura
-						corruptionem sui non facile admittat; molle<lb/>vero, in quo est natura
-						laxior, ncc ad contraria repel<lb/>lenda sufliciens. Tertium genus
-						qualitatis sive species,<lb/>passivae qualitates et passiones, qua: sunt
-						hujusm adi,<lb/>austeritas, calidalio et frigidatio : sic euim <hi
-							rend="italic"><foreign xml:lang="grc">θερμότητα</foreign></hi>
+						<foreign xml:lang="grc">έξιν ϰαὶ διὰθεσιν</foreign> dixit, <foreign
+							xml:lang="grc">ϕυσιϰήν δύναμιν, παθητιϰὰς ποιδτη<lb/>τας ϰαὶ πάθη,
+							σχήματα ϰαὶ μορϕάς</foreign>. Habitus affectio est<lb/>animi longo
+						tempore perseverans : ut est virtus et di<lb/>sciplina quae perseveratione
+						sui et perpetuitate tempo<lb/>ris aestimantur, nisi forte eas languor
+						corporis aliquis,<lb/>et casu injecta debilitas amputaverit Affectio vero
+						est<lb/>mutabilis mentis impulsio, vel cupiditas levis, quae bre<lb/>vi
+						tempore deleatur. Habitus ergo et affectio videri po<lb/>test ; ab hac
+						namque incipit, et si ipsa permanserit,<lb/>habitus nascitur. Affectio autem
+						habitus videri non<lb/>potest ; si enim ad habitum pervenerit,
+						vocabulum<lb/>proprium non tenebit. Hoc loco non est incongruum,<lb/>quod
+						saepe quaesitum est, brevi tractatu dissolvere ac<lb/>docere, quid virtutem
+						disciplinamque discernat. Hoc<lb/>profecto quod disciplina in ea parte
+						animae, quae ra<lb/>tionalis dicitur, tantummodo diversatur ; virtus
+						vero<lb/>omnes animae partes amplectitur, omnemque animam<lb/>suo imperio
+						gubernat ac regit : ut et iracundiam do<lb/>met, et cupiditates animo
+						amoveat quod disciplina<lb/>facere haudquaquam valet. Potentia naturalis
+						est,<lb/>quoties quis videtur vel posse, vel non posse aliquid<lb/>per
+						naturam facere : ut verbi gralia, plerumque visis<lb/>corporibus puerorum,
+						et contemplatis artubus pro<lb/>nuntiamus aliquid de futuro, eosque dicimus
+						vel pu<lb/>gillatores fore, vel cursores : non quod jam hac arte<lb/>vel
+						studio teneantur, sed quod videantur positione<lb/>corporis haec facilius
+						impleturi. Similiter salubres vel<lb/>imbecilles dicimus, qui aut facile aut
+						non facile reci<lb/>piant aegritudinem. Eodem modo namque et in his
+						po<lb/>tentia naturalis advertitur, quae eos facit vel languori<lb/>crebrius
+						subjacere, vel retinere perpetuam sospitatem.<lb/>Durum quoque et molle cum
+						dicitur, ostendit poten<lb/>tiam naturalem. Durum siquidem est, quod
+						firmitate<lb/>naturae corruptionem sui non facile admittat ; molle<lb/>vero,
+						in quo est natura laxior, nec ad contraria repel<lb/>lenda sufficiens.
+						Tertium genus qualitatis sive species,<lb/>passivae qualitates et passiones,
+						quae sunt hujusmadi,<lb/>austeritas, calidatio et frigidatio : sic enim
+							<foreign xml:lang="grc">θερμότητα</foreign>
 						<lb/>et <foreign xml:lang="grc">ψυχρότητα</foreign> placet dicere, et albedo
-						ct nigredo : qu:e<lb/>non idcirco passivae qualitates dicuntur, quod
-						patian<lb/>tur aliquid, sed quod faciunt passionem. Mel namquc ut<lb/>dulce
+						et nigredo : quae<lb/>non idcirco passivae qualitates dicuntur, quod
+						patian<lb/>tur aliquid, sed quod faciunt passionem. Mel namque ut<lb/>dulce
 						sit, non a dulcedine aliquid passum est, sed<lb/>dulcem gustantibus efficit
 						passionem. Passivae au<lb/>tem qualitates rectius dicuntur, albedo et
 						nigredo,<lb/>et horum media, id est rubor et pallor : haec enim<lb/>nonnisi
-						aninmaevel corporis passione nascuntur. Ut<lb/>enim nigrescat aliquis,
-						corporis passio est; utpalle<lb/>scat vel rubescat, animae, quae cum
+						aninmae vel corporis passione nascuntur. Ut<lb/>enim nigrescat aliquis,
+						corporis passio est ; ut palle<lb/>scat vel rubescat, animae, quae cum
 						turpitudinis ve<lb/>recundiam ferre nequiverit, quasi ad obtentum
 						sui,<lb/>sanguinis copiam in exteriores corporis partes fun<lb/>dit, eoque
-						lit ut pudore nimio rubescamus. Pallor<lb/>quoque simili anime passione
-						cousistit, cum per<lb/>culsa metu nimio ad cordis ulteriora confugit,
-						cam<lb/>que sanguis insequitur, adco ut desertum sanguine,<lb/>quod esi in
-						conspectu, corpus albescat. Hac animae<lb/> passio iia a philosophis vcra
+						fit ut pudore nimio rubescamus. Pallor<lb/>quoque simili anime passione
+						consistit, cum per<lb/>culsa metu nimio ad cordis ulteriora confugit,
+						eam<lb/>que sanguis insequitur, adeo ut desertum sanguine,<lb/>quod esi in
+						conspectu, corpus albescat. Haec animae<lb/>passio ita a philosophis vera
 						esse firmatur, ut etiamsi<lb/>pallor vel rubor in corpore jugiter
-						perseveret, simili<lb/>passione asserant evenisse. Haec igitur qualitates si
+						perseveret, simili<lb/>passione asserant evenisse. Hae igitur qualitates si
 						in<lb/>corpore perseverent, quia secundum eas quales dici<lb/>mur, ipsae
-						quoque qualitates passivae censentur: sin<lb/>vero ad breve tempus
-						exstiterint, ita ut cito discedant;<lb/>I a siones eas potius nominamus. Non
+						quoque qualitates passivae censentur : sin<lb/>vero ad breve tempus
+						exstiterint, ita ut cito discedant ;<lb/>passiones eas potius nominamus. Non
 						enim quis si ad<lb/>tempus iratus est, aut erubuit, aut incaluit, aut
-						re<lb/>frixit 1. mox ad statum naturae iterum rediturus, aut <lb/>rubicundus
-						vel iracundus vel calidus vel frigidus appel<lb/>lari potest, si ad tempus
-						aliquid passus cst. Erit ergo<lb/>inter passivas qualitates et passiones
-						ista discretio,<lb/>quod passiones ad tempus exorte facile commutan<lb/>tur;
-						passivae vero qualitates secundum quas quales <lb/>dicimur, perpetuo
+							re<lb/>frixit<hi rend="superscript"><ref target="#1">1</ref></hi>, mox
+						ad statum naturae iterum rediturus, aut<lb/>rubicundus vel iracundus vel
+						calidus vel frigidus appel<lb/>lari potest, si ad tempus aliquid passus est.
+						Erit ergo<lb/>inter passivas qualitates et passiones ista
+						discretio,<lb/>quod passiones ad tempus exortae facile commutan<lb/>tur ;
+						passivae vero qualitates secundum quas quales<lb/>dicimur, perpetuo
 						perseverant. Quartam nunc quali<lb/>tatis speciem retractemus, in qua sunt
-						forme et<lb/>figurae: et figurae inanimalibus, formae
-						animalihus<lb/>tribuuntur. Figuras cnim tunc designamus, cum vel
-						<lb/>trigonum, vel tetragonum, vel conum, vel cylin<lb/>drum, vcl sphaeram
-						dicimus; formas autem cum for- <note type="footnote">I H:' Atcdili, <hi
-								rend="italic">refrigail.</hi>
+						formae et<lb/>figurae : et figurae inanimalibus, formae
+						animalihus<lb/>tribuuntur. Figuras enim tunc designamus, cum vel
+						<lb/>trigonum, vel tetragonum, vel conum, vel cylin<lb/>drum, vel sphaeram
+						dicimus ; formas autem cum for<note type="footnote" xml:id="#1"><hi
+								rend="italic">1</hi> Ita Mss. At editi, <hi rend="italic"
+								>refriguit.</hi>
 						</note>
-						<lb/>mosos asserimus aliquos vel derformes. In codam<lb/>qualitatis gcnere
+						<lb/>mosos asserimus aliquos vel deformes. In eodem<lb/>qualitatis genere
 						sunt, curvitas et rectitudo. Aude<lb/>mus enim <foreign xml:lang="grc"
-							>εὺθύτητα</foreign> xxi <foreign xml:lang="grc">ϰαμπυλότητα</foreign>
-						hoc pacto con<lb/>vertere. Ab iis namque rectum vel curvum
-						quidpiam<lb/>dicimur : lenitudo quoque ct asperitas ct raritas
-						ac<lb/>densitas, e quibus rarum, densum, le:e et asperum<lb/>designamus,
-						qualitatum quidem numero sociantur,<lb/>sed habent alteram interpretationem
-						sui. Siquidem<lb/>densum coaretationem nimiam conjunctarum
-						partium<lb/>videtur ostendere; rarum contra, in quo
-						intervallis<lb/>frequentibus laxior partium videtur csse conjunctio :<lb/>
-						quinetiam lene illud proprie vidi'tur ostendere, in<lb/>quo positio partium
-						ita apte pariliterque digesta est,<lb/>ut nulla carum mensurae alterius
-						emineret; contra,<lb/>asperum diserepantia conjunctarum partium facit :
-						<lb/>asperitatem namque non gignit nisi inaequalitas par<lb/>lium, ut sit
-						longior una, :hiera inferior. Ac propter<lb/>ca haec quidam volunt
-						categoriae alteri sociare, quae<lb/>apud Graeeos <foreign xml:lang="grc"
-							>ϰει̃σθαι</foreign>, apud nos jacere, sive ut AlI<lb/>gorius i, quem cgo
-						inter doctissimos habco, voluit,<lb/>situs dicitur. Claret enim unumquodque
-						earum par<lb/>tium , quai corpus efficiunt, positione constare :
-						ve<lb/>rumtamen cum lene vel asperum vel densum vel rn<lb/>rum dicimus,
-						qualia demonstramus, eaque omnia,<lb/>quae de his auperius explicata sunt,
-						ad interpretatio<lb/>nem non vocabuli, sed naturae videatur pOlitis
-						perti<lb/>nere : qua.de causa cogit ratio, ut haec quoque inter<lb/>qualia
+							>ευθύτητα ϰαὶ ϰαμπυλότητα</foreign> hoc pacto con<lb/>vertere. Ab iis
+						namque rectum vel curvum quidpiam<lb/>dicitur : lenitudo quoque et asperitas
+						et raritas ac<lb/>densitas, e quibus rarum, densum, lene et
+						asperum<lb/>designamus, qualitatum quidem numero sociantur,<lb/>sed habent
+						alteram interpretationem sui. Siquidem<lb/>densum coarctationem nimiam
+						conjunctarum partium<lb/>videtur ostendere ; rarum contra, in quo
+						intervallis<lb/>frequentibus laxior partium videtur esse conjunctio :<lb/>
+						quinetiam lene illud proprie videtur ostendere, in<lb/>quo posito partium
+						ita apte pariliterque digesta est,<lb/>ut nulla earum mensurae alterius
+						emineret ; contra,<lb/>asperum discrepantia conjunctarum partium facit :
+						<lb/>asperitatem namque non gignit nisi inaequalitas par<lb/>tium, ut sit
+						longior una, altera inferior. Ac propter<lb/>ea haec quidam volunt
+						categoriae alteri sociare, quae<lb/>apud Graecos <foreign xml:lang="grc"
+							>ϰει̃σθαι</foreign>, apud nos jacere, sive ut An<lb/>gorius <hi
+							rend="superscript"><ref target="#2">1</ref></hi>, quem ego inter
+						doctissimos habeo, voluit,<lb/>situs dicitur. Claret enim unumquodque earum
+						par<lb/>tium , quae corpus efficiunt, positione constare : ve<lb/>rumtamen
+						cum lene vel asperum vel densum vel ra<lb/>rum dicimus, qualia demonstramus,
+						eaque omnia,<lb/>quae de his superius explicata sunt, ad
+						interpretatio<lb/>nem non vocabuli, sed naturae videntur potius
+						perti<lb/>nere : qua de causa cogit ratio, ut haec quoque inter<lb/>qualia
 						numeremus. Ab his igitur, quas enumeravi<lb/>mus, qualitatibus <foreign
 							xml:lang="grc">παρωνύμως</foreign> qualia nominantur, ut<lb/>lene a
-						lenitate, a densitate densum , caeteraque his<lb/>similia. Sed plerumque
+						lenitate, a densitate densum, caeteraque his<lb/>similia. Sed plerumque
 						accidit, licet raro, ut qualia<lb/>non <foreign xml:lang="grc"
-							>παρωνύμως</foreign> a sua qualitate descendant, ut a virtute<lb/>non p
-						itest dici virtuosus, sed moderatus ct indu<lb/>strius. Nee in graeco quidem
-							<foreign xml:lang="grc">άπό τη̃ς τη̃ς, άρετό</foreign>; di<lb/> citur,
-						sed <foreign xml:lang="grc">σπουδαι̃ος</foreign>. Unde apparet qualia,
-						eliam<lb/>neglecta plerumque paronymorum derivatione con<lb/>stare. Haec
-						hactenus : nunc qualitatis hujus propi T<lb/>quam diversas species
+							>παρωνύμσς</foreign> a sua qualitate descendant, ut a virtute<lb/>non
+						potest dici virtuosus, sed moderatus et indu<lb/>strius. Nec in graeco
+						quidem <foreign xml:lang="grc">άπό τη̃ς άρετη̃ς, άρετός</foreign> ; di<lb/>
+						citur, sed <foreign xml:lang="grc">σπουδαι̃ος</foreign>. Unde apparet
+						qualia, etiam<lb/>neglecta plerumque paronymorum derivatione con<lb/>stare.
+						Haec hactenus : nunc qualitatis hujus propter<lb/>quam diversas species
 						explanavimus, consequentias,<lb/>et proprium videamus. Et primum quidem
 						contrarie<lb/>tatem recipere quditates, nulla dubitatio est. Quis<lb/>enim
-						dubitat saluti contrarium csse langaorem, justi<lb/>tiae injustitiam,
-						calorem frigori, maio bonum, non<lb/>erudito litteris eruditam ? Sed hoc nou
+						dubitat saluti contrarium esse languorem, justi<lb/>tiae injustitiam,
+						calorem frigori, malo bonum, non<lb/>erudito litteris eruditum ? Sed hoc non
 						in omni qua<lb/>litate reperies : nam pallido, vel fusco, vel
 						quadrato,<lb/>vel trigono, nihil potest esse contrarium. Non ergo<lb/>erit
 						incommodum regulam quamdam dare, qua quae<lb/>qualitates contrarietatem non
 						recipiant, possit ad<lb/>verti. Erit igitur notum doctis, eas qualitates,
-						quae<lb/>contrariis mediae sunt, et cas quai ex furnis figuris<lb/>que
-						nascuntur, contrarietatem penitus excusare *.<lb/>Contrariis autem medias
-						dixi, ut est fuscum et palli<lb/>dum : haec cnim duo dc abeedine nigredine
-						que na<lb/>scunlur, ac sunt his media ; ipsa vero albedo ct ni<lb/>gredo
-						sibi sunt contraria; fusco autem pallidaque<lb/>contrarium nihil est. Claret
+						quae<lb/>contrariis mediae sunt, et eas quae ex formis figuris<lb/>que
+						nascuntur, contrarietatem penitus excusare <hi rend="superscript"><ref
+								target="#3">2</ref></hi>.<lb/>Contrariis autem medias dixi, ut est
+						fuscum et palli<lb/>dum : haec enim duo de albedine nigredineque
+						na<lb/>scuntur, ac sunt his media ; ipsa vero albedo et ni<lb/>gredo sibi
+						sunt contraria ; fusco autem pallidoque<lb/>contrarium nihil est. Claret
 						ergo contrariorum me<lb/>dia, contrarium non habere. Quin etiam
 						qualitas,<lb/>quae ex forma vel figura consistit, contrarietatis<lb/>ignara
 						est. Quid enim quadrato vel trigono, quid cir<lb/>culo vel cono vel cylindro
-						contrarium quis opponat?<lb/>Regulariter ergo te neamus contrarietatis
-						receptricem<lb/>qualitatem, nee omnem posse esse, nee solam. Ncc<lb/>illud
-						cst omittendum, ut sciamus in conlrariis quali<lb/>tatum , sub eadem
-						categoria esse alterum , sub qua<lb/>aliud invenitur : ut justitiae
-						injustitia contraria est;<lb/>qualitas justitia; ct injustitia igitur
-						qualitas est. Item<lb/>qualitas cst albedo; quare nigredinem quoque
+						contrarium quis opponat ?<lb/>Regulariter ergo teneamus contrarietatis
+						receptricem<lb/>qualitatem, nec omnem posse esse, nec solam. Nec<lb/>illud
+						est omittendum, ut sciamus in contrariis quali<lb/>tatum, sub eadem
+						categoria esse alterum, sub qua<lb/>aliud invenitur : ut justitiae
+						injustitia contraria est ;<lb/>qualitas justitia; ct injustitia igitur
+						qualitas est. Item<lb/>qualitas est albedo ; quare nigredinem quoque
 						esse<lb/>qualitatem necesse est. Quo fit, ut regulariter con<lb/>trariae
-						qualitates categoria semper eadem vinciantur.<lb/>Quaerentes interra quid
+						qualitates categoria semper eadem vinciantur.<lb/>Quaerentes interea quid
 						sit proprium qualitatis, quo<lb/>niam contrarietatem suscipere nec solius
-						cst, nee to<lb/>tius, alind perscrutemur. Video cnim magis et miaus,<lb/>hoc
+						est, nec to<lb/>tius, alind perscrutemur. Video enim magis et minus,<lb/>hoc
 						est <foreign xml:lang="grc">μα̃λλον ϰαι̃ η̃ττον</foreign>, in se recipere
-						qualitatem.<lb/>Namque magis album , vel magis nigrum , vel magis<lb/>
-						musicum, vel minus musicum possumus diccre. Ve<lb/>rum id quoque nee in omni
-						qualitate, nec in soh <note type="footnote"> s In aliis Cdd., <hi
-								rend="italic">ugurius.</hi> si. </note><note type="footnote"> • ila
-							vetcres Mss. At editi, recusare. </note>
+						qualitatem.<lb/>Namque magis album, vel magis nigrum , vel magis<lb/>
+						musicum, vel minus musicum possumus diccre. Ve<lb/>rum id quoque nec in omni
+						qualitate, nec in sola <note type="footnote" xml:id="#2"><hi
+								rend="superscript">1</hi> In aliis Edd., <hi rend="italic"
+								>Augurius.</hi> M. </note><note type="footnote" xml:id="#3"><hi
+								rend="superscript">2</hi> Ita veteres Mss. At editi, <hi
+								rend="italic">recusare</hi>. </note>
 						<lb/>
 						<pb n="1435"/> poterit inveniri. Quis enim prudentiam prudentia pru<lb/>
-						dentiorem possit dicere , vei albedinemu clariorem al<lb/>bedine, vel
-						doctrinam doctrina doctiorem, vel trigono<lb/>magis trigonum. vel quadrato
+						dentiorem possit dicere, vel albedinem clariorem al<lb/>bedine, vel
+						doctrinam doctrina doctiorem, vel trigono<lb/>magis trigonum, vel quadrato
 						magis quadratum. Si<lb/>enim trigonum fuerit, magis esse quam trigonum non
 						<lb/>potest ; aut si magis aut minus fuerit, jam trigonum<lb/>non erit.
 						Separare tamen placet ac discernere eas<lb/>qualitates, quae magis et minus
-						recipiunt, ab iis quas<lb/>hunc gradum comparationis excusent 1. Sit ergo
-						haec<lb/>regula, qualitates ipsas magis et minus non posse<lb/>suscipere. £a
-						vero, quae ex his fiunt, comparata , vel<lb/>magis recipere posse vel minus
-						: ut eloquentiam ma<lb/>gis eloquentiam, seu minus nulius dicere potest ;
-						eum<lb/>vero qui eloquens dicitur, magis vcl minus caeteris<lb/>.loquentem
+						recipiunt, ab iis quae<lb/>hunc gradum comparationis excusent <hi
+							rend="superscript"><ref target="#4">1</ref></hi>. Sit ergo
+						haec<lb/>regula, qualitates ipsas magis et minus non posse<lb/>suscipere.
+						Ea vero, quae ex his flunt, comparata, vel<lb/>magis recipere posse vel minus
+						: ut eloquentiam ma<lb/>gis eloquentiam, seu minus nullus dicere potest :
+						eum<lb/>vero qui eloquens dicitur, magis vel minus caeteris<lb/>eloquentem
 						possumus dicere. Claret ergo magis et mi<lb/>nus in qualibus inveniri posse,
-						nunquam posse in<lb/>qualitates incidere. Figura; quoquc, ut superius
-						ex<lb/>plicatum est, non admittunt magis et minus : siqui<lb/>dem circulo ,
-						si aliquid addas vel minuas, circuli jam<lb/>vocabulum non tenebit, et ill
-						alterius figurae nomen<lb/>migrabit. Manifeste igitur designatum est, quae
-						quali<lb/>tates hujusmodi gradus comparationis accipiunt, ct<lb/>quae ab his
-						videntur csse alienae. Heliquum est ut<lb/>qualitatis proprium, quod apud
+						nunquam posse in<lb/>qualitates incidere. Figurae quodque, ut superius
+						ex<lb/>plicatum est, non admittunt magis et minus : siqui<lb/>dem circulo,
+						si aliquid addas vel minus, circuli jam<lb/>vocabulum non tenebit, et in
+						alterius figurae nomen<lb/>migrabit. Manifeste igitur designatum est quae
+						quali<lb/>tates hujusmodi gradus comparationis accipient, et<lb/>quae ab his
+						videntur esse alienae. Reliquum est ut<lb/>qualitatis proprium, quod apud
 						Graecos est <foreign xml:lang="grc">ι̃διον</foreign>, in<lb/>vestigemus.
 						Namque usia habet hoc proprium, ut sin<lb/>gularis atque una numero,
-						contraria in se suscipiat :<lb/>suscipiat autem dixi, nou habeat contraria.
-						Memi<lb/>nisse autem nos oportet, quod.usiac, cum de ea tra<lb/>ctaremus,
-						nibil esse diximus contrarium. Ergo ut<lb/>ejus est proprium suscipere
-						contraria , id est, sanita<lb/>lem modo, modo aegritudinem ; quanti vero, id est<lb/>
-						<foreign xml:lang="grc">του̃ πόσου</foreign> , ut par imparve dicatur;
-							<foreign xml:lang="grc">του̃ δέ</foreign>
-						<hi rend="italic"><foreign xml:lang="grc">πρός</foreign></hi><foreign
-							xml:lang="grc">τι</foreign> , ad<lb/>aliquid , ut sint <foreign
+						contraria in se suscipiat :<lb/>suscipiat autem dixi, non habeat contraria.
+						Memi<lb/>nisse autem nos oportet, quod usiae, cum de ea tra<lb/>ctaremus,
+						nihil esse diximus contrarium. Ergo ut<lb/>ejus est proprium suscipere
+						contraria, id est, sanita<lb/>lem modo, modo aegritudinem ; quanti vero, id est<lb/>
+						<foreign xml:lang="grc">του̃ πόσου</foreign>, ut par imparve dicatur ;
+						<foreign xml:lang="grc">του̃ δέ πρός τι</foreign>, ad<lb/>aliquid, ut sint <foreign
 							xml:lang="grc">άντιστροϕά</foreign>, hoc est, ut in se
-						conver<lb/>tantur, ac si t .ibi natura conjuncta : ita et qualitatis<lb/>hoc
+						conver<lb/>tantur, ac sint sibi natura conjuncta : ita et qualitatis<lb/>hoc
 						proprium est, ut cuncta qualia similia, aut dissi<lb/>milia nominentur. Et
-						duce enim dulci, et albo al<lb/>bum, et stulto stultum , et leni lene, et
-						calido cali<lb/>dun. , similia vel dissimilia proprie nuncupantur.
-						Ali<lb/>ter cnim si dicta fucriul, nuncupationem propriam<lb/>n n habebunt.
-						Ne amem nonnulli in legendo turben<lb/>tur, quod et affectio, et habitus, et
-						disciplina, quoe<lb/>iii ad aliquid dictis , id est <foreign xml:lang="grc"
-							>έν</foreign> rou <foreign xml:lang="grc">πρός τι</foreign> positae,
-						ei<lb/>dem qualitati quoque connexae sunt; hanc discretio<lb/>nem damus , ut
-						tunccategoriae ad aliquid socientur<lb/>quando sunt genera, cum vero
-						species, qualitati: ut<lb/>puta si disciplinam dixeris, quae est genus
-						caeterarum;<lb/>ad aliquid referenda est : disciplina enim
+						dulce enim dulci, et albo al<lb/>bum, et stulto stultum , et leni lene, et
+						calido cali<lb/>dum, similia vel dissimilia proprie nuncupantur.
+						Ali<lb/>ter enim si dicta fuerint, nuncupationem propriam<lb/>non habebunt.
+						Ne autem nonnulli in legendo turben<lb/>tur, quod et affectio, et habitus, et
+						disciplina, quae<lb/>in ad aliquid dictis, id est <foreign xml:lang="grc"
+							>έν τόις πρός τι</foreign> positae,
+						ei<lb/>dem qualitati quoque connexae sunt ; hanc discretio<lb/>nem damus, ut
+						tunc categoriae ad aliquid socientur<lb/>quando sunt genera, cum vero
+						species, qualitati : ut<lb/>puta si disciplinam dixeris, quae est genus
+						caeterarum ;<lb/>ad aliquid referenda est : disciplina enim
 						discibilis<lb/>rei disciplina dicitur. Quod si musicam dixeris,
-						inii<lb/>sica disciplinae species est, non genus; qualitati ne­ <lb/>ctenda
-						eat : neque cnim musici musicam possumus<lb/>dicere, sed musici disciplinam.
+						mu<lb/>sica disciplinae species est, non genus ; qualitati ne<lb/>ctenda
+						eat : neque enim musici musicam possumus<lb/>dicere, sed musici disciplinam.
 						Similiter et affectio<lb/>et habitus secundum genera et species, nunc ad
 						ali<lb/>quid, nunc dualitati nectuntur. Siquidem si affectum<lb/>vel
-						habitum, hoc cst <foreign xml:lang="grc">διάθεσιν</foreign> et <foreign
-							xml:lang="grc">ε̃ξιν</foreign>, generis dixeris,<lb/>id est disciplina!;
+						habitum, hoc est <foreign xml:lang="grc">διάθεσιν</foreign> et <foreign
+							xml:lang="grc">ε̃ξιν</foreign>, generis dixeris,<lb/>id est disciplinae ;
 						ad aliquid referuntur : sin autem<lb/>affectum sive habitum speciei esse
 						dixeris, id est mu<lb/>sicae vel grammaticae ; qualitates debemus
-						agnoscere.<lb/>Quamvis ipse quoque Aristoteles magnus ingenio huic<lb/>perce
+						agnoscere.<lb/>Quamvis ipse quoque Aristoteles magnus ingenio huic<lb/>pene
 						permixtioni concesserit, ac dixerit posse contin<lb/>gere, ut quod
 						qualitatis fuerit, idem referatur ad ali<lb/>quid ; nec esse importunum, si
-						una res duarum cale<lb/>goriarum vocabulo concludatur.</p>
+						una res duarum cate<lb/>goriarum vocabulo concludatur.</p>
 				</div>
 				<div type="textpart" subtype="chapter" n="13">
-					<ab>
-						<title type="sub"><hi rend="italic">De facere et pati.</hi>
+					<ab><!-- ici -->
+						<title type="sub">
+							<hi rend="italic">De facere et pati.</hi>
 						</title>
 					</ab>
 					<p>Dicta sunt autem omnia quae ad quatuor categorias<lb/>maximas aiqnc
@@ -1228,8 +1239,8 @@
 						et discipu<lb/>lum facit; uterque autem sive doctor, sive
 						discipulusqua<lb/>lis cst: et catera his similia considerata
 						demonstrant<lb/>recte has duas categorias praposita qualitate eractari.
-							<note type="footnote"> ' Hz vetcresUss. At cllili, <hi rend="italic"
-								>rcaucrj.</hi>
+							<note type="footnote" xml:id="#4"><hi rend="superscript">1</hi> Ita
+							veteres Mss. At editi, <hi rend="italic">recusent.</hi>
 						</note>
 						<lb/>Haec duo autem facere et pati multi dixerunt! non posse<lb/>nisi iis,
 						quae fuerint contraria, provenire. Id enim quod<lb/>dulce est, dulce non
@@ -1263,7 +1274,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="14">
 					<ab>
-						<title type="sub"><hi rend="italic">De jacere, sive situ.</hi>
+						<title type="sub">
+							<hi rend="italic">De jacere, sive situ.</hi>
 						</title>
 					</ab>
 					<p>Sequitur ut de jacere dicamus, sive de situ, ut<lb/>quidam putant: quae
@@ -1288,7 +1300,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="16">
 					<ab>
-						<title type="sub"><hi rend="italic">De habere.</hi>
+						<title type="sub">
+							<hi rend="italic">De habere.</hi>
 						</title>
 					</ab>
 					<p>Non tino modo haberealiquiddicimur.Quantumenim<lb/>tractando colligimus, sub
@@ -1320,7 +1333,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="17">
 					<ab>
-						<title type="sub"><hi rend="italic">De post proedicamentis.</hi>
+						<title type="sub">
+							<hi rend="italic">De post proedicamentis.</hi>
 						</title>
 					</ab>
 					<p>Tandem quasi magni aequoris freta transgressi, ca<lb/>tegoriarum numerum
@@ -1335,8 +1349,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="18">
 					<ab>
-						<title type="sub"><hi rend="italic">De oppositis. Tres species
-								contrariorum.</hi>
+						<title type="sub">
+							<hi rend="italic">De oppositis. Tres species contrariorum.</hi>
 						</title>
 					</ab>
 					<p>Oppositorum specics quatuor sunt : opponitur nam<lb/>que aliud alteri; primo,
@@ -1417,7 +1431,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="19">
 					<ab>
-						<title type="sub"><hi rend="italic">De priori.</hi>
+						<title type="sub">
+							<hi rend="italic">De priori.</hi>
 						</title>
 					</ab>
 					<p>Quinque modis aliud altero prius dicitur : quorum<lb/>primus est, cum dicimus
@@ -1453,7 +1468,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="20">
 					<ab>
-						<title type="sub"><hi rend="italic">De simul.</hi>
+						<title type="sub">
+							<hi rend="italic">De simul.</hi>
 						</title>
 					</ab>
 					<p>Sequilur ut proprietatem verbi, quo simul esse<lb/>quaedam dicimus,
@@ -1483,7 +1499,8 @@
 
 				<div type="textpart" subtype="chapter" n="21">
 					<ab>
-						<title type="sub"><hi rend="italic">De Motu.</hi>
+						<title type="sub">
+							<hi rend="italic">De Motu.</hi>
 						</title>
 					</ab>
 					<p>Omnis Immutatio quae <foreign xml:lang="grc">μεταολή</foreign> graece est,
@@ -1551,7 +1568,8 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="22">
 					<ab>
-						<title type="sub"><hi rend="italic">Conclusio operis.</hi>
+						<title type="sub">
+							<hi rend="italic">Conclusio operis.</hi>
 						</title>
 					</ab>
 					<p>Haec sunt, fili charissime, quae jugi labore asse<lb/>cuti, cum nohis
