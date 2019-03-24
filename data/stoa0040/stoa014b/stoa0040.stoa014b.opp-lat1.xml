@@ -167,12 +167,12 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa014b.opp-lat1" xml:lang="la">
-				<div type="textpart" subtype="appendix">
-					<head>
-						<title type="main">ADVERSUS QUINQUE HAERESES, SEU CONTRA QUINQUE HOSTIUM
-							GENERA, TRACTATUS.</title>
-					</head>
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa014b.opp-lat1" xml:lang="lat">
+				<head>
+					<title type="main">ADVERSUS QUINQUE HAERESES, SEU CONTRA QUINQUE HOSTIUM GENERA,
+						TRACTATUS.</title>
+				</head>
+				<div type="textpart" subtype="appendix" n="1">
 					<div type="textpart" subtype="chapter" n="1">
 						<div type="textpart" subtype="paragraph" n="1">
 							<p><hi rend="italic">Quinque genera hostium.</hi>
@@ -1446,56 +1446,59 @@
 							</p>
 						</div>
 					</div>
-				</div>
-				<div type="textpart" subtype="appendix">
-					<head>
-						<title type="sub">ADMONITIO IN SUBSEQUENTEM SERMONEM.</title>
-					</head>
-					<p>Iste quoque sermo sub Arianorum dominatu habitus est, eo tempore quo
-						haereticis illis disputantibus, etCatho<lb/>licos, alios pollicitatione ac
-						praemio, alios vi potentiaque deducere a fide nitentibus obsistere nullus
-						andebat. <lb/>
-						<hi rend="italic">Magnus tibi videris,</hi> ait concionator, cap. 1, <hi
-							rend="italic">quia disputas nullo tecum altercant<unclear>e</unclear>,
-							nullo judice</hi> praesidente. <hi rend="italic">Et</hi> dun; <lb/>
-						<hi rend="italic">suffragatur tempus errori tuo, existimas te aliquid esse,
-							cum nihil</hi> aia : <hi rend="italic">et seductus multos seducere
-							concupiscis, ali. <lb/> quos pecunia, aliquos potentia.</hi> Id confer
-						cum superiore sermone, cap.7, quo etiam loco, nempe supra, col.1115, lin.
-						<lb/> 11, Arianorum Ecclesiam <hi rend="italic">speluncam</hi> dictam, ut
-						hic cap. ii, observabis. De implenda professione renuntiationis <lb/>
-						baptizati adimonentur capp. 5 et 4, non secus atque in subdititiis
-						sermonibus de Symbolo ad Catechumenos in <lb/> tomo 6. Alia loca illis, vet
-						superiori sermoni similia praeterimus. Multa porro sunt delibata ex
-						Augustino: <lb/> illud cap. 48, <hi rend="italic">Numquid si magicis artibus
-							fecit</hi> ut <hi rend="italic">colcretur mortuus, magus erat antequam
-							natus?</hi> est libri f de <lb/> Consensu Evangelistarum, cap. it. Item
-						illud cap. 13, <hi rend="italic">Quid eit In medio</hi> duum <hi
-							rend="italic">animalium cognosceris,</hi> nisi <lb/>
-						<hi rend="italic">aut</hi> in <hi rend="italic">medio duorum
-							Testamentorum,</hi> aut in <hi rend="italic">medio</hi> duorum latronum,
-							<hi rend="italic">aut in medio Moysi et Eliae cum eo</hi> in <hi
-							rend="italic">monte</hi>
-						<lb/> sermocinantium? ductum est ex libri 18 de Civitate Dei capite 32. Inde
-						etiam, cap. 23; translati huc Sibyllini <lb/> versus. Cum Gregorio in
-						Evangel. homil. 53, id usurpat concionator in sermonis exordio, Cum <hi
-							rend="italic">potius</hi> expediat <lb/>
-						<hi rend="italic">flere magis quam aliquid dicere.</hi> Itemque alia quaedam
-						cap. 17 habet cum ejusdem homil. 10 in Evang. conve­ <unclear/>
-						<lb/> nientia. In cap. 15 dicit Virgilium poetam versu illo,</p>
-					<ab>
-						<title type="sub">jam nova progenies coelo demittitur alto,</title>
-					</ab>
-					<p>testimonium Christo perhibuisse: quod Augustinus in epistola 104 ad
-						Nectarium, n. 11, longe verius appellat <lb/>
-						<hi rend="italic">carmen adulatorium,</hi> dictum <hi rend="italic">viro
-							nobili,</hi> scilicet Pollioni. Dictionis barbariem monstrat Bernardus
-						Vindingusin <lb/> Crilico Augustiniano , et nounulla velut inepta
-						reprehendit, sed quae editionum erant vitia, correcta hic ex <lb/> Remigiano
-						annorum octingentorum codice, in quo inscribitur Sermo sancti <hi
-							rend="italic">Augustini de</hi> Symbolo; ex Vatica<lb/>nis tribus, ex
-						uno Bellovacensi abbatiae S. Quintini, ex Corbe<unclear>iensi</unclear>,
-						etc.</p>
+
+					<div type="textpart" subtype="appendix" n="2">
+						<head>
+							<title type="sub">ADMONITIO IN SUBSEQUENTEM SERMONEM.</title>
+						</head>
+						<p>Iste quoque sermo sub Arianorum dominatu habitus est, eo tempore quo
+							haereticis illis disputantibus, etCatho<lb/>licos, alios pollicitatione
+							ac praemio, alios vi potentiaque deducere a fide nitentibus obsistere
+							nullus andebat. <lb/>
+							<hi rend="italic">Magnus tibi videris,</hi> ait concionator, cap. 1, <hi
+								rend="italic">quia disputas nullo tecum
+									altercant<unclear>e</unclear>, nullo judice</hi> praesidente.
+								<hi rend="italic">Et</hi> dun; <lb/>
+							<hi rend="italic">suffragatur tempus errori tuo, existimas te aliquid
+								esse, cum nihil</hi> aia : <hi rend="italic">et seductus multos
+								seducere concupiscis, ali. <lb/> quos pecunia, aliquos
+								potentia.</hi> Id confer cum superiore sermone, cap.7, quo etiam
+							loco, nempe supra, col.1115, lin. <lb/> 11, Arianorum Ecclesiam <hi
+								rend="italic">speluncam</hi> dictam, ut hic cap. ii, observabis. De
+							implenda professione renuntiationis <lb/> baptizati adimonentur capp. 5
+							et 4, non secus atque in subdititiis sermonibus de Symbolo ad
+							Catechumenos in <lb/> tomo 6. Alia loca illis, vet superiori sermoni
+							similia praeterimus. Multa porro sunt delibata ex Augustino: <lb/> illud
+							cap. 48, <hi rend="italic">Numquid si magicis artibus fecit</hi> ut <hi
+								rend="italic">colcretur mortuus, magus erat antequam natus?</hi> est
+							libri f de <lb/> Consensu Evangelistarum, cap. it. Item illud cap. 13,
+								<hi rend="italic">Quid eit In medio</hi> duum <hi rend="italic"
+								>animalium cognosceris,</hi> nisi <lb/>
+							<hi rend="italic">aut</hi> in <hi rend="italic">medio duorum
+								Testamentorum,</hi> aut in <hi rend="italic">medio</hi> duorum
+							latronum, <hi rend="italic">aut in medio Moysi et Eliae cum eo</hi> in
+								<hi rend="italic">monte</hi>
+							<lb/> sermocinantium? ductum est ex libri 18 de Civitate Dei capite 32.
+							Inde etiam, cap. 23; translati huc Sibyllini <lb/> versus. Cum Gregorio
+							in Evangel. homil. 53, id usurpat concionator in sermonis exordio, Cum
+								<hi rend="italic">potius</hi> expediat <lb/>
+							<hi rend="italic">flere magis quam aliquid dicere.</hi> Itemque alia
+							quaedam cap. 17 habet cum ejusdem homil. 10 in Evang. conve­ <unclear/>
+							<lb/> nientia. In cap. 15 dicit Virgilium poetam versu illo,</p>
+						<ab>
+							<title type="sub">jam nova progenies coelo demittitur alto,</title>
+						</ab>
+						<p>testimonium Christo perhibuisse: quod Augustinus in epistola 104 ad
+							Nectarium, n. 11, longe verius appellat <lb/>
+							<hi rend="italic">carmen adulatorium,</hi> dictum <hi rend="italic">viro
+								nobili,</hi> scilicet Pollioni. Dictionis barbariem monstrat
+							Bernardus Vindingusin <lb/> Crilico Augustiniano , et nounulla velut
+							inepta reprehendit, sed quae editionum erant vitia, correcta hic ex
+							<lb/> Remigiano annorum octingentorum codice, in quo inscribitur Sermo
+							sancti <hi rend="italic">Augustini de</hi> Symbolo; ex Vatica<lb/>nis
+							tribus, ex uno Bellovacensi abbatiae S. Quintini, ex
+								Corbe<unclear>iensi</unclear>, etc.</p>
+					</div>
 				</div>
 			</div>
 		</body>
