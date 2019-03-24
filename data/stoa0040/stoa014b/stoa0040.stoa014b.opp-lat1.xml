@@ -172,8 +172,8 @@
 					<title type="main">ADVERSUS QUINQUE HAERESES, SEU CONTRA QUINQUE HOSTIUM GENERA,
 						TRACTATUS.</title>
 				</head>
-				<div type="textpart" subtype="appendix" n="1">
-					<div type="textpart" subtype="chapter" n="1">
+				<div type="textpart" subtype="appendix" n="001">
+					<div type="textpart" subtype="chapter" n="01">
 						<div type="textpart" subtype="paragraph" n="1">
 							<p><hi rend="italic">Quinque genera hostium.</hi>
 								<lb/> Debitor sum , fateor, non necessitate cogente, sed, <lb/> quod
@@ -218,7 +218,7 @@
 								genitus existat <lb/> aequalis?</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="2">
+					<div type="textpart" subtype="chapter" n="02">
 						<div type="textpart" subtype="paragraph" n="3">
 							<p><hi rend="italic">Fiducia adversus haereticos.</hi> Ecce sunt errorum
 								propositae quaestiones, quasi hostium <lb/> compositae acies. Contra
@@ -267,7 +267,7 @@
 								proposuimus prosequamur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="3">
+					<div type="textpart" subtype="chapter" n="03">
 						<div type="textpart" subtype="paragraph" n="4">
 							<p><hi rend="italic">Ex Hermete et Sibylla</hi> adversus <lb/>
 								<hi rend="italic">Puganos.</hi> Quid dicis, pagane ? Deus, inquis,
@@ -396,7 +396,7 @@
 							</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="4">
+					<div type="textpart" subtype="chapter" n="04">
 						<div type="textpart" subtype="paragraph" n="5">
 							<p><hi rend="italic">Ex Vetere Testamento adversus</hi>
 								<lb/> Judaeos. Quid dicit Judaeus? Unus est nobis Deus, <lb/>
@@ -637,7 +637,7 @@
 								ei.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="5">
+					<div type="textpart" subtype="chapter" n="05">
 						<div type="textpart" subtype="paragraph" n="6">
 							<p><hi rend="italic">Contra Manichaeos.</hi> Non parmm <lb/> de Filio
 								Dei secundum divinitatem loculi sumus, <lb/> et resistentibus in
@@ -734,7 +734,7 @@
 								<lb/> est veritas.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="6">
+					<div type="textpart" subtype="chapter" n="06">
 						<div type="textpart" subtype="paragraph" n="8">
 							<p>Contra <hi rend="italic">Arianos.</hi> Vellem adhuc <lb/> Manichaeum
 								persequi, sed infestum patior Arianum, <lb/> qui confidit in virtute
@@ -1125,7 +1125,7 @@
 									me</hi> (lsai. XLV, 21).</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="7">
+					<div type="textpart" subtype="chapter" n="07">
 						<div type="textpart" subtype="paragraph" n="9">
 							<p><hi rend="italic">Contra Sabellium.</hi> Hic Sabel<lb/>lianus
 								exsultat. Ut euim unum cumdemquc Patrem <lb/> ostendat et Filium,
@@ -1419,7 +1419,7 @@
 								sententiam, quam sequantur.</p>
 						</div>
 					</div>
-					<div type="textpart" subtype="chapter" n="8">
+					<div type="textpart" subtype="chapter" n="08">
 						<div type="textpart" subtype="paragraph" n="10">
 							<p><hi rend="italic">Conclusio.</hi> Audistis Patrem <lb/> quid dixerit
 								de Filio, audistis Filium quid de Patre <lb/> dixerit vel de se. Si
@@ -1447,7 +1447,7 @@
 						</div>
 					</div>
 
-					<div type="textpart" subtype="appendix" n="2">
+					<div type="textpart" subtype="appendix" n="002">
 						<head>
 							<title type="sub">ADMONITIO IN SUBSEQUENTEM SERMONEM.</title>
 						</head>
