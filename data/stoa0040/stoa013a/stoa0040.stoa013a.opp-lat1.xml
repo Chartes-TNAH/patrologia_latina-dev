@@ -156,8 +156,9 @@
 					hyphénisations oubliées</change>
 				<change n="4" when="2019-03-05" who="Céline Champcourt"> ajout desuppressions
 					balises div pour la structuration du texte en vue de sa capitainisation</change>
-				<change n="3" when="2019-03-05" who="Céline Champcourt"> rectification de la balise
+				<change n="5" when="2019-03-05" who="Céline Champcourt"> rectification de la balise
 					RefsDecl</change>
+				<change n="6" when="2019-03-05" who="Céline Champcourt"> correction de quelques fautes d'OCR</change>
 			</listChange>
 		</revisionDesc>
 	</teiHeader>
