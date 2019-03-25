@@ -154,6 +154,10 @@
 					hyphénisations</change>
 				<change n="3" when="2019-03-05" who="Céline Champcourt"> suppression d'autres
 					hyphénisations oubliées</change>
+				<change n="4" when="2019-03-05" who="Céline Champcourt"> ajout desuppressions
+					balises div pour la structuration du texte en vue de sa capitainisation</change>
+				<change n="3" when="2019-03-05" who="Céline Champcourt"> rectification de la balise
+					RefsDecl</change>
 			</listChange>
 		</revisionDesc>
 	</teiHeader>
@@ -169,7 +173,7 @@
 						<title type="sub">SERMO PRIMUS.</title>
 					</ab>
 					<ab>
-						<title type="sub">DE INSTITUTIONE VITae REGULARIS f.</title>
+						<title type="sub">DE INSTITUTIONE VITAE REGULARIS 1.</title>
 					</ab>
 					<p>Fratres mei et laetitia cordis loci, corona mea et gaudium meum quod estis,
 						pax vobis et charitas cum fide semper inter vos adimpleatur. Quia me putatis
@@ -183,24 +187,24 @@
 						et paticnter audire, ct cumDei adjutorio secundum vires opere adimplere,
 						semper studeatis. Sed ante omnia, fratres charissimi, quos iterum parturio
 						donec reformetur in vobis Christus, diligalur Deus, deinde proximus, quia
-						ista prae­ cepta sunt principaliter nobis data. Et ideo, fratres
+						ista praecepta sunt principaliter nobis data. Et ideo, fratres
 						dilectissimi, commorantibus nobis in cremo , in nomine Dei nostri placeat
 						secundum apostolicam vitam unum sentire, et omnia communiter possidere sicut
-						scriptum est in Actibus Apostolorum : <hi rend="italic">Qnia erant illis
+						scriptum est in Actibus Apostolorum : <hi rend="italic">Quia erant illis
 							omnia</hi> communia, <hi rend="italic">et distribuebatur unicuique sicut
 							cuique opus erat (Aci.</hi> Iv, 32, 35). In hac autem vita permaneamus,
 						et nos ipsos in ipsa, Deo auxiliante, fortiter teneamus : qnia qui
 						perseveraverit usque in finem, salvus erit. Si qnis autem de saeculo ad
 						nostram congregationem venire dcsideral, primo praecipio ut probetur an
 						voluntas ex Deo sit. Non euim debat esse violenta , non coacta, non mobilis;
-						sed sempiterna, vtrilis, constans, cl omni spiritu charitatis plena atque
-						perfecta. Tunc enim ei proponatur quomodo abneget <note type="footnote"> *
+						sed sempiterna, vtrilis, constans, et omni spiritu charitatis plena atque
+						perfecta. Tunc enim ei proponatur quomodo abneget <note type="footnote"> 1
 							..: <hi rend="italic">De</hi> margaritu <hi rend="italic">regularis
 								institutionis.</hi>
 						</note>
 						<note type="footnote"> (a) Caesarii verba. </note> voluntatem propriam, et
 						sponte seqtiatur me. Nec volo quod cogitet amplius quid necesse ci fuerit :
-						scit enim Pater noster ecclestis quibus indigemus. Quae­ ramus igitur primum
+						scit enim Pater noster ecclestis quibus indigemus. Quaeramus igitur primum
 						regnum Dei, et haec omnia administrabuntur nobis. (a) In omtorio nemo
 						:liquid agat, nisi ad qnod factum est, unde ct nomen acce­ pit. Orationibus
 						instate a. inane usquead sextam tantum circa missarum solemnia. A sexta vero
@@ -223,15 +227,15 @@
 						necesse est, ut aliqui ad saeculum vadant, (aveant ne vadant minus quam duo
 						vel tres. Et si oculi servorumDei jaciantur in aliquam feminarum cavete ne
 						in illam figantur. Dens enim qui habitat in vobis, etiam isto modo custodiet
-						vos ex vobis. Nemo cum Me- <note type="footnote"> I Editi addunt, <hi
+						vos ex vobis. Nemo cum Me<note type="footnote"> 1 Editi addunt, <hi
 								rend="italic">et debiles.</hi>
 						</note>
 						<note type="footnote"> (a) vld. fteplam Bcned., cap. 52. </note>
 						<pb n="1237"/> cularibus extra monasterium manducare nisi panem, vel bibere
 						nisi aquam praesumat, vel1 etiam intus manducare extra horam prandii, nisi
-						casus in­ firmitatis acciderit. Qui vero infirmantur ex volris, cum omni
+						casus infirmitatis acciderit. Qui vero infirmantur ex volris, cum omni
 						diligentia pertractentur, clinmsi de humillima saeculi paupertate venerint
-						Noc debet sanis mnlestum esse, si aliter tractantur in victu : scd magis
+						Noc debet sanis mnlestum esse, si aliter tractantur in victu : sed magis
 						congratulentur, Deo gratias agentes. quia valent quod nOli valent illi. Si
 						vero, ut fieri solet. ab haereticis supervenerit incursio repentina , vel
 						alt infidelibus, ant hostilitas, iti ut nocessc sit fratribus fugam
@@ -269,7 +273,7 @@
 						debet, qui pacem corde, ore et opere non hahet. Qui in hac non sperat, in
 						lubrico pedem ponit, in tempestate navem collocat, in praecipitio se
 						illaqueat, in arena semen seminat Haec Est illa perfecta pax, quae mentem a
-						vitiis purgat, vermem conscientiae rodit. 0 pax , eremitarum mater,
+						vitiis purgat, vermem conscientiae rodit. O pax , eremitarum mater,
 						cœnobitarum pnter, monachorum soror ! Tu Patriarcharum vinculum, tu
 						Prophetarum vehiculum , tu Apostolorum refugium, tu martyrum solatium, tu
 						confessorum balteum a, tu virginum tripudium, tu viduarum speculum, tu
@@ -277,9 +281,9 @@
 						latronum suspendium. 0 pax, Dei aedificium! te non possunt destruere
 						principum fulmina, insultus daemonum to in nullo laedere possunt. Tu
 						pauperem divitem facis, tu divitem mendicantem producis: tu contenta in
-						cunctis, tii ditior universis, tu homines Dei filios facis. 0 pax! sine te
+						cunctis, tii ditior universis, tu homines Dei filios facis. O pax! sine te
 						reges non regunt, sine te regna non valent. Numquid sine te jejunia,
-						orationes, eleemosynae caeteraque bona nobis prodesse possunt? Absit. 0
+						orationes, eleemosynae caeteraque bona nobis prodesse possunt? Absit. O
 						monache, habeto pacem in cunctis v nam si fratri luo irasceris, si proximum
 						odis, libi contradicis in oratione dominica : clamat enim monachus, <hi
 							rend="italic">Dimiue nobis debita</hi> notra, <hi rend="italic">sicut
@@ -287,37 +291,37 @@
 							(Matth.</hi> VI, 12). 0 monache, si pacem non di­ ligis, si proximum
 						odis; quo jure, quo pacto, qua fronte libi petis dimitti, qui proximo
 						rancorem non <note type="footnote"> 1 Alias aJditur, alifnid. </note><note
-							type="footnote"> I Editi addunt, vi <hi rend="italic">eremo..</hi>
-						</note><note type="footnote"> * Mss., <hi rend="italic">buiHfum.</hi>
+							type="footnote"> 1 Editi addunt, vi <hi rend="italic">eremo..</hi>
+						</note><note type="footnote"> 2 Mss., <hi rend="italic">balneum.</hi>
 						</note> dimittis ? Habete ergo pacem cum omnibus, omnium tamen vitia
 						odientes. Habete in corde, in ore et in opere pacem. Nam si Cain pacem
 						habuisset in cordc , non irruisset in fratrem. Si Absalon pacem habuisset in
 						ore, non sprevisset patrem. Si Judas habuisset pacem in opere, non fugisset
 						ad la meum. 0 qnam ho­ num, o quam jucundum, est habitare fratres in unum:
-						ut unum sit cor. una voluntas una omnium anima, et una forma vivendi : nnm
-						diabolus intrare non potest domum vol mentem in qua pax dominatur. 0 quam
+						ut unum sit cor. una voluntas una omnium anima, et una forma vivendi : nam
+						diabolus intrare non potest domum vol mentem in qua pax dominatur. O quam
 						jucundum est habitare fratres in unum! Tanta est enim eminentia istius
 						virtutis, quod de ea propheta prius miraretur, quam ostenderet quid esset,
-						vcl quid utilitatis haberet. 0 qnam grandem admirationem praeposuit, quando
-						dixit, <hi rend="italic">Ecce.</hi> 0 quam mirabilem utilitatem praedicavit.
+						vel quid utilitatis haberet. O quam grandem admirationem praeposuit, quando
+						dixit, <hi rend="italic">Ecce.</hi> O quam mirabilem utilitatem praedicavit.
 						quando subjunxit, <hi rend="italic">Quam bonumet qnam jucundum (Psal.</hi>
-						CXXXII, 1)! Sed scire debetis, fratres mei, quod qua'dam sunt bona qu:r non
+						CXXXII, 1)! Sed scire debetis, fratres mei, quod quaedam sunt bona quae non
 						sunt jucunda , qu:rdam jucunda quae non sunt bona. Yerbi gratia, bona sunt
 						jejunia, vigiliae, macerationes, et similia. Haec enim sunt bona, et non
 						jucunda, quia caro in his non jucundatur, scd laeditur. Jucunda quippe sunt
 						comessationes, ebrietates, sed non sunt bona. Haec agentes laetantur cum
-						male fecerint, et exsultant de rebus pessimis. 0 monache , vix poteris
+						male fecerint, et exsultant de rebus pessimis. O monache , vix poteris
 						invenire in praesenti unum, qnod sit bonum et jucundmn. Cupis tamen illud
 						unum invenire? Perquire pacem, et amplectere cam. Haec est enim sola virtus,
 						quae bonum habet et jucundum. Haec est illa bonitas, quae nos habitare facit
 						unius moris in domo; ut simul vivere simulque mori semper optemus. In
 						praesenti enim simul habitamus, et in futuro capiemus bravium jucunditatis
-						aeternae. 0 pax, tu mentis seronitas, tu tranquillitas animi, cordis
+						aeternae. O pax, tu mentis seronitas, tu tranquillitas animi, cordis
 						simplicitas, nmoris vinculum, charitatis consortium. Haec cst illa summa
 						felicitas, quae simultates tollit, bella compescit, iras comprimit, superbos
 						calcat, humiles amm, discordes sedat, inimicos concordat, cunctis placet, a
 						cunctis optatur : sed a cunctis malis i!!a que bona est pax fugitur, et
-						oditur ut mors. 0 pax , tu nescis extolli, ignoras inflari. Beatus qui te
+						oditur ut mors. O pax , tu nescis extolli, ignoras inflari. Beatus qui te
 						habet : maledictus qui te odit, et qui te impedit et frangit inter homines;
 						quoniam antichristus est, et filius perditionis, 0 pax , qui te habet,
 						teneat te; qui te non habet, te perqui­ rat; qui te perdidit, te requirat,
