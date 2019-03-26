@@ -137,6 +137,8 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+  	<revisionDesc>
+  		<change who="aducheta" when="2019-03-26">Régularisation des hyphénisations</change>
 	</teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa013a.opp-lat1">
