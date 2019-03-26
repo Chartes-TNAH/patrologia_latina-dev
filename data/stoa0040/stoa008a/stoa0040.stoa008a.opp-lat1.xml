@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
-  <teiHeader>
-    <fileDesc>
+	<teiHeader>
+		<fileDesc>
 			<titleStmt>
 				<title>Patrologiae Cursus Completus. Series Latina (PL)</title>
 				<sponsor>University of Leipzig</sponsor>
@@ -10,7 +10,7 @@
 				<principal>Gregory Crane</principal>
 				<respStmt>
 					<persName xml:id="Jouve">Jouve</persName>
-					<resp>OCR-ed, corrected and encoded the text</resp>
+					<resp>OCR-ed, corrected and encoded the text</resp> 
 				</respStmt>
 				<respStmt>
 					<persName>Greta Franzini</persName>
@@ -128,15 +128,20 @@
 		<encodingDesc>
 			<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
 				Architecture.</p>
-		  <refsDecl n="CTS">
-        <cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-      </refsDecl>
-    </encodingDesc>
+			<refsDecl n="CTS">
+				<cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+					<p>This pointer pattern extracts chapters</p>
+				</cRefPattern>
+			</refsDecl>
+		</encodingDesc>
 		<profileDesc>
 			<langUsage>
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+		<revisionDesc>
+			<change when="2019-03-26" who="Diane Alliaume">Correction des "æ" par des "ae", Structuration du texte en chapitres citables selon le standard CapiTainS, Déclaration de ce pattern dans le cRefPattern, Correction des césures de mots, Déclaration des modifications appliquées au document dans le revisionDesc.</change>
+		</revisionDesc>
 	</teiHeader>
   <text>
     <body>
