@@ -139,7 +139,9 @@
 		</profileDesc>
   	<revisionDesc>
   		<change who="aducheta" when="2019-03-26">Régularisation des hyphénisations</change>
-	</teiHeader>
+  		<change who="aducheta" when="2019-03-26">Régularisation des æ en ae</change>
+  	</revisionDesc>
+  </teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa013a.opp-lat1">
 					<head>
