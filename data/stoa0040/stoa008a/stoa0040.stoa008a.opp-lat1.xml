@@ -139,13 +139,15 @@
 		</profileDesc>
 	</teiHeader>
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa008a.opp-lat1">
+    <body>
+    	<div type="edition" n="urn:cts:latinLit:stoa0040.stoa008a.opp-lat1">
 					<ab>
 						<title type="sub">SERMO</title>
 					</ab>
 					<ab>
 						<title type="sub">DE SYMBOLO .</title>
 					</ab>
+    		<div type="textpart" subtype="prélude">
 					<p>EXORDIUM. <hi rend="italic">Fidei interioris et exterioris necessitas. Sym<lb/>bolum
 							regula fidei. Qua ratione institutum sit. Quidcom<lb/>plectatur.</hi> (b) Notum
 						est, dilectissimi, Charitati vestrae, <lb/> quod milites saeculi beneficia temporalia a
