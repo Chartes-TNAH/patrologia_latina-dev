@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
   <teiHeader>
     <fileDesc>
 			<titleStmt>
@@ -126,7 +126,7 @@
 			<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
 				Architecture.</p>
 		  <refsDecl n="CTS">
-        <cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+		  	<cRefPattern n="section" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
       </refsDecl>
     </encodingDesc>
 
@@ -143,7 +143,7 @@
   	</revisionDesc>
 	</teiHeader>
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa015a.opp-lat1">
+  	<body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa015a.opp-lat1" xml:lang="la">
 					<head>
 						<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI COLLATIO CUM MAXIMINO
 							Arianorum Episcopo (a).</title>
