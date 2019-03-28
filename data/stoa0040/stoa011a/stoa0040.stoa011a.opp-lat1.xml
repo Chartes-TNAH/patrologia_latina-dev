@@ -84,7 +84,13 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
-
+		<revisionDesc>
+			<change who="Anna Duchet-Annez" when="2019-03-27">Structuration du texte selon les
+				guidelines CapiTainS</change>
+			<change who="Anna Duchet-Annez" when="2019-03-27">Correction de l'OCR</change>
+			<change who="Anna Duchet-Annez" when="2019-03-26">Changement des æ en ae</change>
+			<change who="Anna Duchet-Annez" when="2019-03-26">Régularisation des hyphénisations</change>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
