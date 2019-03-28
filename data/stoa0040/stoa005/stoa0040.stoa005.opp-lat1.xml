@@ -91,8 +91,8 @@
 			</langUsage>
 		</profileDesc>
   	<revisionDesc>
-  		<change who="Diane Alliaume" when="2019-03-28">Structuration du fichier afin de
-  			respecter les guidelines du project CapiTainS et normalisation des "ae",collement des hypénisations.</change>
+  		<change who="Diane Alliaume" when="2019-03-28">Remplacement des æ en ae, ajout dans le TEI et collement des hypénisations.</change>
+  		<change who="Diane Alliaume" when="2019-03-28">Structuration du fichier afin de respecter les guidelines du project CapiTainS</change>
   	</revisionDesc>
 	</teiHeader>
   <text>
