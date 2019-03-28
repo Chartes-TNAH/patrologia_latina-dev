@@ -93,12 +93,18 @@
 						<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI DE DOCTRINA CHRISTIANA
 							LIBRI QUATUOR .</title>
 					</head>
+    		
+    		
+    		<div type="textpart" subtype="prélude">
 					<ab>
+						
 						<title type="sub">Prologus.</title>
 					</ab>
+    		
 					<ab>
 						<title type="sub">Doctrinam de Scriptura tractanda haud superfluo tradi.</title>
 					</ab>
+    				
 					<p>1. Sunt praeccpta quadam tractandarum Scriptu<lb/> rarum, quae studiosis earum video
 						non iucommode <lb/> posse tradi; ut non solum legendo alios qui divinarum <lb/>
 						litterarum operta aperuerunt, sed et aliis ipsi ape<lb/> riendo proOciant. Haec tradere
@@ -109,6 +115,7 @@
 						ctiam post ista reprehende<lb/> rint * saltem alios non movcbunt, nec ab utili studio
 						<lb/> ad imperitiae pigritiam revocabunt, quos movere pos<lb/> sent, nisi praemunitos
 						praeparatosque invenirent.</p>
+    			
 					<p>2. Quidam euim reprehensuri sunt hoc opus no<lb/> strum, eum ea quae praecepturi
 						sumus non intellexe<lb/> rint. Quidam vero cum intellectis uti volucrint, <lb/>
 						conatique fuerim Scripturas divinas secundum haec <lb/> praecepta tractare, neque
@@ -257,7 +264,8 @@
 						quanquam et in ipso opere <lb/> salis apparere possit huic ofQcioso labori nostro non
 						<lb/> recte aliquem contradicere; tamen , si hujusmodi <lb/> prooemio quibuslibet
 						obsistentibus convenienter vide<lb/> tur esse responsum, hujus viae quam in hoc libro
-						in<lb/> gredi volumus, tale nobis occurrit exordium</p>
+						in<lb/> gredi volumus, tale nobis occurrit exordium</p></div>
+    		<div type="textpart" subtype="book" n="1">
 					<ab>
 						<title type="sub">
 							<hi rend="italic">LIBER PRIMUS.</hi>
@@ -273,6 +281,7 @@
 						quibus dilectio jure impenditur, sed in <lb/> Deum relata. Quibus explicatis docetur
 						totias Scripturae sacrae plenitudinem et finem esse geminam charitatem, Dei propter <lb/>
 						seipsum, ac proximi propter Dcum.</p>
+    			<div type="textpart" subtype="chapter" n="1">
 					<ab>
 						<title type="sub">CAPUT PRIMUM. — <hi rend="italic">Inventione et enuntiatione</hi> ni­
 							titur <hi rend="italic">Scripturae tractatio; quae cum Dei auxilio susci­ pienda.</hi>
@@ -295,7 +304,8 @@
 						accrevit, sic ea quai ad hoc <lb/> opus aggrediendum jam Dominus praebuit, cum di<lb/>
 						spensari cœperint, eo ipso suggerente multiplicabun<lb/> tur, ut in ipso hoc nostro
 						ministerio, non solum nul<lb/> lam patiamur inopiam , sed de mirabili etiam abun­
-						<lb/> dantia gandeamus.</p>
+						<lb/> dantia gandeamus.</p></div>
+    			<div type="textpart" subtype="chapter" n="2">
 					<ab>
 						<title type="sub">CAPUT II. — <hi rend="italic">Quid</hi> res, quid <hi rend="italic">signa.</hi>
 						</title>
@@ -316,7 +326,8 @@
 						atque signorum, <lb/> cum de rebus loquemur, ita loquemur ut etiamsi ca<lb/> rum
 						aliquae adhiberi ad significandum possint, non <lb/> impediant partitionem , qua prius de
 						rebus, postca <lb/> de signis disseremus ; memoriterque teneamus id nunc <lb/> in rebus
-						considerandum esse quod sunt, non quod <lb/> aliud etiam praeter scipsas significant.</p>
+						considerandum esse quod sunt, non quod <lb/> aliud etiam praeter scipsas significant.</p></div>
+    			<div type="textpart" subtype="chapter" n="3">
 					<ab>
 						<title type="sub">CAPUT III. — <hi rend="italic">Rerum divisio.</hi>
 						</title>
@@ -328,7 +339,8 @@
 						<lb/> vero qui fruimuret utimur, inter utrasque constituti, <lb/> si cis auibus utendum
 						est frui voluerimus, impeditur <lb/> cursus noster, et aliquando etiam deflectitur, ut
 						ab <lb/> his rebus quibus fruendum est obtinendis vel retarde<lb/>mur , vel etiam
-						revocemur , inferiorum amore prae<lb/> pediti.</p>
+						revocemur , inferiorum amore prae<lb/> pediti.</p></div>
+    			<div type="textpart" subtype="chapter" n="4">
 					<ab>
 						<title type="sub">CAPUT IV. — <hi rend="italic">Frui et uti, quid sit.</hi>
 						</title>
@@ -348,7 +360,8 @@
 						esse possimus, <lb/> utendum est hoc mundo, non fruendum ; ut invisibilia <lb/> l)ci,
 						per ea quae facta sunt, intellecta conspiciantur <lb/>
 						<hi rend="italic">(Rom.</hi> I, 20), hoc est, ut de corporalibus temporali<lb/> busque
-						rebus aeterna et spiritualia capiamus.</p>
+						rebus aeterna et spiritualia capiamus.</p></div>
+    			<div type="textpart" subtype="chapter" n="5">
 					<ab>
 						<title type="sub">CAPUT V. — <hi rend="italic">Deus Trinitas , res qua fruendum.</hi>
 						</title>
@@ -366,7 +379,8 @@
 						incom<lb/> mutabilitas, eadem majestas, cadem potestas. In Pa<lb/> Ire unitas , in
 						Filio aequalitas, in Spiritu sancto uni<lb/> tatis aequalitalisque concordia : et tria
 						haec unum <lb/> munia propter Patrem, aequalia omnia propter Filium, <lb/> connexa omnia
-						propter Spiritum sanctum.</p>
+						propter Spiritum sanctum.</p></div>
+    			<div type="textpart" subtype="chapter" n="6">
 					<ab>
 						<title type="sub">CAPUT VI. - <hi rend="italic">Deus ineffabilis, quomodo.</hi>
 						</title>
@@ -385,7 +399,8 @@
 						scios 1, cum aures corum sonus iste tetigerit, <lb/> movet ad cogitandam
 						excellentissimam quamdam im<lb/> mortalemque naturam. <note type="footnote"> 1 Apud
 							Am. Et. et Mss. septemdecim, socios. </note>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="7">
 					<ab>
 						<title type="sub">CAPUT VII. — <hi rend="italic">Deum omnes intelligunt</hi> in <hi rend="italic">quo nihil</hi> melius.</title>
 					</ab>
@@ -406,7 +421,8 @@
 						mutabilibus <lb/> praeferunt. Omnes tamen certatim pro excellentia Dei <lb/> dimicant;
 						nec quisquam inveniri potest qui hoc Deum <lb/> credat esse quo melius aliquid est.
 						Itaque hoc omnes <lb/> Deum consentiunt esse, quod caeteris rebus omnibus <lb/>
-						anteponunt.</p>
+						anteponunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="8">
 					<ab>
 						<title type="sub">CAPUT VIII. — <hi rend="italic">Deus cum sit sapientia incommuta­
 								bilis, rebus omnibus anteponendus,</hi>
@@ -432,7 +448,8 @@
 						vident ; nee uspiam nisi supra suam <note type="footnote"> 1 Editi, <hi rend="italic">sic eam.</hi> At Mss. prope caunes, <hi rend="italic">si cam</hi>
 						</note><note type="footnote"> 2 Ita in MSS. plerisque ubi in edius, habetur, <hi rend="italic">Ipsam quo-<lb/> que</hi>
 						</note><lb/>
-						<pb n="23"/> naturam vident, quandoquidem se vident mutabiles.</p>
+						<pb n="23"/> naturam vident, quandoquidem se vident mutabiles.</p></div>
+    			<div type="textpart" subtype="chapter" n="9">
 					<ab>
 						<title type="sub">CAPUT IX. — <hi rend="italic">Sapientiam immutabilem mutabili</hi>
 							praeferendam <hi rend="italic">esse omnes norunt.</hi>
@@ -446,7 +463,8 @@
 						fulgor infusus. Qui autem videt et re<lb/>fugit, consuetudine umbrarum carnalium
 						invalidam <lb/> mentis aciem gerit. Pravorum igitur morum quasi <lb/> contrariis
 						flatibus ab ipsa patria repercutiuntur homi<lb/>lies ; posteriora atque inferiosa
-						sectantes, quam illud <lb/> quod esse melius atque praestantius confitentur.</p>
+						sectantes, quam illud <lb/> quod esse melius atque praestantius confitentur.</p></div>
+    			<div type="textpart" subtype="chapter" n="10">
 					<ab>
 						<title type="sub">CAPUT X. — <hi rend="italic">Ad videndum Deum purgandus animus.</hi>
 						</title>
@@ -456,7 +474,8 @@
 						ronsulat; purgandus est animus, ut et perspicere iI<lb/> lam lucem valeat, et
 						inhaerere perspectae2. Quam pur<lb/> gationem quasi ambulationem quamdam, et quasi na­
 						<lb/> vigationem ad patriam esse arbitremur. Non enim ad <lb/> cum qui ubique praesens
-						est, locis movemur, sed bono <lb/> studio bonisque moribus.</p>
+						est, locis movemur, sed bono <lb/> studio bonisque moribus.</p></div>
+    			<div type="textpart" subtype="chapter" n="11">
 					<ab>
 						<title type="sub">CAPUT XI. — <hi rend="italic">Purgandi animi exemplum Sapientia
 								incarnata.</hi>
@@ -469,7 +488,8 @@
 						fecisse putata est. Et quoniam nos cum ad illam ve<lb/> nimus, convalescimus; ipsa cum
 						ad nos venit, quasi <lb/> infirma existimata est. Sed quod stultum est Dei, sa<lb/> l
 						.centius est hominibus: et quod infirmum est Dei, <lb/> fortius est hominibus (I <hi rend="italic">Cor.</hi> I, 25). Cum ergo ipsa sit <lb/> patria, viam se quoque nobis
-						focii ad patriam.</p>
+						focii ad patriam.</p></div>
+    			<div type="textpart" subtype="chapter" n="12">
 					<ab>
 						<title type="sub">CAPUT XII. — <hi rend="italic">Quomodo Sapientia Dei ad noa
 								venit,</hi>
@@ -493,7 +513,8 @@
 						<lb/>
 						<hi rend="italic">vit (Joan.</hi> I, 10). Itaque in Sapi ntia Dii non poterat <lb/>
 						mundus per Sapientiam cognoscere Dcum. Cur crg') <lb/> venit cnm hic essot, nisi quia
-						placuit Deo per stulu<lb/> tiam praedicationis salvos facere credentes?</p>
+						placuit Deo per stulu<lb/> tiam praedicationis salvos facere credentes?</p></div>
+    			<div type="textpart" subtype="chapter" n="13">
 					<ab>
 						<title type="sub">CAPUT XIII. <hi rend="italic">—Verbnm caro factum est.</hi>
 						</title>
@@ -503,7 +524,8 @@
 						corde gestamus, et locutio vocatur; nec tamen <lb/> in eumdem sonum cogitatio nostra
 						convertitur, sed <lb/> apud sc manens integra, formam vocis qua sc insinuet <lb/>
 						auribus, sine aliqua labe suae mutationis 1 assumit : <lb/> ita Verbum Dei non
-						commutatum, earo tamen factum <lb/> est, ut habitaret in nohis.</p>
+						commutatum, earo tamen factum <lb/> est, ut habitaret in nohis.</p></div>
+    			<div type="textpart" subtype="chapter" n="14">
 					<ab>
 						<title type="sub">CAPUT XIV. — <hi rend="italic">Hominem quomodo</hi> Manarit <hi rend="italic">Dei Sapientia.</hi>
 						</title>
@@ -530,7 +552,8 @@
 						<lb/> hita, illa sunt, quod per feminam deceptos per remi.. <lb/> nam natus, homo
 						homines, mortalis mortales, morto <lb/> mortuos libcravit. Multa quoque alia diligentius
 						con<lb/> siderantibus quos instituti operis peragendi necessitas <lb/> non rapit, vel
-						a contrariis, vel a similibus medicinae <lb/> christianae apparet instructio.</p>
+						a contrariis, vel a similibus medicinae <lb/> christianae apparet instructio.</p></div>
+    			<div type="textpart" subtype="chapter" n="15">
 					<ab>
 						<title type="sub">CAPUT XV. — <hi rend="italic">Resurrectione et ascensione Christi
 								ful­</hi> citur .<hi rend="italic">fides, excitatur judicio.</hi>
@@ -551,7 +574,8 @@
 						vitae hujus fiduciam charitatemque tantam ejus, quem <lb/> nondum videmus, habeamus, et
 						dona I unicuique <lb/> propria ad instructionem Ecclesiae sua, ut id quod <lb/> ostendit
 						esse faciendum, non soluin sine murmure, <lb/> sed etiam cum delectatione 3 faciamus
-						?</p>
+						?</p></div>
+    			<div type="textpart" subtype="chapter" n="16">
 					<ab>
 						<title type="sub">CAPUT XVI. — <hi rend="italic">Ecclesia Christi corpus et conjux</hi>
 							medicinalibus <hi rend="italic">molestiis ab ipso purgatur.</hi>
@@ -562,7 +586,8 @@
 						i), nodo unitatis <lb/> et cbarilalis tanquam sanitatis astringit. Exercet au <lb/> tem
 						hoc tempore et purgat medicinalibus quibusdam <lb/> molestiis, ut erutam de hoc saeculo,
 						in aeternum sibi <lb/> copulet conjugem Ecclesiam, non habentem maculam <lb/> aut rugam,
-						aut aliquid hujusmodi ( <hi rend="italic">Ephes.</hi> v, 23-52).</p>
+						aut aliquid hujusmodi ( <hi rend="italic">Ephes.</hi> v, 23-52).</p></div>
+    			<div type="textpart" subtype="chapter" n="17">
 					<ab>
 						<title type="sub">CAPUT XVII. — <hi rend="italic">Chrisma donando peccata viam aperuit
 								ad palriam.</hi>
@@ -572,7 +597,8 @@
 						intercludebat, quasi <lb/> septa quaedam spinosa, praeteritorum malitia' peccato<lb/>
 						rum; quid liberalius ct miscricordius facere potuit, <lb/> qui seipsum nobis, qua I
 						rediremus, substernere vo<lb/> luit, nisi ut omnia donaret peccata conversis, et gra.
-						<lb/> viter fixa interdicta reditus nostri pro nobis cruci<lb/> fixus evelleret ?</p>
+						<lb/> viter fixa interdicta reditus nostri pro nobis cruci<lb/> fixus evelleret ?</p></div>
+    			<div type="textpart" subtype="chapter" n="18">
 					<ab>
 						<title type="sub">CAPUT XVIII. — <hi rend="italic">Claves traditae Ecclesiae.</hi>
 						</title>
@@ -583,7 +609,8 @@
 						crederet, seque ab his correctus averteret, in <lb/> ejusdem Ecclesiae gremio
 						couslitutus, eadein lide at<lb/> que correctione sanaretur. Quisquis euim non credit
 						<lb/> dimitti sibi posse peccata, fit deterior desperando, <lb/> quasi nihil illi melius
-						quam malum esse remaneat, ubi <lb/> de fructu suae conversionis infidus est.</p>
+						quam malum esse remaneat, ubi <lb/> de fructu suae conversionis infidus est.</p></div>
+    			<div type="textpart" subtype="chapter" n="19">
 					<ab>
 						<title type="sub">CAPUT XIX. — <hi rend="italic">Corporis et</hi> animi mors atque <hi rend="italic">re­</hi> surrectio.</title>
 					</ab>
@@ -607,7 +634,8 @@
 						non potest ; sed corruptibile huc induat incorruptio<lb/> nem, ct mortale hoc induat
 						immortalitatem <hi rend="italic">(ICor.</hi> xv, <lb/> 50. 55), nullamque faciens
 						molestiam, qnia nullam <lb/> patietur indigentiam, a beata perfectaque anima cum <lb/>
-						summa quiete vegeletur.</p>
+						summa quiete vegeletur.</p></div>
+    			<div type="textpart" subtype="chapter" n="20">
 					<ab>
 						<title type="sub">CAPUT XX. — <hi rend="italic">Qui non ad vitam sed ad supplicia
 								renascantur.</hi>
@@ -615,14 +643,16 @@
 					</ab>
 					<p>19. Cujus autem animus non moritur huicsaeculo, <lb/> neque incipit configurari
 						veritati, in graviorem mor<lb/> tem morte corporis trahitur ; neque ad commutatio­
-						<lb/> ncm I coelestis habitudinis, sed ad luenda supplicia <lb/> reviviscet.</p>
+						<lb/> ncm I coelestis habitudinis, sed ad luenda supplicia <lb/> reviviscet.</p></div>
+    			<div type="textpart" subtype="chapter" n="21">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">XXI.—Rursus corporis de resurrectione.</hi>
 						</title>
 					</ab>
 					<p>Hoc iuique lides habet, atque ita se rem habere <lb/> credendum est, neque animum,
 						neque corpus huma<lb/> num omnimodum interitum pati; sed impios resur<lb/> gere ad
-						pœnas inaestimabiles, pios autem ad vitam <lb/> secernam.</p>
+						pœnas inaestimabiles, pios autem ad vitam <lb/> secernam.</p></div>
+    			<div type="textpart" subtype="chapter" n="22">
 					<ab>
 						<title type="sub">CAPUT XXII. — <hi rend="italic">Solo Deo fruendum.</hi>
 						</title>
@@ -671,7 +701,8 @@
 						currit. Quisquis ergo <lb/> recte proximum diligit, hoc cum eo debet agere, ut <lb/>
 						ctiam ipse toto corde, tota anima, tota mente diligat <lb/> Deum. Sic enim cum diligens
 						tanquam scipsum, totam <lb/> dilectionem sui et illius refert in illam dilectionem <lb/>
-						Dei, quae nullum a se rivulum duci extra patitur, cu<lb/> jus derivatione minuatur.</p>
+						Dei, quae nullum a se rivulum duci extra patitur, cu<lb/> jus derivatione minuatur.</p></div>
+    			<div type="textpart" subtype="chapter" n="23">
 					<ab>
 						<title type="sub">CAPUT XXIII. — Homini praecepto <hi rend="italic">non</hi> opus <hi rend="italic">eit, ut se et suum corpus diligat. Prava sui dilectio.</hi>
 						</title>
@@ -696,7 +727,8 @@
 						incorruptio corporis de sanitate animi exislit; <lb/> sanitas autem animi cst firmissime
 						inhaerere iotiori, <lb/> hoc est incommutabili Deo. Cum vero etiam cis qui <lb/> sibi
 						naturaliter pares sunt, hoc est, hominibus, domi<lb/> nari affectat, intolerabilis
-						omuino superbia cst.</p>
+						omuino superbia cst.</p></div>
+    			<div type="textpart" subtype="chapter" n="24">
 					<ab>
 						<title type="sub">CAPUT XXIV. — <hi rend="italic">Nemo carnem suam edit, nequidem illi
 								qui in eam insurgunt.</hi>
@@ -738,7 +770,8 @@
 						Apostoli, ubi ait : <hi rend="italic">Nemo enim</hi> un<lb/>
 						<hi rend="italic">quam carnem</hi> suam <hi rend="italic">odio habuit.</hi> Addidit
 						etiam : <hi rend="italic">Sed<lb/> nutrit et fovet eant, sicut Christus Ecclesium.</hi>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="25">
 					<ab>
 						<title type="sub">CAPUT XXV. — <hi rend="italic">Etsi aliquid amplius diligitur quam
 								corpus, non tamen corpus odio hubetur.</hi>
@@ -767,7 +800,8 @@
 						pecuniam quam multum diligit <lb/> et angere desiderat; sed quia pluris aestimat salutem
 						<lb/> corporis sui, quae illo pane fulcitur. Supervacaneum <lb/> est diutius de re
 						manifestissima disputare, quod ta<lb/> men plerumque nos facere cogit error
-						impiorum.</p>
+						impiorum.</p></div>
+    			<div type="textpart" subtype="chapter" n="26">
 					<ab>
 						<title type="sub">CAPUT XXVI. — <hi rend="italic">Praeceptum de Deo ct proximo, imo et de
 								seipto diligendo datum est.</hi>
@@ -788,7 +822,8 @@
 						dilectionis modus praescriptus appareat, ita ut <lb/> caetera in illum confluant, de
 						dilectione tua nihil di<lb/> ctum videtur; sed cum dictum cst, <hi rend="italic">Diliges proximum</hi>
 						<lb/> tuum <hi rend="italic">tanquam teipsum</hi> , simul et tui abs tc dilectio <lb/>
-						non pretermissa est.</p>
+						non pretermissa est.</p></div>
+    			<div type="textpart" subtype="chapter" n="27">
 					<ab>
 						<title type="sub">CAPUT XXVII. — <hi rend="italic">Ordo</hi> dilectionis.</title>
 					</ab>
@@ -802,7 +837,8 @@
 						est, am<lb/> plius quisque debet Deum diligere quam seipsum. <lb/> I: m amplius alius
 						homo diligendus est quam corpus <lb/> nostrum : quia propter Dcum omnia ista diligend i
 						<lb/> sunt, et potest nobiscum alius homo Deo perfrui, quod <lb/> non potest corpus;
-						quia corpus per animam vivit qua <lb/> fruimur Deo.</p>
+						quia corpus per animam vivit qua <lb/> fruimur Deo.</p></div>
+    			<div type="textpart" subtype="chapter" n="28">
 					<ab>
 						<title type="sub">CAPUT XXVIII. — <hi rend="italic">Cui succurrendum, quando suc­
 								currere omnibus, vel duobus non</hi> pOssis.</title>
@@ -815,7 +851,8 @@
 						vel erga te <lb/> aliqua necessitudine superaret; nihil justius faceres <lb/> quam ut
 						sorte legeres, coi dandum esset quod dari <lb/> utriquc non posset : sic in hominibus
 						qnibus omnibus <lb/> consulere nequeas, pro sorte habendum est, prout <lb/> qnisque tibi
-						temporaliter colligatius adhaerere po<lb/> tuerit.</p>
+						temporaliter colligatius adhaerere po<lb/> tuerit.</p></div>
+    			<div type="textpart" subtype="chapter" n="29">
 					<ab>
 						<title type="sub">CAPUT XXIX. — <hi rend="italic">Optandum et agendum ut omnes Deum
 								diligant.</hi>
@@ -842,7 +879,9 @@
 						cnitn eos timemus, quia <lb/> nobis quod diligimus auferre non possunt; sed mise<lb/>
 						ramur potius, quia tanto magis nos odcruut, quanto <lb/> ab illo quem diligimus scparati
 						sunt. Ad qucm si con<lb/> versi fuerint, et illum tanquam beatificum bonum, ct <lb/>
-						nos tanquam socius tanti boni necesse est ut diligant.</p>
+						nos tanquam socius tanti boni necesse est ut diligant.</p></div>
+    			<div type="textpart" subtype="chapter" n="30">
+  
 					<ab>
 						<title type="sub">CAPUT XXX. — <hi rend="italic">Proximi</hi> nostri, <hi rend="italic">omnes homines, et ipsi Angeli.</hi>
 						</title>
@@ -897,7 +936,8 @@
 							diligamus Deum, a proximi dilectione distinctum <lb/> est I. Ille eniin nobis praebet
 							misericordiam propter <lb/> suam bonitatem, nos autem nobis invicem propter i!<lb/>
 							lius : id est, ille nostri miseretur, ut se perfruamur; noa <lb/> vero invicem nostri
-							miseremur, ut illo perfruamur. </note></p>
+							miseremur, ut illo perfruamur. </note></p></div>
+    			<div type="textpart" subtype="chapter" n="31">
 					<ab>
 						<title type="sub">CAPUT XXXI. - <hi rend="italic">Deus nobis non fruitur, sed</hi>
 							unitur.</title>
@@ -912,7 +952,8 @@
 						illustraverit? Dicit eliam aper<lb/> tissime propheta : <hi rend="italic">Dixi Domino,
 							Deus meus</hi> es <hi rend="italic">tu, quo­<lb/> niam bonorum meorum non eges</hi> (
 							<hi rend="italic">Psat.</hi> XV , 2 ). Non <lb/> ergo fruitur nobis, sed utilur. Nam
-						si neque fruitur <lb/> neque utitur, non invenio quemadmodum diligat.</p>
+						si neque fruitur <lb/> neque utitur, non invenio quemadmodum diligat.</p></div>
+    			<div type="textpart" subtype="chapter" n="32">
 					<ab>
 						<title type="sub">CAIUT XXXII. — <hi rend="italic">Deus homine quomodo utatur.</hi>
 						</title>
@@ -933,7 +974,8 @@
 						quomodo <lb/> etiam nostra fit• consequens, cum eam misericordiam <lb/> quam impendimus
 						egenti, sine mercede non relinquit <lb/> Deus. Haec autem merces summa est ut ipso per­
 						<lb/> fruamur, et omnes qui eo fruimur, nobis etiam invi<lb/> cern in ipso
-						perfruamur.</p>
+						perfruamur.</p></div>
+    			<div type="textpart" subtype="chapter" n="33">
 					<ab>
 						<title type="sub">CAPUT XXXIII. — <hi rend="italic">Quomodo homine frui conveniat.</hi>
 						</title>
@@ -971,7 +1013,8 @@
 						transieris, eamque ad illud ubi permanecndum cst, <lb/> retuferis ; uteris ea, et
 						abusive, non proprie, diccris <lb/> frui. Si vero inh;rseris atque permanseris, finem in
 						<lb/> ea ponens laetitiae tuae , tunc vere et proprie frui di<lb/> cendus es : quod non
-						faciendum cst nisi in illa Tri<lb/> nitate, id est summo ct incommutabili hono.</p>
+						faciendum cst nisi in illa Tri<lb/> nitate, id est summo ct incommutabili hono.</p></div>
+    			<div type="textpart" subtype="chapter" n="34">
 					<ab>
 						<title type="sub">CAPUT XXXIV. — <hi rend="italic">Prima ud Deum</hi> viii, <hi rend="italic">Christus.</hi>
 						</title>
@@ -1006,7 +1049,8 @@
 							)!ss. melioris nntir, <hi rend="italic">quam</hi> nulla <hi rend="italic">rei.</hi>
 						</note>
 						<lb/> ad eum ipsum, qui nostram naturam a temporalibus li<lb/> beravit, et collocavit
-						ad dexteram Patris, provehi at<lb/> que pervehi I mcreamur.</p>
+						ad dexteram Patris, provehi at<lb/> que pervehi I mcreamur.</p></div>
+    			<div type="textpart" subtype="chapter" n="35">
 					<ab>
 						<title type="sub">CAPUT XXXV. — <hi rend="italic">Scripturae plenitudo, finisque , amor
 								Dei et proximi.</hi>
@@ -1021,7 +1065,8 @@
 						qua debemus uti , non quasi mansoria <lb/> quadam dilectione atque delectatione, sed
 						transitoria <lb/> patius, tanquam viae , tanquam vehiculorum , vel <lb/> aliorum
 						quorumlibet instrumentorum , aut si quid <lb/> congruentius dici poicst; ut ca quibus
-						ferimur , pro<lb/> pier illud ad quod fcrimur, diligamus.</p>
+						ferimur , pro<lb/> pier illud ad quod fcrimur, diligamus.</p></div>
+    			<div type="textpart" subtype="chapter" n="36">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">XXXVI. - Interpretatio</hi> Scripturae <hi rend="italic">licet vitiosa, non est mendax nec perniciose fallax , si modo utilis
 								sit aedificandae charitati. Corrigendus tamen inter­ pres qui sic</hi>
@@ -1057,7 +1102,8 @@
 							<hi rend="italic">lI'u:m.</hi>
 						</note>
 						<pb n="35"/>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="37">
 					<ab>
 						<title type="sub">CAPUT XXXVII. — <hi rend="italic">Multum ineat periculi in hac
 								in­</hi> terpretatione <hi rend="italic">vitiosa.</hi>
@@ -1075,7 +1121,8 @@
 						cre<lb/> dit et diligit, bene agendo al praeceptis morum bono<lb/> rum obtemperando
 						efficit, ut ctiam speret se ad id <lb/> quod diligit esse venturum. Itaque tria haec
 						sunt, qui<lb/> bus ct scicntia omnis et prophetia militat, fides, spes, <lb/>
-						charitas.</p>
+						charitas.</p></div>
+    			<div type="textpart" subtype="chapter" n="38">
 					<ab>
 						<title type="sub">CAPUT XXXVIII. — <hi rend="italic">Charitas perpetuo manet.</hi>
 						</title>
@@ -1093,7 +1140,8 @@
 							:prave, uti <lb/> intelligitur ex scqueulilius verbis, <hi rend="italic">quam
 								videbvnus.</hi>
 						</note>
-						<lb/> Interit, plus perveniens inventurus est.</p>
+						<lb/> Interit, plus perveniens inventurus est.</p></div>
+    			<div type="textpart" subtype="chapter" n="39">
 					<ab>
 						<title type="sub">CAPUT XXXIX. -- <hi rend="italic">Scripturis non indiget homo fide,
 								spe et charitate instructus.</hi>
@@ -1110,7 +1158,8 @@
 						et <lb/> sancti est vita ista perfecta. Ideo <hi rend="italic">manent,</hi> inquit, <hi rend="italic">fides,<lb/> spes, charitas; tria haec : major autem horum esi</hi> cha­
 						<lb/> ritas (I <hi rend="italic">Cor.</hi> xm , 8, 43); quia ct cum quisque ad <lb/>
 						aeterna pervenerit, duobus istis decedentibus charitas <lb/> auctior et certior
-						permanebit.</p>
+						permanebit.</p></div>
+    			<div type="textpart" subtype="chapter" n="40">
 					<ab>
 						<title type="sub">CAPUT XL. — <hi rend="italic">Qualem lectorem Scriptura postulet.</hi>
 						</title>
@@ -1129,7 +1178,8 @@
 						quantum pro tempore salis esse ar<lb/> bitratus sum, dicere volui, quia in aliis
 						voluminibus , <lb/> sive per alios sive per nos multa jam dicta sunt. Mo<lb/> dus
 						itaque sit iste libri hujus. Caetera de signis, quan<lb/> tum Dominus dederit,
-						disseremus.</p>
+						disseremus.</p></div></div>
+    		<div type="textpart" subtype="book" n="2">
 					<ab>
 						<title type="sub">
 							<hi rend="italic">LIBER SECUNDUS.</hi>
@@ -1144,6 +1194,7 @@
 						<hi rend="italic">funde</hi> disputat. Quemadmodum eliam animo comparatus is esse
 						debcat, qui operam studio Scripturarum navaturus sil, <lb/> doclarat sub initium et ad
 						finem libri.</p>
+    			<div type="textpart" subtype="chapter" n="1">
 					<ab>
 						<title type="sub">CAPUT PRIMUM. — <hi rend="italic">Signum quid et quotuplex.</hi>
 						</title>
@@ -1169,7 +1220,8 @@
 						<pb n="37"/> motus animi vultu indice proditur, ctiam nobis non <lb/> id agentibus ut
 						prodatur. Sed de hoc toto genere nunc <lb/> disserere non est propositum. Quoniam tamen
 						incidit <lb/> in partitionem nostram, praeteriri omnino non potuit ; <lb/> atque id
-						haetenus notatum esse suffecerit.</p>
+						haetenus notatum esse suffecerit.</p></div>
+    			<div type="textpart" subtype="chapter" n="2">
 					<ab>
 						<title type="sub">CAPUT II. <hi rend="italic">De quo</hi> signorum <hi rend="italic">genere hie tractandum.</hi>
 						</title>
@@ -1187,7 +1239,8 @@
 						hujusmodi animad<lb/> verti solent. Quai utrum, sicut vultus aut dolentis <lb/>
 						clamor, sinc significandi voluntate sequantur motum <lb/> animi, an vere ad
 						significandum dentur, alia quaestio <lb/> est, et ad rem quae agitur non pertinet : quam
-						pnr<lb/> tem ab hoc opere tanquam non necessariam remo<lb/> vemus.</p>
+						pnr<lb/> tem ab hoc opere tanquam non necessariam remo<lb/> vemus.</p></div>
+    			<div type="textpart" subtype="chapter" n="3">
 					<ab>
 						<title type="sub">CAPUT III. — <hi rend="italic">Inter signa principatum oblinenl
 								verba.</hi>
@@ -1217,7 +1270,8 @@
 						</note>
 						<lb/> homines exerunt, in verbi; constituta est. Nam illa si <lb/> gna omnia quorum
 						genera breviter attigi, potui verbis <lb/> enuntiare; verba vero illis signis nullo modo
-						possem.</p>
+						possem.</p></div>
+    			<div type="textpart" subtype="chapter" n="4">
 					<ab>
 						<title type="sub">CAPUT IV. - <hi rend="italic">Unde iitterae.</hi>
 						</title>
@@ -1228,7 +1282,8 @@
 						communia esse omnibus <lb/> gentibus, peccato quodam dissensionis humanae, cum <lb/> ad
 						se quisque principatum rapit. Cujus superbiae si<lb/> gnum cst erecta illa turris in
 						coelum, ubi homines <lb/> impii non solum animos, sed etiam voces dissonas <lb/> habere
-						meruerunt <hi rend="italic">(Gcn.</hi> XI, i-9).</p>
+						meruerunt <hi rend="italic">(Gcn.</hi> XI, i-9).</p></div>
+    			<div type="textpart" subtype="chapter" n="5">
 					<ab>
 						<title type="sub">CAPUT V. — <hi rend="italic">Diversitas linguarum.</hi>
 						</title>
@@ -1238,7 +1293,8 @@
 						orbem terrarum disseminari, per varias interpre<lb/> tum linguas longe lateque difTusa
 						innotesceret genti<lb/> bus ad salutem : quam legentes nihil aliud appetunt <lb/> quam
 						cogitationes voluntatemque illorum a quibus <lb/> conscripta est, invenire, ct per illas
-						voluntitem Dei, <lb/> sccundum quam tales homines locutos credimus.</p>
+						voluntitem Dei, <lb/> sccundum quam tales homines locutos credimus.</p></div>
+    			<div type="textpart" subtype="chapter" n="6">
 					<ab>
 						<title type="sub">CAPUT VI. — <hi rend="italic">Obscuritas Scripturœ in tropis et
 								figuris quorsum utilis.</hi>
@@ -1281,7 +1337,8 @@
 						<lb/> cavendus est. Magnifice igitur et salubriter Spiritus <lb/> fanctus ita Scripturas
 						sanctas modificavit, ut locis <lb/> apertioribus fami occurreret, obscurioribus autem
 						fa<lb/> stidia detergeret. Nihil enim fere de illis obscuritatibus <lb/> eruititr,
-						quod non planissime dictum alibi rcperiatur.</p>
+						quod non planissime dictum alibi rcperiatur.</p></div>
+    			<div type="textpart" subtype="chapter" n="7">
 					<ab>
 						<title type="sub">CAPUT VII. — <hi rend="italic">Gradus ad sapientiam : primus, timor;
 								secundus, pietas; tertius, scientia; qua, tUI.. fortitudo ; quintus, consilium ;
@@ -1341,7 +1398,8 @@
 						ultima et septima est <lb/> qnia pacatus tranquillusque perfruitur. Initium enim <lb/>
 						sapientiae timor Domini <hi rend="italic">(Psal.</hi> ex, 10, <hi rend="italic">et
 							Eccli.</hi> 1, 16). <lb/> Ab illo enim usque ad ipsam per hos gradus tendi<lb/> tur,
-						et venitur.</p>
+						et venitur.</p></div>
+    			<div type="textpart" subtype="chapter" n="8">
 					<ab>
 						<title type="sub">CAPUT VIII. — <hi rend="italic">Libri canonici.</hi>
 						</title>
@@ -1410,7 +1468,8 @@
 							nonnulli qui velint sententias qui<lb/> dem ex salomone, ex Philone autem earum
 							collectionem <lb/> phrasimque graecam prodiisse. </note><note type="footnote"> (c)
 							Retract. lib. 2. c, A. n * </note>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="9">
 					<ab>
 						<title type="sub">CAPUT IX. — <hi rend="italic">Qua ratione vacandum studio
 								Scripturae.</hi>
@@ -1429,7 +1488,8 @@
 						est,. <lb/> ut ad obscuriores locutiones illustrandas de manife <lb/> stioribus sumantur
 						exempla, et quaedam certarum <lb/> sententiarum testimonia dubitationem incertis aufe­
 						<lb/> rant. In qua re memoria valet plurimum : quae si de<lb/> fuerit, non potest his
-						praeceptis dari.</p>
+						praeceptis dari.</p></div>
+    			<div type="textpart" subtype="chapter" n="10">
 					<ab>
 						<title type="sub">CAPUT X. — <hi rend="italic">Scripturam contingit non intelligi ob
 								ignota signa vel ambigua.</hi>
@@ -1444,7 +1504,8 @@
 						sicut <lb/> dicimus bovem, et per has duas syllabas intelligimus <lb/> pecus quod isto
 						nomine appellari solet; sed rursus <lb/> per illud pecus intelligimus evangelistam, quem
 						signi<lb/> ficavit Scriptura, interpretante Apostolo, dicens, Bo<lb/>Mem <hi rend="italic">triturantem non infrenabis</hi> (I <hi rend="italic">Cor.</hi> IX,
-						9).</p>
+						9).</p></div>
+    			<div type="textpart" subtype="chapter" n="11">
 					<ab>
 						<title type="sub">CAPUT XI. - <hi rend="italic">Ut ignorantia signorum tollatur,
 								ne­</hi> cessaria <hi rend="italic">eat linguarum cognitio, ac praesertim grœcœ et
@@ -1480,7 +1541,8 @@
 						necessaria. Qui enim <lb/> Scripturas ex hebraea lingua in graecam verterunt, <lb/>
 						numerari possunt; latini autem interpretes nullo <lb/> modo. Ut enim cuique primis fidei
 						temporibus in ma<lb/> nus venit codex graecus, et aliquantulum facultatis sibi <lb/>
-						utriusque linguae habere videbatur, ausus est inter<lb/> pretari,</p>
+						utriusque linguae habere videbatur, ausus est inter<lb/> pretari,</p></div>
+    			<div type="textpart" subtype="chapter" n="12">
 					<ab>
 						<title type="sub">CAPUT XII. — <hi rend="italic">Diversitas interpretationum utilia. Ex
 								verborum ambiguitale ut</hi> accidit <hi rend="italic">error interpretum.</hi>
@@ -1533,7 +1595,8 @@
 							<hi rend="italic">plantationes <lb/> non dabunt radices altas (Sap.</hi> IV, 3),
 						convenientius <lb/> dicitur quam, <hi rend="italic">vitulamina,</hi> quae pedibus in
 						terra gra<lb/> diuntur, et non haerent radicibus. Hanc translationem <lb/> in eo loco
-						etiam caetera contexta custodiunt.</p>
+						etiam caetera contexta custodiunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="13">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">XIII. — Interpretationis vitium unde emendari
 								possit.</hi>
@@ -1597,7 +1660,8 @@
 						<lb/> ab eo quod est, Huic homini; an bis <hi rend="italic">hominibus</hi> ab eo <lb/>
 						quod est, Ab hoc homine, dictum sit, non apparet <lb/> nisi illuminatione sententiae.
 						Melius itaque dicitur, <lb/> Sapientius cst quam homines, et fortius est quain <lb/>
-						homines.</p>
+						homines.</p></div>
+    			<div type="textpart" subtype="chapter" n="14">
 					<ab>
 						<title type="sub">CAPUT XIV. — Ignoti <hi rend="italic">verbi et ignotae locuticnis unde
 								eruenda cognitio.</hi>
@@ -1622,7 +1686,8 @@
 						discussa; tantum absit falsiLas : nam <lb/> codicibus emendandis primitus debet
 						invigilare soler<lb/> tia eorum qui Scripturas divinas nosse desiderant, ut <lb/>
 						emendatis non emendati cedant, ex uno duntaxat in<lb/> terpretationis genere
-						venientes.</p>
+						venientes.</p></div>
+    			<div type="textpart" subtype="chapter" n="15">
 					<ab>
 						<title type="sub">CAPUT XV. — <hi rend="italic">Commendatur ltala versio latina, et</hi>
 							graeca <hi rend="italic">Septuaginta interpretum.</hi>
@@ -1653,7 +1718,8 @@
 						graccorum auctoritate emendandi sunt, et corum <lb/> potissimum qui cum Septuaginta
 						essent, ore uno in<lb/> terpretati esse perhibentur. Libros autem Novi Testn<lb/>
 						menti, si quid in latinis varietatibus titubat, graecis <lb/> cedere oportere non dubium
-						est, et maxime qui apud <lb/> Ecclesias doctiores et diligentiores reperiuntur.</p>
+						est, et maxime qui apud <lb/> Ecclesias doctiores et diligentiores reperiuntur.</p></div>
+    			<div type="textpart" subtype="chapter" n="16">
 					<ab>
 						<title type="sub">CAPUT XVI.- <hi rend="italic">Ut translata signa intelligantur juvat
 								tum linguarum notitia, tum rerunt.</hi>
@@ -1764,7 +1830,8 @@
 						musicum sonat; et relatus ad fabricam <lb/> Dominici corporis, propter quam templi
 						mentio facta <lb/> est, cogit nonnullos haereticos confiteri Filium Dei <lb/> non faiso,
 						sed vero et humano corpore indutum : et <lb/> numerum quippe et musicam plerisque locis
-						in san - <lb/> ctis Scripturis honorabiliter posita invenimus.</p>
+						in san - <lb/> ctis Scripturis honorabiliter posita invenimus.</p></div>
+    			<div type="textpart" subtype="chapter" n="17">
 					<ab>
 						<title type="sub">CAPUT XVII. — <hi rend="italic">Origo fabulae Musarum novem.</hi>
 						</title>
@@ -1784,7 +1851,8 @@
 						animadvertere <lb/> omnem sonum, qnae materies cantilenarum est, tri<lb/> formem esse
 						natura. Aut enim voce editur, sicuti eo<lb/> rum est qui faucibus sine organo canunt;
 						aut flatu, <lb/> sicut tubarum et tibiarum ; aut pulsu, sicut in citha<lb/> ris et
-						tympanis, et quibuslibet aliis quae percutiendo <lb/> canora sunt.</p>
+						tympanis, et quibuslibet aliis quae percutiendo <lb/> canora sunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="18">
 					<ab>
 						<title type="sub">CAPUT XVIII. — <hi rend="italic">Profani si quid bene dixerunt, nun
 								aspernandum.</hi>
@@ -1811,7 +1879,8 @@
 						immutaverant <lb/> gloriam incorruptibilis Dei in similitudinem imaginis <lb/>
 						corruptibilis hominis, et volucrum , et quadrupeduln, <lb/> et serpentium (Rom. I, it
 							<hi rend="italic">|sqq.).</hi>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="19">
 					<ab>
 						<title type="sub">CAPUT XIX. — <hi rend="italic">Doctrinarum genera duo reperta apud
 								Ethnicos.</hi>
@@ -1821,7 +1890,8 @@
 						duo sunt gencra <lb/> doctrinarum, quae in gentilibus etiam moribus exer<lb/> centur.
 						Unum earum rerum quas inslituerunt homi<lb/> nes; alterum earum quas animadverterunt
 						jam per<lb/> actas aut divinitus institutas. Illud quod est secundum <lb/>
-						institutiones hominum, partim superstitiosum est, <lb/> partim non est.</p>
+						institutiones hominum, partim superstitiosum est, <lb/> partim non est.</p></div>
+    			<div type="textpart" subtype="chapter" n="20">
 					<ab>
 						<title type="sub">CAPUT XX. — <hi rend="italic">Scientiae quas homines instituerunt ali­
 								qum superstitionum plenae. Catonis dictum lepidum.</hi>
@@ -1860,7 +1930,8 @@
 						<pb n="51"/> lIe I futuri mali, quam praesens damnum dolere. Unde <lb/> illud eli ganter
 						dictum cst Catonis, qui cum esset con<lb/> sultus a quodam, qui sibi a soricibus
 						erosas caligas <lb/> diceret; respondit non esse illud monstrum, sed vere <lb/> monstrum
-						habendum fuisse, si sorices a caligis ro<lb/> derentur.</p>
+						habendum fuisse, si sorices a caligis ro<lb/> derentur.</p></div>
+    			<div type="textpart" subtype="chapter" n="21">
 					<ab>
 						<title type="sub">CAPUT XXI. — <hi rend="italic">Superstitio mathematicorum.</hi>
 						</title>
@@ -1892,7 +1963,8 @@
 						tempora distinguuntur atque varian<lb/> tur. Quem motum notare, cum quisque nascitur,
 						quo <lb/> modo se habeat, facile est, per corum inventas con<lb/> scriptasque regulas,
 						quos sancta Scriptura condemnat, <lb/> dicens : Si <hi rend="italic">enim tantum
-							potuerunt scire,</hi> ut <hi rend="italic">postent asti­<lb/> mare</hi> sacculum, <hi rend="italic">quomodo ejus Dominum non facilius in<lb/> venerunt</hi> ( <hi rend="italic">Sap.</hi> XIII, 9 ) ?</p>
+							potuerunt scire,</hi> ut <hi rend="italic">postent asti­<lb/> mare</hi> sacculum, <hi rend="italic">quomodo ejus Dominum non facilius in<lb/> venerunt</hi> ( <hi rend="italic">Sap.</hi> XIII, 9 ) ?</p></div>
+    			<div type="textpart" subtype="chapter" n="22">
 					<ab>
 						<title type="sub">CAPUT XXII. — <hi rend="italic">Observatio siderum ad</hi> cognoscen­
 								<hi rend="italic">dam vitae seriem vana.</hi>
@@ -1929,7 +2001,8 @@
 						temere securus infamat, et non distat4 in <lb/> tabula quam frustra sollicitus intuetur?
 						Quare istae <lb/> quoque opiniones quibusdam rerum signis humana <lb/> praesumptione
 						institutis, ad eadem illa quasi quae<lb/> dam cum daemonibus pacta et conventa
-						referendae <lb/> sont.</p>
+						referendae <lb/> sont.</p></div>
+    			<div type="textpart" subtype="chapter" n="23">
 					<ab>
 						<title type="sub">CAPUT XXIII. — <hi rend="italic">Cur repudianda genethliacorum
 								scientia.</hi>
@@ -1982,7 +2055,8 @@
 						nascenti<lb/> bus vel quoquo modo divinae providentiae administra<lb/> tione
 						existentibus rebus, multi multa humanis suspi<lb/> cionibus, quasi regulariter
 						conjectata I, litteris manda<lb/> verunt, si forte insolite acciderint, tanquam si
-						mula <lb/> pariat, aut fulmine aliquid percutiatur.</p>
+						mula <lb/> pariat, aut fulmine aliquid percutiatur.</p></div>
+    			<div type="textpart" subtype="chapter" n="24">
 					<ab>
 						<title type="sub">CAPUT XXIV. — <hi rend="italic">Societas et pactum cum daemonibus in .
 								superstitioso rerum usu.</hi>
@@ -2022,7 +2096,8 @@
 						cujusque obser<lb/> vationibus valent. Quod manifestissime ostendit ritus <lb/>
 						augurum, qui et antequam observent, et posteaquam <lb/> observata signa tenuerint, id
 						agunt ne videant vola<lb/> tus, aut audiant voces avium; quia nulla ista signa <lb/>
-						sunt, nisi consensus observantis accedat.</p>
+						sunt, nisi consensus observantis accedat.</p></div>
+    			<div type="textpart" subtype="chapter" n="25">
 					<ab>
 						<title type="sub">CAPUT XXV. — <hi rend="italic">In institutis humanis non supersti­
 								tiosis quaedam superflua, quaedam commoda et neces­ saria.</hi>
@@ -2064,7 +2139,8 @@
 						prin<lb/> cipum mutarentur.</p>
 					<p>40. Sed haec tuta pars humanorum institutorum, <lb/> quae ad usum vltae necessarium
 						proficiunt, nequaquam <lb/> cst fugienda christiano; imo etiam quantum salis est, <lb/>
-						intuenda, memoriaque retinenda.</p>
+						intuenda, memoriaque retinenda.</p></div>
+    			<div type="textpart" subtype="chapter" n="26">
 					<ab>
 						<title type="sub">CAPUT XXVI.— <hi rend="italic">Quce hominum instituta</hi> fugienda,
 								<hi rend="italic">el quae amplectenda sint.</hi>
@@ -2079,7 +2155,8 @@
 						di<lb/> dicerent proprie jam notarii appellantur. Utilia sunt <lb/> ista, nec
 						discuntur illicite, nec superstitione implicant, <lb/> nec luxu enervant, si tantum
 						occupent, ut majoribus <lb/> rebus, ad quas adipiscendas servire debent, non sint <lb/>
-						impedimento.</p>
+						impedimento.</p></div>
+    			<div type="textpart" subtype="chapter" n="27">
 					<ab>
 						<title type="sub">CAPUT XXVII. — <hi rend="italic">Scientiarum quas homines noM</hi> in­
 								<hi rend="italic">stituerunt, aliquae juvant ad intelligentiam Scriptu­ rarum.</hi>
@@ -2089,7 +2166,8 @@
 						divinitus instituta, investi<lb/> gando homines prodidcrunt, ubicumque discanlur,
 						<lb/> non sunt hominum instituta existimanda. Quorum alia <lb/> sunt ad sensum corporis,
 						alia vero ad rationem animi <lb/> pcriinenlia. Sed illa quae sensu corporis attinguntur,
-						<lb/> 'cl narrata credimus, vel demonstrata sentimus, vel <lb/> experta conjicimus.</p>
+						<lb/> 'cl narrata credimus, vel demonstrata sentimus, vel <lb/> experta conjicimus.</p></div>
+    			<div type="textpart" subtype="chapter" n="28">
 					<ab>
 						<title type="sub">CAPUT XXVIII. — <hi rend="italic">Historia quatenus juvet.</hi>
 						</title>
@@ -2131,7 +2209,8 @@
 						est conditor ct administrator <lb/> Deus. Aliud est enim facta narrare, aliud docere fa­
 						<lb/> cienda. Historia facta narrat fidcliter atque utiliter; <lb/> libri autem
 						aruspicum, et quaeque similes litterae, fa<lb/> cienda vel observanda intendunt docere,
-						monitoris au<lb/> dacia, non indicis 1 fide.</p>
+						monitoris au<lb/> dacia, non indicis 1 fide.</p></div>
+    			<div type="textpart" subtype="chapter" n="29">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">XXIX. - Ad Scripturarum intelligentiam qua­
 								tenus conducat animalium, herbarum, etc., praesertim­ que</hi> siderum <hi rend="italic">cognitio.</hi>
@@ -2179,7 +2258,8 @@
 						ante quotlibet annos quota fuerit, et post quot<lb/> libet annos quota futura sit
 						potest dicere; sic de uno<lb/> quoque siderum, qui ea perite computant, respon<lb/>
 						dere consueverunt. De qua tota cognitione, quantum <lb/> ad usum ejus attinet, quid mihi
-						videretur aperui.</p>
+						videretur aperui.</p></div>
+    			<div type="textpart" subtype="chapter" n="30">
 					<ab>
 						<title type="sub">CAPUT XXX. — <hi rend="italic">Quid eodem conferant artes me­</hi>
 							chanice.</title>
@@ -2195,7 +2275,8 @@
 						cognitio tenuiter in ipsa humana vita <lb/> cursimqne usurpanda est, non ad opcrandum,
 						nisi <lb/> forte officium aliquod cogat, de quo nunc non agimus; <lb/> sed ad
 						judicandum, ne omnino nesciamus quid Scri<lb/> ptora velit insinuare, cum de his
-						artibus aliquas figu<lb/> ratas locutiones inserit.</p>
+						artibus aliquas figu<lb/> ratas locutiones inserit.</p></div>
+    			<div type="textpart" subtype="chapter" n="31">
 					<ab>
 						<title type="sub">CAPUT XXXI. — <hi rend="italic">Quid juvet dialectica.
 								Sophismata.</hi>
@@ -2233,7 +2314,8 @@
 						sint verae connexiones, non solum <lb/> verarum, sed etiam falsarum sententiarum, facile
 						est <lb/> veritatem connexionum etiam in scholis iliis discere, <lb/> quae praeter
 						Ecclesiam sunt. Sententiarum autem <lb/> veritas in sanctis Lihris ecclesiasticis
-						investiganda est.</p>
+						investiganda est.</p></div>
+    			<div type="textpart" subtype="chapter" n="32">
 					<ab>
 						<title type="sub">CAPUT XXXII. — <hi rend="italic">Veritas connexionum non ab</hi> ho­
 							minibus <hi rend="italic">instituta eat, sed tantum observata.</hi>
@@ -2261,7 +2343,8 @@
 						ne<lb/> que Christus resurrexit : Cbristus autcm resurrexit; <lb/> est igitur
 						resurrectio mortuorum. Hoc ergo, ut conse<lb/> quenti ablato auferatur etiam
 						necessario quod praece<lb/> dit, non instituerunt homines, sed ostenderunt. Et <lb/>
-						haec regula pertinet ad veritatem connexionum, non <lb/> ad veritatem sententiarum.</p>
+						haec regula pertinet ad veritatem connexionum, non <lb/> ad veritatem sententiarum.</p></div>
+    			<div type="textpart" subtype="chapter" n="33">
 					<ab>
 						<title type="sub">CAPUT XXXUI. — <hi rend="italic">In falsis sententiis conclusiones
 								veras esse possunt, et</hi> in <hi rend="italic">veris falsae.</hi>
@@ -2286,7 +2369,8 @@
 						ablato consequenti aufertur necessario <lb/> quod praecedit, ita etiam ablato praeccdenti
 						aufertur <lb/> necessario quod consequitur. Quia verum est, cum <lb/> dicimus , Si
 						orator est, homo est: ex qua proposi<lb/> tione si assumamus, Non est autem orator ;
-						non erit <lb/> consequens cum intuleris , Non est igitur homo.</p>
+						non erit <lb/> consequens cum intuleris , Non est igitur homo.</p></div>
+    			<div type="textpart" subtype="chapter" n="34">
 					<ab>
 						<title type="sub">CAPUT XXXIV. — <hi rend="italic">Aliud eat nosse leges conclusionum,
 								aliud veritatem sententiarum.</hi>
@@ -2303,7 +2387,8 @@
 						<lb/> sit veritas. Et rursus: quidam plerumque retinentes <lb/> veram sententiam , male
 						se contemnunt, quia leges <lb/> conclusionis ignorant; cum melior sit qui novit esse
 						<lb/> resurrectionem mortuorum, quam ille qui novit con<lb/> sequens esse, ut si
-						resurrectio mortuorum non est, <lb/> neque Christus resurrexerit.</p>
+						resurrectio mortuorum non est, <lb/> neque Christus resurrexerit.</p></div>
+    			<div type="textpart" subtype="chapter" n="35">
 					<ab>
 						<title type="sub">CAPUT XXXV. — <hi rend="italic">Scicntia definiendi et dividendi noM
 								eat falsa etiamsi falsis adhibeatur. Falsum ouid.</hi>
@@ -2325,7 +2410,8 @@
 						id dicit quod omnino esse non <lb/> potest : qui autem dicit calendis, verbi gratia, ja­
 						<lb/> nuariis pluisse, tamenetsi factum non sit, id tamen <lb/> dicit quod fieri
 						potuerit. Definitio igitur et divisio <lb/> falsorum potest esse verissima, quamvis
-						falsa ipsa <lb/> utique vera non sint.</p>
+						falsa ipsa <lb/> utique vera non sint.</p></div>
+    			<div type="textpart" subtype="chapter" n="36">
 					<ab>
 						<title type="sub">CAPUT XXXVI. — <hi rend="italic">Eloquentiae</hi> praecepta <hi rend="italic">vera</hi> sunt, <hi rend="italic">quamvis eia interdum falsa
 								persuadeantur.</hi>
@@ -2340,7 +2426,8 @@
 						intentos; et caeterae <lb/> hujusmodi observationcs, quae sive in falsis sive in <lb/>
 						veris causis, verae sunt tamcn, in quantum vel scir i <lb/> vel credi aliquid faciunt,
 						aut ad expetendum fugien- <lb/> dumve animos movent, et inventae potius quod ita se
-						<lb/> habeant, quam ut ita se haberent institutae.</p>
+						<lb/> habeant, quam ut ita se haberent institutae.</p></div>
+    			<div type="textpart" subtype="chapter" n="37">
 					<ab>
 						<title type="sub">CAPUT XXXVII. — <hi rend="italic">Quce utilitas rhetoricae et
 								dialecticae.</hi>
@@ -2369,7 +2456,8 @@
 						exorcitatiora reddunt ingenia, <lb/> si etiam maligniora ant inflatiora non reddant, boc
 						<lb/> rst, ut aut decipere verisimili sermone atque inter<lb/> rogationibus ament, aut
 						aliquid magnum, quo se <lb/> bonis atque innocentibus anteponant, se assecutos <lb/>
-						putent qui ista didicerunt.</p>
+						putent qui ista didicerunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="38">
 					<ab>
 						<title type="sub">CAPUT XXXVIII. — <hi rend="italic">Numerorum scientia non ex</hi> ho­
 								<hi rend="italic">minum instituto, sed ex</hi> rerum <hi rend="italic">natura est ab
@@ -2397,7 +2485,8 @@
 							<lb/> At j ov., <hi rend="italic">cum discutitur.</hi>
 							<lb/> S </note>
 						<lb/> 1 <lb/> d.lectionem cuncta convertere, a quo cuncta esse co<lb/> gnoscit; doctus
-						videri potest, esse autem sapiens nullo <lb/> modo.</p>
+						videri potest, esse autem sapiens nullo <lb/> modo.</p></div>
+    			<div type="textpart" subtype="chapter" n="39">
 					<ab>
 						<title type="sub">CAPUT XXXIX. — Quibus <hi rend="italic">ex supra notatis disciplinis
 								quove animo danda opera. Leges humanae.</hi>
@@ -2444,7 +2533,8 @@
 						</note><note type="footnote"> * sic novemdecim Mss. At vulgati habent: <hi rend="italic">Atque cotucri - <lb/> rIa urtilramur, noti</hi> maiimus. </note>
 						<lb/>
 						<pb n="63"/> et explicanda, de quibus post loquemur, legentes ad<lb/> juvat, quam ad
-						incognita signa, de quibus nunc agi<lb/> mus, cognoscenda.</p>
+						incognita signa, de quibus nunc agi<lb/> mus, cognoscenda.</p></div>
+    			<div type="textpart" subtype="chapter" n="40">
 					<ab>
 						<title type="sub">CAPUT XL.- <hi rend="italic">Ab</hi> Ethnicis <hi rend="italic">si
 								quid recte</hi> dictum, <hi rend="italic">in no­ . strum usum est</hi>
@@ -2486,7 +2576,8 @@
 						nescien<lb/> tes quemadmodum illa quae dabant, in Christi obse<lb/> quium cederent.
 						Illud enim in Exodo factum, sine <lb/> dubio figuratum est, ut hoc, praesignaret; quod
 						sine <lb/> praejudicio alterius, aut paris, aut melioris iulelligen<lb/> tiae
-						dixerim.</p>
+						dixerim.</p></div>
+    			<div type="textpart" subtype="chapter" n="41">
 					<ab>
 						<title type="sub">CAPUT XLI. — <hi rend="italic">Studium</hi> Scriptura <hi rend="italic">sacrae, qualem animam requirat.</hi> Hyssopi proprietates.</title>
 					</ab>
@@ -2523,7 +2614,8 @@
 						<hi rend="italic">per nivem dealbabor. Auditui meo dabis exsultationem<lb/> et</hi>
 						letitiam. Deinde consequenter annectit ut ostendat <lb/> purgationem a superbia
 						significari hyssopo, <hi rend="italic">Et exsul<lb/> tabunt ossa humiliata (Psal.</hi>
-						L, 9, 10).</p>
+						L, 9, 10).</p></div>
+    			<div type="textpart" subtype="chapter" n="42">
 					<ab>
 						<title type="sub">CAPUT XLII. — <hi rend="italic">Sacrae Scriptur. cum profana
 								comparatio.</hi>
@@ -2559,7 +2651,9 @@
 								charitate,</hi> quam <hi rend="italic">scientia inflare.</hi> Plerique Mss., <lb/>
 							<hi rend="italic">quem.</hi>
 						</note>
-					</p>
+					</p></div></div>
+    		<div type="textpart" subtype="book" n="3">
+    			
 					<ab>
 						<title type="sub">
 							<hi rend="italic">LIBER TERTIUS.</hi>
@@ -2575,6 +2669,7 @@
 						regulas quibus dignoscatur an locutio fi<lb/> prata sit, et si quidem figurata, quo
 						pacto debeat explicari. Ad extremum ipsius Tichonii septem regulas singulatim <lb/>
 						expendit.</p>
+    			<div type="textpart" subtype="chapter" n="1">
 					<ab>
 						<title type="sub">CAPUT PRIMUM. — Summa <hi rend="italic">superiorum librorum, et scopus
 								sequentis.</hi>
@@ -2592,7 +2687,8 @@
 						majoris illuminationis claritate <lb/> derideat : sed tamen, ut coeperam dicere, quantum
 						<lb/> per nos instrui potest, qui eo loco animi est, ut per <lb/> nos instrui valeat,
 						sciat ambiguitatem Scriptura aut <lb/> in verbis propriis esse, aut in translatis ; quae
-						genera <lb/> in secundo libro demonstravimus.</p>
+						genera <lb/> in secundo libro demonstravimus.</p></div>
+    			<div type="textpart" subtype="chapter" n="2">
 					<ab>
 						<title type="sub">CAPUT II. — Ambiguitas <hi rend="italic">ex verborum distinctione quo
 								modo tollenda.</hi>
@@ -2654,7 +2750,8 @@
 							nos ab</hi> omni <lb/>
 						<hi rend="italic">coinquinatione</hi> carnis , ut alius sit sensus, <hi rend="italic">Et</hi> spiritus <lb/>
 						<hi rend="italic">perficientes sanctificationem in timore Dei capite noa.</hi>
-						<lb/> Tales igitur distinclionum ambiguitates in potestate <lb/> legentis sunt.</p>
+						<lb/> Tales igitur distinclionum ambiguitates in potestate <lb/> legentis sunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="3">
 					<ab>
 						<title type="sub">CAPUT III.—Qua <hi rend="italic">ratione expediatur ambiguitas ex
 								pro­</hi> nuntiatione. <hi rend="italic">Percontatio et interrogatio quo
@@ -2713,7 +2810,8 @@
 						producenda an corripienda esset media syllaba: <lb/> nunc autem manifestum est
 						producendam esse ; non <lb/> enim ait, Sicut praedicavi, sed <hi rend="italic">sicut
 							praedixi.</hi>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="4">
 					<ab>
 						<title type="sub">CAPUT IV. — <hi rend="italic">Ambiguitas dictionis qua ratione ex
 								pediatur.</hi>
@@ -2740,7 +2838,8 @@
 						sine ambi<lb/> guosono. Rarissime igitur et difficillime inveniri potest <lb/>
 						ambiguitas in propriis verbis, quantum ad libros di<lb/> vinarum Scripturarum spectat,
 						quam non aut circum<lb/> stantia ipsa sermonis qua cognoscitur scriptorum in<lb/>
-						tentio, aut interpretum collatio, aut praecedentis <lb/> linguae solvat inspectio.</p>
+						tentio, aut interpretum collatio, aut praecedentis <lb/> linguae solvat inspectio.</p></div>
+    			<div type="textpart" subtype="chapter" n="5">
 					<ab>
 						<title type="sub">CAPUT V. — <hi rend="italic">Scripturae figuratas locutiones ad
 								litteram accipere servitus miserabilis.</hi>
@@ -2761,7 +2860,8 @@
 						repetuntur; et curn audicrit <lb/> Sacrificium, non excedit cogitatione ilud quod fieri
 						<lb/> de victimis pecorum terrenisque fructibus solet. Ea <lb/> demum est miserabilis
 						animae servitus, signa pro <lb/> rebus accipere; et supra creaturam corpoream, ocu­
-						<lb/> lum mentis ad hauriendum aeternum lumen levare <lb/> non posse.</p>
+						<lb/> lum mentis ad hauriendum aeternum lumen levare <lb/> non posse.</p></div>
+    			<div type="textpart" subtype="chapter" n="6">
 					<ab>
 						<title type="sub">CAPUT VI. —Judaeorum <hi rend="italic">servitus sub signis
 								utilibus.</hi>
@@ -2796,7 +2896,8 @@
 						</note><note type="footnote"> ' Am., vocis : pro quo Erasmus haud feliciter substituit,
 							<lb/> vocibus.sic etiam loT. At Bad. et Mss. magno consensu le<lb/> runt, totis* let
 							est, oblationibus. </note>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="7">
 					<ab>
 						<title type="sub">CAPUT VII. — <hi rend="italic">Servitus gentium sub signis
 								inutilibus.</hi>
@@ -2821,7 +2922,8 @@
 						significandae <lb/> institutum est, carnalis est servitus; quanto magis <lb/> inutilium
 						rerum signa instituta pro rebus accipere? <lb/> Quae si retuleris ad ea ipsa quae his
 						significantur, eis<lb/> que colendis animum obligaveris, nihilominus servili <lb/>
-						carnaliquc onere atque velamine non carebis.</p>
+						carnaliquc onere atque velamine non carebis.</p></div>
+    			<div type="textpart" subtype="chapter" n="8">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">VIII.-Aliter</hi> Judaei <hi rend="italic">a</hi> signorum <hi rend="italic">servitute liberali, aliter Gentiles.</hi>
 						</title>
@@ -2834,7 +2936,8 @@
 						removitque omnia: ut a corruptione multitudi<lb/> nis simulatorum deorum, quam saepe ac
 						proprie Scri<lb/> ptura fornicationem vocat, ad unius Dei cultum Gen<lb/> tes
 						converterentur ; nec sub ipsis jam signis utilibus <lb/> serviturae, sed exercitaturae
-						potius animum ill eorum <lb/> intelligentia spirituali.</p>
+						potius animum ill eorum <lb/> intelligentia spirituali.</p></div>
+    			<div type="textpart" subtype="chapter" n="9">
 					<ab>
 						<title type="sub">CAPUT IX. — <hi rend="italic">Quis</hi> signorum servitute <hi rend="italic">premitur, quis non. Baptismus. Eucharistia.</hi>
 						</title>
@@ -2861,7 +2964,8 @@
 						autem non intelligit quid significet signum, et tamen <lb/> signum esse intelligit, nec
 						ipse premitur servitute. <lb/> Melius est autem vel premi incognitis, sed utilibus si­
 						<lb/> gnis, quam inutiliter ea interpretando, a jugo servitu<lb/> tis eductain
-						cervicem laqueis erroris inserere.</p>
+						cervicem laqueis erroris inserere.</p></div>
+    			<div type="textpart" subtype="chapter" n="10">
 					<ab>
 						<title type="sub">CAPUT X. — <hi rend="italic">Unde dignoicalur an figurata sit locu­
 								tio. Regula generalis.</hi> Charitas. <hi rend="italic">Cupiditas. Flagitium.
@@ -2902,7 +3006,8 @@
 						utilitas est: quod <lb/> autem agit ut prosit proximo, beneficentia nomina<lb/> tur.
 						Et hic praecedit utilitas; quia nemo potest ex eo <lb/> quod non habet, prodesse alteri.
 						Quanto autem nia<lb/> gis regnum eupidilatis destruitur, tanto charitatis au<lb/>
-						getur.</p>
+						getur.</p></div>
+    			<div type="textpart" subtype="chapter" n="11">
 					<ab>
 						<title type="sub">CAPUT XI. — <hi rend="italic">Regula de</hi> iia <hi rend="italic">quas</hi> saevitiam <hi rend="italic">redolent, referunturque nihilominus ex persona
 								Dei vel sancto­</hi> rum.</title>
@@ -2929,7 +3034,8 @@
 						locutionem voco. Quod <lb/> autem Jeremiae dicitur, <hi rend="italic">Ecce constitui te
 							hodie super<lb/> gentes et regna, ut evellas, et destruas, et disperdas, et <lb/>
 							dissipes (Jerem.</hi> i, 10) ; non dubium quin figurata locu<lb/> tio tota sit, ad
-						eum linem referenda quem diximus.</p>
+						eum linem referenda quem diximus.</p></div>
+    			<div type="textpart" subtype="chapter" n="12">
 					<ab>
 						<title type="sub">CAPUT XII. — <hi rend="italic">Regula de dictis et factis</hi> quasi
 								<hi rend="italic">flagi­ tiosis imperitorum judicio,</hi> quae <hi rend="italic">Deo
@@ -2987,7 +3093,8 @@
 						oportere libidinem, quae non solum <lb/> ipsa eorum, inter quos vivit, consuetudine
 						nequiter <lb/> abutitur; sed etiam saepe fines ejus egressa, fœditatem <lb/> suam, quae
 						inter claustra morem solemnium latitabat, <lb/> flagitiosissima eruptione
-						manifestat.</p>
+						manifestat.</p></div>
+    			<div type="textpart" subtype="chapter" n="13">
 					<ab>
 						<title type="sub">CAPUT XIII. — <hi rend="italic">Continuatio ejusdem argumenti.</hi>
 						</title>
@@ -2995,7 +3102,8 @@
 					<p>21. Quidquid autem congruit consuetudini eorum <lb/> cum quibis vita ist, degenda vel
 						necessitate imponi<lb/> tur, vel officio suscipitur, a bonis et magnis hominibus <lb/>
 						ad utilitatem et beneficentiam referendum est; vel <lb/> proprie, sicut et nos debemus,
-						vel etiam figurate, sicut <lb/> Prophetis lieet.</p>
+						vel etiam figurate, sicut <lb/> Prophetis lieet.</p></div>
+    			<div type="textpart" subtype="chapter" n="14">
 					<ab>
 						<title type="sub">CAPUT XIV. <hi rend="italic">- Error opinantium nullam esse justi­
 								tiam per seipsam.</hi>
@@ -3017,7 +3125,8 @@
 						omnia flagitia moriuntur; cum ad proximi, omnia <lb/> facinora. Nemo enim vult corrumpi
 						habitaculum <lb/> suum : non ergo debet corrumpere habitaculum Dei, <lb/> seipsum
 						scilicet. Et nemo vult sibi a quoquam noceri: <lb/> nec ipse igitur cuiquam
-						nocuerit.</p>
+						nocuerit.</p></div>
+    			<div type="textpart" subtype="chapter" n="15">
 					<ab>
 						<title type="sub">CAPUT XV. - <hi rend="italic">Regula in figuratis locutionibus ser­
 								vanda.</hi>
@@ -3027,7 +3136,8 @@
 						dilectionis Dei propter Deum, sui <lb/> et proximi propter Deum. Servabitur ergo in
 						locu<lb/> tionibus figuratis regula hujusmodi, ut lam diu ver<lb/> setur diligenti
 						consideratione quod legitur, donec ad <lb/> regnum charitatis interpretatio perducatur.
-						Si autem <lb/> hoc jam proprie sonat, nulla putetur figurata locutio.</p>
+						Si autem <lb/> hoc jam proprie sonat, nulla putetur figurata locutio.</p></div>
+    			<div type="textpart" subtype="chapter" n="16">
 					<ab>
 						<title type="sub">CAPUT XVI. — <hi rend="italic">Regula de locutionibus
 								praeceptivis.</hi>
@@ -3064,7 +3174,8 @@
 						quaerat. Scriptum est: <hi rend="italic">Da miseri-<lb/> cordi, et ne suscipias</hi>
 						peccatorem <hi rend="italic">(Eccli.</hi> x!!, 4). Posterior <lb/> pars hujus sententiae
 						videtur vetare beneficentiam ; <lb/> ait cnim, <hi rend="italic">Ne suscipias peccatorem
-							:</hi> intelligas ergo A<lb/>gurate positum pro peccato <hi rend="italic">peccatorem,</hi> ut peccatum <lb/> ejus non suscipias.</p>
+							:</hi> intelligas ergo A<lb/>gurate positum pro peccato <hi rend="italic">peccatorem,</hi> ut peccatum <lb/> ejus non suscipias.</p></div>
+    			<div type="textpart" subtype="chapter" n="17">
 					<ab>
 						<title type="sub">CAPUT XVII. — <hi rend="italic">Alia</hi> omnibus <hi rend="italic">communiter, alia sin­ gulis</hi> seorsim <hi rend="italic">praecipi.</hi>
 						</title>
@@ -3082,7 +3193,8 @@
 						sciamus alia omnibus com<lb/> muniter praecipi, alia singulis quibusque generibus <lb/>
 						personarum; ut non solum ad universum statum va<lb/> letudinis, sed etiam ad suam
 						cujusque membri pro<lb/> priain infirmitatem medicina pertineat I. In suo quippe <lb/>
-						genere curandum est, quod ad melius genus non <lb/> potest erigi.</p>
+						genere curandum est, quod ad melius genus non <lb/> potest erigi.</p></div>
+    			<div type="textpart" subtype="chapter" n="18">
 					<ab>
 						<title type="sub">CAPUT X VIII. — Quo <hi rend="italic">tempore quid</hi> praeceptum <hi rend="italic">vel</hi> licitum <hi rend="italic">sit, considerandum.</hi>
 						</title>
@@ -3119,7 +3231,8 @@
 							tu</hi> scis <hi rend="italic">quoniam non</hi> luxuriae <lb/>
 						<hi rend="italic">causa accipio sororem</hi> meam, <hi rend="italic">sed ipsa
 							veritate,</hi> ut mi<lb/>
-						<hi rend="italic">serearis nostri, Domine (Tob.</hi> VIII, 7-9).</p>
+						<hi rend="italic">serearis nostri, Domine (Tob.</hi> VIII, 7-9).</p></div>
+    			<div type="textpart" subtype="chapter" n="19">
 					<ab>
 						<title type="sub">CAPUT XIX. — <hi rend="italic">Mali alios de suo</hi> aestimant <hi rend="italic">ingenio.</hi>
 						</title>
@@ -3139,7 +3252,8 @@
 						sive quae <lb/> prospera, sive quae adversa existimatur, in quaslibet <lb/> invehat
 						voragines flagitiorum, aut in facinorum etiam <lb/> saxa eollidat. Videant ergo quam
 						sibi arduum sit at<lb/> que difficile nec laudis esca illici, nec contumeliarum <lb/>
-						aculeis penetrari, et non ex se alios metiantur.</p>
+						aculeis penetrari, et non ex se alios metiantur.</p></div>
+    			<div type="textpart" subtype="chapter" n="20">
 					<ab>
 						<title type="sub">CAPUT XX. — <hi rend="italic">In quavis vivendi ratione boni sxi
 								sunt</hi> similes.</title>
@@ -3155,7 +3269,8 @@
 						<lb/> eam dominationem libidinis, cui serviunt qui ista non <lb/> credunt.</p>
 					<p>30. Et ideo isti sese nullo modo cohiberent ab <lb/> inexpiabili odio filiorum, a
 						quibus vcl uxorcs vel con<lb/> cubinas suas attentatas , aut attrectatas esse cogno­
-						<lb/> scerent, si eis forte tale aliquid accidisset.</p>
+						<lb/> scerent, si eis forte tale aliquid accidisset.</p></div>
+    			<div type="textpart" subtype="chapter" n="21">
 					<ab>
 						<title type="sub">CAPUT XXI. — <hi rend="italic">David quanquam</hi> in <hi rend="italic">adulterium lapsus, longe fuit a libidinosorum intemperantia.</hi>
 						</title>
@@ -3192,7 +3307,8 @@
 						<lb/> buit, sed regnum ista libido possedit : de quo Scri<lb/> ptura non tacuit,
 						culpans eum fuisse amatorem mulie<lb/> rum (III <hi rend="italic">Reg.</hi> XI, t).
 						Cujus tamen initia desideriosa<lb/> pientiae flagraverant (II Paralip. I, 7-12); quam
-						cum <lb/> amore spirituali adeptus esset, amore carnali amisit.</p>
+						cum <lb/> amore spirituali adeptus esset, amore carnali amisit.</p></div>
+    			<div type="textpart" subtype="chapter" n="22">
 					<ab>
 						<title type="sub">CAPUT XXII. <hi rend="italic">-Regula de</hi> Scripturae <hi rend="italic">locis, ubi lau­ dantur facta qu</hi>ae<hi rend="italic">dam bonorum
 								hodie moribus contraria.</hi>
@@ -3204,7 +3320,8 @@
 						sed ca tamen abhorrent <lb/> a consuetudine bonorum, qui post adventum Domini <lb/>
 						divina praecepta custodiunt; figuram ad intelligen<lb/> tiam referat, factum vero ipsum
 						ad mores non trans<lb/>ferat. Multa enim sunt qu:c illo tempore officiosa <lb/> facta
-						sunt, quae modo nisi libidinose fieri non possunt.</p>
+						sunt, quae modo nisi libidinose fieri non possunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="23">
 					<ab>
 						<title type="sub">CAPUT XXIII. — <hi rend="italic">Regula de locis ubi magnorum virorum
 								peccata referuntur.</hi>
@@ -3219,7 +3336,8 @@
 						ubique tremenda sit, qua ait: <hi rend="italic">Quapropter qui</hi> vi<lb/>
 						<hi rend="italic">detur stare, videat, ne cadat</hi> (I <hi rend="italic">Cor.</hi> x,
 						12). Nulla enim <lb/> fere pagina cst sanctorum Librorum , in qua non so<lb/> net quod
-						Deus superbis resistit, humilibus autem dat <lb/> gratiam.</p>
+						Deus superbis resistit, humilibus autem dat <lb/> gratiam.</p></div>
+    			<div type="textpart" subtype="chapter" n="24">
 					<ab>
 						<title type="sub">CAPUT XXIV. <hi rend="italic">- Ante omnia considerandum genus
 								locutionis.</hi>
@@ -3230,7 +3348,8 @@
 						gulis rerum quas in primo libro digessimus, facile cst <lb/> eam versare omnibus modis,
 						donec perveniamus ad <lb/> sententiam veritatis , praesertim cum usus accesserit <lb/>
 						pietatis cxercitationc roboratus. Invenimus autem <lb/> utrum propria sit, an figurata
-						locutio, illa intuentes <lb/> quae supra dicta sunt.</p>
+						locutio, illa intuentes <lb/> quae supra dicta sunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="25">
 					<ab>
 						<title type="sub">CAPUT XXV. — <hi rend="italic">ldem verbum non idem significat
 								ubique.</hi>
@@ -3276,7 +3395,8 @@
 						poni<lb/> tur, aqua significare intelligitur.</p>
 					<p>37. Sic et aliae res non singulae, sed unaquaeque <lb/> earum, non solum duo aliqua
 						diversa, sed etiam non<lb/> nunquam inulta significat, pro loco sententiae, sicut <lb/>
-						posita reperitur.</p>
+						posita reperitur.</p></div>
+    			<div type="textpart" subtype="chapter" n="26">
 					<ab>
 						<title type="sub">CAPUT XXVI. — Obscura <hi rend="italic">ex locis apertioribus expli­
 								canda.</hi>
@@ -3296,7 +3416,8 @@
 						inquit, <hi rend="italic">loricam fidei et<lb/> charitatis</hi> (1 <hi rend="italic">Thess.</hi> v, 8). <note type="footnote"> (&lt;z) Religuum hujus libri, totumque
 							librum quartum adje<lb/> cit Augustmus, quando hoc opus suo ordine recognovit, ex
 							<lb/> l.b. i Ketract, cap. 4. </note>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="27">
 					<ab>
 						<title type="sub">CAPUT XXVII. —Eumdem <hi rend="italic">Locum</hi> varie intelligi <hi rend="italic">nihil i prohibet.</hi>
 						</title>
@@ -3314,7 +3435,8 @@
 						<lb/> praevidit; ima ut occurreret, quia et ipsa est veritate <lb/> subnixa, providit.
 						Nam quid in divinis eloquiis largius <lb/> et uberius potuit divinitus provideri, quam
 						ut eadem <lb/> verba pluribus intell igantur modis, quos alia non mi<lb/> nus divina
-						contestantia faciant approbari?</p>
+						contestantia faciant approbari?</p></div>
+    			<div type="textpart" subtype="chapter" n="28">
 					<ab>
 						<title type="sub">CAPUT XXVIII. — <hi rend="italic">Locus incertus tutius per alios
 								Scripturae locos, quam per</hi> rationem <hi rend="italic">manifestatur.</hi>
@@ -3326,7 +3448,8 @@
 						sensit. Sed haec consuetudo peri<lb/> culosa est: per Scripturas enim divinas multo
 						tulius <lb/> ambulatur; quas verbis translatis opacatas cum scru<lb/> tari volumus,
 						aut hoc inde exeat quod nou habeat <lb/> controversiam; aut, si habet, ex eadem
-						Scriptura <lb/> ubicumque inventis atque adhibitis testibus terni. <lb/> netur-</p>
+						Scriptura <lb/> ubicumque inventis atque adhibitis testibus terni. <lb/> netur-</p></div>
+    			<div type="textpart" subtype="chapter" n="29">
 					<ab>
 						<title type="sub">CAPUT XXIX. — Troporum <hi rend="italic">cognitio necessaria.</hi>
 						</title>
@@ -3364,7 +3487,8 @@
 						dissolvendis est necessaria, quia cum sensus, ad <lb/> proprietatem verborum si
 						accipiatur, absurdus est, <lb/> quaerendum est utique ne forte illo vel illo tropo di-
 						<lb/> Hum sit quod non intelligimus; et sic pleraque in<lb/> Tenta sunt quae
-						latebant.</p>
+						latebant.</p></div>
+    			<div type="textpart" subtype="chapter" n="30">
 					<ab>
 						<title type="sub">CAPUT <hi rend="italic">XXX. - Regulae Tichonii donatistae</hi> expen­
 							duntur.</title>
@@ -3413,7 +3537,8 @@
 						Scripturas intelli<lb/> gendas, et non de illo speretur tantum quantum non <lb/>
 						habet. Caute sane legendus est, non solum propter <lb/> quaedam in quibus ut homo
 						erravil; sed maxime pro<lb/> pter illa quae sicut donatista haereticus loquitur. Quid
-						<lb/> autem doceant vel admoneant istae septem regulae, <lb/> breviter ostendam.</p>
+						<lb/> autem doceant vel admoneant istae septem regulae, <lb/> breviter ostendam.</p></div>
+    			<div type="textpart" subtype="chapter" n="31">
 					<ab>
 						<title type="sub">CAPUT XXXI. — <hi rend="italic">Regula prima Tichonii.</hi>
 						</title>
@@ -3427,7 +3552,8 @@
 						loquitur dicens, <hi rend="italic">sicut sponso</hi> imposuit <hi rend="italic">mihi
 							<lb/> mitram, et sicut sponsam ornavit me ornamento</hi> ( <hi rend="italic">Isai.</hi>
 						<lb/> LXI, 10); et tamen quid horum duorum capiti, quid <lb/> corpori, id cst, quid
-						Christo, quid Ecclesiae conveniat, <lb/> utique intelligendum est.</p>
+						Christo, quid Ecclesiae conveniat, <lb/> utique intelligendum est.</p></div>
+    			<div type="textpart" subtype="chapter" n="32">
 					<ab>
 						<title type="sub">CAPUT XXXII. — <hi rend="italic">Regula secunda Tichonii.</hi>
 						</title>
@@ -3460,7 +3586,8 @@
 						tamen <lb/> semper iu uno erunt. Ipse est quippe ille servus <lb/> commemoratus in
 						Evangelio, cujus dominus cum vene<lb/> rit, dividet eum, et partem ejus cum hypocritis
 						ponet <lb/>
-						<hi rend="italic">(Matth.</hi> xxiv, 5i).</p>
+						<hi rend="italic">(Matth.</hi> xxiv, 5i).</p></div>
+    			<div type="textpart" subtype="chapter" n="33">
 					<ab>
 						<title type="sub">CAPUT XXXIII. — <hi rend="italic">Regula tertia Tichonii. Liber de
 								Spiritu et</hi> Littera.</title>
@@ -3488,7 +3615,8 @@
 							eum cre<lb/> datis, verumetiam ut pro eo patiamini</hi> ( <hi rend="italic">Philipp.</hi> i, 29). <lb/> Unde quis dubitet utrumque esse Dei donum, qui fi<lb/>
 						deliter atque intelligenter audit utrumque donatum ? <lb/> Plura sunt et alia testimonia
 						quibus id ostenditur : <lb/> sed hoc nunc non agimus; alibi autem atque alibi sae<lb/>
-						pissime ista egimus.</p>
+						pissime ista egimus.</p></div>
+    			<div type="textpart" subtype="chapter" n="34">
 					<ab>
 						<title type="sub">CAPUT XXXIV. — <hi rend="italic">Regula quarta Tichonii.</hi>
 						</title>
@@ -3588,7 +3716,8 @@
 						tempore futurum erat, quod ipso <lb/> dicit inaniestatum. Quamvis hirc possint intelligi
 						ct <lb/> de terra futuri saculi, quando erit coelum novum ct <lb/> terra nova <hi rend="italic">(Apoc.</hi> XXI, 1), in qua injusti habitare non <lb/> poterunt. Et idco
 						recte dicitur piis quod ipsa sit toria <lb/> eorum, quae ulla ex parte non erit
-						impiorum; quia et <lb/> ipsa similiter data est, quando danda firmata est.</p>
+						impiorum; quia et <lb/> ipsa similiter data est, quando danda firmata est.</p></div>
+    			<div type="textpart" subtype="chapter" n="35">
 					<ab>
 						<title type="sub">CAPUT XXXV. — <hi rend="italic">Regula quinta Tichonii.</hi>
 						</title>
@@ -3627,7 +3756,8 @@
 						<hi rend="italic">(Apoc.</hi> VII, 4). Unde apparet non solas temporum qua:<lb/>
 						stioncs istis numeris esse solvendas, sed Jatius patere <lb/> significationes eorum, et
 						in multa proserpere. Neque <lb/> enim numerus iste in Apocalypsi ad tempora pertinet,
-						<lb/> sed ad homines.</p>
+						<lb/> sed ad homines.</p></div>
+    			<div type="textpart" subtype="chapter" n="36">
 					<ab>
 						<title type="sub">CAPUT XXXVI. — <hi rend="italic">Regula sexta Tichonii.</hi>
 						</title>
@@ -3698,7 +3828,8 @@
 						invigilet, adjuvante alia Scri<lb/> pLura quae ipsorum Apostolorum adhuc tempore cla­
 						<lb/> mavit, <hi rend="italic">Filii, novissima hora eat</hi> (I <hi rend="italic">Joan.</hi> II, i8). Tem<lb/> pus ergo ipsum quo Evangelium praedicatur, quousque
 						<lb/> Dominus reveletur, hora est in qua oportet ista ser<lb/> van ; quia et ipsa
-						revelatio Domini ad eamdem ho<lb/> ram pertinet, quae die judicii terminabitur <hi rend="italic">(Rom.</hi> II, <lb/> 5, <hi rend="italic">et</hi> xm, 11).</p>
+						revelatio Domini ad eamdem ho<lb/> ram pertinet, quae die judicii terminabitur <hi rend="italic">(Rom.</hi> II, <lb/> 5, <hi rend="italic">et</hi> xm, 11).</p></div>
+    			<div type="textpart" subtype="chapter" n="37">
 					<ab>
 						<title type="sub">CAPUT XXX VII. — <hi rend="italic">Regula</hi> septima <hi rend="italic">Tichonii.</hi>
 						</title>
@@ -3742,7 +3873,8 @@
 						quoniam <hi rend="italic">Dominus</hi> dat <hi rend="italic">sapientiam, et</hi> a <hi rend="italic">facis <lb/> ejus scientia et intellectus. (Prov.</hi> II, 6) ; a quo et
 						ipsum <lb/> studium , si pietate praeditum est , acceperunt. Sed <lb/> haec satis etiam
 						de signis, quantum ad verba per. <lb/> tinet dicta sint. Restat ut de proferendis eis
-						quai <lb/> sentimus, sequenti volumine, quae Dominus donaverit, <lb/> disseramus.</p>
+						quai <lb/> sentimus, sequenti volumine, quae Dominus donaverit, <lb/> disseramus.</p></div></div>
+    		<div type="textpart" subtype="book" n="4">
 					<ab>
 						<title type="sub">
 							<hi rend="italic">LIBER QUARTUS.</hi>
@@ -3756,6 +3888,7 @@
 						III vio dicendi genere subjiciens. Postremo ipsum <lb/> ecclesiasten hortatur, ut in
 						primis orationi deL ol eram ; et quod verbis docet alios, id omnino vita et moribus
 						praestet.</p>
+    			<div type="textpart" subtype="chapter" n="1">
 					<ab>
 						<title type="sub">CAPUT PRIMUM. — <hi rend="italic">Rhetoricœ praecepta tradere non est
 								hujus instituti.</hi>
@@ -3775,7 +3908,8 @@
 						tione cohibeo, atque ut a me non exspectentur, ad<lb/> moneo : non quod nihil habeant
 						utilitatis ; sed quod, <lb/> si quid habent, seorsum discendum est, si cui for<lb/>
 						tassis beno viro eliam haecc vacat discere, non au<lb/> lem a me vel in hoe opere, fel
-						in aliquo alio requi<lb/> rendum.</p>
+						in aliquo alio requi<lb/> rendum.</p></div>
+    			<div type="textpart" subtype="chapter" n="2">
 					<ab>
 						<title type="sub">CAPUT II. — <hi rend="italic">Rhetorica</hi> facultate <hi rend="italic">christianum docto­ rem</hi> uti <hi rend="italic">convenit.</hi>
 						</title>
@@ -3793,7 +3927,8 @@
 						desipiat, ut hoc sapiat? Cum ergo <lb/> sit in medio posita facultas eloquii, quae ad
 						persua<lb/> denda sea prava seu recta valet plurimum ; cur non <lb/> bonorum slwdio
 						comparatur, nt militet veritati, si <lb/> eam mali ad obtinendas perversas vanasqae
-						causas in <lb/> usus iniquitatis et erroris usurpant ?</p>
+						causas in <lb/> usus iniquitatis et erroris usurpant ?</p></div>
+    			<div type="textpart" subtype="chapter" n="3">
 					<ab>
 						<title type="sub">CAPUT III. — <hi rend="italic">Rhetoricœ</hi> praecepta <hi rend="italic">qua œtate, quave ratione disci possunt.</hi>
 						</title>
@@ -3841,7 +3976,8 @@
 						loquerentur, crescere daretur et <lb/> vivere. Nescientes quippe ulla nomina vitiorum,
 						quid<lb/> quid vitiosum cujusquam ore loqucnLis audirent, sana <lb/> sua consuctudine
 						reprehenderent et caverent; sic<lb/> ut rusticos urbani reprehendunt, etiam qni
-						litteras <lb/> nesciunt.</p>
+						litteras <lb/> nesciunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="4">
 					<ab>
 						<title type="sub">CAPUT IV. — <hi rend="italic">Officium doctoris christianni.</hi>
 						</title>
@@ -3859,7 +3995,8 @@
 						obsecrationes <lb/> et increpationes, concitationas et coercitiones, et quae<lb/>
 						cumque alia valent ad commovendos animos, sunt <lb/> necessaria.</p>
 					<p>7. Et haec quidcni cuncta quas dixi, omnes fere ho<lb/> niines in iis quae eloqueudo
-						agunt', facere non quie<lb/> scunt:</p>
+						agunt', facere non quie<lb/> scunt:</p></div>
+    			<div type="textpart" subtype="chapter" n="5">
 					<ab>
 						<title type="sub">CAPUT V. — <hi rend="italic">Interest magis ut sapienter dicat chri­
 								stianus orator, quam</hi> ut <hi rend="italic">eloquenter. Unde consequi</hi> id <hi rend="italic">valeat.</hi>
@@ -3906,7 +4043,8 @@
 						facilius sa<lb/> lubritas prodest. Sunt ergo ecclesiastici viri qui divina <lb/>
 						eloquia non solum sapienter, sed eloquenter etiam <lb/> tractaverunt: quibus legendis
 						magis non suflicit tem<lb/> pus, quam deesse ipsi studentibus et vacantibus <lb/>
-						possunt.</p>
+						possunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="6">
 					<ab>
 						<title type="sub">CAPUT VI. <hi rend="italic">Sapietilia juncta cum eloquentia</hi> in
 								<hi rend="italic">sacris auctoribus.</hi>
@@ -3943,7 +4081,8 @@
 						locis agnosci<lb/> tur a doctis, tales res dicuntur, ut verba quibus di<lb/> cuotur,
 						non a dicente adhibita, sed ipsis rebus velut <lb/> sponte subjuncta videantur : quasi
 						sapientiam de do<lb/> nio sua, id est, pectore sapientis procedere intelligas, <lb/>
-						et tanquam inseparabilem famulam etiam non voca<lb/> lam sequi eloquentiam.</p>
+						et tanquam inseparabilem famulam etiam non voca<lb/> lam sequi eloquentiam.</p></div>
+    			<div type="textpart" subtype="chapter" n="7">
 					<ab>
 						<title type="sub">CAPUT VII. — <hi rend="italic">Pulchre docet, adductis exemplis, in
 								sacris</hi> Litteris <hi rend="italic">inesse germanam etoquentiam, quae sa­</hi>
@@ -4188,7 +4327,8 @@
 						oratorum <lb/> invenirentur ingeniis; quid mirum si et in istis inve<lb/> niuntur,
 						quos ille misit qui facit ingenia? Quapro<lb/> pter et cloquentes quidem, non solum
 						sapientes, <lb/> canonicos nostros auctores doctoresque fateamur, <lb/> tali
-						eloquentia1, qualis personis ejusmodi congruebat.</p>
+						eloquentia1, qualis personis ejusmodi congruebat.</p></div>
+    			<div type="textpart" subtype="chapter" n="8">
 					<ab>
 						<title type="sub">CAPUT VIII. — <hi rend="italic">Obscuritas</hi> sacrorum auctorum <hi rend="italic">licet eloquens, non imitanda a doctoribus christianis.</hi>
 						</title>
@@ -4209,7 +4349,8 @@
 						ac maxime ut <lb/> intelligantur elaborent, ea quantum possunt perspi<lb/> cuitate
 						dicendi, ut aut multum tardus sit qui non in- . <lb/> telligat, aut in rerum quas
 						explicare atque ostendere <lb/> volumus diflicultate ac subtilitate, non in nostra lo­
-						<lb/> cutione sit causa quo minus tardiusve quod dicimus <lb/> possit intelligi.</p>
+						<lb/> cutione sit causa quo minus tardiusve quod dicimus <lb/> possit intelligi.</p></div>
+    			<div type="textpart" subtype="chapter" n="9">
 					<ab>
 						<title type="sub">CAPUT IX. — Difficilia intellectu <hi rend="italic">apud quos et quo­
 								modo tractanda.</hi>
@@ -4225,7 +4366,8 @@
 						<lb/> jam percepimus, cnm quantocumque labore disputa<lb/> tionis ad aliorum
 						inteiligentiam perducamus, si tcuet <lb/> auditorem vel colloculorem discendi cupiditas,
 						nee <lb/> mentis capacitas desit, quae quoquo modo intimata <lb/> possit accipere; non
-						curante illo qui docet, quanta <lb/> eloquentia doceat, sed quanta evidentia.</p>
+						curante illo qui docet, quanta <lb/> eloquentia doceat, sed quanta evidentia.</p></div>
+    			<div type="textpart" subtype="chapter" n="10">
 					<ab>
 						<title type="sub">CAPUT X. — <hi rend="italic">Perspicuitatis in dicendo studium.</hi>
 						</title>
@@ -4282,7 +4424,8 @@
 						quo <lb/> fit ut qui audit, verum audiat, et quod audit intelli<lb/> gat. Ad qucin
 						finem cum ventum fuerit, nihil tunc <lb/> amplius de ipsa rc tanquam diutius docenda
 						laboran<lb/> dum est, sed forte de commendanda ut in corde figa<lb/> tur : quod si
-						faciendum videbitur, ita modeste facleu<lb/> dum est , ne perveniatur ad taedium.</p>
+						faciendum videbitur, ita modeste facleu<lb/> dum est , ne perveniatur ad taedium.</p></div>
+    			<div type="textpart" subtype="chapter" n="11">
 					<ab>
 						<title type="sub">CAPUT XI. — <hi rend="italic">Quare conanti docere dicendum ptr­
 								spicue, non tamen</hi> insuaviter.</title>
@@ -4298,7 +4441,8 @@
 						Sed <lb/>
 						<pb n="101"/> quoniam inter se habent nonnullam similitudinem ve<lb/> scentes atque
 						discentes, propter fastidia plurimorum, <lb/> etiam ipsa sine quibus vivi non potest ,
-						alimenta con<lb/> dieuda sant.</p>
+						alimenta con<lb/> dieuda sant.</p></div>
+    			<div type="textpart" subtype="chapter" n="12">
 					<ab>
 						<title type="sub">CAPUT XII. — <hi rend="italic">Oratoris est docere, delecture,
 								flectere, ex Cicerone, de</hi> Oratore. <hi rend="italic">Quo modo</hi> haec <hi rend="italic">tria</hi> praestare <hi rend="italic">debet.</hi>
@@ -4339,7 +4483,8 @@
 						per scipsa, quoniam vera <lb/> sunt , manifestata delectant. Unde plerumque dele<lb/>
 						etant etiam faisa patefacta atqne convicta. Neque enim <lb/> delectant, quia falsa sunt;
 						sed quia falsa esse verum <lb/> est, delectat et dictio qua boc verum esse monstra­
-						<lb/> tum est.</p>
+						<lb/> tum est.</p></div>
+    			<div type="textpart" subtype="chapter" n="13">
 					<ab>
 						<title type="sub">CAPUT XIII. — <hi rend="italic">Dicendo demum</hi> flectendi <hi rend="italic">animi.</hi>
 						</title>
@@ -4359,7 +4504,8 @@
 						et delectare ut teneat, <lb/> verum etiam flectere ut vincat. Ipse quippe jam re<lb/>
 						manet ad consensionem flectendus eloquentiae grandi<lb/> tate, in quo id non egit
 						usque ad ejus confessionem <lb/> demonstrata veritas, adjuncta etiam sua vitate
-						dictionis.</p>
+						dictionis.</p></div>
+    			<div type="textpart" subtype="chapter" n="14">
 					<ab>
 						<title type="sub">CAPUT XIV. — <hi rend="italic">Dictionis suavitas pro ratione arga­
 								menti procuranda est.</hi>
@@ -4401,7 +4547,8 @@
 						uUnia gravitati displi<lb/> cent. Qui vero haec amant, profecto eos qui non ita <lb/>
 						dicunt, sed castigatius eloquuntur, non posse ita elo<lb/> qui existimant, non judicio
 						ista devitare. Quapropter <lb/> iste vir sanctus et posse se ostendit sic dicere, quia
-						<lb/> dixit alicubi, et nolle, quoniam postmodum nus<lb/> quam.</p>
+						<lb/> dixit alicubi, et nolle, quoniam postmodum nus<lb/> quam.</p></div>
+    			<div type="textpart" subtype="chapter" n="15">
 					<ab>
 						<title type="sub">CAPUT XV. — <hi rend="italic">Orandus Deus doctori eccleciastico ante
 								concionem.</hi>
@@ -4428,7 +4575,8 @@
 						<lb/> mini : non <hi rend="italic">enim vos estis qui loquimini, sed Spiritus <lb/>
 							Patris vestri</hi> qui <hi rend="italic">loquitur in vobis (Matth.</hi> x, 19, 20).
 						<lb/> Si ergo loquitur in eis Spiritus sanctus, qui perse<lb/> quentibus traduntur pro
-						Christo, cur non et in eis qui <lb/> tradunt discentibus Christum ?</p>
+						Christo, cur non et in eis qui <lb/> tradunt discentibus Christum ?</p></div>
+    			<div type="textpart" subtype="chapter" n="16">
 					<ab>
 						<title type="sub">CAPUT XVI. — <hi rend="italic">Docendi</hi> praecepta <hi rend="italic">non superfluo dan­</hi> tur <hi rend="italic">abi homine, tametsi doctores</hi>
 							efficiat <hi rend="italic">Deus,</hi>
@@ -4479,7 +4627,8 @@
 						of<lb/> faciose fiat, inter opera misericordi;c vel beneficentiae <lb/> dcputatur : ita
 						et adjumenta doctrinae tunc prosunt <lb/> animae adhibita per hominem, cum Deus operatur
 						ut <lb/> prosint, qui potuit Evangelium dare bomiui, etiam <lb/> uon ab hominibus, neque
-						per hominem.</p>
+						per hominem.</p></div>
+    			<div type="textpart" subtype="chapter" n="17">
 					<ab>
 						<title type="sub">CAPUT XVII. — <hi rend="italic">Ad docendum delectandum et flecten­
 								dum pertinet triplex dicendi genus.</hi>
@@ -4499,7 +4648,8 @@
 						<hi rend="italic">diter dicere (Cicero, de Oratore)</hi> : tanquam si adderet <lb/> iila
 						etiam tria, et sic explicaret unam camdemque <lb/> sententiam dicens , Is erit igitur
 						cioqucns, qui ut do<lb/> ceat, poterit parva submisse ; ut delectet , modica <lb/>
-						temperate; ut flectat, magna granditcr dicere.</p>
+						temperate; ut flectat, magna granditcr dicere.</p></div>
+    			<div type="textpart" subtype="chapter" n="18">
 					<ab>
 						<title type="sub">CAPUT XVIII. — <hi rend="italic">Ecclesiasticus orator</hi> in <hi rend="italic">matcria grandi semper versatur.</hi>
 						</title>
@@ -4563,7 +4713,8 @@
 						dicendum. Nonne quando accidit ut de bac ro <lb/> loqueremur ad populum, ct Deus adfuit
 						ut non incor<lb/>grue diceremus, tanquam lIo illa aqua frigida quae<lb/> dam flamma
 						surrexit (II<hi rend="italic">Mach.I,</hi> 32), quae etiam frigida <lb/> hominum pectora,
-						ad misericordiae opera racienda, spe <lb/> caelestis mercedis accenderet ?</p>
+						ad misericordiae opera racienda, spe <lb/> caelestis mercedis accenderet ?</p></div>
+    			<div type="textpart" subtype="chapter" n="19">
 					<ab>
 						<title type="sub">C) PUT XIX. <hi rend="italic">— Alias alio utendum dicendi
 								genere.</hi>
@@ -4590,7 +4741,8 @@
 						<note type="footnote">
 							<hi rend="italic">(Quatre.)</hi>
 						</note><lb/>
-						<pb n="107"/> hoc malo avertantur homines, debet utiquc granditer <lb/> dici.</p>
+						<pb n="107"/> hoc malo avertantur homines, debet utiquc granditer <lb/> dici.</p></div>
+    			<div type="textpart" subtype="chapter" n="20">
 					<ab>
 						<title type="sub">CAPUT XX.- <hi rend="italic">Exemp/a ex sacris</hi> Litteris, <hi rend="italic">primum,</hi> \ <hi rend="italic">dictionis submissae; deinde temperatae;
 								postremo , : grandis : haec tria ex Epistolis Pauli.</hi>
@@ -4785,7 +4937,8 @@
 								vestram.</hi>
 						</note>
 						<pb n="111"/>
-					</p>
+					</p></div>
+    			<div type="textpart" subtype="chapter" n="21">
 					<ab>
 						<title type="sub">CAPUT XXI. — <hi rend="italic">Exempla triplicis hujus generis
 								dictio­</hi> nis <hi rend="italic">ex doctoribus ecclesiasticis,</hi> nempe <hi rend="italic">Cypriano et Ambrosio desumuntur.</hi>
@@ -4977,7 +5130,8 @@
 						in aliis <lb/> ecclesiasticis viris efbona, et bene, id est sicut res <lb/> postulat,
 						acute, ornate, ardenterque dicentibus, per <lb/> multa eorum scripta vel dicta possunt
 						haec tria genera <lb/> reperiri, et assidua lectione vel auditione, admixta <lb/> etiam
-						exercitationc. studentibus inolescere.</p>
+						exercitationc. studentibus inolescere.</p></div>
+    			<div type="textpart" subtype="chapter" n="22">
 					<ab>
 						<title type="sub">CAPUT XXII. — <hi rend="italic">Omnibus generibus dictio varianda
 								est.</hi>
@@ -5003,7 +5157,8 @@
 						bene rcditur ad ca quaeopas est <lb/> granditer dici, ut dictionis impetus sicut maris
 						aestus <lb/> alternet. Ex quo fit ut grande dicendi genus, si diu<lb/> tius est
 						dicendum, non debeat esse solum , sed alio<lb/> rum generum interpositione; varietur :
-						ei tamen genere <lb/> dictio tota tribuitur, cujus copia praevaluerit.</p>
+						ei tamen genere <lb/> dictio tota tribuitur, cujus copia praevaluerit.</p></div>
+    			<div type="textpart" subtype="chapter" n="23">
 					<ab>
 						<title type="sub">CAPUT XXIII. — <hi rend="italic">Quomodo intermiscenda dictionis
 								genera.</hi>
@@ -5026,7 +5181,8 @@
 						<lb/> quae ornari possent, ideo non ornantur, sed submisso <lb/> sermone dicuntur, ut
 						quibusdam quas! toris orna<lb/> mentorum pra'beant eminentiorem locum. Grande <lb/>
 						atutem genus temperata dictio non requirit: ad de. <lb/> lectandos quipffe animos, non
-						ad movendos ipsa <lb/> suscipitur.</p>
+						ad movendos ipsa <lb/> suscipitur.</p></div>
+    			<div type="textpart" subtype="chapter" n="24">
 					<ab>
 						<title type="sub">CAPUT XXIV. — <hi rend="italic">Sublime dicendi genus quid
 								efficial.</hi>
@@ -5061,7 +5217,8 @@
 						laudabiliter appetant, fugiantque vituperabiliter vi<lb/> vere.Sed numquid omnes qui
 						delectantur, mutantur1, <lb/> sicut in grandi genere omnes qui flectuntur, agunt; <lb/>
 						et in submisso gcnerc omnes qui docentur, sciunt, <lb/> aut credunt verum esse quod
-						nesciunt ?</p>
+						nesciunt ?</p></div>
+    			<div type="textpart" subtype="chapter" n="25">
 					<ab>
 						<title type="sub">CAPUT XXV. — <hi rend="italic">Temperatum dicendi genus qucm in finem
 								referri decet.</hi>
@@ -5098,7 +5255,8 @@
 						<pb n="117"/> verent Ita fit ut ctiain temperati generis orcatu. no:. <lb/> jactanter,
 						scd prudenter utmur : non cjus firc con<lb/> tenti, quo tantummodo delectatur auditor;
 						scd hoc <lb/> potius agentes, ut etiam ipso ad bonum quod persua<lb/> dere volumus,
-						adjuvetur.</p>
+						adjuvetur.</p></div>
+    			<div type="textpart" subtype="chapter" n="26">
 					<ab>
 						<title type="sub">CAPUT XXVI. — <hi rend="italic">In unoquoque dicendi genere in­
 								tendere debet orator, ut</hi> intelligenter, <hi rend="italic">libenter et
@@ -5155,7 +5313,8 @@
 						si nescit quod dicitur? <lb/> aut quis tenetur ut audiat, si non dclectatur? Unde et
 						<lb/> in isto genere, ubi ad obedientiam cor durum dictio<lb/> nis granditate
 						flectendum est, nisi et intelligenter et <lb/> libenter qui dicit audiatur, non potest
-						obcdienler au<lb/> diti.</p>
+						obcdienler au<lb/> diti.</p></div>
+    			<div type="textpart" subtype="chapter" n="27">
 					<ab>
 						<title type="sub">CAPUT XXVII. — Obedientius <hi rend="italic">audiri cujus vita</hi>
 							di­ <hi rend="italic">ctioni respondet.</hi>
@@ -5203,7 +5362,8 @@
 						<hi rend="italic">Nemo adolescentiam tuam contemnal;</hi> subjecit unde <lb/> ron
 						contemneretur, atque ait : <hi rend="italic">Sed forma esto fide<lb/> lium in sermone,
 							in conversatione,</hi> in dilectione, <hi rend="italic">in fide, <lb/> in</hi>
-						castitate (1 <hi rend="italic">Tim.</hi> iv, 12).</p>
+						castitate (1 <hi rend="italic">Tim.</hi> iv, 12).</p></div>
+    			<div type="textpart" subtype="chapter" n="28">
 					<ab>
 						<title type="sub">CAPUT XXVIII. — <hi rend="italic">Veritati potius quam verbis
 								stu­</hi> dendum. <hi rend="italic">Verbis contendere quid sit.</hi>
@@ -5238,7 +5398,8 @@
 						submisso genere <lb/> sufficientia, in temperato splendentia, in grandi vehe<lb/>
 						mentia, veriS tamen rebus, quas audiri oporteat, <lb/> adhibere? Sed qui utrumque non
 						potest, dicat sapien<lb/> ter quod non dicit cloquenter, potius quam dicat c!o- <lb/>
-						quenter quod dicit insipienter.</p>
+						quenter quod dicit insipienter.</p></div>
+    			<div type="textpart" subtype="chapter" n="29">
 					<ab>
 						<title type="sub">CAPUT XXIX.— <hi rend="italic">Non culpandus ecclesiastes,</hi> qui
 								<hi rend="italic">a . peritiore sumit conscriptum eloquium, quod ad popu­ lum
@@ -5278,7 +5439,8 @@
 						ipse a seipso tradit <lb/> alienum, ille ab alieno accipit suum. Cum vero boni <lb/>
 						fideles bonis fidelibus hanc operam commodant, utri<lb/> que sua dicunt: quia et Deus
 						ipsorum est, cujus sunt <lb/> illa quae dicunl; et ea sua faciunt, quoe non ipsi com­
-						<lb/> ponere potuerunt, qui secundum ilia composite <lb/> vivunt.</p>
+						<lb/> ponere potuerunt, qui secundum ilia composite <lb/> vivunt.</p></div>
+    			<div type="textpart" subtype="chapter" n="30">
 					<ab>
 						<title type="sub">CAPUT XXX.— <hi rend="italic">Concionator prœmittat</hi> orationem <hi rend="italic">ad Deum.</hi>
 						</title>
@@ -5295,9 +5457,9 @@
 						illi ad quos proferuntsumant; etde prospe<lb/> ro exitu dictionis eidem gratias agant,
 						a quo id se <lb/> accepisse non dubitant : ut qui gloriatur, in illo glo<lb/> rietur,
 						in cujus manu sunt et nos et sermones nostri <lb/>
-						<hi rend="italic">(Sap.</hi> VII, 16).</p>
+						<hi rend="italic">(Sap.</hi> VII, 16).</p></div>
 					<pb n="121"/>
-
+    			<div type="textpart" subtype="chapter" n="31">
 					<ab>
 						<title type="sub">CAPUT XXXI — <hi rend="italic">Excusat prolixitatem libri..</hi>
 						</title>
@@ -5308,9 +5470,9 @@
 						longitudine non queratur. <lb/> Ego tamen Deo nostro gratias ago, quod in his qua<lb/>
 						tuor libris non qualis ego cssem, cui multa desunt, <lb/> sed qualis esse dcbeat, qui in
 						doctrina sana, id est <lb/> christiana, non solum sibi, sed etiam aliis laborare <lb/>
-						studet, quantulacumque potui facultate disserui.</p>
+						studet, quantulacumque potui facultate disserui.</p></div></div>
 				</div>
 
 				</body>
   </text>
-
+</TEI>
