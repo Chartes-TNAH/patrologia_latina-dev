@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
 			<titleStmt>
-				<title>Patrologiae Cursus Completus. Series Latina (PL)</title>
+				<title>Patrologi æ Cursus Completus. Series Latina (PL)</title>
 				<sponsor>University of Leipzig</sponsor>
 				<funder>European Social Fund Saxony</funder>
 				<principal>Gregory Crane</principal>
@@ -46,12 +46,12 @@
 								</persName>
 							</editor>
 							<author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Augustinus</author>
-							<title>De Diversis Quaestionibus LXXXIII Liber Unus</title>
-							<title>De Diversis Quaestionibus Ad Simplicianum. Monitum</title>
-							<title>De Diversis Quaestionibus Ad Simplicianum</title>
-							<title>De Octo Dulcitii Quaestionibus</title>
-							<title>De Fide Rerum Quae Non Videntur. Monitum</title>
-							<title>De Fide Rerum Quae Non Videntur</title>
+							<title>De Diversis Qu æstionibus LXXXIII Liber Unus</title>
+							<title>De Diversis Qu æstionibus Ad Simplicianum. Monitum</title>
+							<title>De Diversis Qu æstionibus Ad Simplicianum</title>
+							<title>De Octo Dulcitii Qu æstionibus</title>
+							<title>De Fide Rerum Qu æ Non Videntur. Monitum</title>
+							<title>De Fide Rerum Qu æ Non Videntur</title>
 							<title>De Fide. Spe Et Charitate. Admonitio</title>
 							<title>De Fide. Spe Et Charitate</title>
 							<title>De Agone Christiano</title>
@@ -69,12 +69,12 @@
 							<title>Sermones. De Utilitate Jejuni Sermo</title>
 							<title>Sermones. De Urbis Excidio</title>
 							<title>Viginti Unius Sententiarum</title>
-							<title>Dialogus Quaestionum LXV [Incertus]</title>
-							<title>De Fide Ad Petrum Sive De Regula Verae Fidei [Incertus]</title>
+							<title>Dialogus Qu æstionum LXV [Incertus]</title>
+							<title>De Fide Ad Petrum Sive De Regula Ver æ Fidei [Incertus]</title>
 							<title>De Spiritu Et Anima [Incertus]</title>
 							<title>De Substantia Dilectionis [Incertus]</title>
 							<title>De Diligendo Deo [Incertus]</title>
-							<title>Soliloquiorum Animae Ad Deum [Incertus]</title>
+							<title>Soliloquiorum Anim æ Ad Deum [Incertus]</title>
 							<title>Meditationum [Incertus]</title>
 							<title>De Contritione Cordis</title>
 							<title>Manuale [Incertus]</title>
@@ -82,7 +82,7 @@
 							<title>Spectaculum Peccatoris [Incertus]</title>
 							<title>De Triplici Habitaculo [Incertus]</title>
 							<title>Scala Paradisi [Incertus]</title>
-							<title>Cognitio Vitae [Incertus]</title>
+							<title>Cognitio Vit æ [Incertus]</title>
 							<title>De Vita Christiana [Incertus]</title>
 							<title>De Salutaribus Documentis [Incertus]</title>
 							<title>De Duodecim Abusionum Gradibus [Incertus]</title>
@@ -92,10 +92,10 @@
 							<title>De Antichristo [Incertus. Adso Derviensis]</title>
 							<title>Psalterium [Incertus]</title>
 							<title>Cantici Magnificat Expositio [Incertus]</title>
-							<title>De Assumptione Beatae Mariae Virginis [incertus]</title>
+							<title>De Assumptione Beat æ Mari æ Virginis [incertus]</title>
 							<title>De Visitatione Infirmorum [Incertus]</title>
 							<title>De Consolatione Mortuorum [Incertus. Joannes Chrisostomus]</title>
-							<title>De Rectitudine Catholicae Conversationis Tractatus [Incertus]</title>
+							<title>De Rectitudine Catholic æ Conversationis Tractatus [Incertus]</title>
 							<title>Sermo De Symbolo [Incertus]</title>
 							<title>In Psalmum XLI Ad Neophytos [Incertus]</title>
 							<title>Sermo De Eo Quod Neophytis Ex Oleo Sancto Aures Et Nares A Sacerdotibus
@@ -103,15 +103,15 @@
 							<title>Sermo De Mysterio Baptisimatis [ncertus]</title>
 							<title>Sermo De Unctione Capitis Et De Pedibus Lavandis</title>
 							<title>Tractatus De Creatione Primi Hominis [Incertus]</title>
-							<title>Sermo De Vanitate Saeculi [Incertus]</title>
+							<title>Sermo De Vanitate S æculi [Incertus]</title>
 							<title>Sermo De Contemptu Mundi [Incertus]</title>
-							<title>Sermo De Bono Disciplinae [Incertus]</title>
+							<title>Sermo De Bono Disciplin æ [Incertus]</title>
 							<title>Sermo De Obedientia Et Humilitate</title>
 							<title>Tractatus De Charitate [Incertus]</title>
 							<title>Tractatus De Oratione Et Eleemosyna [Incertus]</title>
 							<title>Sermo De Generalitate Eleemosynarum [Incertus]</title>
 							<title>Tractatus De Duodecim Lapidibus [Incertus]</title>
-							<title>Miscellanea Sententiae [Incertus]</title>
+							<title>Miscellanea Sententi æ [Incertus]</title>
 							<title>Sermones Ad Fratres In Eremo Commorantes Et Quosdam Alios [Incertus]</title>
 							<imprint>
 								<publisher>Garnier</publisher>
@@ -151,7 +151,7 @@
 						cum nec illud supplicium vitari, nec illud <lb/> caudium acquiri po sii, nisi via
 						cognita qua est illud <lb/> vitandum, et illud acquirendum. Audiamus ergo Ii­ <lb/>
 						bentius, inspiciamus diligentius verba Apostoli, quibus <lb/> ipse duo ostendit,
-						scilicet quod coelestis gloriae vita <lb/> ineffabilis est, et quæ sit via quoe ducit ad
+						scilicet quod coelestis glori æ vita <lb/> ineffabilis est, et quæ sit via quoe ducit ad
 						vitam : ait <lb/> enim , <hi rend="italic">Nec oculus vidit, nec auris andivit, nec in
 							tor <lb/> hominis ascendit, quæ</hi> præparavit <hi rend="italic">Deus</hi>
 						diligentibus se <lb/> (I <hi rend="italic">Cor.</hi> II, 9) Eccc per hoc quod dicit Deum
@@ -170,7 +170,7 @@
 						quis novit eam? Qui diligit <lb/> Deum et proximum.</p>
 					<p>Qnomndo diligendus est Deus, et quomodo proli­ <lb/> mus ? Deum debemus diligere plus
 						quam nos, sed <lb/> proximum sicut nos. Deum diligimus plus quam <lb/> nos , si præcepta
-						ejus voluntati nostrae in omnihus <lb/> præponimus : proximum autem non jubemur diligere
+						ejus voluntati nostr æ in omnihus <lb/> præponimus : proximum autem non jubemur diligere
 						<lb/> quantum nos ; sed sicli nos, id est , velle et optare <lb/> omne honum , qnod
 						debemus velle et optare nobis , <lb/> et maxime æteruam beatitudinem ; et ad illam obli­
 						<lb/> uendam ei succurrere, et in corporalibus bonis, et in <lb/> spiritualibus, prout
@@ -190,7 +190,7 @@
 						nostra, deficit prorsus in conside­ <lb/> ratione tantorum beneficiorum ejus. Et licet
 						non pos­ <lb/> simus ci tantum et tantas. ut decet, amorem et obse­ <lb/> quium et
 						gratiarum actiones persolvere, tamen qnan­ <lb/> tum et quantas possumus rependere
-						debemus. Ecce <lb/> quare, id est, pro beneficiis suis, quae sua magna <lb/> pietate,
+						debemus. Ecce <lb/> quare, id est, pro beneficiis suis, qu æ sua magna <lb/> pietate,
 						sua gratuita bonitate , nullis nostris meritis <lb/> exigenlihns nobis contulit Dominus,
 						a nobis quoque <lb/> multum diligendus est. Qualiter autem a nohis dili­ <lb/> gendus
 						est Deus, illud ejus mandatum manifestat, <lb/> quod nimis mamlavit, et nimis custodiri
@@ -204,23 +204,23 @@
 						tate <hi rend="italic">tua; et extota mente (Deut.</hi> VI, 5, et <hi rend="italic">Matth.</hi> XXII, 37), <lb/> id est, ex tota memoria : ut omnes cogitationes tuas,
 						<lb/> omnemque vitam tuam, et omnem intellectum tuum <lb/> in illum conserves. Sed quia
 						parum te forte a Deo <lb/> diligi æstimas, illum quoque parum diligere non ve­ <lb/>
-						reris. Scrutare ergo et revolve in animo tuo quae tibi <lb/> contulit dona et beneficia,
+						reris. Scrutare ergo et revolve in animo tuo qu æ tibi <lb/> contulit dona et beneficia,
 						quaive promisit : et to <lb/> vehementer illum debere diligere convinceris.</p>
 					<p>Ut autem amor Dei in te amplius excitetur et cre­ <lb/> scat, considera diligenter, a
 						quo, quare, vel ad quid <lb/> creatus sit homo, quæve Deus propter hominem crea­ <lb/>
 						vit. Sciendum est ergo rerum creatarum , coelestium <lb/> et terrestrium, visibilium et
 						invisibilium causam non <lb/> esse nisi bonitatem Creatoris , qui est Deus unus et <lb/>
-						vcrus : cujus est tanta bonitas, quod ' alios suae bea- <note type="footnote"> 1 Alias,
+						vcrus : cujus est tanta bonitas, quod ' alios su æ bea- <note type="footnote"> 1 Alias,
 							IlL </note>
 						<note type="footnote"> (n) Ex Hug. vict. lib. I de Sacramentis, p. 2, cap. i, et ex
 							<lb/> eoi. samma Sentent. tract. 2, cap. 1. </note>
-						<lb/> titudinis qua aeternaliter beatus est, velit esse parti­ <lb/> cipes, quam vidit
+						<lb/> titudinis qua  æternaliter beatus est, velit esse parti­ <lb/> cipes, quam vidit
 						communicari posse, minui omnino <lb/> non posse. Illud igitur bonum, quod ipse erat et
 						quo ipse <lb/> erat beatus, sola bonitate, non necessitate aliis communi­ <lb/>
 						carevoluit quia summi boni erat prodesse velle, et om­ <lb/> nipotenlissimi nocere non
 						posse. Et quia non valet ejus <lb/> beatitudinis particeps existere aliquis, nisi per
 						intel­ <lb/> ligentiam, quæ quanto magis intelligitur, tanto plenius <lb/> habetur;
-						fecit Deus rationalem crcaluram, quae sum­ <lb/> mum bonum intelligeret, intelligendo
+						fecit Deus rationalem crcaluram, qu æ sum­ <lb/> mum bonum intelligeret, intelligendo
 						amaret, amand) <lb/> possideret. et possidendo frueretur : eamque bo: <lb/> modo
 						distinxit , ut pars in sui puritate permaneret, <lb/> nec corpori uniretur, scilicet
 						angelus; pars corpori <lb/> jungeretur, scilicet anima. Distincta est igitur ratio­
@@ -234,7 +234,7 @@
 						plenus, nec augeri potest nec minui. Quod ergo&lt; <lb/> creatura rationalis facta est a
 						Deo , referendum est <lb/> ad Creatoris bonitatem, et ad creatuæ utilitatem. <lb/> Cum
 						igitur quæritur, quare vel ad quid facta sit ra­ <lb/> tionalis creatura; respondendum
-						est, Propter Det <lb/> bonitatem, et creaturae utilitatem : ulile nempe est ei <lb/>
+						est, Propter Det <lb/> bonitatem, et creatur æ utilitatem : ulile nempe est ei <lb/>
 						servire Deo et frui eo.</p>
 					<p>CAPUT III. <hi rend="italic">Hominis sunt omnia.</hi> (a) Factus ergo <lb/> angelus ,
 						sive homo propter Deum dicitur esse, non <lb/> quia Deus creator et summe beatus
@@ -250,9 +250,9 @@
 						<lb/> homo. Totum igilur bonum hominis erat, et quod fa­ <lb/> ctum est propter ipsum ,
 						et propter quod factus est <lb/> ipse. <hi rend="italic">Omnia enim</hi> , ait Apostolus
 						, <hi rend="italic">nostra sunt</hi> (I Cor. <lb/> III, 22); superiora scilicet,
-						aequalia et inferiora. SUe <lb/> periora quidem nostra sunt ad perfruendum, ut Deus
+						 æqualia et inferiora. SUe <lb/> periora quidem nostra sunt ad perfruendum, ut Deus
 						<lb/> creator Trinitas. Æqualia nostra sunt ad conviven­ <lb/> dam , scilicet Angeli,
-						qui etsi modo sunt superiores <lb/> nobis, in futuro erunt aequales <hi rend="italic">(Matth.</hi> XXII. 50). Et <lb/> inferiora nostra sunt, quae ad usum nobis sunt,
+						qui etsi modo sunt superiores <lb/> nobis, in futuro erunt  æquales <hi rend="italic">(Matth.</hi> XXII. 50). Et <lb/> inferiora nostra sunt, qu æ ad usum nobis sunt,
 						sicut <lb/> res dominorum dicuntur esse famulorum, non domi­ <lb/> nio a, sed quia sunt
 						ad usum eorum. Ipsique Angeli <lb/> in quibusdam Scripturæ locis nobis servire dicuntur
 						, <lb/> dum propter nos in ministerium mittuntur : uude <lb/> Apostolus ait, <hi rend="italic">Quoniam omnes administratorii spiritus <lb/> sunt,</hi> missi <hi rend="italic">in ministerium propter eos qui hæreditatem <lb/> capiunt salutis
@@ -266,7 +266,7 @@
 						</note><note type="footnote"> k Ms. Regius, <hi rend="italic">et</hi> plus <hi rend="italic">qucm fiant nouit.</hi>
 						</note>
 						<note type="footnote">
-							<hi rend="italic">(M)</hi> verba haec comestoris nomine citantur a vincent. <lb/>
+							<hi rend="italic">(M)</hi> verba h æc comestoris nomine citantur a vincent. <lb/>
 							Bellov., lib. 25 Spec. nat., cap. i ; Hug. vict. lib. i de &gt;a­ <lb/> mam. p. 2,
 							cap. i; et Reraarti. , serm. I, de S. Idi­ <lb/> chaclc. </note>
 						<lb/>
@@ -288,7 +288,7 @@
 						ergo necesse est ut quisque se ipsum consideret, et <lb/> cnm cognoverit dignitatem
 						suam, ne injuriam faciat <lb/> Creatori suo, abjectiora se non amet. Nam et ea quæ <lb/>
 						per se considerata pulchra sunt, pulchrioribus com­ <lb/> parata vilescunt; et sicut
-						ineptum est deformia put­ <lb/> chris conjungere, sic omnino indecens est ea quae <lb/>
+						ineptum est deformia put­ <lb/> chris conjungere, sic omnino indecens est ea qu æ <lb/>
 						non habent nisi intimam quamdam et imaginariam <lb/> pulchritudinem pulcherrimis
 						coxquare. Tnam ergo, <lb/> anima , attende pulchritudinem; et intellige qualem <lb/>
 						pulchritudinem debeas diligere. Quod si forte interna <lb/> visio tua per negligentiam
@@ -314,7 +314,7 @@
 						considera si in eo ali­ <lb/> quid sit quod tibi non serviat. Omnis natura 1 ad hunc
 						<lb/> finem cursum suum dirigit, ut obsequiis Luis famule­ <lb/> tur, et utilitati
 						dcservial, Unisque oblectamentis pari­ <lb/> ter et necessitatibus secundum affluentiam
-						indeficien­ <lb/> tem occurrat: hoc cœlum , hoc terra, hoc aer, hoc <lb/> maria cum cis
+						indeficien­ <lb/> tem occurrat: hoc cœlum , hoc terra, hoc  ær, hoc <lb/> maria cum cis
 						quæ in ipsis sunt universis, explero <lb/> non cessant; hoc circuitus temporum annuis
 						innova­ <lb/> tionibuset redivivis partubus antiqua innovans, dih­ <lb/> psa reformans,
 						consumpta instaurans pastu perpetuo <lb/> subministrat. Quis ergo, putas, hoc instituit?
@@ -340,10 +340,10 @@
 						vicissitudinem dilectionis non impendis. Aut dona it­ <lb/> lius, si potes, respue; vel
 						si dona illius respuere non <lb/> potes, vicissitudinem dilectionis repende. Dilige
 						illum <lb/> propter se, dilige te propter illum : dilige illum , ut <lb/> fruaris illo,
-						dilige te, ut diligaris ab illo '. Dilige in <lb/> donis illius quae data sunt ab illo.
+						dilige te, ut diligaris ab illo '. Dilige in <lb/> donis illius qu æ data sunt ab illo.
 						Illum tihi, et te illi <lb/> dilige. Hæc pura et casta dilectio est, nihil habens <lb/>
 						sordidum, nihil amarum, nihil transitorium.</p>
-					<p>Considera ergo, o anima mea, quae communia cum <lb/> omnibus, quæ specialia cum
+					<p>Considera ergo, o anima mea, qu æ communia cum <lb/> omnibus, quæ specialia cum
 						aliquibus, quæ singularia <lb/> sola acceperis. In omnibus his te dilexit, quæ vel <lb/>
 						communiter tecum omnibus, vel specialiter cum qui­ <lb/> busdam, vel singulariter tibi
 						soli tribiiit. Cum iis rur­ <lb/> sum omnibus te dilexit, quibus te participatione doni
@@ -362,7 +362,7 @@
 						hic <lb/> terminari potuit munificentia largitoris optimi: adhuc <lb/> aliquid plus
 						dedit, et magis 4 nos ad similitudinem <lb/> suam traxit. Voluit ad se trahere per
 						similitudinem , <lb/> quos ad se trahebat per dilectionem. Dedit ergo nobis <lb/> esse,
-						et pulchros esse, dedit et vivere : ut præcella­ <lb/> mus his quae non sunt per
+						et pulchros esse, dedit et vivere : ut præcella­ <lb/> mus his qu æ non sunt per
 						essentiam, et his quæ inor­ <lb/> dinata sunt, aut incompleta aut incomposita per for­
 						<lb/> mam, aut inanimata per vitam. Magno debito obligata <lb/> es, anima mea. Multum
 						accepisti, et nihil a te ha­ <lb/> buisti ; et pro omnibus his non hahes quid retribuas,
@@ -378,7 +378,7 @@
 						</note><note type="footnote"> * Apud Hug., <hi rend="italic">quia diligeris ab
 								illo.</hi>
 						</note><note type="footnote"> I Ixjcus reslilulus ex Hug. et ex Ms. Regio. </note><note type="footnote"> * Ms. Regius, <hi rend="italic">et migis dedit; nos.</hi>
-						</note><note type="footnote"> 1 Hæc verba, amabilis, <hi rend="italic">quia saec hic
+						</note><note type="footnote"> 1 Hæc verba, amabilis, <hi rend="italic">quia s æc hic
 								lfUltm illic</hi> mbt"" <lb/> ex Hus. suj niemMs. </note>
 						<note type="footnote">
 							<hi rend="italic">(a)</hi> tia ct Pen'm) lues., de charitate Dei et proxum, rai*.
@@ -396,13 +396,13 @@
 						osten­ <lb/> deret tibi quantum te diligeret, non nisi moriendo a <lb/> morte liberare
 						te voluit; ut non impenderet tantum <lb/> pietatis beneficium, verum etiam charitatis
 						monstra­ <lb/> ret affectum. Grandi itaque dignatione primo homini <lb/> spiraculum
-						vitae desuper pius formator infudit : sed <lb/> multo majori charitate pro eodem homine
+						vit æ desuper pius formator infudit : sed <lb/> multo majori charitate pro eodem homine
 						non jam <lb/> sua dedit, sed se ipsum impendit atque tradidit. Ma­ <lb/> gnum quidem est
 						de Deo, quod esse me sentio opus <lb/> ejus : sed multo plus est, quod transisse ipsum
 						video <lb/> in pretium meum; quoniam tam copioso munere ipsa <lb/> redemptio agitur, ut
 						homo Deum valcre videatur. 0 <lb/> felix culpa mea, ad quam diluendam dum ille chari­
 						<lb/> tate trahitur, ipsa quoque ejus charitas mihi eam desi­ <lb/> deranti et eam totis
-						praecordiis concupiscenti aperi­ <lb/> tur! Nunqnam tam bene dilectionem ejus
+						pr æcordiis concupiscenti aperi­ <lb/> tur! Nunqnam tam bene dilectionem ejus
 						agnoscerem, <lb/> nisi in tantis periculis expertus eam fuissem. 0 quarn <lb/> feliciter
 						cecidi, qui post lapsum felicius resurrexi ! <lb/> Nulla dilectio major, nullus amor
 						sincerior, nulla <lb/> charitas sanctior, nullus affectus ardentior. MOrtuus <lb/> est
@@ -411,25 +411,25 @@
 						Disti, pro quo tanta ei tam dura sustinere voluisti?</p>
 					<p>CAPUT VII. <hi rend="italic">De beneficio vocationis ad fidem.</hi> Et <lb/> quid, si
 						cogitare coeperis, o anima mea, quot et qua­ <lb/> les in comparatione tui abjecti sint,
-						qui hanc quae <lb/> tibi data est gratiam consequi non potuerunt? Certe <lb/> audisti ab
-						initio usque ad hanc diem, quam multae ge­ <lb/> nerationes pertransierunt , quae omnes
-						sine cogni­ <lb/> tione Dei et pretio suae redemptionis in interitum <lb/> sempiternum
-						dilapsae sunt. Omnibus illis Redemptor <lb/> tuus te praetulit, quando tibi hanc gratiam
+						qui hanc qu æ <lb/> tibi data est gratiam consequi non potuerunt? Certe <lb/> audisti ab
+						initio usque ad hanc diem, quam mult æ ge­ <lb/> nerationes pertransierunt , qu æ omnes
+						sine cogni­ <lb/> tione Dei et pretio su æ redemptionis in interitum <lb/> sempiternum
+						dilaps æ sunt. Omnibus illis Redemptor <lb/> tuus te pr ætulit, quando tibi hanc gratiam
 						largitus <lb/> est, quam nullus eorum percipere meruit. Tu sola <lb/> præ omnibus illis
 						assumpta es : et quare hoc in te fa­ <lb/> ctum sit, nullam præter solam Salvatoris tui
-						charita­ <lb/> tem, invenire poteris causam. Elegit ergo et praeelegit <lb/> te sponsus
+						charita­ <lb/> tem, invenire poteris causam. Elegit ergo et pr æelegit <lb/> te sponsus
 						tuus, amator tuus, Deus tuus, Redemptor <lb/> tuus : elegit te in omnibus, et assumpsit
 						te ex omni­ <lb/> bus, et amavit te præ omnibns. Nomine suo vocavit te, <lb/> ut
 						memoriale ejus semper esset apud te. Voluit te parti­ <lb/> cipem esse in nomine,
 						participem in nominis veritate : <lb/> quoniam unxit te illo, quo et ipse unctus crat,
 						oleo læ­ <lb/> titiæ (Ps. XLIV, 8), ut abuncto sis unctus, quia a Christo <lb/> dicitur
 						christianus. Sed numquid tu fortior, numquid <lb/> sapientior, numquid nobilior, numquid
-						omnibus illis <lb/> ditior fuisti, qui hanc prae omnibus illis specialcm <lb/> graHam
+						omnibus illis <lb/> ditior fuisti, qui hanc pr æ omnibus illis specialcm <lb/> graHam
 						sortiri meruisti? Quot fortes, quot sapientes, <lb/> quot nobiles, quot divites ili
 						fuerunt; et tamen uni­ <lb/> versi relicti et abjecti perierunt? Multum, fateor, col.
 						<lb/> latum est libi: nam cum foeda prius fuisses, et pol: <lb/> luta, et deformis, et
 						squalida, discissa et dissipata, et <lb/> omni horrore et enormitate plena; sie Deus
-						Dominus <lb/> tuus dilexit te, ut te tantis gratiæ suae muneribus di­ <lb/> taret. Nisi
+						Dominus <lb/> tuus dilexit te, ut te tantis gratiæ su æ muneribus di­ <lb/> taret. Nisi
 						ergo prius multa cura, studio vehementi <lb/> exculta et ornata decenter fueris, in
 						coelestis sponsi <lb/> thalamum introduci digna non eris. Nunc ergo durn <lb/> tempus
 						est, o anima mea, formam tuam excole, fa­ <lb/> ciem orna, habituin compone, maculas
@@ -467,20 +467,20 @@
 						se via.perducat.</p>
 					<p>CAPUT IX. <hi rend="italic">De illustratione aliis beneficiis.</hi> 0 ani- <lb/> Ola,
 						quid faciemus Domino Deo, a quo tot bona <lb/> accepimus? Neque enim contentus fuit
-						eadem, quae <lb/> caeteris, nobis bona tribuere; sed in malis quoque <lb/> nostris ejus
+						eadem, qu æ <lb/> c æteris, nobis bona tribuere; sed in malis quoque <lb/> nostris ejus
 						singularem dilectionem cognoscimus, ut <lb/> eum tam de bonis quam de malis nostris
 						omnibus. <lb/> singulariter diligamus. Tu dedisti mihi, Domine, ut te <lb/> agnoscam, et
-						prae caeteris multis de tuis secretis re­ <lb/> velata . intelligam. Alios coætaneos
+						pr æ c æteris multis de tuis secretis re­ <lb/> velata . intelligam. Alios coætaneos
 						meos in tenebris <lb/> ignorantiæ dereliquisti, et mihi præ illis sapicntix 2 <lb/> tuæ
 						lumen infudisti. Tu dedisti mihi sensum capacem, <lb/> intellectum facilem, memoriam
 						tenacem, efficaciam <lb/> iii opere, gratiam in conversatione , provectum in <lb/>
 						studiis, effeclum in coeptis a, solamea in adversis , <lb/> cautelam in prosperis : et
-						quocumque vertebam me, <lb/> ubique gratia et misericordia tua praecessit. Et sæpo <lb/>
+						quocumque vertebam me, <lb/> ubique gratia et misericordia tua pr æcessit. Et sæpo <lb/>
 						mihi cum consumptus videbar, subito liberasti me ; <lb/> quando errabam, reduxisti me;
 						quando ignorabam , <lb/> docuistime; quando peccavi, corripuisti me ; quando <lb/>
 						tristabar, consolatus cs me; quando cccidi, erexis I <lb/> me; quando steti, tenuisti
 						me. Tu dedisti mihi verius <lb/> cognoscere te, purius diligere te , sincerius, credere
-						<lb/> in te, ardentius sequi te. 0 Domine Deus InCUS, duN <lb/> cedo vitae meæ, lumen
+						<lb/> in te, ardentius sequi te. 0 Domine Deus InCUS, duN <lb/> cedo vit æ meæ, lumen
 						oculorum meorum. quid retri­ <lb/> buam tibi, pro omnibus quæ retribuisti mihi? Vis ut
 						<lb/> diligam te. Et quomodo diligam te? quantum diligam <lb/> te? quis sum e;o, ut
 						diligam te? Et tamen diligam <lb/> te, Domine, fortitudo mea, firmantentum meum, re­
@@ -502,7 +502,7 @@
 						fecit : et in hoc perpende quantum ab ipso di­ <lb/> ligeris, quod ejus beneficium
 						nunquam libi defuisse <lb/> cognoscis. Sic certe mihi videtur, cum ejus misera­ <lb/>
 						tiones circa me attendo, quod, si fas est dicere, nihil <lb/> aliud agat Deus, nisi ut
-						meae saluti provideat: et ita <lb/> totum ad custodiam mei occupatum video, quasi <lb/>
+						me æ saluti provideat: et ita <lb/> totum ad custodiam mei occupatum video, quasi <lb/>
 						omnium oblitus sit, et mihi soli vacare velit. Sem. <lb/> per præsentem mihi se exhibet
 						Deus, semper pa­ <lb/> ratum se offert : quocumque ine vertero, me non <lb/> deserit;
 						ubicumque fuero, non recedit; quidquid <lb/> egero, pariter assistit, et quod tandem
@@ -520,7 +520,7 @@
 						illud sit: et tamen illud retinere semper et nun­ <lb/> quam perdere toto nisu laboro.
 						Luctatur quodam <lb/> trado delectabiliter anima ne recedat ab eo quod <lb/> semper
 						amplecti desiderat: et quasi in illo omnium <lb/> desideriorum finem invenerit, summe et
-						ineffabiliter <lb/> exsultat, nihil amplius quaerens, nihil ultra appetens, <lb/> semper
+						ineffabiliter <lb/> exsultat, nihil amplius qu ærens, nihil ultra appetens, <lb/> semper
 						sic esse volens. Numquid ille est dilectus? <lb/> Vere ille est Dominus meus qui visitat
 						me : sed venit <lb/> invisibilis, venit occultus, venit incomprehensibilis. <lb/> Venit
 						ut tangat me, non ut videatur a me; venit ut <lb/> admoneat me, non ut comprehendatur a
@@ -530,23 +530,23 @@
 						futuro se tibi videndum et perpetuo possi­ <lb/> . dendum dabit, nunc aliquo modo ut
 						quam dulcis sit <lb/> agnoscas, se tibi ad gustandum præbet <hi rend="italic">(a).</hi>
 					</p>
-					<p>CAPUT XI. <hi rend="italic">De munere vitæ</hi> in <hi rend="italic">ortu servatae. De
+					<p>CAPUT XI. <hi rend="italic">De munere vitæ</hi> in <hi rend="italic">ortu servat æ. De
 							in­</hi>
 						<lb/> dultis sensibilibus <hi rend="italic">oblectationibus. De aliis</hi> prærogati­
 						<lb/> vis. (6) Multum igitur Deus tuus diligendus est tibi, <lb/> cui tanta beneficia
 						contulit. Ut autcm amoris ejus <lb/> flamma amplius accendaris : considera diligenter, o
 						<lb/> anima, si præter illa quoe supra dicta sunt, aliqua tibi <lb/> contulerit
-						beneficia. Cum ergo quae hic memorata <lb/> sunt bona tibi vides collata, multum ei a
+						beneficia. Cum ergo qu æ hic memorata <lb/> sunt bona tibi vides collata, multum ei a
 						quo tibi hæc <lb/> collata sunt debes gratiosus et devotus existere, et <lb/> gratias
 						agens dicere : Valde mihi diligendus est Deus <lb/> meus, qui bene utens malo parentum
 						meorum, crea­ <lb/> vit me de carne illorum, et inspiravit in me spiracu­ <lb/> lum vitæ
 						; discernens me ab illis qui vel abortivi pro­ <lb/> jecti sunt ab utero, vel intra
-						materna viscera suffocati, <lb/> pœnæ videntur concepti, non vitae. Accepi ergo ut <lb/>
+						materna viscera suffocati, <lb/> pœnæ videntur concepti, non vit æ. Accepi ergo ut <lb/>
 						siin, accepi ut horno sim, accepi intellectum, quo <lb/> intersit inter ine et pecus.
 						Accepi corporis formam , <lb/> accepi in corpore distinctionem sensuum; oculos <note type="footnote"> Adde. <hi rend="italic">ita.</hi>
 						</note>
 						<note type="footnote">
-							<hi rend="italic">(a)</hi> Hactenus Hugonis verba de Arrha animae </note><note type="footnote"> ( J) Ex Anselmi Medit. 16; Hug,'"ict., lil).7 Fxudit. didasc., <lb/>
+							<hi rend="italic">(a)</hi> Hactenus Hugonis verba de Arrha anim æ </note><note type="footnote"> ( J) Ex Anselmi Medit. 16; Hug,'"ict., lil).7 Fxudit. didasc., <lb/>
 							t.Jr, ,\5. </note>
 						<lb/> ad videndum, aures ad audiendum, nares ad od­ <lb/> orandum, manus ad
 						contrectandum, palatum ad gu­ <lb/> standum, pedes ad ambulandum, satutemque ipsam <lb/>
@@ -562,7 +562,7 @@
 						se conside­ <lb/> ret, quemlibet per se singulariter ditatum putet. <lb/> Quot
 						oblectamenta oculorum in diversitate colorum <lb/> monstramus, tot oblectamenta aurium
 						in diversitate <lb/> sonorum audimus; inter quæ prima sunt dulcia ser­ <lb/> monum
-						commercia, quibus homines ad invicem suas <lb/> voluntates communicant, praaerita
+						commercia, quibus homines ad invicem suas <lb/> voluntates communicant, pra ærita
 						narrant, præsen­ <lb/> tia indicant, futura nuntiant, occulta revelant; adeo <lb/> ut si
 						careat his vita humana, bestiis comparabilis vi­ <lb/> deatur. Quid autem concentus
 						avium , quid humanæ <lb/> vocis melos jucundum, quid dulces modos sonorum <lb/> omnium
@@ -574,9 +574,9 @@
 						<lb/> bent oblectamenta, quæ ex similitudine priorum satis. <lb/> perpendi possunt.
 						Magnum est certe et hoc, quod <lb/> sana et integra membra creavit mihi Deus; ne essem
 						<lb/> meis dolor, opprobrium alienis. Accepi etiam am­ <lb/> plius, mentem scilicet,
-						quae possit intelligere, quae <lb/> possit capere veritatem, quae possit justum ab
-						injusto <lb/> discernere, quae possit indagare, desiderare Creato. <lb/> rem, laudare et
-						inhærere illi. Magnum etiam aestimo <lb/> beneficium, quod eo tempore el inter tales me
+						qu æ possit intelligere, qu æ <lb/> possit capere veritatem, qu æ possit justum ab
+						injusto <lb/> discernere, qu æ possit indagare, desiderare Creato. <lb/> rem, laudare et
+						inhærere illi. Magnum etiam  æstimo <lb/> beneficium, quod eo tempore el inter tales me
 						nasci <lb/> voluit Deus, per quos ad fidem suam et sacramenta <lb/> pervenirem. Video
 						innumerabilibus hominibus hoc <lb/> negatum, quod mihi gratulor esse concessum : cum
 						<lb/> quibus tamen nobis esset 1 una conditio. Illi derelicti <lb/> sunt per justitiam,
@@ -595,7 +595,7 @@
 						quod me in <lb/> periculis sæpe constitutum clementer eripuisti, nec <lb/> unquam pro
 						peccatis meis quominus miserereris, <lb/> vinci potuisti; oblitum tui de te admonuisti,
 						aversum <lb/> a te revocasti, venientem ad te benigne suscepisti, <lb/> poenitenti
-						indulsisti non solum ea quæ commisi pec­ <lb/> cata, sed etiam quae te protegente non
+						indulsisti non solum ea quæ commisi pec­ <lb/> cata, sed etiam qu æ te protegente non
 						commisi. <lb/> Quodculnque enim mali protegente te non commisi , <lb/> totum a te
 						dimissum deputandum est. Nam sicut in <note type="footnote"> * Apud Anselmum, <hi rend="italic">est.</hi>
 						</note>
@@ -612,7 +612,7 @@
 						graviter impulsus violentia tentationis : sed virtutem <lb/> dedisti mihi, Domine, ut
 						sub me esset appetitus mens, <lb/> ei ei quam sentiebam concupiscentiæ minime consen­
 						<lb/> trent. Sed a quibusdam pet'catis lan longe me fecit <lb/> tua miseratio, Domine,
-						ut penitus abominarer ea, et <lb/> ne ulla me quidem eorum tentatio molestaret. Magnae
+						ut penitus abominarer ea, et <lb/> ne ulla me quidem eorum tentatio molestaret. Magn æ
 						<lb/> quidem honitatis est indicium. Domine Deus, et hoc <lb/> qnod ero infelix te
 						irritnvi, ego malum coram te feci, <lb/> furorem tuum provocavi, iram promerui; peccavi,
 						et <lb/> passus es; deliqui, et adhuc sustines. Si poeniteo, <lb/> parcis; si revertor,
@@ -661,7 +661,7 @@
 						ct.ionem suam, confirmaret charitatem suani. Propter <lb/> hoc, ut bene memini,
 						concussit cor meum, excitans <lb/> illud ut adverteret suorum vulnera peccatorum, et
 						<lb/> vulnerum sentiret dolorem; eliam et terruit deducens <lb/> ad portas inferi, et
-						præparata iniqnis supplicia mon­ <lb/> strans : et ut nil jam noxiae remaneret
+						præparata iniqnis supplicia mon­ <lb/> strans : et ut nil jam noxi æ remaneret
 						delectationis 1, <lb/> meliorem mihi consolationem inspirans, spem indui­ <lb/> gentiæ
 						dedit, deinde et ipsam indulgentiam coitulit. <lb/> Sic antem ex toto indulsit, et tam
 						liberaliter omnem <lb/> donavit injuriam, ut jam non damnet ulciscendo, nee <lb/>
@@ -672,7 +672,7 @@
 						beni­ <lb/> gnissinla divinitatis natura, liberaliter :git, ignoscit <lb/> plenarie :
 						ita ut * propter fiduciam peccatorum , sed <lb/> pœnitentium, uhi superabundavit
 						delictum, soleat et <lb/> gratia superabundare. Testis est Petrus, cui post tri­ <lb/>
-						nam negationem tutius Ecclesiae pastoralis cura est <lb/> commissa : testis est Paulus,
+						nam negationem tutius Ecclesi æ pastoralis cura est <lb/> commissa : testis est Paulus,
 						qui de Ecclesiæ persecu­ <lb/> tore effectus est vas electionis et ductor Gentium :
 						<lb/> lesUs cst Mattheus, qui de telonio electus est in Apo­ <lb/> stoluni, cui etiam et
 						Novi Testamenti primum scri­ <lb/> ptorem esse donatum est.</p>
@@ -698,13 +698,13 @@
 						antiquus serpens callidior cunctis animanti­ <lb/> bus : iste est hostis quem nec
 						possumus videre , <lb/> quanto minus cavere ? Hic hostis nunc quidem aperte <lb/> et
 						violender, nunc occuhe et fraudulenter, semper au­ <lb/> tem malitiose et crudeliter nos
-						impugnat et perse­ <lb/> quitur. £t ad haec tolerandi, ne dicam superanda, <lb/> quis
+						impugnat et perse­ <lb/> quitur. £t ad h æc tolerandi, ne dicam superanda, <lb/> quis
 						idoneus? Hæc ideo dixi, ut innotesceret conti­ <lb/> nentioR dillicultas, ut sciamus quæ
 						a Deo daLa sunt <lb/> nobis (I <hi rend="italic">Cor.</hi> II, 12) : ac per hoc amplius
 						diligamus <lb/> eum qui hanc nobis virtutem tribuit. Omnino euim <lb/> in Domino facimus
 						hanc virtutem, et ipse ad nihiluin <lb/> deducit omnes trihulantes nos. Ipse est qui non
 						modo <lb/> carnem nostram cum vitiis vel concupiscentiis suis , <lb/> et præsens
-						saeculum nequam cum curiositatibus suit <note type="footnote"> * Unus e Mss. Reg., <hi rend="italic">cogitationis.</hi> Editi, <hi rend="italic">rationis.</hi>
+						s æculum nequam cum curiositatibus suit <note type="footnote"> * Unus e Mss. Reg., <hi rend="italic">cogitationis.</hi> Editi, <hi rend="italic">rationis.</hi>
 						</note><note type="footnote"> * Ms. Regius hic addit, <hi rend="italic">non.</hi>
 						</note><note type="footnote"> * Alias, <hi rend="italic">vide.</hi>
 						</note>
@@ -717,7 +717,7 @@
 						<hi rend="italic">tens est ?</hi>
 					</p>
 					<p>CAPUT XIV. <hi rend="italic">Spes æternæ vitæ stat</hi> in tribus. <hi rend="italic">(a)</hi>
-						<lb/> Post hæc dedit mihi Dominus Deus gratiam prome­ <lb/> rendi bona vitae æternæ,
+						<lb/> Post hæc dedit mihi Dominus Deus gratiam prome­ <lb/> rendi bona vit æ æternæ,
 						quam gratiam in tribus <lb/> maxime stare arbitror : in odio scilicet præteritorum <lb/>
 						malorum, in contemptu bonorum præsentium, in de­ <lb/> siderio futurorum. Deinde dedit
 						mihi spem eadem <lb/> obtinendi, quro in tribus consistit; tribus , inquam , <lb/> quæ
@@ -737,7 +737,7 @@
 						fuit, <lb/> -quod me Deus a se fugientem persecutus est, timenti <lb/> bianditus; quod
 						erexit me in spem toties desperatum, <lb/> qnod suis obruit beneficiis ingratum, quod
 						gustu in­ <lb/> tcrioris dulcedinis immundis assuetum delectationi­ <lb/> bus atlraxit
-						et illexit, quod indissolubilia malae con­ <lb/> suetudinis vincula dissolvit, et
+						et illexit, quod indissolubilia mal æ con­ <lb/> suetudinis vincula dissolvit, et
 						abstractum sæculo <lb/> benigne suscepit. Adhuc, anima mca, illa in quibus <lb/> tibi
 						sola conscia es, divinæ bonitatis inspice mu­ <lb/> nera : quam jucunda facie
 						abrenuntianti sæculo libi <lb/> Christus occurrit, quibus esurientem deliciis pavit,
@@ -751,19 +751,19 @@
 						quoties psallentem vel legentem spiri­ <lb/> lualiurn me sensuum lumine illustrabat,
 						quoties oran­ <lb/> tem in quoddam ineflabile desiderium sui rapiebat, <lb/> quoties
 						mentem meam a terrenis subtractam, ad coe­ <lb/> lestes delicias et paradisi amoenitates
-						transportabat. <lb/> Taceo multa et magna misericordiae suæ circa me <lb/> opera; ne
-						aliquid gloriae, qu;c tota ejus cst, ad me <lb/> videatur transire. Ita enim secundum
-						hominum aesti­ <lb/> mationem sibi cohærent gratia dantis ct felicitas re. <lb/>
+						transportabat. <lb/> Taceo multa et magna misericordi æ suæ circa me <lb/> opera; ne
+						aliquid glori æ, qu;c tota ejus cst, ad me <lb/> videatur transire. Ita enim secundum
+						hominum  æsti­ <lb/> mationem sibi cohærent gratia dantis ct felicitas re. <lb/>
 						cipientis, ut non laudetur solum qui solus laudandus <lb/> esset, scilicet ille qui
 						dedit, sed cHam ille qui rece­ <lb/> pit. Quid euim habet aliquis quod non accepit? aut,
 						<lb/> qui gratis accepit, quare laudalur quasi promeruerit? <lb/> Tibi ergo laus, Deus
-						meus, et gloria mea, tibi gratia­ <lb/> rum actio : mihi autem confusio faciei meae, qui
+						meus, et gloria mea, tibi gratia­ <lb/> rum actio : mihi autem confusio faciei me æ, qui
 						tot <lb/> inala feci, et tot bona recepi.</p>
 					<p>Vide ergo, o anima mea, quia multum commendat <lb/> bonitatem Dei, non solum largitas
 						sua, sed et iniqui­ <lb/> tis nostra. Si enim magnum est nihil promerentibus <lb/>
 						impendere multo, quale quantumve erit retribuere <lb/> bona promerentibus mala? 0 quanta
 						pietas, quam <lb/> nulla potest superare impietas! Alia sunt quæ mise­ <lb/> ricorditer
-						Deus ignoscit, alia quae affluenter tribuit. <lb/> Ignoscit mala nostra, largitur bona
+						Deus ignoscit, alia qu æ affluenter tribuit. <lb/> Ignoscit mala nostra, largitur bona
 						sua : semper præ- <note type="footnote"> (n, Rernard., Medii. cap. &lt;5, n. 6, ei ex
 							Anxp!mi Me- <lb/> cia, iti. </note>
 						<lb/> sto ad ignoscendum , paratus semper ad largien­ <lb/> dum : hinc pius, hinc
@@ -798,14 +798,14 @@
 						nostrum facile sibi vindicat totum : hoc, inquam, <lb/> est quod devotionem nostram et
 						excitat melius, et <lb/> nutrit suavius, et auget amplius. Multum quippe in <lb/> hoc
 						opere laboravit auctor mundi, nec in omni fabri. <lb/> ca mundi tantam fatigationem
-						sustinuit. De mundo <lb/> enim et de his quae in mundo sunt, <hi rend="italic">dixit, et
+						sustinuit. De mundo <lb/> enim et de his qu æ in mundo sunt, <hi rend="italic">dixit, et
 							facta<lb/> sunt; mandavit, et creata sunt</hi> ( <hi rend="italic">Psal.</hi> x XXII,
 						,9) : at <lb/> vero pro redemptione generis hnmani magnos et <lb/> multos et diuturnos
 						labores sustinuit, et dolores. <lb/> Ecce quomodo nos dilexit, qui nulla sui
 						necessitate, <lb/> sed sola nostra charitate tam dura et indigua susti­ <lb/> nuit.
 						Merito ergo dixerim hoc unum omnibus aliis <lb/> præstare beneficiis. Quippe cum magnum
 						sit aliquem <lb/> sua gratis alicui conferre, multo majus certe est <lb/> semetipsum
-						impendere. Et cum magnae charitatis sit <lb/> animam pro alnicis dare, multo majoris
+						impendere. Et cum magn æ charitatis sit <lb/> animam pro alnicis dare, multo majoris
 						charitatis <lb/> indicium est animam pro inimicis ponere, quod Filius <lb/> Dei pro
 						nobis fecit. Nam cum inimici essemus Deo, <lb/> reconciliati sumus per mortem Filii
 						ejus. Vix autem <lb/> pro justo quis moritur, ipse autem pro iuapiis est <lb/> mortuus,
@@ -824,21 +824,21 @@
 						<lb/>
 						<pb n="861"/> tienter, imo libenter, uon solum autem hoc, sed <lb/> etiam ardenter pro
 						illo sustinere labores et dolores, <lb/> qui pro se tanta ac talia sustinuit. <hi rend="italic">Per multas enim<lb/> tribulationes oportet nos intrare in regnum
-							cælorum<lb/> (Aet.</hi> XIV, 21). Amplectatur igitur te anima mea, <lb/> Domine Jesu,
+							cælorum<lb/> ( æt.</hi> XIV, 21). Amplectatur igitur te anima mea, <lb/> Domine Jesu,
 						crucifixum, sumat tui dulcissimi sau­ <lb/> guinis haustum : occupet memoriam meam hæc
 						<lb/> suavis meditatio, ne ex toto eam oblivio obscuret. <lb/> Judicem me nihil scire,
 						nisi Jesum Christum, et hunc <lb/> ciucifixum; ne scientiam meam a soliditate fidei va­
 						<lb/> nus error abducat : vindicet sibi totum amorem <lb/> meum hæc tua mira dilectio;
 						ne illum cupiditas <lb/> mundialis absorbeat. Mentem enim quam tuæ, Do­ <lb/> mine,
 						dulcedn charitatis compleverit, non timor an­ <lb/> gustat, non libido commaculat, non
-						ira dilaniat, non <lb/> superbia elevat, non cenodoxiae inanis fumus even­ <lb/> tHat,
+						ira dilaniat, non <lb/> superbia elevat, non cenodoxi æ inanis fumus even­ <lb/> tHat,
 						non exagitat furor, non stimulus ambitionis <lb/> eviscernl, non avaritia contrahit, non
 						dejicit tristitia, <lb/> non invidia tabefacit : nullum denique vitium eam <lb/>
 						corrumpit, dum in eadem dulcedine immobilis per­ <lb/> sistit. Qui ergo suis tanta
-						praestat in pra'sent!, quanta <lb/> illis servat in futuro? Quæ dat in præsenti, tempo­
+						pr æstat in pra'sent!, quanta <lb/> illis servat in futuro? Quæ dat in præsenti, tempo­
 						<lb/> ralia sunt: quæ autem in futuro sæculo se promittit <lb/> Deus suis daturum,
 						:eterna sunt, et bonis temporali­ <lb/> bus incomparabiliter meliora. Temporalia enim
-						bona <lb/> difficile acquiruntur, et acquisita facile dilabuntur : <lb/> et quae etiam
+						bona <lb/> difficile acquiruntur, et acquisita facile dilabuntur : <lb/> et qu æ etiam
 						habita sunt, cum gravi sollicitudine <lb/> custodiuntur, et cum dolore amittuntur, et
 						amissa <lb/> cum gravi labore recuperantur. Futuri autem sæculi <lb/> bona nunquam
 						amittuntur, nunquam minuuntur, cum <lb/> gaudio et quiete possidentur, semper habentur,
@@ -857,7 +857,7 @@
 						Promissio Do quantumcum­ <lb/> que desideretur, minus desideratur quam debet. <lb/> Nam
 						quantumcumque profecerit, plus debet. Vehe­ <lb/> mens itaque desiderium aliquo modo non
 						habet mo­ <lb/> dum , cum non possit esse nimium. Cum in calleris <lb/> rebus
-						impatientia soleat culpari, in exspectatione <lb/> tantae promissionis laudahilis est
+						impatientia soleat culpari, in exspectatione <lb/> tant æ promissionis laudahilis est
 						vehemens impatien­ <lb/> tia dilationis. Cum eum qui plus amat, et qui plus <lb/>
 						desiderat, dilationis impatientia magis cruciat, spes <lb/> quæ differtur affligit
 						animam, hæc autem omnia bona <lb/> in cœlesti hahentur patria. De illo igitur bono, quod
@@ -866,7 +866,7 @@
 							mentes invicem patebunt. Corpora<lb/> erunt integra. (a)</hi> Excitemus igitur et
 						erigamus totum <lb/> intellectum nostrum, in quantum Deus donaverit, et <lb/> cogitemus
 						quale et quantum clectorum sit unicum et <lb/> singulare gaudium istud, scilicet unum et
-						summum <lb/> . bonum, quod est vita, lux, beatitudo, sapientia, <lb/> aeternitas et
+						summum <lb/> . bonum, quod est vita, lux, beatitudo, sapientia, <lb/>  æternitas et
 						multa hujusmodi bona; et tamen non <lb/> est nisi unicum et summum bonum, omnino sibi
 						<lb/> sufficiens, nullo indigens, quo omnia indigent ut <lb/> sint, et bene sint. Hoc
 						bonum est Deus Pater, hoc <lb/> est Verbum, id est, Filius Patris; hoc ipsum est <lb/>
@@ -886,7 +886,7 @@
 						<lb/> sumus experti, sed tanto differentem, quanto differt <lb/> Creator a creatura. Si
 						enim est bona vita creata; <lb/> quam bona est Vita creatrix ? Si jucunda est salus
 						<lb/> facta ; quam jucunda est Saltis quæ fecit salutem ? <lb/> Si amabilis est sapienda
-						cum cognitione rerum con­ <lb/> ditarum ; quam amabilis est Sapientia quae condidit
+						cum cognitione rerum con­ <lb/> ditarum ; quam amabilis est Sapientia qu æ condidit
 						<lb/> omnia ex nihilo ? Denique si multæ et magnæ dele­ <lb/> ctationes sunt in rebus
 						delectabilius; qualis et <lb/> quanta est delectatio in illo qui fecit omnia delecta­
 						<lb/> bilia? 0 qui hoc bono fruetur, quid illi erit, et quid <lb/> illi non erit? Certe
@@ -907,19 +907,19 @@
 						<lb/> tum volo non valeo. Neque enim quia Deum ineffa­ <lb/> bilem credimus, fari de
 						illo quod possumus non <lb/> dcbemus. Ita sane et plus credatur de illa vita, quam <lb/>
 						scribitur; quia non potest tantum inde proferri scr­ <lb/> mone, quantum potest mente
-						complecti; et minus <lb/> concipit mentis humanae quantumlibet profunda com­ <lb/>
+						complecti; et minus <lb/> concipit mentis human æ quantumlibet profunda com­ <lb/>
 						plexio, quam se habeat ipsius rei magnitudo. Ergo <lb/> futura vita credatur beate
 						sempiterna et sempiterne <lb/> beata : ubi est certa sccuritas, secura tranquillitas,
 						<lb/> tranquilla jucunditas, felix æternitas, æterna felici­ <lb/> tas ; ubi amor est
 						perfectus, timor nullus, dies æter­ <lb/> nus, alacer motus, et unus omnium spiritus, de
 						<lb/> contemplatione Dei sui, ac de sua cum illo perman­ <lb/> sione securus ; ubi ipsa
-						civitas, quae est Angelorum <lb/> omnium atque sanctorum congregatione beata, meri­
+						civitas, qu æ est Angelorum <lb/> omnium atque sanctorum congregatione beata, meri­
 						<lb/> tis fulgentibus micat; ubi æterna salus cxuhcrat, <lb/> veritas regnat; uhi nec
 						fallit quisquam, nec fallitur; <lb/> mde beatus nullus ejicitur; ubi nullus miser admit­
-						<lb/> titur. Haec est contemplativa vita beata, ad quam qui <lb/> bonorum operum
+						<lb/> titur. H æc est contemplativa vita beata, ad quam qui <lb/> bonorum operum
 						consummatione pervenerint, bcatis <lb/> similes erunt, et simul cum Deo sine line
 						regnabunt. <lb/> Quod antem hic crediderunt, ibi videbunt: sui Crca­ <lb/> toris
-						substantiam mundissimis cordibus contemplan­ <lb/> tes, aeterna exsultatione gaudebunt,
+						substantiam mundissimis cordibus contemplan­ <lb/> tes,  æterna exsultatione gaudebunt,
 						divinæ charitatis <lb/> et mutum dilectionis possessione Dco suo in æternum, <lb/> et
 						invicem sibi adhærebunt: receptis cum incorru­ <lb/> ptione atque immortalitate
 						corporibus, municipatum I <lb/> patrine coelestis accipient, atque ejus in æternum cives
@@ -949,7 +949,7 @@
 						</note>
 						<lb/> genera diversa decerpserint, aut humana crudelitas <lb/> amputaverit, aut ignis,
 						aut quælibet alia res aliquid <lb/> debilitatis intulerit, aut ipsa senectus eliam wnis
-						<lb/> onerosa negaverit; haec atque his similia corporum <lb/> damna una ibi resurrectio
+						<lb/> onerosa negaverit; h æc atque his similia corporum <lb/> damna una ibi resurrectio
 						reparabit, atque ea cor­ <lb/> pora membris omnibus instaurata, incorruptibilis <lb/>
 						sanitas obtinebit. Propterea quicumque eruM ibit <lb/> etsi differentibus meritis ab
 						invicem distabunt, (a) <lb/> omnes tamen ulla perfectione beati crunt; quia sin­ <lb/>
@@ -961,7 +961,7 @@
 						meriti sibi aliquid arrogabunt, <lb/> quia arrogantia ibi nulla erit; nee superioribus
 						in­ <lb/> feriores invidebunt, quia ibi invidus esse non poterit: <lb/> et idco etsi
 						erit ibi distantia mansionum, summa in <lb/> illis erit unius perfectionis asqualitas ,
-						quibus erit <lb/> regni cæleslis una felicitas. <note type="footnote"> (a) Quae
+						quibus erit <lb/> regni cæleslis una felicitas. <note type="footnote"> (a) Qu æ
 							supersunt, ex uno e Mss. Reg. primum da. <lb/> mus. </note>
 					</p>
 				</div>
