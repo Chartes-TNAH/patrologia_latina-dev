@@ -146,6 +146,9 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+		<revisionDesc>
+			<change who="Marie-Caroline Schmied" when="2019-03-29">Modification du document pour qu'il réponde aux spécifications CapiTainS</change>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
