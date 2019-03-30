@@ -73,17 +73,37 @@
 
 		</fileDesc>
 		<encodingDesc>
-			<p>The following text is encoded in accordance with EpiDoc standards and with the ctS/CITE Architecture.</p>
-			<refsDecl n="ctS">
-				<cRefPattern 
-					n="level1" 
-					matchPattern="(\w+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']">
-					<p>This pointer pattern extracts level1</p>
-				</cRefPattern>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
+				Architecture.</p>
+			<refsDecl n="CTS">
+				<cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+			</refsDecl>
+			
+		<projectDesc>
+			<p>This document is compatible with<ref target="http://capitains.github.io"
+				>CapiTainS Guidelines</ref></p>
+		</projectDesc>
+		<p>The following text is encoded in accordance with EpiDoc standards and with the
+			CTS/CITE Architecture.</p>
+		<refsDecl n="CTS">
+			<cRefPattern n="textpart" matchPattern="(\w+).(\w+).(\w+)"
+				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
+				<p>This pointer pattern extracts textpart and chapter</p>
+			</cRefPattern>
+			<cRefPattern n="textpart" matchPattern="(\w+).(\w+)"
+				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+				<p>This pointer pattern extracts textpart</p>
+			</cRefPattern>
+			<cRefPattern n="chapter" matchPattern="(\w+)"
+				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+				<p>This pointer pattern extracts chapter</p>
+			</cRefPattern>
+		</refsDecl>
+			<refsDecl>
+				<refState unit="textpart"/>
+				<refState unit="chapter"/>
 			</refsDecl>
 		</encodingDesc>
-
 		<profileDesc>
 			<langUsage>
 				<language ident="la">Latin</language>
