@@ -73,9 +73,14 @@
 
 		</fileDesc>
 		<encodingDesc>
-			<p>The following text is encoded in accordance with EpiDoc standards and with the etS/CITE Architecture.</p>
+			<p>The following text is encoded in accordance with EpiDoc standards and with the ctS/CITE Architecture.</p>
 			<refsDecl n="ctS">
-				<cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+				<cRefPattern 
+					n="level1" 
+					matchPattern="(\w+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']">
+					<p>This pointer pattern extracts level1</p>
+				</cRefPattern>
 			</refsDecl>
 		</encodingDesc>
 
@@ -85,7 +90,7 @@
 			</langUsage>
 		</profileDesc>
 		<revisionDesc>
-			<change who="Anna Duchet-Annez" when="2019-03-27">Strueturation du texte selon les guidelines CapiTainS</change>
+			<change who="Anna Duchet-Annez" when="2019-03-27">Structuration du texte selon les guidelines CapiTainS</change>
 			<change who="Anna Duchet-Annez" when="2019-03-27">Correetion de l'OCR</change>
 			<change who="Anna Duchet-Annez" when="2019-03-26">Changement des æ en ae</change>
 			<change who="Anna Duchet-Annez" when="2019-03-26">Régularisation des hyphénisations</change>
