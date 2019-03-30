@@ -46,7 +46,7 @@
 									<name xml:lang="fr">Jacques Paul Migne</name>
 								</persName>
 							</editor>
-							<author ref="http://data.perseus.org/catalog/urn:ets:latinLit:stoa0040">Augustinus</author>
+							<author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Augustinus</author>
 							<title>Quaestionum Evangeliorum Libri Duo</title>
 							<title>Quaestionum Septemdecim In Evangelium Secundum Matthaeum</title>
 							<title>In Evangelium Joannis Traetatus CXXIV</title>
@@ -74,7 +74,7 @@
 		</fileDesc>
 		<encodingDesc>
 			<p>The following text is encoded in accordance with EpiDoc standards and with the etS/CITE Architecture.</p>
-			<refsDecl n="etS">
+			<refsDecl n="ctS">
 				<cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
 			</refsDecl>
 		</encodingDesc>
@@ -93,12 +93,12 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" n="urn:ets:latinLit:stoa0040.stoa011a.opp-lat1" xml:lang="la">
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa011a.opp-lat1" xml:lang="la">
 				<head>
 					<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI EPISTOLAE AD ROMANOS INCHOATA EXPOSITIO.</title>
 				</head>
 				<ab>
-					<title type="sub">In quo salutatio tantummodo expeditur, et disputatur de peccato in Spiritum sanetum.</title>
+					<title type="sub">In quo salutatio tantummodo expeditur, et disputatur de peccato in Spiritum sanctum.</title>
 				</ab>
 				<div type="textpart" subtype="chapter" n="1">
 					<p>1. In Epistola quam Paulus apostolus scripsit ad Romanos<lb/>
@@ -509,8 +509,8 @@
 				<div type="textpart" subtype="chapter" n="11">
 					<p>11. Quod autem Apostolus gratiam et pacem a Deo <lb/>
 						Patre et Domino nostro Jesu Christo dicit, non ad<lb/>
-						jungens etiam Spiritum sanetum; non mibi alia ratio <lb/>
-						videtur, nisi quia ipsum donum Dei Spiritum sanetum <lb/>
+						jungens etiam Spiritum sanctum; non mibi alia ratio <lb/>
+						videtur, nisi quia ipsum donum Dei Spiritum sanctum <lb/>
 						intelligamus : gratia porro et pax, quid aliud est <lb/>
 						quam donum Dei? Unde nullo modo dari bominibus <lb/>
 						gratia potest qua liberamur a peccatis, et pax qua <lb/>
@@ -534,7 +534,7 @@
 						scribens ad Timotheum, id verbum interposuit, quo <lb/>
 						plane aperitur atque ostenditur non meritis operum <lb/>
 						priorum, sed secundum miscricordiam Dei nobis dari <lb/>
-						Spiritum sanetum, ut et peccatorum abolitio liat, qui<lb/>
+						Spiritum sanctum, ut et peccatorum abolitio liat, qui<lb/>
 						bus sejungebamur a Deo; et reconciliatio, ut illi in<lb/>
 						haereamus</p>
 				</div>
@@ -562,7 +562,7 @@
 						brevissima. Sic enim incipit <hi rend="italic">: Senior Gaio dileetissi<lb/>
 						mo, quem ego diligo in veritate</hi> (III <hi rend="italic">Joan.</hi> i, i). Quam <lb/>
 						veritatem pro ipsa Trinitate positam puto. Judas no<lb/>minato Deo Patre et Domino Jesu Christo, ad intelli<lb/>
-						gendum Spiritum sanetum, hoc est donum Dei, tria <lb/> verba ponit ; sic quippe incipit, <hi rend="italic">Judas Jesu Christi</hi><lb/>
+						gendum Spiritum sanctum, hoc est donum Dei, tria <lb/> verba ponit ; sic quippe incipit, <hi rend="italic">Judas Jesu Christi</hi><lb/>
 						servus, <hi rend="italic">frater autem Jacobi,</hi> in <hi rend="italic">Deo Patre dileetis, et <lb/>
 						Jesu Christo conservatis et vocatis, misericordia vobis,<lb/>
 						et pax et charitas adimpleatur (Judce</hi> I. i). Gratia <lb/>
@@ -624,8 +624,8 @@
 						dum, et totis viribus pietatis ampleetendum satis <lb/>
 						apparet, quoniam si gratia et. pax ad implendam <lb/>
 						Trinitatis commemorationem sic abApostolo ponitur <lb/>
-						ac si Spiritum sanetum nominasset; ille peccat iic <lb/>
-						Spiritum sanetum, qui desperans, vel irridens atque <lb/>
+						ac si Spiritum sanctum nominasset; ille peccat iic <lb/>
+						Spiritum sanctum, qui desperans, vel irridens atque <lb/>
 						contemnens prjedicationcm gratiae per quam peccata <lb/>
 						diluuntur, et pacis per quam reconciliamur Deo, <lb/>
 						detreetat agere poenitentiam de peccatis suis, et in <lb/>
@@ -633,7 +633,7 @@
 						randum sibi esse decernit, etin finem usque perdurat. <lb/>
 						Quod ergo ait Dominus, dimitti homini, si verbum <lb/>
 						dixerit adversus Filium hominis : si autem verbum <lb/>
-						dixerit adversus Spiritum sanetum, non ei dimitti, ne<lb/>
+						dixerit adversus Spiritum sanctum, non ei dimitti, ne<lb/>
 						que hic, neque in futuro saeculo, sed reum esse aeterni <lb/>
 						peccati, non negligenter andicndum est. Constitua<lb/>
 						mus euim aliquem latinae linguae ignarum, cum illo <lb/>
@@ -654,7 +654,7 @@
 						esse arbitror, eum qui hoc nomine audito, aliam pro <lb/>
 						alia rem significari putaverit; et adversus eam rem <lb/>
 						quam significari hoc nomine credidit, verbum dixerit: <lb/>
-						non hunc sic peccare, ut adversus Spiritum sanetum <lb/>
+						non hunc sic peccare, ut adversus Spiritum sanctum <lb/>
 						verbum dixisse judicetur. Ita quoque, si quisquam <lb/>
 						quaerens quid sit Spiritus sanetus, audiat ab imperito <lb/>
 						hunc esse Filium Dei per quem faeta sunt omnia, qui <lb/>
@@ -662,7 +662,7 @@
 						sit, et occisus sit a Judaeis, et resurrexerit, quibas <lb/>
 						auditis vel neget vel irrideat quae dieta sunt : non <lb/>
 						eum sic teneri putandum est, ac si verbum adversus <lb/>
-						Spirituin sanetum dixerit; sed potius adversus Filium <lb/>
+						Spirituin sanctum dixerit; sed potius adversus Filium <lb/>
 						Dei, vel Filium hominis, sicut et vocari et esse digna<lb/>
 						tus est. Non enim quid sit imperito pcr vocem propo<lb/>
 						situm, sed per rationem expositum, cousiderandum <lb/>
@@ -680,14 +680,14 @@
 				<div type="textpart" subtype="chapter" n="15">
 					<p>15. Sed si transitorie ac negligenter attenderimus <lb/>
 						quod dietum est, Si <hi rend="italic">quis verbum dixerit adversus Spi</hi><lb/>
-						ritum sanetum, <hi rend="italic">non remittetur ei, neque in hoc sœculo, <lb/>
+						ritum sanctum, <hi rend="italic">non remittetur ei, neque in hoc sœculo, <lb/>
 						neque in futuro (Matth.</hi> XII, 32); quis inveniri poterit <lb/>
 						cui veniam peccatorum dederit Deus? Nam et Pagani <lb/>
 						qui appellantur, etiam nunc totam nostram religio<lb/>
 						nem, quia jam ferro et caedibus prohibemur, male<lb/>
 						dietis contumeliisque inseetantur; et quidquid de ipsa <lb/>
 						Trinitate dicimus, negando et blasphemando conie<lb/>
-						mnunt. Non enim excipiuntsibi Spiritum sanetum quem <lb/>
+						mnunt. Non enim excipiuntsibi Spiritum sanctum quem <lb/>
 						venerentur, ut in caetera saeviant ; sed simul adversus <lb/>
 						omnia quaecumque sollicite 1 de trina Dei majestate <lb/>
 						loquimur, quanto possunt furore impietatis oblatrant. <lb/>
@@ -702,10 +702,10 @@
 						que et vero Imperatori militandum esse suademus; <lb/>
 						eosque promissa impunitate praeteritorum omnium <lb/>
 						peccatorum invitamus ad fidem. Qua in re salis judi<lb/>
-						camus, etiam si quid adversus Spiritum sanetum in <lb/>
+						camus, etiam si quid adversus Spiritum sanctum in <lb/>
 						sua sacrilega superstitione dixerunt, cum christiani <lb/>
 						faeti fuerint, sine ulla caligine dubitationis ignosci. <lb/>
-						Judaei vcro quales adversus Spiritum sanetum fuerint, <lb/>
+						Judaei vcro quales adversus Spiritum sanctum fuerint, <lb/>
 						testis est Stephanus, quem ipso Spiritu saneto plenum <lb/>
 						lapidaverunt, cum illa omnia quae in eos dixit, ipsc <lb/>
 						Spiritus dixerit. In quibus verbis apertissime dietum <lb/>
@@ -720,7 +720,7 @@
 						pidari pro talibus dietis, qualium praedicatorem ipse <lb/>
 						lapidaverat. Quid Samaritani ? nonne ita Spiritui saneto <lb/>
 						adversantur, ut ipsam prophetiam penitus conenter <lb/>
-						exstinguere, quae per Spiritum sanetum ministrat a <lb/>
+						exstinguere, quae per Spiritum sanctum ministrat a <lb/>
 						est? Quorum tamen saluti et ipse Dominus attestatur <lb/>
 						in eo qui de decem leprosis mundatis solus reversus <lb/>
 						est ut ageret gratias, cum esset Samaritanus <hi rend="italic">( Luc.</hi><lb/>
@@ -748,13 +748,13 @@
 						vel de gregibus haereticorum invenitur 1, qui non <lb/>
 						adversetur Spiritui saneto? Nisi forte quisquam <lb/>
 						tam perverse sentit, ut arbitretur eum teneri reum <lb/>
-						qui adversus Spiritum sanetum aliquid dixerit; eum <lb/>
-						vero qui adversus Spiritum sanetum multa fece<lb/>
+						qui adversus Spiritum sanctum aliquid dixerit; eum <lb/>
+						vero qui adversus Spiritum sanctum multa fece<lb/>
 						rit, non teneri. Qui autem tanta evidentia contra <lb/>
-						Spiritum sanetum pugnant, quam illi qui adversus <lb/>
+						Spiritum sanctum pugnant, quam illi qui adversus <lb/>
 						Ecclesie pacem superbissimis contentionibus sae<lb/>
 						viunt? Sed si de verbis quaestio est, quaero utrum <lb/>
-						nihil dicant adversus Spiritum sanetum, cum alii eum, <lb/>
+						nihil dicant adversus Spiritum sanctum, cum alii eum, <lb/>
 						quod ad ipsum proprie pertinet, omnino non esse as<lb/>
 						severent; sed ita esse unum4)eum, ut idem ipse Pa<lb/>
 						ter, idem ipse Filius, idem ipse Spiritus sanetus ap<lb/>
@@ -763,7 +763,7 @@
 						negent <hi rend="italic">(b).</hi> Alii unam quidem et eamdem Trinitatis <lb/>
 						substantiam esse fateantur, sed de ipsa divina sub<lb/>
 						stantia tam impie sentiant, ut eam commutabilem et <lb/>
-						corruptibilem putent; ipsumque Spiritum sanetum, <lb/>
+						corruptibilem putent; ipsumque Spiritum sanctum, <lb/>
 						quem Dominus discipulis se missurum esse promisit, <lb/>
 						non quinquagesimo die post ejus resurreetionem, sic<lb/>
 						ut Apostolorum Aeta testantur <hi rend="italic">(Id.</hi> II, 1-4), sed post <lb/>
@@ -782,7 +782,7 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="16">
 					<p>16. Quod si quisquam tunc putat verbum dici ad<lb/>
-						versus Spiritum sanetum, cum ab co dicitur cui jam <lb/>
+						versus Spiritum sanctum, cum ab co dicitur cui jam <lb/>
 						per Baptismum dimissa sunt peccata; attendat nec <lb/> 
 						talibus per Ecclesiae sanetitatern auferri pœnitentiae <lb/> 
 						lucum. Si enim propterca credit non dari veniam ei, <lb/> 
@@ -791,14 +791,14 @@
 						causam esse, cum dicitur propterea non ignosci, quia <lb/> 
 						non ignorantiae tempore peccatum est; et aliam cau<lb/>
 						sam esse, cuin dicitur propterea non ignosci, quia <lb/>
-						verbum dixit adversus Spiritum sanetum. Si enim sola <note type="footnote"> s Editi, <hi rend="italic">de regibus hereticorton inveniretur.</hi> At vaticanus <lb/>
+						verbum dixit adversus Spiritum sanctum. Si enim sola <note type="footnote"> s Editi, <hi rend="italic">de regibus hereticorton inveniretur.</hi> At vaticanus <lb/>
 						Ms., <hi rend="italic">de aregibus</hi> haereticorum <hi rend="italic">utvetiireUtr.</hi>
 						</note>
 						<note type="footnote"> (a) SabcUjaui. </note><note type="footnote"> (b) Ariani. </note><note type="footnote"> (c) Manichaei. </note><note type="footnote">
 						<hi rend="italic">(d)</hi> talaphryges.. </note><note type="footnote"> (c) Doualhl:.c. </note><lb/>
 						ignorantia veniam meretur, et ignorantia non accipi<lb/>
 						tur nisi antequam quisque fuerit baptizatus; nonso<lb/>
-						lum si adversus Spiritum sanetum, sed eliam si ath <lb/> 
+						lum si adversus Spiritum sanctum, sed eliam si ath <lb/> 
 						versus Filium hominis post Baptismum dixerit ver<lb/>
 						bum; et omnino si qua fornicatione, vel homicidio, <lb/> 
 						vel ullo flagitio, aut facinore post Baptismum sese <lb/> 
@@ -806,14 +806,14 @@
 						senserunt exclusi sunt a communione catholica; sa<lb/>
 						tisque judicatum est eos in illa crudelitate, divinae <lb/>
 						misericordiae participes esse non posse. Si autem il<lb/>
-						lud solum, quod adversus Spiritum sanetum dicitur, <lb/>
+						lud solum, quod adversus Spiritum sanctum dicitur, <lb/>
 						sine venla esse post acceptum Baptismum putatur : <lb/> 
 						primo Dominus cum inde loqueretur, nullum tempus <lb/> 
 						excepit, sed regularitor ait, <hi rend="italic">Qui dixerit verbum adver</hi><lb/>
-						sus <hi rend="italic">Spiritum</hi> sanetum, <hi rend="italic">non remittetur ei,</hi> neque in <hi rend="italic">hoc</hi><lb/>
+						sus <hi rend="italic">Spiritum</hi> sanctum, <hi rend="italic">non remittetur ei,</hi> neque in <hi rend="italic">hoc</hi><lb/>
 						saeculo, <hi rend="italic">neque in futuro.</hi> Deinde Simon, quem paulo <lb/>
 						ante commemoravi, jam Baptismum acceperat, cum <lb/> 
-						Spiritum sanetum turpissimo mereatui subditum cre<lb/>
+						Spiritum sanctum turpissimo mereatui subditum cre<lb/>
 						didit : cui correpto a se Petrus tamen consilium pœ<lb/>
 						nitendi dedit. Quid autem de iis qui cum Baptismi <lb/> 
 						sacramenta pueri vel etiam infantes perceperint, po<lb/>
@@ -830,13 +830,13 @@
 				<div type="textpart" subtype="chapter" n="17">
 					<p>17. Quod si eo tempore cum scientia quisque pec<lb/>
 						casse dicatur, quo soit malum esse quod facit, et ta<lb/>
-						men facit; cur huc in Spiritum sanetum solam , non <lb/>
+						men facit; cur huc in Spiritum sanctum solam , non <lb/>
 						etiam in Dominum Jesum Christum irremissibile ju<lb/>
 						dicatur? Aut si hoc ipsam esse creditur peccare, vel <lb/>
-						verbum dicere adversus Spiritum sanetum , quodlibet <lb/> 
+						verbum dicere adversus Spiritum sanctum , quodlibet <lb/> 
 						peccatum cum scientia committere; ut quidquid ho<lb/>
 						mines ignorando peccant, in Filium peccare; quid<lb/>
-						quid autem scientes peccant, in Spiritum sanetum <lb/> 
+						quid autem scientes peccant, in Spiritum sanctum <lb/> 
 						peccare judicentur : quaero quis nesciat malum esse, <lb/>
 						verbi gratia, corrumpere pudicitiam uxoris alienae, <lb/>
 						vel eo ipso certe quod hoc in sua conjuge nollet per<lb/>
@@ -848,13 +848,13 @@
 						tanter accusat? Aut si haec ab ignorantibus fieri dici<lb/>
 						mus, quid invenimus in quo scientes homines peccare <lb/>
 						videantur ? Restat ergo ut, si hoc est peccare in Spi<lb/>
-						ritum sanetum , peccare cum scientia , illis peccatis <lb/> 
+						ritum sanctum , peccare cum scientia , illis peccatis <lb/> 
 						quae commemoravi negQtur poenitendi locas; quoniam <lb/> 
-						peccato in Spiritum sanetum omnem spem veniae Do<lb/>
+						peccato in Spiritum sanctum omnem spem veniae Do<lb/>
 						minus amputavit: quod si regu a christiana respuit, <lb/> 
 						omnesque illos qui sic peccam, ad correetionem vitae <lb/> 
 						vocare non cessat; adhuc quaerendum est quid sit <lb/> 
-						peccare in Spiritum sanetum, cui peccato venia nulla <lb/>
+						peccare in Spiritum sanctum, cui peccato venia nulla <lb/>
 						conceditur. <note type="footnote"> 1 MS. Yatiomus, ubi <hi rend="italic">caput haberetur. nescicnUs*</hi>
 						</note>
 						<pb n="2101"/>
@@ -880,14 +880,14 @@
 						viter emendatus ad veniam pertinebit ; in eo vero quod <lb/> 
 						dietum est, <hi rend="italic">vapulabit</hi> muita , sempiternum suppli<lb/>
 						cium intelligatur, quod minatur peccantibus in Spiri<lb/>
-						tum sanetum, quibus dicit nunquam posse dimiui <lb/> 
-						peccatum : ut hoc sit peccare in Spiritum sanetum, <lb/>
+						tum sanctum, quibus dicit nunquam posse dimiui <lb/> 
+						peccatum : ut hoc sit peccare in Spiritum sanctum, <lb/>
 						cognita Dei voluntate peccare. Quod si ita est, cogi<lb/>
 						tari oportet et discuti prius quando cognoscatur vo<lb/>
 						luntas Dei. Nonnulli enim et ante perceplum Ua<lb/>
 						ptismi sacramentum cognoverunt eam. Nam et Cor<lb/>
 						nelius centurio voluntatem Dei utiquo apostolo Petro <lb/>
-						docente cognovi!, et ipsum Spiritum sanetum mani<lb/>
+						docente cognovi!, et ipsum Spiritum sanctum mani<lb/>
 						festissimis coattestantibus signis, antequam baptiza<lb/>
 						retur, accepit : quanquam non ideo Sacramenta illa <lb/> 
 						contempserit, sed multo certius baptizatus sit; ut <lb/>
@@ -992,12 +992,12 @@
 				<div type="textpart" subtype="chapter" n="20">
 					<p>20. An vero jam illud occurret, ut non jam si <lb/> 
 						quodlibet peccatum sciens admiserit, sed si proprie <lb/>
-						peccatumin Spiritum sanetum sciens adiniserit, tunc <lb/> 
+						peccatumin Spiritum sanctum sciens adiniserit, tunc <lb/> 
 						non babere veniam judicetur ? Quo loco quaeri potest <lb/> 
-						utrum scirent Judaei per Spiritum sanetum operari <lb/> 
+						utrum scirent Judaei per Spiritum sanctum operari <lb/> 
 						Dominum, quando eum in principe dxmoniorutn de<lb/>
 						monia excludere blasphemabant <hi rend="italic">(Matth.</hi> IX, 31)? Mi<lb/>
-						ror autem quomodo possent in illo Spiritum sanetum <lb/> 
+						ror autem quomodo possent in illo Spiritum sanctum <lb/> 
 						cognoscere , cum ipsum Dominum Filium Dei esse <lb/> 
 						nescirent: in illa scilicet caecitate, qnre <hi rend="italic">ex parte in <lb/>
 							Israel faeta est , donec plenitudo Gentium</hi> intraret <lb/>
@@ -1006,10 +1006,10 @@
 						dijudicatio spirituum illa intelligitur, qua quisque di<lb/>
 						judicat utrum in quoquam Spiritus sanetus , an falla<lb/>
 						ciae spirllus operetur; haec autem dijudicatio certo <lb/>
-						quodam tempore per Spiritum sanetum fidelibus da<lb/>
+						quodam tempore per Spiritum sanctum fidelibus da<lb/>
 						tur, sicut alie loco idem apostolus dicit ( I <hi rend="italic">Cor.</hi> xu , <lb/>
 						10) : quomodo poterant infideles Judaei sine isto mu<lb/>
-						nere dijudicare , utrum per Spiritum sanetum Domi<lb/>
+						nere dijudicare , utrum per Spiritum sanctum Domi<lb/>
 						nus operaretur.: et tamen in eis, ut justa paena reri<lb/>
 						rentur, apertissima indicia malevolentiae claruerunt, <lb/>
 						et cum talsos testes in eum compararunt <hi rend="italic">(Matth.</hi><lb/>
@@ -1023,13 +1023,13 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="21">
 					<p>21. Unde jam velat incœpit elucere, eum peccare in <lb/> 
-						Spiritum sanetum, qui operibus quae per Spiritum <lb/> 
-						sanetum fiunt, malevolo animo contradicit Quanquam <lb/> 
+						Spiritum sanctum, qui operibus quae per Spiritum <lb/> 
+						sanctum fiunt, malevolo animo contradicit Quanquam <lb/> 
 						enim nesciat utrum iNe sit Spiritus sanetus ; tamen <lb/> 
 						qui hoc animo est, ut ea opera quibus invidet, malit <lb/> 
 						non esse Spiritus saneti; non quia mala sunt, sed quia <lb/> 
 						invidet eis, quia ipsi bonitati est contrarius per mali<lb/>
-						tiam stiam ; reete in Spiritum sanetum peccare judi<lb/>
+						tiam stiam ; reete in Spiritum sanctum peccare judi<lb/>
 						catur. Verumtamen si ex eo quoque hominum nume<lb/>
 						ro, quibus Dominus illud crimen objicit, veniens ad <lb/>
 						fidem Christi, et paenitendi cruciatibus edomita invi<lb/>
@@ -1039,7 +1039,7 @@
 						sti baptismum admitti oportuisse, aut frustra admis<lb/>
 						sos esse contendat? Nam si quis per invidiam opera <lb/> 
 						divina blasphemat, quoniam bonis Dei, hoc est donis <lb/> 
-						Dei manui sua resistit, in Spiritum sanetum peccare, <lb/> 
+						Dei manui sua resistit, in Spiritum sanctum peccare, <lb/> 
 						et propterea spem veniae non habere existimandus <lb/> 
 						est : attendatnus utrum ex eo numero fuerit apostolus <lb/> 
 						Paulus. Dicit enim : <hi rend="italic">Qui prius</hi> fui blasphemus, <hi rend="italic">et per<lb/>
@@ -1062,10 +1062,10 @@
 						eto restiterunt, ad sanitatem redeuntibus, et pacem <lb/> 
 						Dei poenitendo quaerentibus, auxilium misericordiae <lb/> 
 						non negatur : si denique de illis ipsis quibus blasphe<lb/>
-						miam ill Spiritum sanetum ab cis prolatam Dominus <lb/> 
+						miam ill Spiritum sanctum ab cis prolatam Dominus <lb/> 
 						objecit, si qui resipiscentes ad Dei gratiam confuge<lb/>
 						runt, sine ulla dubitationi. sanati sunt : quid aliud <lb/>
-						restat, nisi ut peccatum in Spiritum sanetum, quod <lb/> 
+						restat, nisi ut peccatum in Spiritum sanctum, quod <lb/> 
 						neque in hoc saeculo, neque in futuro dimitti Domi<lb/>
 						nus dicit, nullun) intelligatur nisi perseverantia in ne<lb/>
 						quitia et in malignitate, cum desperatione indulgen<lb/>
@@ -1112,14 +1112,14 @@
 						cere daemonia, misericorditer eos voluit admonere, <lb/>
 						ne verbum diserent et blasphemiam in Spiritum san<lb/>
 						etum <hi rend="italic">(Matth.</hi> III, 22-33), hoc est, ne gratiae Dei <lb/>
-						pacique resisterent, quam per Spiritum sanetum do<lb/>
+						pacique resisterent, quam per Spiritum sanctum do<lb/>
 						nare Dominus venerat. Non quia jam hoc fecerant, <lb/>
 						quod sibi neque in hoc saeculo, neque in futuro dimit<lb/>
 						tcretur; sed ne desperando de venia, aut quasi de sua <lb/> 
 						justitia praesumendo, et paeuilentiam non agendo, aut <lb/> 
 						perseverando in peccatis, hoc facerent : boc modo <lb/> 
 						enim dicerent verbum, hoc est blasphemiam in Spi<lb/>
-						ritum sanetum, in quo Dominus signa illa propter <lb/>
+						ritum sanctum, in quo Dominus signa illa propter <lb/>
 						largiendam gratiam pacemque faciebat, si perseveran<lb/>
 						tia peccatorum ipsi gratiae pacique resisterent. Ver<lb/>
 						bum enim dicere, non ita videtur hic positum, ut tan<lb/>
@@ -1152,7 +1152,7 @@
 						iilam comminationem ad pœnitentiam vocasse Ju<lb/>
 						daeos, ute eis in se credentibus gratiam pacemque dona<lb/>
 						ret; et huic grati:c pacique resistentibus, et hoc Ino<lb/>
-						do verbum atque blasphemiam in Spiritum sanetum <lb/>
+						do verbum atque blasphemiam in Spiritum sanctum <lb/>
 						dicentibus, hoc est, in peccatis suis desperata atque <lb/>
 						impia mentis obstinatione perseverantibus, et adver<lb/>
 						sus Deum sine humilitate confessionis atque pœniten<lb/>
