@@ -86,9 +86,18 @@
 			<p>The following text is encoded in accordance with EpiDoc standards and with the
 				CTS/CITE Architecture.</p>
 			<refsDecl n="CTS">
-				<cRefPattern n="no citable units founds" matchPattern="(.+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
-				/>
+				<cRefPattern n="dialog" matchPattern="(\w+).(\w+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+					<p>This pointer pattern extracts sermons within collection</p>
+				</cRefPattern>
+				<cRefPattern n="chapter" matchPattern="(\w+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
+					<p>This pointer pattern extracts a collection of sermons</p>
+				</cRefPattern>
+			</refsDecl>
+			<refsDecl>
+				<refState unit="chapter"/>
+				<refState unit="dialog"/>
 			</refsDecl>
 		</encodingDesc>
 
@@ -97,11 +106,18 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+		
+		<revisionDesc>
+			<change who="Louise" when="2019-03-31">Modification des hyphénisations et corrections de
+				l'OCR.</change>
+			<change who="Louise" when="2019-03-31">Structuration du texte selon les recommandations
+				des guidelines CapiTains.</change>
+		</revisionDesc>
 
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa008.opp-lat1">
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa008.opp-lat1" xml:lang="lat">
 				<head>
 					<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI DE MUSICA LIBRI SEX
 						(a).</title>
@@ -1024,7 +1040,7 @@
 						<div type="textpart" subtype="dialog" n="23"> 
 							
 							
-							<!-- REPRENDRE ICI ***************************************************************************************** --> 
+							<!-- La structuration des dialogues a été effectuée jusqu'à cet endroit ********************************* --> 
 							
 							
 					<p>23. <hi rend="italic">M.</hi> Attende igitur ut hoc in ibta connexione vi­
