@@ -90,7 +90,7 @@
 
 	</teiHeader>
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa034a.opp-lat1">
+    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa034a.opp-lat1" xml:lang="la">
 					<head>
 						<title type="main">DE BENEDICTIONIBUS JACOB PATRIARCHÆ.</title>
 					</head>
