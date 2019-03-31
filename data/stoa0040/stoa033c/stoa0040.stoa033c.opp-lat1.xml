@@ -203,7 +203,7 @@
 						Pater, et ad honorem Filii tui per <lb/> virginem nati, et ejusdem Spiritus sancti Dei
 						et Do­ <lb/> mini nostri, cum quo est tibi regnum et imperium in <lb/> omnia sæcula
 						sæculorum. Amen.</p>
-					<p>CAPUT PRIMUM. <hi rend="italic">Auctor veri amans. In Scripturis <lb/> alia alio modo
+					<div type = "textpart" subtype = "chapter" n ="1"><p>CAPUT PRIMUM. <hi rend="italic">Auctor veri amans. In Scripturis <lb/> alia alio modo
 							exponenda. a</hi> Quia profundissimæ et sua <lb/> dignitate altissimæ sura reponsurus
 						quæstioni, lecto­ <lb/> i em meum obsecro, ut pro me inlerprecctur, et si <lb/> qua a me
 						pleniter dicta cognoverit, donis Dci gratus <lb/> existat : sin autem minus, nostrae
@@ -232,8 +232,8 @@
 						ostensa est prærogativa. Quaedam tantum mystice, <lb/> ut cum Deum dicit insufflasse in
 						faciem Adæ 5 spi­ <lb/> taculum vitæ. qui tamen os ad spirandum non ha­ <lb/> bet , nec
 						manus ad operandum, cum 6 dicat propheta, <lb/> Manus tua , <hi rend="italic">Domine,
-							fecerunt me et plasmaverunt <lb/> me ( Job</hi> x, 8)</p>
-					<p>.:APUT II. <hi rend="italic">Verilutes sunt de quibus Scriptura</hi> silet, <note type="footnote"> 1 nod. corbeiensis, <hi rend="italic">humanitate.</hi>
+							fecerunt me et plasmaverunt <lb/> me ( Job</hi> x, 8)</p></div>
+						<div type = "textpart" subtype = "chapter" n ="2"><p>.CAPUT II. <hi rend="italic">Verilutes sunt de quibus Scriptura</hi> silet, <note type="footnote"> 1 nod. corbeiensis, <hi rend="italic">humanitate.</hi>
 						</note><note type="footnote"> I Alias, <hi rend="italic">quam.</hi>
 						</note><note type="footnote"> 3 Mss. hic præftguHl: <hi rend="italic">incijil
 								sermo.</hi>
@@ -255,8 +255,8 @@
 						valeat auctori­ <lb/> tas? Mcmores enim conditionis humanæ, morteiu <lb/> iilam subiisse
 						temporalem dicere non metuimus, <lb/> quam idem certe ejus Filius, qui et Deus et homo
 						<lb/> est, lege sortis humanae sustinuit: et hoc quia homo <lb/> de ejus susceptus et
-						profusus est utero.</p>
-					<p>CAPUT III. <hi rend="italic">An deceat beatæ Marias corpus</hi> in <hi rend="italic">pulve­<lb/> rem resolutum esse. Non</hi> sequitur <hi rend="italic">ex Adæ
+						profusus est utero.</p></div>
+						<div type = "textpart" subtype = "chapter" n ="3"><p>CAPUT III. <hi rend="italic">An deceat beatæ Marias corpus</hi> in <hi rend="italic">pulve­<lb/> rem resolutum esse. Non</hi> sequitur <hi rend="italic">ex Adæ
 							maledicto.</hi>
 						<lb/> Sed si dicimus eam mortis teneri vinculis, et resolu­ <lb/> tam in communem
 						putredinem, vermem ac cinerem : <lb/> librandum I est, si hoc conveniat tantæ
@@ -278,7 +278,7 @@
 						infirmi­ <lb/> late, revixit ex Dei virtute. Sed hoc ille, qui quando <lb/> voluit mori,
 						quando voluit resurgere, potuit. Excipi­ <lb/> tur ergo ab ilia generali sententia de
 						virgine sumpta <lb/> natura. Quod si non Mariæ congruit, congruit tamen <lb/> lilio quem
-						genuit.</p>
+							genuit.</p></div><div type = "textpart" subtype = "chapter" n ="4">
 					<p>CAPUT I V. <hi rend="italic">Maria ab Evæ maledicto libera.</hi> Poso <lb/> hæc quai
 						Adae dicta sunt, de quibus excipitur Mariæ <lb/> Filius ; contuenda sunt quae etiam Evæ
 						dicta sunt, si <lb/> cunctis feminis sint generalia, et si in aliquo excipia­ <lb/> tur
@@ -310,7 +310,7 @@
 						voluit nasci, et carnis substantia communicarc, num­ <lb/> quid impium erit? Scimus enim
 						Jesum omnia posse, <lb/> qui de se ipso ait, <hi rend="italic">Data est mihi</hi> omnis
 							<hi rend="italic">potestas</hi> in <hi rend="italic">coelo<lb/> et in terra
-							(Matth.</hi> XXVIII, i8).</p>
+								(Matth.</hi> XXVIII, i8).</p></div><div type = "textpart" subtype = "chapter" n ="5">
 					<p>CAPUT V. Matrem <hi rend="italic">Christus in hoc honorasse</hi> creden­ <lb/>
 						<hi rend="italic">dua est. Quippe suam ipsius naturam. Unitas gratiæ cum<lb/> Christo.
 							Unitas Mariæ specialis cum Christo.</hi> Si ergo <lb/> voluit integram matrem
@@ -362,7 +362,7 @@
 						talem Dei, qui hahere secutu suos in gloria vult, <lb/> ut sua claritate fruantur, qui
 						hic sua fide juncti, unum <lb/> cum eo esse digni judicantur! Si igitur eos secum ha-
 						<lb/> borei e vult, ae per hec Iotust qui omnia potest ; quid <lb/> æstimandum est de
-						Matre, ubi digna sit haberi, nisi <lb/> in præsentia Filii?</p>
+						Matre, ubi digna sit haberi, nisi <lb/> in præsentia Filii?</p></div><div type = "textpart" subtype = "chapter" n ="6">
 					<p>CAPUT VI. <hi rend="italic">Mariæ corpus jam dupliciter in calo.</hi>
 						<lb/> Quantum igitur contueor, quantum intelligo, quantum <lb/> credo, Mariæ anima
 						claritate fruitur Christi, et glo­ <lb/> riosis conspectibus ejus; semper videre
@@ -384,7 +384,7 @@
 						mortem, <lb/> post mortem est futurum putredo, post putredinem <lb/> vermis, post
 						vermem, ut dignum est, abjectissimus <lb/> pulvis. Quod de Maria credendum non videtur
 						con­ <lb/> senti bile : quia æstimationem procul propellit incom­ <lb/> parabitis gratiæ
-						munus.</p>
+						munus.</p></div><div type = "textpart" subtype = "chapter" n ="7">
 					<p>CAPUT VII. <hi rend="italic">Infertur ex petitione Christi pro</hi> mini­ <lb/>
 						<hi rend="italic">stris. Christo</hi> in <hi rend="italic">terris Angeli
 							famulabantur.</hi> Quod mc <lb/> dicere multarum consideratio rerum invitat : quarum
@@ -428,7 +428,7 @@
 						<lb/> sua merila ? Si ergo merito Mariæ viventi præ omni-­ <lb/> bus donata est gratia,
 						mortuac erit minuenda ? Absit: <lb/> quia si omnium sanctorum mors est pretiosa, Mariæ
 						<lb/> sane est pretiosissima : quam tanta comitata est gra­ <lb/> tia, ut mater Dei
-						dicatur, et sit.</p>
+						dicatur, et sit.</p></div><div type = "textpart" subtype = "chapter" n ="8">
 					<p>CAPUT VIII. <hi rend="italic">Mariam</hi> sile <hi rend="italic">corruptione
 							servare</hi> po­ <lb/>
 						<hi rend="italic">tuit Christus. Voluit, quia eldecuit.</hi> Consideratis igitur <lb/>
@@ -461,7 +461,7 @@
 						quein <lb/> in suo gessit utero, sit apud illum illa quae genuit, <lb/> fovit et aluit
 						illum Maria Dei genitrix, Dei nutrix, Dei <lb/> ministratrix, et Dei secutrix : de qua,
 						ut jam dixi, <lb/> quia aliter sentire non audeo, aliter dicere non pra­ <lb/> sumo.
-						*</p>
+						*</p></div><div type = "textpart" subtype = "chapter" n ="9">
 					<p>CAPUT IX. <hi rend="italic">Quo animo prædicta asseruerit auctor.</hi>
 						<lb/> Suscipiat igitur hunc sensum fraterna Charitas ve­ <lb/> stra, secundum quod
 						Spiritus Christi inspiravit. <lb/> Ostensa suni ex parte, quæ taliter me hortata sunt
@@ -480,7 +480,7 @@
 						dixi ut debui,. <lb/> approba, Christe, obsecro, tu et tur : sin autem ut <lb/> non
 						debui, ignosce tu et tui? Qui eum Deo Patre et <lb/> Spiritu sancto vivis et regnas per
 						omnia saecula sae­ <lb/> culorum. Amen. <note type="footnote"> * Editi, vossum.
-						</note></p></div></div>
+						</note></p></div></div></div>
    
 				</body>
   </text>
