@@ -94,7 +94,7 @@
 					<head>
 						<title type="main">DE BENEDICTIONIBUS JACOB PATRIARCHÆ.</title>
 					</head>
-					<p>Quid intelligendum cst de benedictionibus, quibus <lb/> Jacob patriarcha benedixit
+					<div type="textpart" subtype="paragraph" n="1"><p>Quid intelligendum cst de benedictionibus, quibus <lb/> Jacob patriarcha benedixit
 						filios suos? Anhistorice <lb/> vel allegorice intelligendæ sint, dum dicit, <hi rend="italic">Congrega­</hi>
 						<unclear/><lb/> mini, <hi rend="italic">filii Jacob, ut annuntiem vobis quæ ventura
 							sunt</hi>
@@ -103,8 +103,8 @@
 						historiam et allegoriam : <lb/> historiam de divisione terræ repromissionis, qux di­
 						<lb/> visiones dividendæ erant nepotibus eorum; et aMe­ <lb/> goriam, de Christo et de
 						Ecclesia in novissimis tem­ <lb/> poribus futura. Sed prius historiæ fundamenta po­
-						<lb/> nenda sunt, ut aptius allegoriæ culmen priori structurae <lb/> superponatur.</p>
-					<p><hi rend="italic">Ruben primogenitus</hi> meus, tu <hi rend="italic">fortitudo
+						<lb/> nenda sunt, ut aptius allegoriæ culmen priori structurae <lb/> superponatur.</p></div>
+					<div type="textpart" subtype="paragraph" n="2"><p><hi rend="italic">Ruben primogenitus</hi> meus, tu <hi rend="italic">fortitudo
 							mea,</hi> prin­ <lb/>
 						<hi rend="italic">cipium doloris mei</hi> : prior in <hi rend="italic">donis , major
 							in</hi> imperio. <lb/>
@@ -230,8 +230,8 @@
 						sibi ex lege <lb/> collata sunt ; lupum sanguinarium, lupum voracem <lb/>
 						<pb n="2203"/> super altaris interpretatione ponentes , et spoliorum <lb/> divisorem
 						super sacerdotibus, qui servientes altari <lb/> vivunt de altari (a). H cc autem
-						historice.</p>
-					<p>Spiritualiter autem in Ruben prioris populi Judæo­ <lb/> rum ostendit esse persunum ,
+						historice.</p></div>
+					<div type="textpart" subtype="paragraph" n="3"><p>Spiritualiter autem in Ruben prioris populi Judæo­ <lb/> rum ostendit esse persunum ,
 						cui a Domino dicitur, <lb/>
 						<hi rend="italic">Israel primogenitus meus</hi> (Gen. XLIX.3 ; <hi rend="italic">Exod.IV,</hi> 22). <lb/> Etenim juxta quod primogenito debebatur , ipsius <lb/> erat
 						accipere sacerdotium et regnum. Additur, <hi rend="italic">luvir­ <lb/> tus mea.</hi>
@@ -382,6 +382,7 @@
 								iuigratacibus hujus mundi extollitur, qui retro cadere di­ <lb/> citur.</hi>
 						</note>
 					</p>
+</div>
 				</div>
 
 				</body>
