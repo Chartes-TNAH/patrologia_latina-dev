@@ -76,22 +76,18 @@
 			<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
 				Architecture.</p>
 			<refsDecl n="CTS">
-				<cRefPattern n="no citable units founds" matchPattern="(.+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
+				<cRefPattern n="no citable units founds" matchPattern="(.+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
+				/>
+				<cRefPattern n="dialog" matchPattern="(\w+).(\w+)"
+					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
+					<p>This pointer pattern chapter</p>
+				</cRefPattern>
 			</refsDecl>
-			
-		<projectDesc>
-			<p>This document is compatible with<ref target="http://capitains.github.io"
-				>CapiTainS Guidelines</ref></p>
-		</projectDesc>
-		<p>The following text is encoded in accordance with EpiDoc standards and with the
-			CTS/CITE Architecture.</p>
-		<refsDecl n="CTS">
-			<cRefPattern 
-				n="no citable units founds" 
-				matchPattern="(.+)" 
-				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
-		</refsDecl>
-		</encodingDesc>			
+				<refsDecl>
+					<refState unit="chapter"/>
+				</refsDecl>
+		</encodingDesc>
 
 		<profileDesc>
 			<langUsage>
