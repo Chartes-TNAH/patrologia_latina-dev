@@ -148,7 +148,10 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
-
+		<revisionDesc>
+			<change who="Lauryne Lemosquet" when="2019-02-19">Correction de l'OCR.</change>
+			<change who="Lauryne Lemosquet" when="2019-03-31">Structuration du fichier afin de respecter les guidelines du project CapiTainS.</change>
+		</revisionDesc>
 	</teiHeader>
 	<text>
 		<body>
