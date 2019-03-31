@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="eng">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -146,7 +146,7 @@
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa028.opp-lat1">
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa028.opp-lat1" xml:lang="la">
 				<head>
 					<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI CONTRA MAXIMINUM
 						HaeRETICUM Arianorum Episcopum LIBRI DUO (a).</title>
