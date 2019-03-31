@@ -75,7 +75,7 @@
 		</profileDesc>
 	</teiHeader>
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa013d.opp-lat1">
+    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa013d.opp-lat1" xml:lang="la">
 					<head>
 						<title type="main">S. AURELII AUGUSTINI HIPPONENSIS EPISCOPI SERMONES AD
 							POPULUM.</title>
