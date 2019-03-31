@@ -86,23 +86,9 @@
 		<p>The following text is encoded in accordance with EpiDoc standards and with the
 			CTS/CITE Architecture.</p>
 		<refsDecl n="CTS">
-			<cRefPattern n="textpart" matchPattern="(\w+).(\w+).(\w+)"
-				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2']/tei:div[@n='$3'])">
-				<p>This pointer pattern extracts textpart and chapter</p>
-			</cRefPattern>
-			<cRefPattern n="textpart" matchPattern="(\w+).(\w+)"
-				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
-				<p>This pointer pattern extracts textpart</p>
-			</cRefPattern>
-			<cRefPattern n="chapter" matchPattern="(\w+)"
-				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-				<p>This pointer pattern extracts chapter</p>
-			</cRefPattern>
+			<refState unit="chapter"/>
 		</refsDecl>
-			<refsDecl>
-				<refState unit="textpart"/>
-				<refState unit="chapter"/>
-			</refsDecl>
+
 		</encodingDesc>
 		<profileDesc>
 			<langUsage>
