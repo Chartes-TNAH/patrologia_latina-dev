@@ -88,6 +88,11 @@
 			</langUsage>
 		</profileDesc>
 
+		<revisionDesc>
+			<change who="Camille Carette" when="2019-03-31">Structuration du fichier afin de
+				respecter les guidelines du project CapiTainS.</change>
+		</revisionDesc>
+
 	</teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa034a.opp-lat1" xml:lang="la">
