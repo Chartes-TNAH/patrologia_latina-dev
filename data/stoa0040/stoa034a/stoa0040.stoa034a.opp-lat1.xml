@@ -93,7 +93,7 @@
 
         <revisionDesc>
             <change who="Camille Carette" when="2019-03-31">Structuration du fichier afin de
-                respecter les guidelines du project CapiTainS.</change>
+                respecter les guidelines du project CapiTainS, et effactement des espaces au niveau des hyphenisations.</change>
         </revisionDesc>
 
     </teiHeader>
