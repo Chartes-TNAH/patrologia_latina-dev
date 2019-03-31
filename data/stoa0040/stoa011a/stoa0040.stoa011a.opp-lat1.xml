@@ -86,10 +86,13 @@
 		<p>The following text is encoded in accordance with EpiDoc standards and with the
 			CTS/CITE Architecture.</p>
 		<refsDecl n="CTS">
-			<refState unit="chapter"/>
+			<cRefPattern 
+				n="no citable units founds" 
+				matchPattern="(.+)" 
+				replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"/>
 		</refsDecl>
+		</encodingDesc>			
 
-		</encodingDesc>
 		<profileDesc>
 			<langUsage>
 				<language ident="la">Latin</language>
