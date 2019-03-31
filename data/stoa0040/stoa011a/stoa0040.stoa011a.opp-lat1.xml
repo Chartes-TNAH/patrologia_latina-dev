@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/strueture/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
 	<teiHeader>
 		<fileDesc>
@@ -10,15 +10,15 @@
 				<principal>Gregory Crane</principal>
 				<respStmt>
 					<persName xml:id="Jouve">Jouve</persName>
-					<resp>OCR-ed, correeted and encoded the text</resp>
+					<resp>OCR-ed, corrected and encoded the text</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Greta Franzini</persName>
-					<resp>Projeet Manager (University of Leipzig)</resp>
+					<resp>Project Manager (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Simona Stoyanova</persName>
-					<resp>Projeet Assistant (University of Leipzig)</resp>
+					<resp>Project Assistant (University of Leipzig)</resp>
 				</respStmt>
 				<respStmt>
 					<persName>Bruce Robertson</persName>
@@ -136,7 +136,7 @@
 						quam enim, sicut alio loco dicit, pro ipso Domino le<lb/>
 						gatione fungens (II <hi rend="italic">Cor.</hi> v, 20), hoc est, pro lapide an<lb/>
 						gulari <hi rend="italic">(Ephes.</hi> II, 20), utrumque populum tant ex <lb/>
-						Judaeis quam ex Gentibus conneetit in Christo per <lb/>
+						Judaeis quam ex Gentibus connectit in Christo per <lb/>
 						vinculum gratiae, utrisque auferens omnem superbiam <lb/>
 						meritorum, et justificandos utrosque per disciplinam <lb/>
 						humilitatis associans.</p>
@@ -197,7 +197,7 @@
 						tos atque alienos a gente Judaeorum forte proferret, <lb/>
 						in quibus nullus simulacrorum cultus esset, quantum <lb/>
 						attinet ad simulacra quae humana operatur manus : <lb/>
-						nain simulacris phantasmatum suorum seetatores <lb/>
+						nain simulacris phantasmatum suorum sectatores <lb/>
 						suns omnis error illudit : ne quis tamen aliqua hujusr <lb/>
 						modi proferens, quia ibi Christi nomen ostentat, cas <lb/>
 						potius sanetas Scripturas esse asserat, non eas quae <lb/>
@@ -261,19 +261,19 @@
 						<lb/>
 						<pb n="2091"/>
 						<hi rend="italic">Spiritum;</hi> nec, quemlibet spiritum, scd <hi rend="italic">Spiritum san<lb/>
-						etificationis ex resurreetione mortuorum (Rom.</hi> 1, 4)., <lb/>
-						In resurreetione cnim virtus morientis apparet, ut di<lb/>
+						etificationis ex resurrectione mortuorum (Rom.</hi> 1, 4)., <lb/>
+						In resurrectione cnim virtus morientis apparet, ut di<lb/>
 						ceretur <hi rend="italic">praedestinatus in virtute secundum Spiritum<lb/>
-						sanetificationis ex resurreetione mortuorum.</hi> Deinde <lb/>
+						sanetificationis ex resurrectione mortuorum.</hi> Deinde <lb/>
 						sanetilicalio vitam novam fecit I quae in Domini nostri <lb/>
-						resurreetione siginta est. Unde idem apostolus alio <lb/>
+						resurrectione siginta est. Unde idem apostolus alio <lb/>
 						loco dicit : Si <hi rend="italic">consurrexistis cum Christo, quae sursum<lb/>
 						sunt quaerite, ubi Christus est</hi> in <hi rend="italic">dextera Dei sedem<lb/>
 						(Coloss.</hi> III, 1). Potest quidem etiam sic esse ordo ver<lb/>
 						borum, ut non ad <hi rend="italic">Spiritum sanetificationis</hi> adjunga<lb/>
-						mus quod ait, <hi rend="italic">ex resurreetione mortuorum;</hi> sed ad id <lb/>
+						mus quod ait, <hi rend="italic">ex resurrectione mortuorum;</hi> sed ad id <lb/>
 						quod ait, <hi rend="italic">praedestinatus est :</hi> ut ordo sit, <hi rend="italic">qui praedesti<lb/>
-						natus est ex resurreetione mortuorum;</hi> cui ordini inter<lb/>
+						natus est ex resurrectione mortuorum;</hi> cui ordini inter<lb/>
 						posita sint haec, <hi rend="italic">Filius Dei in virtute secundum Spiri<lb/>
 						tum sanetificationis.</hi> Et nimirum iste ordo certior et <lb/>
 						melior videtur, ut sit filius David in infirmitate secun<lb/>
@@ -281,7 +281,7 @@
 						Spiritum sanetificationis. <hi rend="italic">Faetus est</hi> ergo <hi rend="italic">ex semine <lb/>
 						David,</hi> id est, filius David ex mortali corpore, propter <lb/>
 						quod et mortuus est. <hi rend="italic">Praedestinatus est</hi> autem <hi rend="italic">Filius <lb/>
-						Deit</hi> et Dominus ipsius David, <hi rend="italic">ex resurreetione mor<lb/>
+						Deit</hi> et Dominus ipsius David, <hi rend="italic">ex resurrectione mor<lb/>
 						tuorum.</hi> In quantum enim mortuus est t ad id pertinet <lb/>
 						quod est filius David; in quantum autem resurrexit a <lb/>
 						mortuis, ad id quod est Filius Dei , et Dominus ipsius <lb/>
@@ -293,20 +293,20 @@
 						<hi rend="italic">Dixit Dominus Domino meo, Sede ad dexteram meant, <lb/>
 						donec ponam inimicos tuos sub pedibus tuis (Psal.</hi> CIX, <lb/>
 						1). Ex eo enim quod resurrexit a mortuis, sedet ad <lb/>
-						dexteram Patris. Praedestinatum ergo ex resurreetione <lb/>
+						dexteram Patris. Praedestinatum ergo ex resurrectione <lb/>
 						mortuorum, ut sederet ad dexteram Patris, videns <lb/>
 						in Spiritu David, non auderet dicere filium suum, <lb/>
 						sed Dominum suum. Unde et consequenter Apostolus <lb/>
 						hic adjungit, <hi rend="italic">Jesu Christi Domini nostri,</hi> posteaquam <lb/>
-						dixit, <hi rend="italic">ex resurreetione</hi> mortuorum; tanquam admo<lb/>
+						dixit, <hi rend="italic">ex resurrectione</hi> mortuorum; tanquam admo<lb/>
 						nens unde illum David Dominum suum potius quam <lb/>
 						filium esse testatus sit. Non autem ait eum <hi rend="italic">praedesti<lb/>
-						natum</hi> a mortuis, sed <hi rend="italic">ex</hi> resurreetione <hi rend="italic">mortilorum.</hi><lb/>
-						Non enim resurreetione ipsa sua Filius apparet Dei, <lb/>
+						natum</hi> a mortuis, sed <hi rend="italic">ex</hi> resurrectione <hi rend="italic">mortilorum.</hi><lb/>
+						Non enim resurrectione ipsa sua Filius apparet Dei, <lb/>
 						propria illa et eminentissima dignitate qua etiam est <lb/>
-						caput Ecclesiae, cum et caetcri mortui resurreeturi <lb/>
+						caput Ecclesiae, cum et caetcri mortui resurrecturi <lb/>
 						sint : sed Filius Dei praedestinatus est quodam prin<lb/>
-						cipatu resurreetionis, quia ex resurreetione omnium <lb/>
+						cipatu resurrectionis, quia ex resurrectione omnium <lb/>
 						mortuorum ipse praedestinatus est, id est, ut prae <lb/>
 						caeteris ei ante cleros resurgeret designatus. Ut <lb/>
 						quod hic positum est, <hi rend="italic">Filius Dei,</hi> cum dixisset <hi rend="italic">prae<lb/>
@@ -316,32 +316,32 @@
 						illum alio loco primogenitum ex mortuis appellat <lb/>
 						<hi rend="italic">(Coloss.</hi> I, 18). Eum enim decebat Tenire ad judicium <lb/>
 						resurgentium, qui praecesserat ad exemplum : neque <lb/>
-						plum eorum qui sic resurreeturi sunt, ut cum illo vi<lb/>
+						plum eorum qui sic resurrecturi sunt, ut cum illo vi<lb/>
 						vant et regnent in sempiternum; quorum etiam caput <lb/>
 						est, tanquam corporis sui. Ex ipsorum enim resur<lb/>
-						reetione etiam praedestinatus est, ut ipsis princeps <lb/>
+						rectione etiam praedestinatus est, ut ipsis princeps <lb/>
 						fieret : caeterorum autem in sua conditione resur<lb/>
 						gentium non princeps, sed judex est. Non itaque ex <lb/>
-						illorum mortuorum resurreetione praedestinatus est, <lb/>
+						illorum mortuorum resurrectione praedestinatus est, <lb/>
 						quos est damnaturus. Praedestinatum enim esse ex <lb/>
-						resurreetione mortuorum, ut praecederet resurre<lb/>
+						resurrectione mortuorum, ut praecederet resurre<lb/>
 						etionem mortuorum, vult intelligi Apostolis : hos <lb/>
 						autem praecessit, qui ad ipsum coeleste regnum quo <lb/>
 						eos praecessit, secuturi sunt. Propter quod non ait, <lb/>
-						Qui praedestinatus <hi rend="italic">est Filius Dei ex resurreetione mortuo</hi><lb/>
+						Qui praedestinatus <hi rend="italic">est Filius Dei ex resurrectione mortuo</hi><lb/>
 						rum Jesus Christus Dominus noster; sed , <hi rend="italic">ex resurre<lb/>
 						etione mortuorum Jesu Christi Domini</hi> nostri: tanquam <lb/>
 						si diceret, Qui praedestinatus est Filius Dei ex resur<lb/>
-						reetione mortuorum suorum, hoc est, ad se perti<lb/>
+						rectione mortuorum suorum, hoc est, ad se perti<lb/>
 						nentium in vitam aeternam; velut si interrogaretur, <lb/>
 						quorum mortuorum, et responderet, ipsius Jesu <lb/>
-						Christi Domini nostri. Ex resurreetione enim caete<lb/>
+						Christi Domini nostri. Ex resurrectione enim caete<lb/>
 						rorum mortuorum non est praedestinatus, quos non <lb/>
 						praecessit ad gloriam vitae aeternae, non utique secu<lb/>
-						turos, quoniam ad poenas suas impii resurreeturi <lb/>
+						turos, quoniam ad poenas suas impii resurrecturi <lb/>
 						sunt. Ergo ille tanquam Filius Dei unigenitus, etiam <lb/>
 						primogenitus ex mortuis <hi rend="italic">praedestinatus est, ex resur<lb/>
-						reetione mortuorum.</hi> Quorum mortuorum, nisi <hi rend="italic">Domini<lb/>
+						rectione mortuorum.</hi> Quorum mortuorum, nisi <hi rend="italic">Domini<lb/>
 						noslri</hi><hi rend="italic">Jesu</hi> Christi ?</p>
 				</div>
 				<div type="textpart" subtype="chapter" n="6">
@@ -382,23 +382,23 @@
 						<pb n="2093"/>
 						<hi rend="italic">mine David secundum</hi> carnem, <hi rend="italic">qui pr</hi>aedestinatus <hi rend="italic">est <lb/>
 						Filius Dei</hi> in <hi rend="italic">virtute secundum</hi> spiritum <hi rend="italic">sanetificationis <lb/>
-						ex resurreetione</hi> mortuorum <hi rend="italic">Domini</hi> nostri <hi rend="italic">Jesu</hi> Christi. <lb/>
+						ex resurrectione</hi> mortuorum <hi rend="italic">Domini</hi> nostri <hi rend="italic">Jesu</hi> Christi. <lb/>
 						Et quasi dicerclur, Quomodo tu ad cum pertines ? <lb/>
 						respondit, <hi rend="italic">Per</hi> quem <hi rend="italic">accepimus gratiam et apostola</hi><lb/>
 						tum, ad <hi rend="italic">obediendum fidei in</hi> omnibus <hi rend="italic">gentibus pro no<lb/>
 						mine ejus.</hi> Item Hasi diceretur, Quoe igitur causa est <lb/> ut scribas ad uos ? respondit, <hi rend="italic">In quibus esti, et</hi> vos vo<lb/>
 						<hi rend="italic">cati Jesu Christi.</hi> Nunc deinde adjungit ex more epi<lb/>
 						stolae quibus scribat : <hi rend="italic">Omnibus,</hi> inquit, <hi rend="italic">qui</hi> sunt <hi rend="italic">Ro</hi><lb/>
-						mae, dileetis Dei, vocatis <hi rend="italic">sanetis.</hi> Eliam hic significa<lb/>
+						mae, dilectis Dei, vocatis <hi rend="italic">sanetis.</hi> Eliam hic significa<lb/>
 						vii benignitatem Dei potius quam meritum illorum. <lb/>
-						Non enim ait, diligentibus Deum; sed, <hi rend="italic">diteetis Dei.</hi><lb/>
+						Non enim ait, diligentibus Deum; sed, <hi rend="italic">ditectis Dei.</hi><lb/>
 						Prior enim dilexit nos ate omnia merita, ut et nos <lb/>
-						cum dileeti diligeremus (I Joan. iv, 19). Unde etiam <lb/>
+						cum dilecti diligeremus (I Joan. iv, 19). Unde etiam <lb/>
 						addidit, vocatis <hi rend="italic">sanetis.</hi> Quanquam enim sibi quis iri<lb/>
 						buat quod vocanti obtemperat, nemo potest sibi tri<lb/>
 						buere qnod vocatus est. <hi rend="italic">Vocatis</hi> autem <hi rend="italic">sanetis,</hi> non <lb/>
 						ita intelligendum est, tanquam ideo vocati sint, quia <lb/>
-						saneti erent; sed ideo saneti effeeti, quia vocati sunt.</p>
+						saneti erent; sed ideo saneti effecti, quia vocati sunt.</p>
 				</div>
 				<div type="textpart" subtype="chapter" n="8">
 					<p>8. Restat ergo ut salutem dicat , ut cempleatur usi<lb/>
@@ -407,7 +407,7 @@
 						<hi rend="italic">vobis et pax a Deo Patre</hi> nostro, <hi rend="italic">et Domino Jesu Chri</hi><lb/>
 						sto (Rom. i, 7). Non enim omnis gratia est a Deo. Nam <lb/>
 						et judices maii praebent gratiam it, accipiendis perso<lb/>
-						nis aliqua cupiditate illeeti, aut timore perterriti. Ne<lb/>
+						nis aliqua cupiditate illecti, aut timore perterriti. Ne<lb/>
 						qtie omnis pax Dei est, vel ab illo : unde ipse Domi<lb/>
 						nus discernens alt, <hi rend="italic">Pacem meam do vobis ;</hi> adjungens <lb/>
 						etiam etdicens non sc talem pacem dare, qualem dat <lb/>
@@ -493,7 +493,7 @@
 						tam regi David comminatus est Dens, quanquam <lb/>
 						statim ignoverit poenitenli, propterea tamen accidisse <lb/>
 						omnia (II <hi rend="italic">Reg.</hi> xn), ut demonstraretur illam veniam <lb/>
-						spiritualiter datam propter futurum judicium pœna<lb/>rum, tiuod exspeetat eos qui boc tempore corrigi no<lb/>
+						spiritualiter datam propter futurum judicium pœna<lb/>rum, tiuod exspectat eos qui boc tempore corrigi no<lb/>
 						lunt. Dicit caim et alibi Petrus : <hi rend="italic">Propter hoc enim et <lb/>
 						mortuis evangelizatum est, ut judicentur quidem se<lb/>
 						cundum hominem in carne,</hi> vivant <hi rend="italic">autem secundum <lb/>
@@ -507,9 +507,9 @@
 						<hi rend="italic">pressuram (Joan.</hi> XVI, 55). Sed tribulationes et mole<lb/>
 						stiae cuin per justitiam Dei redduntur peccatis, bonos <lb/>
 						et justos, et quibus jam plus peccata ipsa displicent <lb/>
-						ejuam ulla corporis poena, non refleetunt ad peccan<lb/>
+						ejuam ulla corporis poena, non reflectunt ad peccan<lb/>
 						dum, sed ab omni labe penitus purgant. Pax onim <lb/>
-						perfeeta etiam corporis suo tempore dabitur 1, si nunc <lb/>
+						perfecta etiam corporis suo tempore dabitur 1, si nunc <lb/>
 						pacem quam Dominus per fidem dare dignatus est, in<lb/>
 						concusse spiritus noster atque incommutabiliter teneat.</p>
 				</div>
@@ -549,7 +549,7 @@
 					<p>12. Nec aliae Apostolorum Epistolae, quas usus ec<lb/>clesiasticus recipit, parum nos admonent de ista <lb/> Trinitate in principiis suis. Nam Petrus ita dicit, <hi rend="italic">Gra<lb/>tia vobis et paxadimpleatur:</hi> dcinde statim subjicit, <hi rend="italic">Be<lb/>
 						nedietus Deus et Pater Domini nostri Jesu Christi (I Petr.</hi><lb/>
 						1. <hi rend="italic">2 et 3).</hi> Ut per gratiam et pacem Spirito saneto in<lb/>
-						telleeto, Patris et Filii commemoratio animum de <lb/>
+						tellecto, Patris et Filii commemoratio animum de <lb/>
 						Trinitate commoneat. Et in. alia sic ait : <hi rend="italic">Gratia vobis <lb/>
 						et</hi> pax <hi rend="italic">multiplicetur in recognitione Dei et Christi Jesu <lb/>
 						Domini nostri</hi> (II <hi rend="italic">Petr.</hi> i, 2). Joannes autem nescio <lb/>
@@ -566,11 +566,11 @@
 						vobiscum gratia, misericordia, pax a Deo Patre et</hi> Jesu <lb/>
 						<hi rend="italic">Christo Filio Patria</hi> (II <hi rend="italic">Joan.</hi> I, 5). I.. tertiae principio <lb/>
 						de Trinitate penitus tacetur, credo, quod sit omnino <lb/>
-						brevissima. Sic enim incipit <hi rend="italic">: Senior Gaio dileetissi<lb/>
+						brevissima. Sic enim incipit <hi rend="italic">: Senior Gaio dilectissi<lb/>
 						mo, quem ego diligo in veritate</hi> (III <hi rend="italic">Joan.</hi> i, i). Quam <lb/>
 						veritatem pro ipsa Trinitate positam puto. Judas no<lb/>minato Deo Patre et Domino Jesu Christo, ad intelli<lb/>
 						gendum Spiritum sanctum, hoc est donum Dei, tria <lb/> verba ponit ; sic quippe incipit, <hi rend="italic">Judas Jesu Christi</hi><lb/>
-						servus, <hi rend="italic">frater autem Jacobi,</hi> in <hi rend="italic">Deo Patre dileetis, et <lb/>
+						servus, <hi rend="italic">frater autem Jacobi,</hi> in <hi rend="italic">Deo Patre dilectis, et <lb/>
 						Jesu Christo conservatis et vocatis, misericordia vobis,<lb/>
 						et pax et charitas adimpleatur (Judce</hi> I. i). Gratia <lb/>
 						enim et pax sine misericordia et charitate intelligi <lb/>
@@ -602,7 +602,7 @@
 						finibus Tyri et Sidonis egressa, quae in Evangelio per<lb/>
 						sonam Gentium gerit, salutem petebat filiae suae, evi <lb/>
 						responsum est a Domino : <hi rend="italic">Non eat bonum panem filio<lb/>
-						rum mittere canibus.</hi> Quod crimen objeetum illa non <lb/>
+						rum mittere canibus.</hi> Quod crimen objectum illa non <lb/>
 						negans, tanquam de confessione peccatorum impe<lb/>
 						tratura salutem filiae, hoc est novae vitae suae : <hi rend="italic">Ita,</hi><lb/> 
 						inquit, <hi rend="italic">Domine,</hi> nam <hi rend="italic">et canes edunt de micis quas cadunt<lb/>
@@ -628,14 +628,14 @@
 				</div>
 				<div type="textpart" subtype="chapter" n="14">
 					<p>14. Illud sane magna intentione animi consideran<lb/>
-						dum, et totis viribus pietatis ampleetendum satis <lb/>
+						dum, et totis viribus pietatis amplectendum satis <lb/>
 						apparet, quoniam si gratia et. pax ad implendam <lb/>
 						Trinitatis commemorationem sic abApostolo ponitur <lb/>
 						ac si Spiritum sanctum nominasset; ille peccat iic <lb/>
 						Spiritum sanctum, qui desperans, vel irridens atque <lb/>
 						contemnens prjedicationcm gratiae per quam peccata <lb/>
 						diluuntur, et pacis per quam reconciliamur Deo, <lb/>
-						detreetat agere poenitentiam de peccatis suis, et in <lb/>
+						detrectat agere poenitentiam de peccatis suis, et in <lb/>
 						eorum impia atque mortifera quadam suavitate perdu<lb/>
 						randum sibi esse decernit, etin finem usque perdurat. <lb/>
 						Quod ergo ait Dominus, dimitti homini, si verbum <lb/>
@@ -647,7 +647,7 @@
 						audicnte pronuntiatus fuerit ab aliquo Spiritus sanetus, <lb/>
 						quaerere quid rerum significetur sub isto syllabarum <lb/>
 						sono ; ab aliquo autem deceptore vel irrisore impio <lb/>
-						responderi aliquid aliud, quodlibet vile et abjeetum, <lb/>
+						responderi aliquid aliud, quodlibet vile et abjectum, <lb/>
 						ut quaerentem decipiat, sicuti a talibus fieri solet <lb/>
 						ridendi gratia; illum autem per ignorantiam contem<lb/>
 						psisse hoc nomen, dum nescit quid significet, et ali<lb/>
@@ -692,7 +692,7 @@
 						cui veniam peccatorum dederit Deus? Nam et Pagani <lb/>
 						qui appellantur, etiam nunc totam nostram religio<lb/>
 						nem, quia jam ferro et caedibus prohibemur, male<lb/>
-						dietis contumeliisque inseetantur; et quidquid de ipsa <lb/>
+						dietis contumeliisque insectantur; et quidquid de ipsa <lb/>
 						Trinitate dicimus, negando et blasphemando conie<lb/>
 						mnunt. Non enim excipiuntsibi Spiritum sanctum quem <lb/>
 						venerentur, ut in caetera saeviant ; sed simul adversus <lb/>
@@ -772,7 +772,7 @@
 						stantia tam impie sentiant, ut eam commutabilem et <lb/>
 						corruptibilem putent; ipsumque Spiritum sanctum, <lb/>
 						quem Dominus discipulis se missurum esse promisit, <lb/>
-						non quinquagesimo die post ejus resurreetionem, sic<lb/>
+						non quinquagesimo die post ejus resurrectionem, sic<lb/>
 						ut Apostolorum Aeta testantur <hi rend="italic">(Id.</hi> II, 1-4), sed post <lb/>
 						trecentos fere annus per hominem venisse confin. <lb/>
 						gant (c). Alii similiter adventum cjus, quem tenemus, <lb/>
@@ -859,7 +859,7 @@
 						quae commemoravi negQtur poenitendi locas; quoniam <lb/> 
 						peccato in Spiritum sanctum omnem spem veniae Do<lb/>
 						minus amputavit: quod si regu a christiana respuit, <lb/> 
-						omnesque illos qui sic peccam, ad correetionem vitae <lb/> 
+						omnesque illos qui sic peccam, ad correctionem vitae <lb/> 
 						vocare non cessat; adhuc quaerendum est quid sit <lb/> 
 						peccare in Spiritum sanctum, cui peccato venia nulla <lb/>
 						conceditur. <note type="footnote"> 1 MS. Yatiomus, ubi <hi rend="italic">caput haberetur. nescicnUs*</hi>
@@ -909,9 +909,9 @@
 						Huc accedit quod voluntas Dei in diligendo Deo et <lb/> 
 						proximo breviter insinuetur credentibus, iia at in his <lb/>
 						duobus praerceptis tota Lex pendeat, et omries Pro<lb/>
-						phetae <hi rend="italic">(Matth.</hi> XXII, 37-40). Dileetionem autem <lb/> 
-						proximi, id est, dileetionem hominis usque ad ini<lb/>
-						mici dileetionem, nobis Dominus ipse commendat <lb/>
+						phetae <hi rend="italic">(Matth.</hi> XXII, 37-40). Dilectionem autem <lb/> 
+						proximi, id est, dilectionem hominis usque ad ini<lb/>
+						mici dilectionem, nobis Dominus ipse commendat <lb/>
 						<hi rend="italic">(Matth.</hi> V, 4i) : et videmus quam multi jam bapti<lb/>
 						zati, et vera esse isla fnteantur, et tanqualn Domini <lb/> 
 						praecepta venerentur ; cum autem perpessi fuerint ali<lb/>
@@ -927,7 +927,7 @@
 						Quod inaniter fieret, si talium peccatorum nulla spes <lb/>
 						veniae, nulla pœnitentiae medicina remaneret. Et <lb/>
 						certe caveant qui noc sentiunt, qe David patriarcham <lb/>
-						divina eleetione probatum alque landatum, ignorasse <lb/> 
+						divina electione probatum alque landatum, ignorasse <lb/> 
 						affirment voluntatem Dei, cum alienae conjugis amore <lb/>
 						perculsus, etiam manitum ejus decipiendum necbu<lb/>
 						dumque curavit : de quo tamen scelere cum esset <lb/> 
@@ -951,13 +951,13 @@
 						rum fidelium nomine baptizatus imbuitur : ut hoc <lb/> 
 						significaverit Apostolus, don posse deinceps eum qui <lb/>
 						peccaverit, itcrum baptizando purgari. Quo intel<lb/>
-						leetu non intereluditur pœnitendi locus : ita sane, ut <lb/> 
+						lectu non intereluditur pœnitendi locus : ita sane, ut <lb/> 
 						eos qni nondum baptizati sunt, nondum plenam <lb/> 
 						scientiam veritatis accepisse fateamur. Ex quo con<lb/>
 						ficitur ut omnis qui scientiam veritatis accepit, <lb/> 
 						etiam baptizatus, intelligatur. Non autem omnis <lb/> 
 						baptizatus etham scientiam veritatis accepit, propter <lb/> 
-						quorumdam posteriorum proveetum vel misera<lb/>
+						quorumdam posteriorum provectum vel misera<lb/>
 						bilem negligentiam.: et tamen illud sacrificium de <lb/>
 						quo. loquebatur, id est, holocaustum Domini, quod <lb/> 
 						tunc pro unoquoque oflertur quodammodo, cnm <lb/>
@@ -966,10 +966,10 @@
 						denqo baptizari qui semel baptizati sunt, quamvis <lb/> 
 						etiam post Baptismum per ignorantiam veritatis <lb/> 
 						peccaverint. Ita fit ut quoniam sine Baptismo nemo <lb/>
-						reete dicitur accepisse scientiam veritatis, omnis qei <lb/>
+						recte dicitur accepisse scientiam veritatis, omnis qei <lb/>
 						accepit eam, non ei relinquatur pro peccatis sacrifi<lb/>
 						cium, hoc est, non possit denuo baptizari : nee ta<lb/>
-						men omnis qui non accepit per deetrinam scientiam <lb/>
+						men omnis qui non accepit per dectrinam scientiam <lb/>
 						veritatis, debeat arbitrari posse pro se illud offerri <lb/> 
 						sacrificium, si jam oblatum est; id est , si jam ejus<lb/>
 						dem veritatis. per Baptismum sacramenta percepit, <lb/> 
@@ -989,7 +989,7 @@
 						non iterum . jacientes <hi rend="italic">fundamentum</hi> pœnitentiae a mor<lb/>
 						tuis <hi rend="italic">operibus, et fidei in</hi> Deum, lavacri <hi rend="italic">doetrin</hi>ae, impo<lb/>
 						<pb n="2103"/>
-						<hi rend="italic">sitionis manus , resurreetionit etiam mortuorum ,</hi> et ju<lb/>
+						<hi rend="italic">sitionis manus , resurrectionit etiam mortuorum ,</hi> et ju<lb/>
 						<hi rend="italic">dicii aeterni (Hebr.</hi> VI, I et i). Ista omnia in Baptismo <lb/>
 						traduntur, quae negat esse repetenda, utique in conse<lb/>
 						crandis fidelibus. Nam in verbi Dei traetatione atque <lb/>
@@ -1022,7 +1022,7 @@
 						et cum talsos testes in eum compararunt <hi rend="italic">(Matth.</hi><lb/>
 						xxvi, 59 60), et submiserunt simulatores qni eum in <lb/> 
 						verbo caperent (Id. XXII, 15-17) ; etcum tremenda lui<lb/>
-						rabilia, quae in ejas resurreetione faeta sunt, eis renun<lb/>
+						rabilia, quae in ejas resurrectione faeta sunt, eis renun<lb/>
 						tiarentur, famam falsam disseminare, ac veritatcm abs<lb/>
 						condere, enstodum corruptione conati sunt <hi rend="italic">(Id.</hi> XXVIII, <lb/> 
 						13) ; et alia malitiosi et venenosi animi signa in eis, <lb/> 
@@ -1036,7 +1036,7 @@
 						qui hoc animo est, ut ea opera quibus invidet, malit <lb/> 
 						non esse Spiritus saneti; non quia mala sunt, sed quia <lb/> 
 						invidet eis, quia ipsi bonitati est contrarius per mali<lb/>
-						tiam stiam ; reete in Spiritum sanctum peccare judi<lb/>
+						tiam stiam ; recte in Spiritum sanctum peccare judi<lb/>
 						catur. Verumtamen si ex eo quoque hominum nume<lb/>
 						ro, quibus Dominus illud crimen objicit, veniens ad <lb/>
 						fidem Christi, et paenitendi cruciatibus edomita invi<lb/>
@@ -1086,7 +1086,7 @@
 						etum ejus malum ( Matth.</hi> XII, 31-53). Quod uti<lb/>
 						que nulla ratione diceretur cis, si propter illam bia<lb/>
 						sphemiam jam commutare animum in melius, et <lb/> 
-						reete faetorum fruetus generare non possent, aut fru<lb/>
+						recte faetorum fruetus generare non possent, aut fru<lb/>
 						stra etiam sine peccati sui dimissione generarent.</p>
 				</div>
 				<div type="textpart" subtype="chapter" n="23">
@@ -1139,7 +1139,7 @@
 						est dici aliquid faetis, sicut manifestum est negari ali<lb/>
 						quid faetis. Et sicut illud quod ait Apostolus, <hi rend="italic">Nemo <lb/> 
 						dicit, Dominus Jesus,</hi> nisi <hi rend="italic">in</hi> Spiritu <hi rend="italic">saneto</hi> ( I <hi rend="italic">Cor.</hi> XII, <lb/> 
-						3 ); non potest reete intelligi, nisi in faetis dicere in<lb/>
+						3 ); non potest recte intelligi, nisi in faetis dicere in<lb/>
 						telligatur. Non enim hoc in Spiritu saneto dicere pu<lb/>
 						tandi sunt, quibus ipse Dominus dicit, <hi rend="italic">Utquid mihi</hi> di<lb/>
 						<hi rend="italic">citis,</hi> Domine, Domine, <hi rend="italic">et non facitis quae dico vobis</hi>
