@@ -80,7 +80,13 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
- 
+  	<revisionDesc>
+  		<change who="Lucie Rondeau du Noyer" when="2019-03-31">Structuration du fichier en
+  			chapitres et en sermons selon les guidelines Capitains</change>
+  		<change who="Lucie Rondeau du Noyer" when="2019-03-31">Hyphénisations collées</change>
+  		<change who="Lucie Rondeau du Noyer" when="2019-03-30">Remplacement des "æ"
+  			par "ae"</change>
+  	</revisionDesc>
 	</teiHeader>
   <text>
     <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa013d.opp-lat1" xml:lang="la">
