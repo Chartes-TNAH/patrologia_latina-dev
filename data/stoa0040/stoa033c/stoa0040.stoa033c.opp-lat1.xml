@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang ="eng">
   <teiHeader>
     <fileDesc>
 			<titleStmt>
@@ -137,10 +137,19 @@
 				<language ident="la">Latin</language>
 			</langUsage>
 		</profileDesc>
+  	
+  		<revisionDesc>
+  			<listChange>
+  				<change who="Victoria Le Fourner" when="2019-03-31">Correction des hyphénisations.</change>
+  				<change who="Victoria Le Fourner" when="2019-03-31">Remplacement du graphème  a-e entrelacé par ae.</change>
+  				<change who="Victoria Le Fourner" when="2019-03-31">Capitanisation du texte selon les guidelines CapiTAinS: structuration en chapitres.</change>
+  			</listChange>
+  		</revisionDesc>
 	</teiHeader>
+
   <text>
-    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa033c.opp-lat1">
-					<head>
+    <body><div type="edition" n="urn:cts:latinLit:stoa0040.stoa033c.opp-lat1" xml:lang ="la">
+					<div type = "textpart" subtype ="book" n ="1"><head>
 						<title type="main">DE ASSUMPTIONE BEATÆ MARIÆ VIRGINIS (a) <hi rend="italic">LIBER
 								UNUS.</hi>
 						</title>
@@ -471,8 +480,8 @@
 						dixi ut debui,. <lb/> approba, Christe, obsecro, tu et tur : sin autem ut <lb/> non
 						debui, ignosce tu et tui? Qui eum Deo Patre et <lb/> Spiritu sancto vivis et regnas per
 						omnia saecula sae­ <lb/> culorum. Amen. <note type="footnote"> * Editi, vossum.
-						</note></p>
-				</div>
+						</note></p></div></div>
+   
 				</body>
   </text>
 </TEI>
