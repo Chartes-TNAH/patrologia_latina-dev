@@ -76,10 +76,7 @@
 			<p>The following text is encoded in accordance with EpiDoc standards and with the CTS/CITE
 				Architecture.</p>
 			<refsDecl n="CTS">
-				<cRefPattern n="no citable units founds" matchPattern="(.+)"
-					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
-				/>
-				<cRefPattern n="dialog" matchPattern="(\w+).(\w+)"
+				<cRefPattern n="chapter" matchPattern="(\w+).(\w+)"
 					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1']/tei:div[@n='$2'])">
 					<p>This pointer pattern chapter</p>
 				</cRefPattern>
@@ -96,7 +93,7 @@
 		</profileDesc>
 		<revisionDesc>
 			<change who="Anna Duchet-Annez" when="2019-03-27">Structuration du texte selon les guidelines CapiTainS</change>
-			<change who="Anna Duchet-Annez" when="2019-03-27">Correetion de l'OCR</change>
+			<change who="Anna Duchet-Annez" when="2019-03-27">Correction de l'OCR</change>
 			<change who="Anna Duchet-Annez" when="2019-03-26">Changement des æ en ae</change>
 			<change who="Anna Duchet-Annez" when="2019-03-26">Régularisation des hyphénisations</change>
 		</revisionDesc>
