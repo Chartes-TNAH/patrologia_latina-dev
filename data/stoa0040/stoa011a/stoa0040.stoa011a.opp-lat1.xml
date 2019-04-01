@@ -49,13 +49,13 @@
 							<author ref="http://data.perseus.org/catalog/urn:cts:latinLit:stoa0040">Augustinus</author>
 							<title>Quaestionum Evangeliorum Libri Duo</title>
 							<title>Quaestionum Septemdecim In Evangelium Secundum Matthaeum</title>
-							<title>In Evangelium Joannis Traetatus CXXIV</title>
-							<title>In Epistolam Joannis Ad Parthos Traetatus Decem</title>
+							<title>In Evangelium Joannis Tractatus CXXIV</title>
+							<title>In Epistolam Joannis Ad Parthos Tractatus Decem</title>
 							<title>Expositio Quarumdam Propositionum Ex Epistola Ad Romanos</title>
 							<title>Epistolae Ad Romanos Inchoata Expositio</title>
 							<title>Epistolae Ad Galatas Expositionis Liber Unus</title>
 							<title>De Mirabilis Sacrae Scripturae Libri Tres</title>
-							<title>De Benedietionibus Jacob Patriarchae [Incertus]</title>
+							<title>De Benedictionibus Jacob Patriarchae [Incertus]</title>
 							<title>Quaestiones Aliae Veteris Et Novi Testamenti [Incertus]</title>
 							<title>Expositio In Apocalypsim Beati Joanni</title>
 							<imprint>
@@ -78,7 +78,7 @@
 			<refsDecl n="CTS">
 				<cRefPattern n="chapter" matchPattern="(\w+)"
 					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])">
-					<p>This pointer pattern chapter</p>
+					<p>This pointer pattern extracts chapter</p>
 				</cRefPattern>
 			</refsDecl>
 				<refsDecl>
