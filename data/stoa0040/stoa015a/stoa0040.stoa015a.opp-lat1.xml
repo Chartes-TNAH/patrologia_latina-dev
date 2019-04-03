@@ -157,6 +157,7 @@
 					ae</change>
 				<change n="6" when="2019-03-27" who="Céline Champcourt"> correction des erreurs
 					d'OCR</change>
+				<change n="7" when="2019-04-03" who="Céline Champcourt"> reprise du fichier pour rajout des balises lb puis corrections des erreurs d'océrisation</change>
 			</listChange>
 		</revisionDesc>
 	</teiHeader>
@@ -169,7 +170,7 @@
 				</head>
 				<div type="textpart" subtype="section" n="1">
 					<p>1. Cum Augustinus et Maximinus Hippone regio <lb/> unum in locum
-						convenissent, praesentibus multis, <lb/> lam clcricis quam laicis, MAXIMINUS
+						convenissent, praesentibus multis, <lb/> tam clericis quam laicis, MAXIMINUS
 						dixit: Ego non <lb/> ob istam causam in hanc civitatem adveni, ut
 						alter<lb/>cationem proponam cum Religione tua, sed missus a <lb/> comite
 						Segisvullo1 contemplatione pacis adveni. Re<lb/>vera enim Eraclio presbytero
@@ -191,12 +192,12 @@
 						instat, dic mihi <lb/> fidem tuam de Patre et Filio et Spiritu sancto.</p>
 					<p>MAX. respondit : Si fidem meam postulas, ego illam <lb/> teneo fidem quae
 						Arimini I a trecentis et triginta <lb/> episcopis, non solum exposita, sed
-						etiam subscriptio- <lb/> nibus firmata est.</p>
+						etiam subscriptio<lb/>nibus firmata est.</p>
 				</div>
 
 				<div type="textpart" subtype="section" n="3">
 					<p>3. AUG. dixit: Jam dixi, et hoc ipsum repeto, quia <lb/> respondere noluisti
-						: Dic fidem tuam de Patre et Fi<lb/>lio ct Spiritu sancto.</p>
+						: Dic fidem tuam de Patre et Fi<lb/>lio et Spiritu sancto.</p>
 					<p>MAX. respondit : Cum enim non defecerim a respon<lb/>sione, cur accusor a tua
 						Religione, quasi responsum <lb/> non dederim?</p>
 				</div>
@@ -205,23 +206,23 @@
 					<p>4. AUG. dixit: Propterea dixi te respondere no. <note type="footnote">
 							ADMONITIO PP. BENEDICTINORUM. </note><note type="footnote"> collationem
 							cum Maximino et libros contra ipsum duos castigavimus juvantibus Mss.
-							duobus vaticanis et undecim Galli­ <lb/> canis, sorbonico, Fossatensi,
-							Arnulpbeosi, Micbaelino, Cisterciensi, Remigiano, Corbciensi, Laudunensi
-							majoris Ecclesiae <lb/> I arisiensi s. Martini de Campis, altero
+							duobus vaticanis et undecim Galli<lb/>canis, sorbonico, Fossatensi,
+							Arnulpbeosi, Michaelino, Cisterciensi, Remigiano, Corbeiensi, Laudunensi
+							majoris Ecclesiae <lb/> Parisiensis. Martini de Campis, altero
 							Parisiensi collegii Bernardinorum, et Tholosano domini de Maran.
 							</note><note type="footnote">
 							<hi rend="italic">Comparavimus praeterea eas omnes editiones initio</hi>
 							Retr. et Confess., <hi rend="italic">t.</hi> it <hi rend="italic"
 								>memoratas.</hi> M. </note><note type="footnote">t In ante editis,
-								<hi rend="italic">comUe regis</hi> muto. In Mss. quibusdam, <lb/>
-							<hi rend="italic">COihite pegimdlo.</hi> in aliis verius, <hi
+									<hi rend="italic">comte regis</hi> multa In Mss. quibusdam, <lb/>
+									<hi rend="italic">Comite Segimlto.</hi> in aliis verius, <hi
 								rend="italic">comite segimluo.</hi>
 						</note><note type="footnote"> I sic Mss. Editi vero, <hi rend="italic">mihi
 								facere injuriam.</hi>
 						</note>
 						<note type="footnote"> 1 MSS., <hi rend="italic">Arinuno.</hi>
 						</note>
-						<note type="footnote"> (c) Habita anno Christi 427 aut 428. Alias, COntra
+						<note type="footnote"> (c) Habita anno Christi 427 aut 428. Alias, Contra
 							Maximinum Arianorum episcopum liber primus. </note>
 						<lb/>
 						<pb n="711"/> luisse, quia dum ego quaererem ut diceres mihi fidem <lb/>
@@ -245,14 +246,14 @@
 							<hi rend="italic">coelis; et</hi> qui <hi rend="italic">negaverit me
 							<lb/> coram hominibus, negabo et ego eum coram Patre meo qui</hi>
 						<lb/> in <hi rend="italic">coelis est (Matth.</hi> X, 32, 33) : istud
-						periculum ti­ <lb/> mens, quamvis leges imperiales non ignoro, tamen <lb/>
+						periculum ti<lb/>mens, quamvis leges imperiales non ignoro, tamen <lb/>
 						praecepto Salvatoris edoctus, qui monuit nos et dixit, <lb/>
-						<hi rend="italic">Nolite</hi> timere <hi rend="italic">eoa qui occidunt
+						<hi rend="italic">Nolite</hi> timere <hi rend="italic">eos qui occidunt
 							corpus, animam autem <lb/> non</hi> possunt <hi rend="italic">occidere
 							(Ibid.</hi> 28) ; respondeo evidenter : <lb/> Credo quod unus est Deus
 						Pater. qui a nullo vitam <lb/> accepit ; et quia unus est Filius, qui quod
 						est et quod <lb/> vivit, a Patre accepit ut esset ; et quia unus est
-						Spi<lb/>ritus sanctus paracletus, qui est illuminator et sancii­ <lb/>
+						Spi<lb/>ritus sanctus paracletus, qui est illuminator et sancti<lb/>
 						ficator animarum nostrarum. Et hoc de divinis <lb/> Scripturis assero. Si
 						jubes, prosequor testimonia : <lb/> si in aliquo reprehenderit Religio tua,
 						dabo responsum <lb/> in his in quibus reprehendi videor.</p>
@@ -289,7 +290,7 @@
 						conti<lb/>tetur quod, <hi rend="italic">Doctrina mea non eat mea, sed ejus
 							qui</hi> me <lb/>
 						<hi rend="italic">misit Patris (Joan.</hi> VII, 16); et, <hi rend="italic"
-							>Quod</hi> vitiet <hi rend="italic">audivi apnd <lb/> Patrem meum,
+							>Quod</hi> vitiet <hi rend="italic">audivi apud <lb/> Patrem meum,
 							loquor (ld.</hi> VIII, 38). Sive ergo Christus <lb/> docens nos
 						illuminat, Pater illuminat qui eum desli<lb/>navit; sive Spiritus sanctos
 						illuminat, illuminatio ad <lb/> auctorem recurrit, qui est fons bonitatis :
@@ -301,22 +302,22 @@
 				</div>
 
 				<div type="textpart" subtype="section" n="6">
-					<p>6. Auc. dixit: Ego non nego illuminare Spiritum <lb/> sanctum: sed utrum et
+					<p>6. Aug. dixit: Ego non nego illuminare Spiritum <lb/> sanctum: sed utrum et
 						Christus illuminet per se ipsum, <lb/> et Pater illuminet per se ipsum, an
-						non illuminent isii <lb/> nisi per Spiritum sanctum : hoc rcquisivi
+						non illuminent isii <lb/> nisi per Spiritum sanctum : hoc requisivi
 						breviter, <lb/> hoc requiro.</p>
-					<p>MAX. respondit: Credo non latere Religioncm tuam, <lb/> beatum dixisse
-						apostolum Paulum, <hi rend="italic">Cum autem beni­</hi>
-						<lb/> gnitas <hi rend="italic">et humanitas apparuit Salvatoris nostri
+					<p>MAX. respondit: Credo non latere Religionem tuam, <lb/> beatum dixisse
+						apostolum Paulum, <hi rend="italic">Cum autem beni</hi>
+						<lb/>gnitas <hi rend="italic">et humanitas apparuit Salvatoris nostri
 							Dei,</hi> non <lb/>
 						<hi rend="italic">ex operibus justitias quae fecimus nos, sed secundum<lb/>
 							suam misericordiam salvos nos fecit, per lavacrum re<lb/>generationis et
 							renovationis Spiritus</hi> sancti, <hi rend="italic">quem</hi> effudit
-						<lb/> in <hi rend="italic">noa abunde, per Jesum Christum Salvatorem nostrum
+						<lb/> in <hi rend="italic">nos abunde, per Jesum Christum Salvatorem nostrum
 							<lb/> (Tit.</hi> III, 4-6). Secundum hanc regulam dico Spiritum <lb/>
 						sanctum et profiteor illuminatorem per Filium : ut <lb/> ante dictum est,
-							<hi rend="italic">Quem effudit in noa abunde, per Je­</hi>
-						<lb/> sum <hi rend="italic">Christum Salvatorem nostrum.</hi> Jam dedi
+							<hi rend="italic">Quem effudit in nos abunde, per Je</hi>
+						<lb/>sum <hi rend="italic">Christum Salvatorem nostrum.</hi> Jam dedi
 						respon<lb/>sum : quoniam sive Paulus illuminat, ad auctorem <lb/> Deum
 						Patrem recurrit haec illuminatio; sive Spiritus <lb/> sanctus illuminat,ad
 						auctorem recurrit illuminatio : sive <lb/> Christus illuminat, ad auctorem
@@ -324,14 +325,14 @@
 						sicut ait ipse <lb/> Christus : <hi rend="italic">Oves meae vocem meam</hi>
 						audiunt, <hi rend="italic">et sequun<lb/>tur me; et ego vitam aeternam do
 							eis, et non peribunt in<lb/> aeternum, et non rapiet eas quisquam de
-							manu mea.</hi> Pa­ <lb/>
+							manu mea.</hi> Pa<lb/>
 						<hi rend="italic">ter meus quod dedit</hi> mihi, <hi rend="italic">majus
 							omnibus est, et nemo <lb/> potest rapere illud de manu Patris mei.</hi>
 						Et iterum sic <lb/> ait : <hi rend="italic">Ego et Pater</hi> unum <hi
 							rend="italic">sumus (Joan.</hi> x, 27-30). Ergo <lb/> ad defendendas
 						oves, ad illuminandas, Pateret Filius <lb/> unum sunt, concordes atque
 						unanimes secundum <lb/> hanc rationem quam audisti, Quoniam nemo potest
-						<lb/> rapere de manu mea oves quas mihi dedit Pater : Iii<lb/>miH modo nec
+						<lb/> rapere de manu mea oves quas mihi dedit Pater : si<lb/>mili modo nec
 						de manu Patris.</p>
 				</div>
 
@@ -340,23 +341,23 @@
 						interrogationem meam non respon<lb/>disti,et tamen multa dixisti. Si velis,
 						relicta quaestione <lb/> quae inter nos vertitur, reddere totum
 						Evangelium,qui <lb/> dies sufficiunt, quantum temporis spatium
-						necessa<lb/>rium est? Brevitcr mihi dic, quoniam interrogavi te, <lb/> utrum
+						necessa<lb/>rium est? Breviter mihi dic, quoniam interrogavi te, <lb/> utrum
 						illuminet per seipsum Christus, an non illumi<lb/>net nisi per Spiritum
 						sanctum. Non solum ad hoc re<lb/>spondere noluisti, sed si ine non
 						fallitquod audivi, ma<lb/>gis Spiritum sanctum per Christum inluminare
 						dixisti.</p>
-					<p>MAX. respondit : Nun decet in rcligione, praeterea <lb/> cum de Den loquamur,
+					<p>MAX. respondit : Nun decet in religione, praeterea <lb/> cum de Deo loquamur,
 						calumniam iuferre. Ego et re<lb/>sponsum dedi, et si non sufficiunt quae
-						diximus, ad­ <lb/> dimus testimonia, quia per Jesum Christum Spiritus <lb/>
+						diximus, ad<lb/>dimus testimonia, quia per Jesum Christum Spiritus <lb/>
 						<pb n="713"/> sanctus effusus est in omnes credentes. Sic enim legi<lb/>mus
-						bcatum Petrum dixisse : <hi rend="italic">Hunc</hi> Jesum <hi rend="italic"
-							>suscitavit <lb/> Deus, cujus noa omnes</hi> testes sumus. <hi
+						beatum Petrum dixisse : <hi rend="italic">Hunc</hi> Jesum <hi rend="italic"
+							>suscitavit <lb/> Deus, cujus nos omnes</hi> testes sumus. <hi
 							rend="italic">Dextera itaque Dei</hi>
 						<lb/> exaltatus, <hi rend="italic">et promissione Spiritus</hi> sancti <hi
 							rend="italic">accepta a</hi> Pa­ <lb/>
 						<hi rend="italic">tre, effudit hoc donum quod nunc</hi> vos <hi
-							rend="italic">et videtis el audi<lb/>tis (Act.</hi> II, 32, 33). Dixi
-						euim quod omnia quaecum<lb/>que suggerit nobis Spiritus sanctus, a Christo
+							rend="italic">et videtis et audi<lb/>tis (Act.</hi> II, 32, 33). Dixi
+						enim quod omnia quaecum<lb/>que suggerit nobis Spiritus sanctus, a Christo
 						conse<lb/>cutus sit. Recurre ad testimonia ante lata, et invenies <lb/>
 						Iia.</p>
 				</div>
@@ -364,7 +365,7 @@
 				<div type="textpart" subtype="section" n="8">
 					<p>8. AUG. dixit : Cum vis conari probare quod ipse <lb/> non nego, in rebus
 						superfluis necessarium tempus <lb/> absumis. Ego non nego per Christum
-						diffusum fuisse <lb/> super credentesSpiritum sanctum. Sine causa hoc per
+						diffusum fuisse <lb/> super credentes Spiritum sanctum. Sine causa hoc per
 						<lb/> tantas moras testimoniis probare voluisti, quod ipse <lb/> confiteor.
 						Ego hoc dixi, hoc quaesivi, hoc ilerum dico: <lb/> utrum Christus per
 						Spiritum sanctum illuminet, an <lb/> Spiritus sanctus per Christum
@@ -374,18 +375,18 @@
 						quaero.</p>
 					<p>MAX. respondit : Probatio erat necessaria, si non <lb/> ipse temetipsum
 						placasses. Jam enim prosecutus es in <lb/> testimoniis quae protuli, vel in
-						ratione quam dedi, <lb/> qnod et ipse sic habeas. Cum finita sit ergo ista
+						ratione quam dedi, <lb/> quod et ipse sic habeas. Cum finita sit ergo ista
 						<lb/> quaestio, propone aliam ad quam tibi respondeam. <lb/> Nam professus
 						es jam in quaestione ista satisfactum tibi <lb/> fuisse.</p>
 				</div>
 
 				<div type="textpart" subtype="section" n="9">
-					<p>9. Auc. dixit: Dixisti Spiritum sanctum per Chri <lb/>stum illuminare, an non
+					<p>9. Aug. dixit: Dixisti Spiritum sanctum per Chri<lb/>stum illuminare, an non
 						dixisti? Rogo te ut unum de <lb/> duobus breviter mihi respondere digneris.
 						Dixisti, an <lb/> non dixisti?</p>
 					<p>MAX. respondit: Ego Spiritum sanctum professus <lb/> sum secundum Salvatoris
 						magisterium, quia sive illu<lb/>minat, a Christo accepit; sive docet, a
-						Christo acce­ <lb/> pit; omnia quaecumque gerit Spiritus sanctus, ab
+						Christo acce<lb/>pit; omnia quaecumque gerit Spiritus sanctus, ab
 						uni<lb/>genito Deo consecutus est: et si parva sunt testimonia, <lb/>
 						addo.</p>
 				</div>
@@ -399,20 +400,20 @@
 							nostrum.</hi> Cumque recitat im est:</p>
 					<p>MAX. respondit: Ut videtur, ipse potius dilationi studes, ut non ad
 						principalem causam recurramus, sed per totum diem vis argumentis nos in usia
-						deti. nere quaestione. Nos enim recitamus, quod per Filium Spiritus sanctus
-						sit cfTusus, et non tantum beatum Paulum testem produximus, verum etiam et
+						detinere quaestione. Nos enim recitamus, quod per Filium Spiritus sanctus
+						sit effusus, et non tantum beatum Paulum testem produximus, verum etiam et
 						Petrum priorem Apostolorum. Habet enim prosecutio nostra, quod Spiritus
-						sanctus a Christo accepit, se cundum praecedens icstimonium : <hi
+						sanctus a Christo accepit, se cundum praecedens testimonium : <hi
 							rend="italic">Ille me clarificabit, quia de meo accipiet et annuntiabit
 							vobis</hi> Idem itidem compulsus iterum dico, quia sive illuminat
 						Spiritus sancius, sive docet, sive instruit, omnia a Christo consecutus est
-						: quia per Christum <hi rend="italic">facta sunt omnia, et iine illo</hi>
+						: quia per Christum <hi rend="italic">facta sunt omnia, et sine illo</hi>
 						factum <hi rend="italic">est nihil (Joan.</hi> I, 3). Chritus dicit quia a
 						genitore suo omnia haec consecutus est, et vivit propter Patrem, et omnis
 						lingua confitetur qnia Dominus Jesus Christus in gloria est Dei Patris <hi
 							rend="italic">(Philipp.</hi> II, 11). Et quia ' <hi rend="italic">omnis
 							viri caput Christus est ; caput au</hi> tem <hi rend="italic">mulieris,
-							vir; caput autem Christi, Deus</hi> (I <hi rend="italic">Cor.</hi>
+							viri caput autem Christi, Deus</hi> (I <hi rend="italic">Cor.</hi>
 						<unclear>XI</unclear>, 3). Et quia Filio Spiritus sanctus est subjectus : et
 						quia Filius Patri est subjectus, ut charissimus, tit obodiens, ut bonus a
 						bono genitus. Nec enim Pater contrarium sibi genuit: sed talem genuit, qui
@@ -421,12 +422,12 @@
 				</div>
 
 				<div type="textpart" subtype="section" n="11">
-					<p>ALG. dixit: Si ct Christus illuminat per Spiri<lb/>tum sanctum, et Spiritus
-						sanctus illuminat pcr Chri<lb/>stum, par potestas est. Lege autem tu mihi
+					<p>AUG. dixit: Si et Christus illuminat per Spiri<lb/>tum sanctum, et Spiritus
+						sanctus illuminat per Chri<lb/>stum, par potestas est. Lege autem tu mihi
 						subjectum <lb/> Christo Spiritum sanctum, quod paulo ante dixisii. <lb/>
-						Quod autem dicis Dominum dixissc de Spiritu sancio, <lb/>
-						<hi rend="italic">De</hi> meo <hi rend="italic">accipict;</hi> ideo diclum
-						est, quia de Patre acre<lb/>pit, et omnia quae sunt Patris, sine dnbioct
+						Quod autem dicis Dominum dixisse de Spiritu sancio, <lb/>
+						<hi rend="italic">De</hi> meo <hi rend="italic">accipict;</hi> ideo dictum
+						est, quia de Patre acce<lb/>pit, et omnia quae sunt Patris, sine dubio
 						Filii sunt. <lb/> Nam ipse cnm hoc dixisset, adjecit, <hi rend="italic"
 							>Ideo</hi> dixi, <hi rend="italic">De meo <lb/> accipiet; quia omnia
 							quae habet Pater,</hi> mea <hi rend="italic">sunt (1 d.</hi>
@@ -442,7 +443,7 @@
 						Verbum caro factum <lb/> est. Ubi enim scriptum est, <hi rend="italic"
 							>Verbum caro factum eat<lb/> (Joan.</hi> I, 14); nihil aliud est quam,
 						Verbum homo fa<lb/>ctum est. Quia, <hi rend="italic">ridebit omnis caro
-							aalntare Dei (Isai.</hi>
+							salutare Dei (Isai.</hi>
 						<lb/> XL, 5); nihil est aliud quam, Omnis homo. Et, <hi rend="italic">In
 							lege<lb/> non justificabitur omnis caro (Rom.</hi> III, 20); nihil est
 						<lb/> aliud quam, Omnis homo. Propter quod ergo <hi rend="italic">Verbum
@@ -458,13 +459,13 @@
 						<lb/> Dominus <hi rend="italic">Deus</hi> tuus, <hi rend="italic">Dominus
 							unus est (Deut.</hi> vi, <hi rend="italic">4).</hi>
 						<lb/> Quid nobis vultis facere duos deos et duos dominos. <lb/> Dicitis
-						Dominum Patrem et Deum Patrem, dicitis DII. <lb/> minum Christum et Deum
-						Christum : interrogo, uirum <lb/> ambo simu! unus sit. Respondetis, Duo dii.
+						Dominum Patrem et Deum Patrem, dicitis Do<lb/>minum Christum et Deum
+						Christum : interrogo, virum <lb/> ambo simul unus sit. Respondetis, Duo dii.
 						Superest <lb/> ut cis et templa et idola faciatis.</p>
 					<p>MAX. respondit : Religionis auctores nunqumn in ca<lb/>lumniam vertuntur.
 						Interrogasti testimonia, tit ea quae <lb/> prefessus sum testimoniis
-						docerem: et ipse pares <unclear>at­</unclear>
-						<lb/> que aequales profiteris tres, Patrem et Filium et Spiri<lb/>tum
+						docerem: et ipse pares <unclear>at</unclear>
+						<lb/>que aequales profiteris tres, Patrem et Filium et Spiri<lb/>tum
 						sancium. Et praeterea cum tres aequales professus <note type="footnote"> 1
 								<hi rend="italic">Mss.: Quid est et quii,</hi> etc. </note><note
 							type="footnote"> I In editis additur, <hi rend="italic">misit me.</hi>
@@ -475,7 +476,7 @@
 						</note>
 						<note type="footnote"> PATKOL. XLII, ' </note>
 						<note type="footnote">
-							<hi rend="italic">(Fingt-troii.)</hi>
+							<hi rend="italic">(Vingt-trois.)</hi>
 						</note>
 						<lb/>
 						<pb n="715"/> sis iterum conversu! protulisti quidem testimonium <lb/>
@@ -485,10 +486,10 @@
 						prius testimo<lb/>niis, quod tres sint aequales, tres omnipotentes, tres
 						<lb/> innati, tres invisibiles, tres incapabiles: et tunc de<lb/>mum necesse
 						est testimoniis ut acquiescamus. Si quo <lb/> minus reddere rationem de
-						divinis Scripturis non va<lb/>lucris, necesse me est, ut ad omnia qux in
+						divinis Scripturis non va<lb/>lucris, necesse me est, ut ad omnia quae in
 						praecedenti <lb/> dixi : sive cnim Patrem solum qui quod vivit a ne<lb/>mine
-						accipiens, sive Filium I, quod sum professus, <lb/> quia quod vivit a Patre
-						accepit, sive de Spiritu <lb/> sancto quae dixi : etiam quanta dcsideras
+						accipiens, sive Filium 1, quod sum professus, <lb/> quia quod vivit a Patre
+						accepit, sive de Spiritu <lb/> sancto quae dixi : etiam quanta desideras
 						testimonia <lb/> proferam.</p>
 				</div>
 
@@ -497,26 +498,26 @@
 						testimonio probares subjectum <lb/> Christo Spiritum sanctum : respondeo
 						tamen ad ea <lb/> quae proposuisti. Sic non dicimus tres omnipotentes, <lb/>
 						quomodo non dicimus tres deos. Si enim de singulis <lb/> interrogemur, utrum
-						Deus sit Pater; respondemus, <lb/> Deus: utruni Deus sit Filius;
+						Deus sit Pater; respondemus, <lb/> Deus: utrum Deus sit Filius;
 						respondemus, Deus: <lb/> utrum Deus sit Spiritus sanctus; respondemus, Deus.
-						<lb/> Gum autem de omnibus interrogati fuerimus, utrum <lb/> tres sint;
+						<lb/> Cum autem de omnibus interrogati fuerimus, utrum <lb/> tres sint;
 						referimus nos ad divinam Scripturam dicen<lb/>tem, <hi rend="italic">Audi,
 							Israel ;</hi> Dominu, <hi rend="italic">Deus tuus, Dominus unus</hi>
-						<lb/> eat. Et in I hac divina praescriptionc condiscimus, <lb/> eamdem ipsam
+						<lb/> eat. Et in 2 hac divina praescriptionc condiscimus, <lb/> eamdem ipsam
 						Trinitatem unum esse Deum. Sic et <lb/> de singulis si quaeratur, utrum
 						Pater omnipotens sii; <lb/> respondemus, Omnipotens : si Filius; hoc idem
 						re<lb/>. spondemus: si Spiritus sanctus ; nec ipsum negamus <lb/>
 						omnipotentem. Nec tamen dicimus tres omnipotentes, <lb/> quomodo non dicimus
 						tres deos: sed sicut simu! illi <lb/> tres unus Deus, sic simul illi tres
 						unus omnipotens <lb/> est, et invisibilis unus Deus Pater et Filius et
-						Spiritus <lb/> sanctus est. Sine causa ergo putas nos numero coar<lb/>fUri,
+						Spiritus <lb/> sanctus est. Sine causa ergo putas nos numero coar<lb/>ctari,
 						cum divinitatis potentia etiam rationem numeri <lb/> excedat. Si enim animae
 						multorum hominum accepto <lb/> Spiritu sancto et quodam modo conflatae igne
 						chari<lb/>tatis unam animam fecerunt, de qua dicit apostolus, <lb/>
 						<hi rend="italic">Erat</hi> enim <hi rend="italic">eia anima el cor unum
-							(Acl.</hi> IV, 32): lot <lb/> cerda, tot millia cordium, unum cor fecit
+							(Acl.</hi> IV, 32): tot <lb/> corda, tot millia cordium, unum cor fecit
 						charitas <lb/> Spiritus sancti; tot millia animarum unam animam <lb/> dixit
-						Spiritus sanctus, quam ipse unam ammam fecit : <lb/> quaulo magis nos unum
+						Spiritus sanctus, quam ipse unam animam fecit : <lb/> quaulo magis nos unum
 						Deum dicimus, semper sibi <lb/> invicem et inseparabiliter et ineffabili
 						charitate cohae<lb/>rentes Patrem et Filium et Spiritum sanctum ?</p>
 					<p>MAX. respondit: Ac per huc pares atque aequales <lb/> dixisti, quod quidem
@@ -527,8 +528,7 @@
 						omnium credentium erat cor et <lb/> anima una, quare antem non Pater et
 						Filius et Spi<lb/>ritus sanctus in consensa, in convenicntia, in clia­ <lb/>
 						ritate, in unanimitate, unum esse dicantur? Quid <note type="footnote"> I In
-							Mss., siic <hi rend="italic">rilillS,</hi>. </note><note type="footnote"
-							> t \ eleres libri, <hi rend="italic">et ex.</hi>
+							Mss., siic <hi rend="italic">rilillS,</hi>. </note><note type="footnote"> 2 Veteres libr, <hi rend="italic">et ex.</hi>
 						</note>
 						<lb/> enin fecit Filius, quod non placuit Patri? Quid prae<lb/>cepit Pater,
 						in quibus non obtemperavit Filius? <lb/> Quando enim Spiritus sanctus
@@ -543,25 +543,25 @@
 						concupiscant in <lb/> eum prospicere (1 <hi rend="italic">Petr.</hi> I, 12).
 						Tantus est iste Spi<lb/>ritus sanctus, ut sufficiat ubique omnium
 						postulatio<lb/>nes suscipere, et advocatione fungi I. Et in hoc te<lb/>stem
-						profero beatum Paulum, qui ait, <hi rend="italic">Nam quid ore­</hi>
-						<lb/> mus, <hi rend="italic">sicut oportet,</hi> nescimus; <hi rend="italic"
+						profero beatum Paulum, qui ait, <hi rend="italic">Nam quid ore</hi>
+						<lb/>mus, <hi rend="italic">sicut oportet,</hi> nescimus; <hi rend="italic"
 							>sed ipse Spiritus</hi> postulat <lb/>
 						<hi rend="italic">pro nobis gemttibus inenarrabilibus (Rom.</hi> VIII, 26).
 						<lb/> Quod lego credo, quia <hi rend="italic">gemitibus inenarrabilibus
 							postu<lb/>iut Spiritus sanctus.</hi> Et ideo isto eruditus magisterio
 						<lb/> in tantum dico subjectum esse Spiritum sanctum, ut <lb/> gemitibus
-						postulet pro nobis. Unum aulcm profiteor <lb/> Deum , non ut tres unus sit ;
+						postulet pro nobis. Unum autem profiteor <lb/> Deum , non ut tres unus sit ;
 						sed unus Deus est, in. <lb/> comparabilis, immensus, infinitus, innatus,
 						invisihi<lb/>lis, quem et Filius ipse et oravit et orat, apud quem <lb/> et
 						Spiritus sanctus advocatione fungitur. Nam quia <lb/> orat Filius Patrem ;
-						quamvis enim soleatis omnia illa <lb/> testimonia quae in sanclo legimus
+						quamvis enim soleatis omnia illa <lb/> testimonia quae in sancto legimus
 						Evangelio, corpori <lb/> applicare; attamen nostrum est perscrutatis divinis
 						<lb/> Scripturis ostendere, quia et nunc sedens ad dexte<lb/>ram Patris
 						interpellat pro nobis. Ea enim de causa <lb/> dixi, et oravit et orat; quia
 						nunc utique interpellat <lb/> pro nobis , sicut ait Apostulus : Quis <hi
-							rend="italic">accusabit adver­</hi>
-						<lb/> sus <hi rend="italic">electos Dei ? Deus qui</hi> justificat ? <hi
-							rend="italic">Quis est qui con­<lb/> demnet ? Christus qui mortuus
+							rend="italic">accusabit adver</hi>
+						<lb/>sus <hi rend="italic">electos Dei ? Deus qui</hi> justificat ? <hi
+							rend="italic">Quis est qui con<lb/>demnet ? Christus qui mortuus
 							eat,</hi> imo <hi rend="italic">magis qui et re<lb/>surrexit, qui et est
 							in dextera Dei, qui et interpellat</hi> pro <lb/>
 						<hi rend="italic">nobis (Ibid.,</hi> 33, 34) ? aeque cum discipulis positus
@@ -569,14 +569,14 @@
 							dili­</hi>
 						<lb/> gitis <hi rend="italic">me, mandata mea servate; et ego rogabo Patrem
 							, <lb/> et alium advocatum dubit vobis, ut vobiscum sit</hi> in <hi
-							rend="italic">aeter­</hi>
-						<lb/> num, <hi rend="italic">Spiritum veritatis, quem hic</hi> mundus <hi
-							rend="italic">accipere non <lb/> potest, quoniam non videt eum, nee
+							rend="italic">aeter</hi>
+						<lb/>num, <hi rend="italic">Spiritum veritatis, quem hic</hi> mundus <hi
+							rend="italic">accipere non <lb/> potest, quoniam non videt eum, nec
 							novit eum : vos</hi> Cu­ <lb/>
 						<hi rend="italic">tem vidistis eum, et cognoscitis</hi> I <hi rend="italic"
 							>eum , quia</hi> apud vos <lb/>
 						<hi rend="italic">manet, et in vobis eat (Joan.</hi> XIV, 15-17). Si
-						sufficiunt <lb/> haec, bene est: si quominus 3, addam quanta jubcs <lb/>
+						sufficiunt <lb/> haec, bene est: si quominus 3, addam quanta jubes <lb/>
 						testimonia.</p>
 				</div>
 
@@ -585,69 +585,69 @@
 						enim faciendo, nihil aliud, sic. <lb/> ut superius dixi, quam necessarium
 						tempus absumis. <lb/> Scimus Filium Dei Filium esse Dei : scimus a se ipso
 						<lb/> non esse, sed genitum esse a Patre. Patrem vero <lb/> ipsum ingenitum
-						esse, a nullo esse, a nullo vitam ac­ <lb/> cepisse : Filium vero a Patre
+						esse, a nullo esse, a nullo vitam ac<lb/>cepisse : Filium vero a Patre
 						accepisse vitam, sed <lb/> non ita tanquam fuerit aliquando sine vita, ut
-						acci<lb/>peret Vitam. Dcdit enim ci vitam , gignendo vitam : <note
+						acci<lb/>peret Vitam. Dedit enim et vitam , gignendo vitam : <note
 							type="footnote"> ' In Mss., <hi rend="italic">et advocationem
 								fungere.</hi> Itemque infra, <hi rend="italic">et</hi> spi<lb/>ritus
-								<hi rend="italic">sanctus advocationem fuiujit.</hi>
-						</note><note type="footnote"> * Sola editio !.ov., <hi rend="italic"
-								>cognosretts.</hi>
-						</note><note type="footnote"> a Ani. Er. et Mss.: tt' <hi rend="italic"
-								>sufficiunt ? si quo</hi> non ; oniissis h(rc, <lb/>
-							<hi rend="italic">belle</hi> ebt. </note>
+							<hi rend="italic">sanctus advocationem fungi.</hi>
+						</note><note type="footnote"> 2 Sola editio Lov., <hi rend="italic"
+							>cognoscetis.</hi>
+						</note><note type="footnote"> 3 Am. Er. et Mss.: si <hi rend="italic"
+								>sufficiunt ? si quo</hi> non ; omissis haec, <lb/>
+							<hi rend="italic">bene</hi> est. </note>
 						<lb/>
-						<pb n="717"/> gagaendo cum v tam, dedit ei vitam. aequalitatem au<lb/>tem
-						ostendit dicendo : <hi rend="italic">Sicul habet Pater vilam</hi> in se­ <lb/>
-						<hi rend="italic">metipso, sic deait et Filio</hi> vitam <hi rend="italic"
-							>habere in</hi> semetip <hi rend="italic">so (Joan.</hi>
-						<lb/> v, 26). Vitam in semetipso habet Patcr; aequalem <lb/> ,'iae Patris
+						<pb n="717"/> gignendo cum vitam, dedit ei vitam. Aequalitatem au<lb/>tem
+						ostendit dicendo : <hi rend="italic">Sicut habet Pater vitam</hi> in se<lb/>
+						<hi rend="italic">metipso, sic dedit et Filio</hi> vitam <hi rend="italic"
+							>habere in</hi> semetip<hi rend="italic">so (Joan.</hi>
+						<lb/> v, 26). Vitam in semetipso habet Pater; aequalem <lb/> vitae Patris
 						vitam in se habet Filius : sed tamen Fi<lb/>lius a se ipso vitam non
 						accepit, quia non a se ipso <lb/> natus est, a Patre natus est. Gignendo
-						dedit, non <lb/> quia jam ernt Filius sine vita, et dedit ei vitam,
+						dedit, non <lb/> quia jam erat Filius sine vita, et dedit ei vitam,
 						quo<lb/>modo nos peccatores facti sumus sine vita. et per in<lb/>dulgentiam
 						et gratiam accepimus vitam : ille vitam <lb/> accepit a Patre, quia vita
-						natus est a Patre. Ac per <lb/> troc tu non potuisti dicere subjectum esse
+						natus est a Patre. Ac per <lb/> hoc tu non potuisti dicere subjectum esse
 						Filio Spi<lb/>ritum sanctum, nisi quia gemitibus interpellat pro <lb/>
-						nobis. Vidclur euim tibi illa perfectio sanctitatis in <lb/> gemitibus
-						semper esse, nec respirare a gemendo. 0 <lb/> aeterna miseria! Intellige
+						nobis. Videtur enim tibi illa perfectio sanctitatis in <lb/> gemitibus
+						semper esse, nec respirare a gemendo. O<lb/> aeterna miseria! Intellige
 						locutionem, et blasphemiam <lb/> devitabis. Sic enim dictum est, <hi
 							rend="italic">Gemitibus interpellat ;</hi>
 						<lb/> ut intelligeremus, Gemitibus interpellare nos facit. <lb/> Adest enim
-						nobis, ct infundendo charitatem nobis, <lb/> facit nos interpellare
+						nobis, et infundendo charitatem nobis, <lb/> facit nos interpellare
 						gemitibus. Denique alio loco <lb/> cum dicit Apostolus, <hi rend="italic"
 							>Clamantem, Abba, Pater (Galat.</hi>
 						<lb/> IV. 6); alio loco dicit, <hi rend="italic">In</hi> quo <hi
-							rend="italic">clamamus, Abba,</hi> Pa­ <lb/>
+							rend="italic">clamamus, Abba,</hi> Pa<lb/>
 						<hi rend="italic">ter (Rom.</hi> VIII, f5): exposuit quid sit, <hi
 							rend="italic">Clamantem,<lb/> Abba, Pater;</hi> dicendo, <hi
-							rend="italic">In qno clamamus.</hi> Ac per hoc <lb/> quid est, <hi
+							rend="italic">In quo clamamus.</hi> Ac per hoc <lb/> quid est, <hi
 							rend="italic">Clamantem,</hi> nisi, clamare facientem ? Do <lb/>
 						exemptum locutionis hujus. Nonne Deus est omnium <lb/> praescius futurorum ?
 						Quis hoc negabit insanus ? Ta<lb/>men ait Apostolus , <hi rend="italic">Nunc
 							autem cognoscentes Deum</hi> , <lb/> uno <hi rend="italic">cogniti a Deo
 							(Galat.</hi> IV, 9). Si nunc eos cognovit <lb/> Deus, non eos noverat ,
-						non elegerat, non praedest!­ <lb/> i avcrat ante mundi constitutionem. Sed
+						non elegerat, non praedesti<lb/>naverat ante mundi constitutionem. Sed
 						sic dixit, <lb/>
-						<hi rend="italic">Nunc autem cognoscentes Deum, imo cognili a Deo;</hi> ut
+						<hi rend="italic">Nunc autem cognoscentes Deum, imo cogniti a Deo;</hi> ut
 						<lb/> intelligerent Deum fecisse in eis cognitionem suam. <lb/>
 						<hi rend="italic">Cognoscentes Deum.</hi> Quid est, Cognoscentes Deum ?
 						<lb/> Nolite vobis arrogare, nolite superbire : <hi rend="italic">Cogniti
 							estis<lb/> a Deo.</hi> Quid est, <hi rend="italic">cogniti estis</hi> a
 							<hi rend="italic">Deo</hi> ? Cognitores suos <lb/> Deus vos fecit : Deus
-						vobis dedit ut cognoscatis. Quo<lb/>modo cst et illud Domini : <hi
+						vobis dedit ut cognoscatis. Quo<lb/>modo est et illud Domini : <hi
 							rend="italic">Nunc cognovi,</hi> dicit Abrahae <lb/> hominus, <hi
 							rend="italic">Nunc cognovi quoniam timeas Dominum <lb/> (Gen.</hi> XXII
 						, 12) Quando attulit filium suum ad holo<lb/>caustum Abraham, dicit ei Deus,
-							<hi rend="italic">Nunc cognovi.</hi> Ipsa <lb/> cal tota Dci
+							<hi rend="italic">Nunc cognovi.</hi> Ipsa <lb/> cal tota Dei
 						praescientia ? tunc cognovit, quando dixit, <lb/>
 						<hi rend="italic">Nunc</hi> cognovi ? Sed quid est, <hi rend="italic">Nunc
 							cognovi ?</hi> id est, <lb/> Nunc cognoscere te feci. Si ergo has
 						locutiones sicut <lb/> Libris divinis eruditus agnosceres, de gemitibus
-						illis <lb/> quibus dictum est gemitibus interpellare Spiritum san<lb/>etum,
+						illis <lb/> quibus dictum est gemitibus interpellare Spiritum san<lb/>ctum,
 						non eum faceres miseram. Quid enim est aliud, <lb/> semper gemens, quam
 						semper miser? Ideo nos ge<lb/>mimus, quia miscri sumus. Et gratias Spiritui
-						sancio, <lb/> quia charitate aeterni saeculi facit nos gemere, pro­ <lb/>
+						sancio, <lb/> quia charitate aeterni saeculi facit nos gemere, pro<lb/>
 						pter quod dictus est gemens. Facit nos clamare pro<lb/>pter quod dictus est
 						clamans. Facit nos cognoscere <lb/> Deum, propter quod dictum est, <hi
 							rend="italic">Imo cogniti a Deo.</hi>
@@ -656,24 +656,24 @@
 					</p>
 					<p>MAX. respondit : In quibus nos reprehendis, in <lb/> ipsis ipse detegoris.
 						Ortum est enim , et divina nos <lb/> monet Scriptura, quod ex multiloquio
-						non effugies <lb/> peccatum ; parcens autem labiis, sapiens cris (Prov.
-						<lb/> x, 19). Quamvis t'I hun etsi per totum dicm quisque <lb/> de divinis
-						Scripturis proferat testimonia, nou in vcr­ <lb/> bonitate illi imputabitur
+						non effugies <lb/> peccatum ; parcens autem labiis, sapiens eris (Prov.
+						<lb/> x, 19). Quamvis  etiam etsi per totum diem quisque <lb/> de divinis
+						Scripturis proferat testimonia, nos in ver<lb/> bositate illi imputabitur
 						revera 1 : quod si aut littera<lb/>ria arte usus , aut expressione I
 						spiritus sui quisquo <lb/> concinnet verba quae non continent sanctae
-						Scripturae : <lb/> et otiosa sunt et superflua. Sufficit mihi, qni ad istam
+						Scripturae : <lb/> et otiosa sunt et superflua. Sufficit mihi, qui ad istam
 						<lb/> regulam te adduxi , ut profitearis quod Pater Pater <lb/> . est, quia
 						innatis est, quia a nemine accepit vitam; et <lb/> quia Filius a Patre
-						consecutus est vitam; et qnia <lb/> Spiritus sanctus Spiritus sanctus est.
+						consecutus est vitam; et quia <lb/> Spiritus sanctus Spiritus sanctus est.
 						Dicendo autem <lb/> unum Deum, bene quidem faceres, si confitendo <lb/> unum
 						Deum, non Patrem et Filium et Spiritum san<lb/>etum unum diceres Deum,
 						contra tuam sententiam <lb/> veniens. A nobis unus colitur Deus, innatus,
-						infe<lb/>ctus, invisibilis, qui ad humana contagia et ad hn<lb/>manam carnem
+						infe<lb/>ctus, invisibilis, qui ad humana contagia et ad hu<lb/>manam carnem
 						non descendit. Est autem et Fi<lb/>lius secundum Apostolum , non pusillus,
 						sed magnus <lb/> Deus : sicut ait beatus Paulus, <hi rend="italic"
 							>Exspectantes beatam<lb/> spem et adventum gloriae magni Dei et
-							Salvatoris</hi> no­ <lb/>
-						<hi rend="italic">siri Jesu Christi (Tit.</hi> II , 13). Iste enitn magnus
+							Salvatoris</hi> no<lb/>
+						<hi rend="italic">stri Jesu Christi (Tit.</hi> II , 13). Iste enim magnus
 						Deus <lb/> Christus dicit, quod <hi rend="italic">ascendo ad Patrem meum
 							et</hi> Pa<lb/>trem <hi rend="italic">vestrum, Deum meum et Deum vestrum
 							(Joan.</hi>
@@ -682,17 +682,17 @@
 						Spiritus sanctus <lb/> adorant, et omnis creatura veneratur et colit : hac
 						<lb/> ratione unum profitemur. Non tamen quod copu<lb/>latio vel permistio
 						Filii cum Patre, aut vel <unclear>cerre</unclear>
-						<lb/> Spiritus sancti cum Filio vel cem Patre , faciat <lb/> unum Deum. Sed
-						quia ille solus unus perfectus est <lb/> Deus. qui, ut ipse prosecutus eS,
-						vitam a nemine aC­ <lb/> cepit, qui Filio dcdil SilO exemplo habere vitam in
-						<lb/> semetipso ; copulatos quidem dicimns in charitate ct <lb/> in
-						concordia. Jam ut supcrius reddidimus rationem , <lb/> alterum esse Patrem,
-						et non ipsum Filium, ipsc nos <lb/> instruit Salvator, dicendo : <hi
+						<lb/> Spiritus sancti cum Filio vel cum Patre, faciat <lb/> unum Deum. Sed
+						quia ille solus unus perfectus est <lb/> Deus. qui, ut ipse prosecutus est,
+						vitam a nomine ac<lb/>cepit, qui Filio dedit suo exemplo habere vitam in
+						<lb/> semetipso ; copulatos quidem dicimus in charitate et <lb/> in
+						concordia. Jam ut superius reddidimus rationem , <lb/> alterum esse Patrem,
+						et non ipsum Filium, ipse nos <lb/> instruit Salvator, dicendo : <hi
 							rend="italic">Si ego testimonium dico de</hi>
 						<lb/> me, <hi rend="italic">testimonium meum non</hi> est <hi rend="italic"
-							>verum; alius est qui te<lb/>stificatur de me.</hi> Et nc praesumptorio
+							>verum; alius est qui te<lb/>stificatur de me.</hi> Et ne praesumptorio
 						spiritu quidam <lb/> putarent, quod aut de Joanne Baptista dixerit alium,
-						<lb/> aut forte de Petro apostolo vel Paulo ; ipse prosccu<lb/>tus est : Vos
+						<lb/> aut forte de Petro apostolo vel Paulo ; ipse prosecu<lb/>tus est : Vos
 							<hi rend="italic">misistis ad Joannem, et testimonium <lb/> reddidit
 							veritati. Ego autem testimonium ab</hi> homine <hi rend="italic">non
 							<lb/> accipio : sed haec dico, ut vos</hi> salvemini. <hi rend="italic"
@@ -703,7 +703,7 @@
 							quae dedit mihi Puter</hi> ut <lb/> perficiam <hi rend="italic">ea, ipsa
 							opera quae ego facio, testificantur de</hi>
 						<lb/> me, <hi rend="italic">quia Pater me misit. Et qui misit me Pater,</hi>
-						ipse <hi rend="italic">te-<lb/> stificatur de me (Id.</hi> v, 31 37). Quis
+						ipse <hi rend="italic">te<lb/>stificatur de me (Id.</hi> v, 31 37). Quis
 						tam stultus est , <lb/> ut non intelligat quoniam alius de alio testimonium
 						<lb/> perhibuit, Pater de Filio, qui utique et dicebat : <hi rend="italic"
 							>Hic <lb/> est Filius meus dilectus,</hi> in quo <hi rend="italic">bene
@@ -711,7 +711,7 @@
 						credo quod <lb/> Pater est qui diligit , et Filius qui diligitur.
 						Unigeni<lb/>tum audio Christum , ct non dubito quia unus al. <lb/> unu cst
 						genitus. Primogenitum Paulus clamat, di<lb/>cens : <hi rend="italic">Qui est
-							imago Dei invisibilis,</hi> primogenitus uni- <note type="footnote">1
+							imago Dei invisibilis,</hi> primogenitus uni<note type="footnote">1
 							Nonnulli Mss,, <hi rend="italic">res vera.</hi>
 						</note><note type="footnote"> I Ixtv , <hi rend="italic">expositione.</hi>
 						</note>
@@ -724,42 +724,42 @@
 							>coelis, et quae sunt in terra, <lb/> visibilia et</hi> invisibilia, <hi
 							rend="italic">sive Throni, sive Dominationes, <lb/> sive Principatus,
 							sive Potestates; omnia</hi> par <hi rend="italic">ipsum<lb/> facta</hi>
-						sunt, <hi rend="italic">et in ipso creata sunt; et ipse eat ante<lb/> omne.,
+						sunt, <hi rend="italic">et in ipso creata sunt; et ipse eat ante<lb/> omnes,
 							et omnia</hi> in <hi rend="italic">ipso constant (Coloss.</hi> I, 15-17)
 						: <lb/> et iste Filius Dei, Deus unigenitus, cum sit ante <lb/> omnes. Ipse
 						enim dicit : <hi rend="italic">Quod vidi apud Patrem</hi>
 						<lb/> meum, <hi rend="italic">loquor (Joan.</hi> VIII, 58). Iste Filius
 						etiam, quod <lb/> vos carni ascribitis , in sanctu ait Evangelio : Si <hi
-							rend="italic">di­ <lb/> tigeretis</hi> me, <hi rend="italic">gauderetis
-							utique, quoniam vado ad Pa­ <lb/> trem; quoniam Pater major me cat
+							rend="italic">di<lb/>tigeretis</hi> me, <hi rend="italic">gauderetis
+							utique, quoniam vado ad Pa<lb/>trem; quoniam Pater major me est
 							(Joan.</hi> xiv , 28). <lb/> Ista enim legentes credimus, et profitemur
 						secundum <lb/> Apostolum, quod ei omnia subjecta sint ut mangno <lb/> Deo (1
-						Cor. xv , 25). Iste cnim magnus Deus, quem <lb/> tadem genuit Pater, ut ipse
-						prosccutus es, utique <lb/> majorem Patrem confessus est, III statuat illum
-						unum <lb/> Oleum, in cujus et sinu describitur a Joanne evange<lb/>lisIa.
+						Cor. xv , 25). Iste enim magnus Deus, quem <lb/> tadem genuit Pater, ut ipse
+						prosecutus es, utique <lb/> majorem Patrem confessus est, ut statuat illum
+						unum <lb/> Deum, in cujus et sinu describitur a Joanne evange<lb/>lista.
 						Andi utique 1ipsum clamantem et dicentem de <lb/> invisibilitate
-						omnipotentis Dei, quod <hi rend="italic">Deum nemo</hi> vi­ <lb/>
+						omnipotentis Dei, quod <hi rend="italic">Deum nemo</hi> vi<lb/>
 						<hi rend="italic">dit unquam; unigenitus Filius qui est iti sinu Patris
 							<lb/> ipse narravit (Joan.</hi> I, 18). Hinc instructus Paulus <lb/>
-						clama!, et dicit: <hi rend="italic">Beatus et solus potens, Rex rcgum ct
-							<lb/> Dominus dominantium; qui solus</hi> labet <hi rend="italic"
+						clamat, et dicit: <hi rend="italic">Beatus et solus potens, Rex regum et
+							<lb/> Dominus dominantium; qui solus</hi> habet <hi rend="italic"
 							>immortalitatem, <lb/> et lucem habitat inaccessibilem; quem vidit
-							hominum <lb/> nemo, neque videre potest; cut honor et potestas in
-							sae­<lb/> cula. Amen</hi> (I <hi rend="italic">Tim.</hi> VI, 15, 16), De
+							hominum <lb/> nemo, neque videre potest; cui honor et potestas in
+							sae<lb/>cula. Amen</hi> (I <hi rend="italic">Tim.</hi> VI, 15, 16), De
 						hoc iterum dicit: <lb/>
 						<hi rend="italic">Soli sapienti Deo, per Jesum Christum, cui gloria in</hi>
 						<lb/> secula. <hi rend="italic">Amen (Rom.</hi> xvi, 27). Et ideo unus Deus
 						a <lb/> nohis pronuntiatur, quia unus est super omnia Deus <lb/> innatus ,
 						infectus, ut prosecuti sumus. Filium autem <lb/> natum si Paulo non credis
-						dicenti, primogenituin <lb/> universae creaturae: vel ipsi Filio crede
+						dicenti, primogenitum <lb/> universae creaturae: vel ipsi Filio crede
 						dicenti ad <lb/> Pilatum, cum ei diceret, <hi rend="italic">Ergo tu rex es
 							?</hi> Ait Chri<lb/>stus, <hi rend="italic">Ege in hoc natus</hi> sum
-						(Joan. XVIII , 57). Natum <lb/> lcgo, profiteor quod lego : primogenitum
+						(Joan. XVIII , 57). Natum <lb/> lego, profiteor quod lego : primogenitum
 						lego, non <lb/> discredo I : unigenitum lego , etiamsi ad equuleum <lb/>
 						suspendar, aliter non sum dicturus : quod docent noa <lb/> sanctae
-						Scriptune, profitcor. Tu enim qui dicis quod <lb/> unus sit Pater et Filius,
+						Scripturae, profiteor. Tu enim qui dicis quod <lb/> unus sit Pater et Filius,
 						dic Patrem unigenitum, dic <lb/> primogentum : dic quae sunt Patris in
-						Filio, dic Fi<lb/>lium unigenitum , dic innatum , dic quia ncmo eum <lb/>
+						Filio, dic Fi<lb/>lium unigenitum , dic innatum , dic quia nemo eum <lb/>
 						vidit unquain , neque videre potest. Prosequere de <lb/> Spiritu sancto
 						talia qualia de Patre legimus, ut aequa<lb/>lem ostendas Spiritum sanctum
 						Patri. Dic, rogo, habe <lb/> me discipulum. Prosequere de Filio, quod Filius
@@ -774,70 +774,70 @@
 						advertere potui: consequens est ut <lb/> aut non colatis Christum, aut non
 						unum Dcum cola­ <lb/> tis, sed duos. Dixisti etiam de Patre , quod ad
 						hu<lb/>mana contagia et ad humanam carnem uon descen­ <note type="footnote"
-							>' in _.: <hi rend="italic">Mdivi utique.</hi>
-						</note><note type="footnote"> 1 sie Ain. Er. et KUtt. At l.ov. babet,
-							discrepa. </note>
-						<lb/> dcrit. Si forte nescis, contagia ubi dicuntur, aliquam <lb/>
+							>1 in Mss.:  <hi rend="italic">udivi utique.</hi>
+						</note><note type="footnote"> 2 sic Am. Er. et Mss. At Lov. habet,
+							discrepo. </note>
+						<lb/> derit. Si forte nescis, contagia ubi dicuntur, aliquam <lb/>
 						contaminationem significant: voluisti ergo Christum <lb/> intelligi venisse
-						ad humana contagia : clIo humana <lb/> carne inquinatum professus es
+						ad humana contagia : ergo humana <lb/> carne inquinatum professus es
 						Christum. Ego autem <lb/> dico, imo catholica fides, quam cum Ecclesia
 						Christi <lb/> tenco, Dominum nostrum Jesum Christum sic factum <lb/> esse
-						Verbum carnem, ut nulla de humano generc ct <lb/> de humana carne contagia
+						Verbum carnem, ut nulla de humano genere et <lb/> de humana carne contagia
 						pateretur. Venit enim <lb/> mundare, non coinquinari. Suscepit ergo animam
 						<lb/> humanam, et carnem humanam sine ulla peste con<lb/>tagii: et utrumque
 						, id est et animam humanam et <lb/> carnem humanam, in se ipso salvare
 						dignatus est. Sed <lb/> quia de ejus invisibilitate veritati, quantum video
 						, <lb/> non vis acquiescere , rogo ut cogites secundum car<lb/>nem et
 						secundum hominem fuisse visibilem Christum. <lb/> Nam secundum id quod
-						Verbum est Deus apud <lb/> Dcum, et ipse invisibilis est. Sapientia Dci est
-						Chri<lb/>stus : humana sapicnlia invisibilis est; ct Dei sapien. <lb/> tia
+						Verbum est Deus apud <lb/> Deum, et ipse invisibilis est. Sapientia Dei est
+						Chri<lb/>stus : humana sapientia invisibilis est; et Dei sapien<lb/>tia
 						visibilis erit? Quantum ergo attinet ad illam natu<lb/>ram in qua aequalis
-						est Patri, paritcr est Deus. pari<lb/>tromnipotens, pariter invisibilis,
+						est Patri, pariter est Deus. pari<lb/>tromnipotens, pariter invisibilis,
 						pariter immortalis. <lb/> Dixisti etiam, quantum adverti , sic accipiendum
-						essa <lb/> quod ait Apostolus, Qui <hi rend="italic">solus habet
+						esse <lb/> quod ait Apostolus, Qui <hi rend="italic">solus habet
 							immortalitatem</hi>
 						<lb/> (I <hi rend="italic">Tim.</hi> VI, 16); ut in hac sententia solus
-						Pater accipi <lb/> debeat. Ergo Verbum Dei mortale vis esse! Sapien<lb/>tia
-						Dei non est immortalis secundum te. Non inlelli<lb/>gis quia non potuisset
+						Pater accipi <lb/> debeat. Ergo Verbum Dei mortale vis esse ? Sapien<lb/>tia
+						Dei non est immortalis secundum te. Non intelli<lb/>gis quia non potuisset
 						ullo modo mori Filius, nisi <lb/> carnem mortalem suscepisset a nobis ?
 						Denique caro <lb/> in illo mortua est, non ipse mortuus est quantum ad <lb/>
 						Deum pertinet, quantum ad divinitatem attiret, qua <lb/> aequalis est Patri.
-						Sic enim hominibus ait, <hi rend="italic">Nolite<lb/> timere coa qui corpus
+						Sic enim hominibus ait, <hi rend="italic">Nolite<lb/> timere cor qui corpus
 							occidunt, et postea non habent <lb/> quid faciant ( Luc.</hi> XII, 4):
 						quia anima mori non <lb/> potest; Verbum Dei mori potest ? Sapientia Dei
-						mori <lb/> potest? Unigenitus ille non assumpta carne mori po <lb/> tuH?
+						mori <lb/> potest? Unigenitus ille non assumpta carne mori po<lb/>tuit?
 						Assumpta autem carne qua factus est homo, <lb/> sicut aequalem se novit
-						quando dicit, <hi rend="italic">Ego et</hi> Parer <lb/>
+						quando dicit, <hi rend="italic">Ego et</hi> Pater <lb/>
 						<hi rend="italic">unum</hi> sumus <hi rend="italic">(Joan.</hi> x, 50); sic
 						se novit minorem <lb/> quia <hi rend="italic">Verbum caro Factum</hi> est,
 							<hi rend="italic">et habitavit in nobis (Id.</hi>
 						<lb/> I, 14). <hi rend="italic">Non</hi> rapinam <hi rend="italic"
-							>arbitratus est esse</hi> aequalis <hi rend="italic">Dco.</hi>
+							>arbitratus est esse</hi> aequalis <hi rend="italic">Deo.</hi>
 						<lb/> Natura enim erat, non rapina : non enirn usurpavit <lb/> hoc, sed
-						natus est hoc. Verumtamen <hi rend="italic">semetipsum exin­<lb/> anivit
+						natus est hoc. Verumtamen <hi rend="italic">semetipsum exin<lb/>anivit
 							formam servi accipiens:</hi> agnovisti aequalem, jam <lb/> incipe
 						agnoscere minorem : <hi rend="italic">formam servi accipiens,</hi> in <lb/>
 						<hi rend="italic">similitudinem</hi> hominum <hi rend="italic">factus, et
 							habitu inventus</hi> ut <lb/>
 						<hi rend="italic">homo (Philipp,</hi> II, 6, 7). Ecce qua forma major est
-						<lb/> Patcr : discerne dispensationem suscepti hominis a <lb/> manente
+						<lb/> Pater : discerne dispensationem suscepti hominis a <lb/> manente
 						immortaliter divinitate, et non erras in <lb/> vertis, quae multum amas
-						dicere, et ea non dignan is <lb/> sapcre. Profiteor autem, sicut dicis
+						dicere, et ea non dignan is <lb/> sapere. Profiteor autem, sicut dicis
 						Patrem innatum <lb/> Filium natum. Sed non ideo sunt diversae naturae
 						at<lb/>que substantiae, quia ille non natus est, ille natus est. <lb/>
 						Etenim si natus est, Filius est: si Filius est, verus <lb/> Filius est, quia
 						unigentus est. Nam et nos dicti sumus <lb/> filii: sed numquid unigeniti
 						sumus tot filii ? Aliter ille <lb/> Filius unigenitus : ille natura Filius,
-						nos gratia firii : <lb/> ille unigenitus de Patre natus, boc est quod Pater
+						nos gratia filii : <lb/> ille unigenitus de Patre natus, hoc est quod Pater
 						<lb/> secundum naturam, secundum substantiam. Qui au<lb/>tem dicit eum
-						propterea quia natus est, idco alterius <lb/>
-						<pb n="721"/> esse naturae, negal verum filium. Habemus autem <lb/>
+						propterea quia natus est, ideo alterius <lb/>
+						<pb n="721"/> esse naturae, negat verum filium. Habemus autem <lb/>
 						Scripturam : <hi rend="italic">Ut simus</hi> in <hi rend="italic">vero Filio
 							ejus Jesu Christo;<lb/> ipse</hi> est <hi rend="italic">Deus</hi> verus
-							<hi rend="italic">ei vita ceterna</hi> (I <hi rend="italic">Joan.</hi>
+							<hi rend="italic">ei vita aeterna</hi> (I <hi rend="italic">Joan.</hi>
 						v, 20). Quare <lb/>
 						<hi rend="italic">verus Deus?</hi> Quia verus Dei Filius. Si enim animalibus
-						<lb/> dedit ut non generent nisi quod sunt; homo bominem <lb/> generat,
+						<lb/> dedit ut non generent nisi quod sunt; homo hominem <lb/> generat,
 						canis canem, et Deus Deum non generat? <lb/> Si ergo ejusdem substantiae
 						est, quare dicis minorem <lb/> An forte, quia homo pater quando generat
 						filium, <lb/> e si homo hominem generat % tamen major minorem <lb/> generat?
@@ -847,21 +847,21 @@
 						est; melior est humana conditio : quia bomo <lb/> vel crescere potest, ct
 						aliquando venire habet ad acta<lb/>tem patris sui, ad robur patris sui;
 						ille, nunqnam : <lb/> quomodo verus filius (a)? Usque adeo autem Filium
-						<lb/> agnoscimus Deum magnum, ut Patri dicamus aequa­ <lb/> lem. Itaque sine
+						<lb/> agnoscimus Deum magnum, ut Patri dicamus aequa<lb/>lem. Itaque sine
 						causa nobis, quod valle profitemur, <lb/> testimoniis et multiloquio probare
-						voluisti. Dicit au<lb/>tem, Deum meuM. <hi rend="italic">et Deum</hi>
+						voluisti. Dicit au<lb/>tem, Deum meum. <hi rend="italic">et Deum</hi>
 						vestrum <hi rend="italic">(Joan.</hi> xx, 17); <lb/> attendens formam
-						bominis in qua erat. Carcerum <lb/> quantum attinet ad illud quod dixit
-						Joannes, In <hi rend="italic">prin­</hi>
-						<lb/> cipio <hi rend="italic">erat Verbum, et Verbum erat apud</hi> Deum,
+						hominis in qua erat. Carcerum <lb/> quantum attinet ad illud quod dixit
+						Joannes, In <hi rend="italic">prin</hi>
+						<lb/>cipio <hi rend="italic">erat Verbum, et Verbum erat apud</hi> Deum,
 							<hi rend="italic">et Deus<lb/> erat Verbum (Id.</hi> I, 1); non est
 						Pater Dei Deus, sed <lb/> Deus est Christi, quia Christus factus est homo.
-						Unde <lb/> et ipse dicit in Psalmis, cur illi sil Pater Deus : <hi
+						Unde <lb/> et ipse dicit in Psalmis, cor illi sit Pater Deus : <hi
 							rend="italic">De <lb/> ventre</hi> matris <hi rend="italic">meae Deus
 							meus</hi> ea <hi rend="italic">tu (Ptal.</hi> xxi, 11). <lb/> Quando
-						dicit de ventre matris sibi illum esse Deum, <lb/> ostendit propter hoe esse
+						dicit de ventre matris sibi illum esse Deum, <lb/> ostendit propter hoc esse
 						Deum Patrem Filio, quia <lb/> homo est Filius, secundum quod Pater major est
-						<lb/> Filio. Uude dicit, <hi rend="italic">Deum</hi> meum <hi rend="italic"
+						<lb/> Filio. Unde dicit, <hi rend="italic">Deum</hi> meum <hi rend="italic"
 							>et</hi> Deum vestrum. Inde <lb/> est et illa subjectio quam non debemus
 						mirari secun<lb/>dum hominem redditam Patri, quando, sicut scriptum <lb/>
 						fst, etiam parentibus subditus erat <hi rend="italic">(Luc.</hi> n, 51): et
@@ -869,28 +869,28 @@
 							<hi rend="italic">ab Angelis<lb/> (Psal.</hi> VIII, 6). Vellem autem hoc
 						etiam aliquibus <lb/> Scripturarum testimoniis doceres nos, ubi legatur
 						<lb/> adorari Patrem a Spiritu sancto. A Filio autcm acci<lb/>pio, etiamsi
-						non proferas testimonia, quoniam homo <lb/> adorat Deum I : admittitur
+						non proferas testimonia, quoniam homo <lb/> adorat Deum 1 : admittitur
 						facile, secundum bominem <lb/> dictum, quamvis nec hoc legas. Tamen
 						specialiter de <lb/> te exigo, ut adoratum Patrem a Spiritu sancto legas
 						<lb/> nobis, aut commemores testimonium divinum : for<lb/>tassis enim sit,
 						sed me fugiat: ut si inveneris, respon<lb/>deam quomodo id accipi debeat,
 						sicut de gemitibus <lb/> Scripturarum solemni locutione respondi. Quod
-						au<lb/>tem dicis, quod per illam copulationcm ineffabilem <lb/> non sit unus
-						Deus Pater et Filius et Spiritus sanctus; <lb/> vis nosse quantum val at
-						ista copulatio? Non ex lo<lb/>eutionibus nostris, sed ex divinis eloquiis
-						certe ma<lb/>nifestum est, aliud esse spiritum bominis, aliud esse <lb/>
+						au<lb/>tem dicis, quod per illam copulationem ineffabilem <lb/> non sit unus
+						Deus Pater et Filius et Spiritus sanctus; <lb/> vis nosse quantum valeat
+						ista copulatio? Non ex lo<lb/>cutionibus nostris, sed ex divinis eloquiis
+						certe ma<lb/>nifestum est, aliud esse spiritum hominis, aliud esse <lb/>
 						spiritum Dominum; unde dicitur, <hi rend="italic">Dominus spiritus</hi>
-						<lb/> est I (II Cor. III, 17), id est, quia corpus non est: et <lb/> tamen
+						<lb/> est 2 (II Cor. III, 17), id est, quia corpus non est: et <lb/> tamen
 						ait Apostolus, <hi rend="italic">Qui adhaeret meretrici, unum</hi>
-						<note type="footnote"> s sic Mss. At editi, <hi rend="italic">quoniam hic
-								adorat Deum.</hi>
-						</note><note type="footnote"> • Editi, <hi rend="italic">spiritum Dei: t
-								nde</hi> dicitur, Deus Spiritw eat. At <lb/> Mss. <hi rend="italic"
-								>spiritum Dominum;</hi> ac subinde, <hi rend="italic">unde
-								diatwr</hi> (scilicet II <lb/> Cor. cap. 3 ) Dominus <hi
+						<note type="footnote">  1 sic Mss. At editi, <hi rend="italic">quoniam hic
+							adorat Deum.</hi>
+						</note><note type="footnote"> 2 Editi, <hi rend="italic">spiritum Dei:
+								unde</hi> dicitur, Deus Spiritus est. At <lb/> Mss. <hi rend="italic"
+									>spiritum Dominum;</hi> ac subinde, <hi rend="italic">unde
+										dicitur</hi> (scilicet II <lb/> Cor. cap. 3 ) Dominus <hi
 								rend="italic">spiritus est.</hi>
 						</note>
-						<note type="footnote"> (a) serra. loO, n. 5, tom. 5. </note>
+						<note type="footnote">  (a) serm. 139, n. 3, tom. 5. </note>
 						<lb/>
 						<hi rend="italic">corpus est; qui autem</hi> adhaeret <hi rend="italic"
 							>Domino</hi> unus spiritus eit <lb/> ( I <hi rend="italic">Cor.</hi> VI,
@@ -905,15 +905,15 @@
 							vestra <lb/> templum</hi> in <hi rend="italic">vobis eat Spiritus</hi>
 						sancti, <hi rend="italic">quem habetis a <lb/> Deo (Id.</hi> V!, 19)? Nonne
 						si templum alicui sancto <lb/> angelo excellentissimo de lignis et lapidibus
-						faccre<lb/>mus, anathemaremur a verilate Christi et ab Eccle<lb/>sia Dei;
-						quoniam creaturae cxliiberemus eam servi­ <lb/> tutem, quae uni tautum
+						facere<lb/>mus, anathemaremur a veritate Christi et ab Eccle<lb/>sia Dei;
+						quoniam creaturae coeliiberemus eam servi<lb/>tutem, quae uni tautum
 						debctur Deo ? Si ergo sacri<lb/>legi essemus faciendo templum cuicumque
-						creaturae, <lb/> quomodo non est Deus verus cui non templum faci­ <lb/> mus,
-						sed nos ipsi templum sumus? Quomodo autem <lb/> dixcril Christus, <hi
+						creaturae, <lb/> quomodo non est Deus verus cui non templum faci<lb/>mus,
+						sed nos ipsi templum sumus? Quomodo autem <lb/> dicerit Christus, <hi
 							rend="italic">Sicut habet Pater vitam</hi> in <hi rend="italic"
 							>semetipso,<lb/> sic dedit Filio habere vitam</hi> in <hi rend="italic"
 							>semetipso (Joan.</hi> v, 26), <lb/> superius respondi. Concordia autem
-						et charitate, quia <lb/> dicis I factum fuisse ut unum sint Pater et Filius;
+						et charitate, quia <lb/> dicis 1 factum fuisse ut unum sint Pater et Filius;
 						<lb/> quando milii protuleris dictum esse quod unum sint <lb/> quae sunt
 						diversae substantiae, tunc cogilabo quid de<lb/>beam respondere. Legimus
 						enim, <hi rend="italic">Qui plantat et qui <lb/> rigat unum sunt</hi> ( I
@@ -924,12 +924,12 @@
 						nos unum : sed , <hi rend="italic">Ut ipsi sint unum</hi> , in natura <lb/>
 						sua et in substantia sua, concordi aequalitate quodam <lb/> modo uniti atque
 						conflati; sicut Patcr et Filius et Spi<lb/>ritus sanctus unum, propter
-						individuam eamdemque <lb/> naturam. Aliud est enim , unum sunt '; aliud ,
+						individuam eamdemque <lb/> naturam. Aliud est enim , unum sunt 2; aliud ,
 						unus <lb/> est. Quando dicitur, Unum sunt; etsi noni dicatur quid <lb/> unum
 						, intelligitur una substantia. Quando dicitur, <lb/> Unus est, de duabus
 						diversisque substantiis , necesse <lb/> est ut quaeratur quid unus. Verbi
 						gratia, diversa sub<lb/>stantia est anima et corpus, tamen unus homo :
-						di<lb/>versa substantia est spiritus hominis ct spiritus Dei, <lb/> tamen
+						di<lb/>versa substantia est spiritus hominis et spiritus Dei, <lb/> tamen
 						cum <hi rend="italic">Domino adhaeret,</hi> unus <hi rend="italic"
 							>spiritus</hi> est (I <hi rend="italic">Cor.</hi>
 						<lb/> VI, 17) : addidit, <hi rend="italic">spiritus;</hi> non dixit, Unum
@@ -940,26 +940,26 @@
 						est quidem qui perhibet testimonium , alius cui per<lb/>hibetur : quia Pater
 						Pater est, Filius Filius est. Non <lb/> quia unum non sunt, aut unus Deus
 						non sunt, quando <lb/> cohaerentes atque conjuncti sunt, quod semper sunt.
-						<lb/> Sic autem dicis hinc inter Patrem et Filium esse di­ <lb/> versitatem,
+						<lb/> Sic autem dicis hinc inter Patrem et Filium esse di<lb/>versitatem,
 						quia Pater diligit et Filius diligitur; quasi <lb/> negare possitis quod
 						Filius diligat Patrem. Si ambo <lb/> se invicem diligunt; cur negatis eos
-						unius esse na • <lb/> turx v Quod dixi de Patre unde dictu sit major, quia
-							<note type="footnote"> 1 sola edilio Lov., <hi rend="italic">qua
+						unius esse na<lb/>turae ? Quod dixi de Patre unde dictu sit major, quia
+							<note type="footnote"> 1 sola editio Lov., <hi rend="italic">qua
 								dicit.</hi>
-						</note><note type="footnote"> I lLe Мss. addulJt, <hi rend="italic">et</hi>
-							aliud unum sumtH, </note>
+							</note><note type="footnote"> 2 Hic Мss. addunt, <hi rend="italic">et</hi>
+								aliud unum sumus, </note>
 						<lb/>
-						<pb n="723"/> propter formam servi dictum est; hoc dico ct dc <lb/>
+						<pb n="723"/> propter formam servi dictum est; hoc dico et de <lb/>
 						invisibilitate, quoniam visibilis Filius propter eam<lb/>dem formam servi
-						dictus cst. Caeterum, quantum at<lb/>tinet ad ipsam divinam substantiam ,
+						dictus est. Caeterum, quantum at<lb/>tinet ad ipsam divinam substantiam ,
 						vel Patris, vel <lb/> Filii, vel Spiritus sancti omnino est invisibilis. Nam
 						<lb/> quando se patribus divinitas ostendebat, per subje<lb/>ctam creaturam
-						se invisibilem demonstrabat. Nam <lb/> pcr ipsam suam naturam usque adco
+						se invisibilem demonstrabat. Nam <lb/> pcr ipsam suam naturam usque adeo
 						invisibilis est, <lb/> ut ipse Moyses ei cum quo facie ad faciem
-						loqucba<lb/>tur, diceret : Si <hi rend="italic">inveni gratiam ante te,
+						loqueba<lb/>tur, diceret : Si <hi rend="italic">inveni gratiam ante te,
 							ostende mihi <lb/> temetipsum</hi> manifeste <hi rend="italic"
 							>(Exod.</hi> XXXIII, i!, 13). Volebat <lb/> enim eum videre, sicut
-						vidctur Deus oculis cordis. <lb/> Beati enim <hi rend="italic">mundo corde,
+						videtur Deus oculis cordis. <lb/> Beati enim <hi rend="italic">mundo corde,
 							quia ipsi Deum videbunt (Matth.</hi>
 						<lb/> v, 8). Sic volebat videre Moyscs cum cui dicebat, <lb/>
 						<hi rend="italic">Ostende</hi> mihi <hi rend="italic">temetipsum</hi>
@@ -967,26 +967,26 @@
 						conspiciuntur. Sic <lb/> enim ait Apostolus : <hi rend="italic">Invisibilia
 							enim ejus, per ea quae<lb/> facta sunt, intellecta conspiciuntur,
 							sempiterna quoque <lb/> virtus ejus ac divinitas (Rom.</hi> I, 20). Eccc
-						intelligendo <lb/> conspiciuntur invisibilia Dei, et tamen invisibilia di­
-						<lb/> cuntur. Et omnia per ipsum facta sunt Christum <lb/>
-						<hi rend="italic">(Joan.</hi> I, 3), ct visibilia et invisibilia, et ipse a
+						intelligendo <lb/> conspiciuntur invisibilia Dei, et tamen invisibilia di
+						<lb/>cuntur. Et omnia per ipsum facta sunt Christum <lb/>
+						<hi rend="italic">(Joan.</hi> I, 3), zt visibilia et invisibilia, et ipse a
 						nobis <lb/> credi visibilis potest? Hinc etiam dicis do patre tan<lb/>tum
-						intelligi debere qnod ait Apostolus, <hi rend="italic">Soli sapienti <lb/>
+						intelligi debere quod ait Apostolus, <hi rend="italic">Soli sapienti <lb/>
 							Deo, (Rom.</hi> XVI, 27). Ergo solus est Pater Deus sa<lb/>piens, et non
 						est sapiens ipsa Dei Sapientia , quod <lb/> est Christus; de quo ait
 						Apostolus : <hi rend="italic">Christum Dei <lb/> Virtutem et Dei
 							Sapientiam</hi> (I <hi rend="italic">Cor.</hi> I, 24)! Superest ut <lb/>
 						dicatis (quid enim non audetis?) insipientem esse Sapien<lb/>tiam Dei.
-						Sicau:cm dicis Patrem infectum, quasi Filius <lb/> factus sit, pcr quem
+						Si autem dicis Patrem infectum, quasi Filius <lb/> factus sit, per quem
 						facta suntomnia. Scito factum esse <lb/> Filium, sed in, forma servi. Nam in
 						forma Dei usque <lb/> adeo uon est factus, ut per illum facta sint omnia.
 						<lb/> Si enim ipse factus est, non per illum sunt omnia <lb/> facta , sed
 						caetera. Non itaque dico Filium ingeni<lb/>tum ; sed Patrem genitorem,
 						Filium genitum. Hoc <lb/> tamen gcnuit Pater quod est : alioquin non est
 						<lb/> verus Filius, si quod est Pater, non est Filius; sicut <lb/> do
-						partubus animalium supra diximus; quia veri lilii <lb/> hoc suut per
+						partubus animalium supra diximus; quia veri filii <lb/> hoc sunt per
 						substantiam quod parentes. Quid est <lb/> autem qood poscis, ut ostendam
-						tibi aequalem Patri <lb/> Spiritum sanctum esse, quasi tu ostend. ris P.trem
+						tibi aequalem Patri <lb/> Spiritum sanctum esse, quasi tu ostenderis Patrem
 						<lb/> majorem esse Spiritu sancto; sicut potuisti ostendere <lb/> de Filio,
 						propter formam servi ? Scimus enim dictum <lb/> esse Patrem Filio majorem
 						esse, quia in forma servi <lb/> erat Filius; et adhuc in forma est humana
@@ -996,109 +996,113 @@
 						forma im<lb/>mortalis ; propter quod dictum est, <hi rend="italic">Tunc et
 							ipse</hi> Fi<lb/>lius <hi rend="italic">subjectus erit</hi> ei <hi
 							rend="italic">qui illi subjecit omnia</hi> (I <hi rend="italic"
-							>Cor.</hi> xv, <lb/> 28) Nam de Spiritu sancto qui nullam suscepit crea­
-						<lb/> turam ad unitatem personae suae, quamvis sc pcr <lb/> subjectam
-						creaturam visibiliter et ipsc , sivc per co<lb/>lumbae speciem , sive per
+							>Cor.</hi> xv, <lb/> 28) Nam de Spiritu sancto qui nullam suscepit crea
+						<lb/>turam ad unitatem personae suae, quamvis se per <lb/> subjectam
+						creaturam visibiliter et ipse , sive per co<lb/>lumbae speciem , sive per
 						linguas igneas sit demon<lb/>strare dignatus <hi rend="italic">(Matth.</hi>
 						in , 16, <hi rend="italic">et Act.</hi> II , 3), nun<lb/>quam dictus est eo
 						major Pater; nunquam dictus est <lb/> Spiritus sanctus adorasse Patrem ,
-						nunquam dictus <lb/> est minor Patrc. Sed dicis de Filio, <hi rend="italic"
+						nunquam dictus <lb/> est minor Patre. Sed dicis de Filio, <hi rend="italic"
 							>Si aequalis</hi> esset, <lb/>
-						<hi rend="italic">utique talis:</hi> id cst, ut quia non est ingenitus, non
-						videa­ <lb/> tur talis. Posses dicere non esse hominem quem genuit <lb/>
+						<hi rend="italic">utique talis:</hi> id est, ut quia non est ingenitus, non
+						videa<lb/>tur talis. Posses dicere non esse hominem quem genuit <lb/>
 						Adam , quia ipse Adam non est genitus, sed factus a <lb/> Deo. Si autem
-						potuit Adam esse 1, et non esse ge­ <lb/> nitus, , et tamen hoc generare
+						potuit Adam esse 1, et non esse ge<lb/>nitus, , et tamen hoc generare
 						quod erat ipse, non vis <lb/> ut potuerit Deus Deum aequalem sibi? Puto me
-						libi <lb/> ad omnia respondisse. Sed si non vis esse discipu­ <lb/> lus,
+						libi <lb/> ad omnia respondisse. Sed si non vis esse discipu<lb/>lus,
 						noli esse multiloquus.</p>
 				</div>
 
 				<div type="textpart" subtype="section" n="15">
 					<p>1. MAX. dixit: Loqueris quasi auxilio principum <lb/> munitus, nihil secundum
 						timorem Dei. Longas horas <lb/> sustinui, exposuisti at libi visum est.
-						Respondemus <lb/> Deo auxiliante ad omnia. Nec enim nudo sermonc , <lb/> sed
-						testimoniis divinarum Scripturarum muniti. Tan <lb/> tum sicut nos patientes
-						fuimus cxponente tua Re­ <lb/> ligione , et ipse cum tuis patientiam
+						Respondemus <lb/> Deo auxiliante ad omnia. Nec enim nudo sermone , <lb/> sed
+						testimoniis divinarum Scripturarum muniti. Tan<lb/>tum sicut nos patientes
+						fuimus coeponente tua Re<lb/>ligione , et ipse cum tuis patientiam
 						accommoda , ut <lb/> ad singulos tuos sermones dcmus responsum , sic<lb/>ut
-						et ipse ad nostrus respondisti quod tibi pla­ <lb/> cuit.</p>
-					<p>2. Nos Christum colimus ut Deum omnis creaturae. <lb/> Nam qui adoratur ct
-						colitur, non tantum ab hominum <lb/> natura, verum etiam etah omnibus
+						et ipse ad nostrus respondisti quod tibi pla<lb/>cuit.</p>
+					
+					<p>2. Nos Christum colimus ut Deum omnis creaturae. <lb/> Nam qui adoratur et
+						colitur, non tantum ab hominum <lb/> natura, verum etiam etam omnibus
 						Virtutibus coele<lb/>stibus, audi clamantem beatum Paulum : <hi
 							rend="italic">Hoc enim <lb/> sentite in vobis quod et</hi> in <hi
 							rend="italic">Christo Jesu : qui cum in <lb/> forma Dei esset,</hi> nou
-							<hi rend="italic">rapinam arbitratus est esse se</hi> pa - <lb/>
+							<hi rend="italic">rapinam arbitratus est esse se</hi> pa<lb/>
 						<hi rend="italic">rem Deo; sed semetipsum exinanivit, formam</hi> servi <lb/>
 						<hi rend="italic">accipiens</hi> , in <hi rend="italic">similitudinem</hi>
 						hominum <hi rend="italic">factus , et habitu <lb/> inventus ut</hi> homo :
-							<hi rend="italic">humiliavit semetipsum, factus obe <lb/>diens usque ad
+							<hi rend="italic">humiliavit semetipsum, factus obe<lb/>diens usque ad
 							mortem , mortem autem crucis. Propter <lb/> quod et Deus eum
 							superexaltavit, et donavit</hi> ei nomen <lb/>
-						<hi rend="italic">quod eat super omne nomen.</hi> Illud utique quod tu in
+						<hi rend="italic">quod est super omne nomen.</hi> Illud utique quod tu in
 						<lb/> tuis prosecutionibus, sciens quod professioni tuae erat <lb/>
-						contrarium , subducendum putasti, sciens quia lectio <lb/> tc argueret. Nam
-						quod omne genu flectatur Christo , <lb/> iitique sic prosequitur ipse
-						Paulus, cum dixisset, <hi rend="italic">Do­ <lb/> navit illi nomen quod est
-							super omne nomen</hi> : seqnitur, <lb/>
+						contrarium , subducendum putasti, sciens quia lectio <lb/> te argueret. Nam
+						quod omne genu flectatur Christo , <lb/> utique sic prosequitur ipse
+						Paulus, cum dixisset, <hi rend="italic">Do<lb/>navit illi nomen quod est
+							super omne nomen</hi> : sequitur, <lb/>
 						<hi rend="italic">Ut in nomine Jesu omne genu</hi> flectatur, coelestium,
-							<hi rend="italic">ter­</hi>
-						<lb/> restrium, <hi rend="italic">et infernorum; et omnis lingua confiteatur
-							quia <lb/> Dominus Jesus</hi> Christus in <hi rend="italic">gloria eat
+							<hi rend="italic">ter</hi>
+						<lb/>restrium, <hi rend="italic">et infernorum; et omnis lingua confiteatur
+							quia <lb/> Dominus Jesus</hi> Christus in <hi rend="italic">gloria est
 							Dei Patria ( Philipp.</hi>
 						<lb/>
 						<lb/> II , 5-11). Dicendo enim, Ut in <hi rend="italic">nomine Jesu omne
 							genu<lb/> flectatur,</hi> coelestium, <hi rend="italic">terrestrium, et
-							infernorum;</hi> uni­ <lb/> versa conclusit. Nihil est in coelo quod non
+							infernorum;</hi> uni<lb/>versa conclusit. Nihil est in coelo quod non
 						genu fle<lb/>ctat Christo : nihil remansit in terra quod non genu <lb/>
 						flectat Christo : nihil in inferis quod non genu flectat <lb/> Christo. Et
 						hoc Pater ei donavit. Possunt enim pro<lb/>bare qui legunt, si ex mea
 						auctoritate vel ex mut <lb/> tiloquio, ut accusas, hanc proscutioncm feci,
 						aut <lb/> certe de auctoritate divinarum Scripturarum re<lb/>spondeo.</p>
+					
 					<p>3. Dicis Spiritum sanctum quod aequalis sit Filio. <lb/> Da testimonia, ubi
 						adoratur Spiritus sanctus, ubi ei <lb/> coelestia et terrestria et inferna
-						genu flectant. Nos <lb/> enim , quod adorandus sit Deus Pater, beato Panlo
+						genu flectant. Nos <lb/> enim , quod adorandus sit Deus Pater, beato Paulo
 						<lb/> apostolo clamante didicimus : <hi rend="italic">Propterea</hi> flecto
 							<hi rend="italic">genua<lb/> mea ad Putrem Domini nostri Jesu Christi,
 							ex quo<lb/> omnis paternitas in coelis et</hi> in <hi rend="italic">terra
 							nominatur (Ephes.</hi>
 						<lb/> HI, 14,15). Auctoritate sanctarum Scripturarum <lb/> adoramus Patrem :
-						aeque ab ipsis divinis Scripturis <lb/> instructi, colimus ct adoramus Dcum
-						Christum. Si <note type="footnote"> 1 Abest, esse, ab Er. ftl. </note>
+						aeque ab ipsis divinis Scripturis <lb/> instructi, colimus et adoramus Dcum
+						Christum. Si <note type="footnote"> 1 Abest, esse, ab Er. M. </note>
 						<lb/>
-						<pb n="725"/> alicubi adorandus sit Spiritus sanctus : si Patcr ei <lb/> hic
+						<pb n="725"/> alicubi adorandus sit Spiritus sanctus : si Pater ei <lb/> hic
 						perhibuit testimonium, si Filius, si ipse de se ista <lb/> amplexus est,
 						lege praeter quam diximus ex divinis <lb/> Scripturis.</p>
-					<p>4. Quod Christus est in dextera Dei, qnod inter<lb/>pellat pro nobis <hi
+					
+					<p>4. Quod Christus est in dextera Dei, quod inter<lb/>pellat pro nobis <hi
 							rend="italic">(Rom.</hi> VIII, 34), sic etiam in alio <lb/> luco ipse
 						prosequitur Paulus dicens : <hi rend="italic">Quae</hi> sursum <lb/> sunt
 						quaerite, <hi rend="italic">ubi Christus eat in dextera Dei sedens</hi>
 						<lb/> (Coloss. III, t). Sic ad Hebraeos ipse scribens ait : <lb/>
-						<hi rend="italic">Purificatione peccatorum facta, consedit ad.</hi> dexteram <lb/>
+						<hi rend="italic">Purificatione peccatorum facta, consedit ad</hi> dexteram <lb/>
 						<hi rend="italic">magnitudinis</hi> in <hi rend="italic">excelsis (
-							Hebr.</hi> I, 3). Sic utique et <lb/> Spiritns sanctus jam ante pcr
+							Hebr.</hi> I, 3). Sic utique et <lb/> Spiritus sanctus jam ante per
 						prophetam praecinue<lb/>rat, dicens : <hi rend="italic">Dixit Dominus Domino
 							meo, Sede a <lb/> dextris meis.</hi> Sic et ipse Filius in Evangelio
 						professus <lb/> est <hi rend="italic">(Psal.</hi> CIS, 1; <hi rend="italic"
-							>Matth.</hi> XXII, 44). Praeterea ad illum <lb/> principem qni cum
-						adjurans diccbat : <hi rend="italic">Dic nobis</hi> si tu <lb/> es <hi
+							>Matth.</hi> XXII, 44). Praeterea ad illum <lb/> principem qui cum
+						adjurans dicebat : <hi rend="italic">Dic nobis</hi> si tu <lb/> es <hi
 							rend="italic">Christus Filius Dei benedicti:</hi> ait ipse , <hi
 							rend="italic">Ego sum ;</hi>
 						<lb/> vel certe, <hi rend="italic">Tu dicis :</hi> et, <hi rend="italic"
-							>Amodo</hi> videbitis Filium <hi rend="italic">homi­</hi>
-						<lb/> nis <hi rend="italic">sedentem ad dexteram virtutis Dei (Marc.</hi>
+							>Amodo</hi> videbitis Filium <hi rend="italic">homi</hi>
+						<lb/>nis <hi rend="italic">sedentem ad dexteram virtutis Dei (Marc.</hi>
 						XIV, 61, <lb/> 62, <hi rend="italic">et Matth.</hi> XXVI, 63, 64).</p>
+					
 					<p>5. Nos enim Spiritum sanctum competenter ho<lb/>noramus ut doctorem , ut
-						ducatorem 1 , ut illumina<lb/>torem, ut sanctificatorem: Christum colimus ul
+						ducatorem 1 , ut illumina<lb/>torem, ut sanctificatorem: Christum colimus ut
 						<lb/> creatorem : Patrem cum sincera devotione adoramus <lb/> ut auctorem ,
 						quem et unum auctorem ubique omni<lb/>bus pronuntiamus. Istae enim calumniae
 						de philoso<lb/>phicae artis instructione veniunt. Non puto te minus <lb/>
-						legisse ' quod ait Apostolus : <hi rend="italic">Quoniam Christus utique
+						legisse 2 quod ait Apostolus : <hi rend="italic">Quoniam Christus utique
 							<lb/> tum</hi> non <hi rend="italic">esset peccator, pro nobis peccatum
 							fecit, ut</hi>
 						<lb/> nos <hi rend="italic">efficeremur justitia Dei</hi> in <hi
 							rend="italic">ipso</hi> ( II <hi rend="italic">Cor.</hi> v, 21). <lb/>
-						Nec hoc sane ad te forte pervenit , quod dixerit Scri<lb/>ptura ' , <hi
+						Nec hoc sane ad te forte pervenit , quod dixerit Scri<lb/>ptura 3 , <hi
 							rend="italic">Maledictus omnis</hi> qui <hi rend="italic">pendet in</hi>
-						tigno : quod <lb/> interpretans beatus apostolus Paulus dicit, <hi
+						ligno : quod <lb/> interpretans beatus apostolus Paulus dicit, <hi
 							rend="italic">Factus <lb/> pro nobis maledictum , ut benedictio in
 							gentibus</hi> adim<lb/>pleretur <hi rend="italic">( Deut.</hi> xxi, 23;
 							<hi rend="italic">Galat.</hi> III , 13). Nec hoc sane <lb/> pervenit ad
@@ -1107,7 +1111,7 @@
 						cado <lb/>
 						<hi rend="italic">coelestis advenit</hi> (I Cor. xv, 47). Ergo et Christus
 						<lb/> suscepit hominem, ut ipse exposuisti. Et ea de causa <lb/> diximus
-						quod ad terrena contagia dcsecndit. Non <lb/> euim ignoramus illum 4
+						quod ad terrena contagia dcsecndit. Non <lb/> enim ignoramus illum 4
 						secundum quod legimus , <lb/>
 						<hi rend="italic">Qui peccatum non fecit, nec inventus est dolus</hi> in ore <lb/>
 						<hi rend="italic">ipsius:</hi> qui cum <hi rend="italic">malediceretur, non
@@ -1116,33 +1120,34 @@
 						23), Nec hoc ignora <lb/> mus quod ait Baptista Joannes : <hi rend="italic"
 							>Ecce Agnus Dei , ecce <lb/> qui tollit</hi> peccatum mundi <hi
 							rend="italic">( Joan.</hi> I, 29). Constat, ut et <lb/> ipse prosecutus
-						es. Nec cnim ad omnia obstinati esse <lb/> debemus, ut non quae bene dicis
+						es. Nec enim ad omnia obstinati esse <lb/> debemus, ut non quae bene dicis
 						laudemus. Valde <lb/> enim justa est prosecutio tua, quia ob hoc venit <lb/>
 						Christus, ut nos potius a peccatis et ab iniquitatibus <lb/> inundaret; non
-						tamen ut ipse contaminaretur, sicut <lb/> et ipse prosecutus cs. Certum est
-						enim, quod secun­ <lb/> dum divinitatis siue substantiam illam beatam, quam
-							<note type="footnote"> I sola editio Lov., <hi rend="italic"
+						tamen ut ipse contaminaretur, sicut <lb/> et ipse prosecutus es. Certum est
+						enim, quod secun<lb/>dum divinitatis siue substantiam illam beatam, quam
+							<note type="footnote"> 1 sola editio Lov., <hi rend="italic"
 								>ductorem.</hi>
-						</note><note type="footnote"> I Er. Lugd. et ven.: <hi rend="italic">Non
-								puto te legisse. Lov.: ,...am puto te</hi>
-							<lb/> legisse. II. </note><note type="footnote"> I Er. Lugd. et ven.
-							Lov., <hi rend="italic">dixerat Scriptura. to.</hi>
-						</note><note type="footnote"> * sic MSS. Eiliti vcro, ittud.r </note><note
+						</note><note type="footnote"> 2 Er. Lugd. et ven.: <hi rend="italic">Non
+							puto te legisse. Lov. : Nam puto te</hi>
+							<lb/> legisse. M. </note><note type="footnote"> 3 Er. Lugd. et ven. Lov., <hi rend="italic">dixerat Scriptura. M.</hi>
+							</note><note type="footnote"> 4 sic MSS. Editi vero, illud. </note><note
 							type="footnote"> 5 Am. et LOV., <hi rend="italic"
-								>sejudicantiinjuste.</hi> At-Er. fit iotiores ' ss. <lb/>
+								>se judicanti injuste.</hi> At Er. et potiores Mss. <lb/>
 							<hi rend="italic">fuste.</hi>
 						</note>
-						<lb/> habuit ante mundi constitutionem , anlc saecula, ante <lb/> tempora,
-						aute dies, ante menses, ante annos , an:c<lb/>quam quidquam esset ',ante
+						<lb/> habuit ante mundi constitutionem , ante saecula, ante <lb/> tempora,
+						aute dies, ante menses, ante annos , ante<lb/>quam quidquam esset 1,ante
 						aliquam excogitationem, <lb/> in illa beata natura Deus natus a Patre est 2
 						.</p>
-					<p>G. In Deo enim comparatione digna uHi <unclear>decet</unclear>. <lb/> IIoc
+					
+					<p>6. In Deo enim comparatione digna ubi <unclear>decet</unclear>. <lb/>Hoc
 						sane mihi displicet, et valde animo dolui in tua <lb/> prosecutione : ut
-						enim diceres quod homo hominem <lb/> generat, ct canis canem ; tam foeda
+						enim diceres quod homo hominem <lb/> generat, et canis canem ; tam foeda
 						comparatio in <lb/> illam Lautam immensitatem produci non debuit</p>
+					
 					<p>7. Quis antem ignorat quod Deus Deum genuit, <lb/> quod Dominus Dominum
 						genuit, quod Rex Regem <lb/> genuit, quod Creator Creatorem genuit, quod
-						bonus <lb/> bonum genuit, quod sapicns sapientem. genuit, quod <lb/> clemens
+						bonus <lb/> bonum genuit, quod sapiens sapientem. genuit, quod <lb/> clemens
 						elementem genuit, potens potentem ? Nihil <lb/> subtraxit Pater in generando
 						Filium. Noc enim invi<lb/>dns, sed ut fons bonitatis tantum bonum genuit :
 						cu<lb/>jus bonitatis testis cst omnis creatura, secundum <lb/> tuam ipsius
@@ -1150,6 +1155,7 @@
 						dicendo : <hi rend="italic">Invisibilia <lb/> enim ejus, a creatura mundi,
 							per ea quae facta sunt, <lb/> intellecta conspiciuntur; sempiterna
 							quoque virtus ejus<lb/> ac divinitas</hi> ( Rom. i, 20).</p>
+					
 					<p>8. Adhuc autem adjicio, non contraria his quae <lb/> bene sunt dicta dicens,
 						sed consensum accommodans: <lb/> quoniam ex magnitudine pulchritudinis
 						condigne. <lb/> Creator corum cognoscitur atque colitur. Ut puto
@@ -1169,10 +1175,10 @@
 						misit <hi rend="italic">illum ( Joan.</hi> v , 23). Quod enim Verbum <hi
 							rend="italic">caro <lb/> factum est, et</hi> habitavit <hi rend="italic"
 							>in nobis,</hi> evangelista testatur : <lb/> Et vidimus, ait, <hi
-							rend="italic">gloriam ejus, gloriam tanquam</hi> uni-<lb/>
-						<hi rend="italic">geniti a Patre, plenum</hi> gratiae' <hi rend="italic">et
-							veritatis</hi> MId. I, 14). <lb/> De hoc ipso et ante jam Vetus
-						Testamentum praeci­ <lb/> nuerat', dicens , <hi rend="italic">Lavabit</hi>
+							rend="italic">gloriam ejus, gloriam tanquam</hi> uni<lb/>
+						<hi rend="italic">geniti a Patre, plenum</hi> gratiae <hi rend="italic">et
+							veritatis</hi> Id. I, 14). <lb/> De hoc ipso et ante jam Vetus
+						Testamentum praeci<lb/>nuerat3, dicens , <hi rend="italic">Lavabit</hi>
 						in <hi rend="italic">vino stolam suam, et</hi> in <lb/>
 						<hi rend="italic">sanguine uvae opertorium</hi> suum <hi rend="italic"
 							>(Gen.</hi> XLIX, 11). <lb/> Quod lego, credo : quoniam <hi
@@ -1185,41 +1191,42 @@
 						omnia saecula , ipse sibi secundum Salo<lb/>monem perfectam4 aedificasset
 						domum, secundum <note type="footnote">1 In MSS., <hi rend="italic">anta ut
 								quidquid esset.</hi>
-						</note><note type="footnote"> I plerique Mss., <hi rend="italic">tantus a
-								Patre est.</hi> corbciensis correctus, <lb/>
-							<hi rend="italic">Ifmlum.</hi>
-						</note><note type="footnote"> * ,. eleres.oodiccs hic et supra, col. <hi
-								rend="italic">72o,n.</hi> 1: <hi rend="italic"
-								>praecanue<lb/>rnt.</hi>
-						</note><note type="footnote"> * Ain. Er. ot MSS., prophetam. </note>
+						</note><note type="footnote">  2 plerique Mss., <hi rend="italic">tantus a
+							Patre est.</hi> corbeiensis correctus, <lb/>
+							<hi rend="italic">tantum.</hi>
+						</note><note type="footnote"> 3 veleres codices hic et supra, col. <hi
+							rend="italic">725,n.</hi> 1: <hi rend="italic"
+								>praecanue<lb/>rat.</hi>
+						</note><note type="footnote"> 4 Am. Er. ot MSS., prophetam. </note>
 						<lb/>
 						<pb n="727"/> quod legimus, <hi rend="italic">Sapientia ipsa sibi
-							aedificavit do­</hi>
-						<lb/> mum <hi rend="italic">(Prov.</hi> IX, 1): quam domum vice templi ac­
-						<lb/> cepit.</p>
-					<p>9. Nam ct ipse dedisti rationem, secundum quid <lb/> sit visibilis , secundum
+							aedificavit do</hi>
+						<lb/>mum <hi rend="italic">(Prov.</hi> IX, 1): quam domum vice templi ac
+						<lb/>cepit.</p>
+					
+					<p>9. Nam et ipse dedisti rationem, secundum quid <lb/> sit visibilis , secundum
 						quid invisibilis : ut puto non <lb/> recens haec auditio pervenit ad aures
 						tuae Religionis. <lb/> Nam et in prosecutione quam prosecutus es,
 						compa<lb/>rationem accipiens animae, ostendisti piam et justam <lb/>
-						rationem esse ut credamus et cognoscamus „ quia si <lb/> anima humana in
+						rationem esse ut credamus et cognoscamus quia si <lb/> anima humana in
 						corpore posita, oculis corporalibus <lb/> Tideri non potest; quanto magis
 						Creator aninine cor<lb/>poralibus oculis videri non potest? Nam si Angeli
 						<lb/> secundum natura suae substantiam invisibiles haben<lb/>tur; quanto
 						magis Creator Angelorum , qui tanta ac <lb/> talia fecit, Angelos,
-						Archangels , Sedes , Domina­ <lb/> tiones , Principatus, Potestates ,
-						Cherubim, Sera<lb/>phim? Ad quorum I multitudinem , ut legimus in <lb/>
+						Archangels , Sedes , Domina<lb/>tiones , Principatus, Potestates ,
+						Cherubim, Sera<lb/>phim? Ad quorum 1 multitudinem , ut legimus in <lb/>
 						Evangelio, omne genus humanum ad unam compa<lb/>ravit ovem, dicens: <hi
-							rend="italic">Relictis nonaginta</hi> novem in <hi rend="italic">mon­
-							<lb/> tibus, venit quaerere unam</hi> errantem. Nam denique, <lb/>
+							rend="italic">Relictis nonaginta</hi> novem in <hi rend="italic">mon
+							<lb/>tibus, venit quaerere unam</hi> errantem. Nam denique, <lb/>
 						<hi rend="italic">Sic erit gaudium,</hi> ait, <hi rend="italic">in caelo
-							super</hi> uno <hi rend="italic">peccatore</hi> poe­ <lb/>
+							super</hi> uno <hi rend="italic">peccatore</hi> poe<lb/>
 						<hi rend="italic">nitentiam agente, quam</hi> in <hi rend="italic"
-							>nonaginta</hi> novem <hi rend="italic">justis qui <lb/> uon
+							>nonaginta</hi> novem <hi rend="italic">justis qui <lb/> non
 							indigent</hi> paenitentia ( <hi rend="italic">Luc.</hi> xv, 4, 7). Nam
 						qui non <lb/> indigent poenitentia qui sunt, nisi utique illae coelestes
 						<lb/> virlutcs, quibus nihil est cum humana natura com<lb/>mune?
 						Consideranda est virus Unigeniti Dei, et in <lb/> ipso admiranda est
-						magnitudo omnipotentiae * Dei <lb/> Patris , qui tantum ac talem genuit
+						magnitudo omnipotentiae 2 Dei <lb/> Patris , qui tantum ac talem genuit
 						FUium , tam po­ <lb/> tentem , tam sapientem , sic plenum , qui tantas ac
 						<lb/> tales coelestes virtutes fecit. Et ne verbosi invenia<lb/>mur, sicuti
 						jam et denotare nos dignatus es : quod <lb/> quidem atque utinam contingat,
@@ -1230,38 +1237,38 @@
 						dicare. Scimus illum qui dixit : <hi rend="italic">Quoniam propter te <lb/>
 							improperium</hi> sustinui <hi rend="italic">tota die</hi> ( <hi
 							rend="italic">Psal.</hi> LXVIII, S ). Ad <lb/> qupd exemplum nos
-						provocans Paulus, dicebat: lmi­ <lb/>
+						provocans Paulus, dicebat: imi<lb/>
 						<hi rend="italic">tatores mei</hi> estote , sicut <hi rend="italic">et ego
-							Christi</hi> ( I <hi rend="italic">Cor.</hi> IV, 16). <lb/> Nam ct
-						Petrus ait: <hi rend="italic">Christus</hi> passu. <hi rend="italic">eat pro
+							Christi</hi> ( I <hi rend="italic">Cor.</hi> IV, 16). <lb/> Nam et
+						Petrus ait: <hi rend="italic">Christus</hi> passus <hi rend="italic">eat pro
 							vobis, re<lb/>linquens vobis exemplum, ut</hi> sequamini <hi
 							rend="italic">vestigia ejus</hi>
 						<lb/> ( I <hi rend="italic">Petr.</hi> II, 21). Secundum divinitatis suae
-						substan­ <lb/> tiam, non solum ab hominibus non videtur Filius, <lb/> scd
+						substan­ <lb/> tiam, non solum ab hominibus non videtur Filius, <lb/> sed
 						etiam nec a coelestibus virtutibus. Potest enim <lb/> archangelus angelum 4
-						vidcre, angelus animas no­ <lb/> stras spirituales et videre et penetrare :
+						videre, angelus animas no<lb/>stras spirituales et videre et penetrare :
 						hoc est uti<lb/>que, majorem Inferiores et videre et penetrare. Et <lb/>
 						secundum Salvatoris sententiam, ut dicebat tunc ad <lb/> illum qui se
-						divitem jactabat, <hi rend="italic">Stulte hac nocte expo­<lb/>
-							stulatur</hi> aniMa <hi rend="italic">tua a te5</hi> ( <hi rend="italic"
-							>Luc.</hi> XII, 20); cst officium <lb/> angeli, ut animam restituat ante
-						conspectum Domini. <lb/> Non tamen anima potest angelum videre, aut exhi-
-							<note type="footnote"> I Editi iidem Am. Er. et Mss., <hi rend="italic"
+						divitem jactabat, <hi rend="italic">Stulte hac nocte expo<lb/>
+							stulatur</hi> anima <hi rend="italic">tua a te 5</hi> ( <hi rend="italic"
+							>Luc.</hi> XII, 20); est officium <lb/> angeli, ut animam restituat ante
+						conspectum Domini. <lb/> Non tamen anima potest angelum videre, aut exhi
+						<note type="footnote"> 1 Editi iddem Am. Er. et Mss.., <hi rend="italic"
 								>quarum.</hi>
-						</note><note type="footnote"> I Quidam Mss. omittunt, <hi rend="italic"
-								>mnijntenluv.</hi> Alii cum Am. et <lb/> FJ*. ejus loco babent, <hi
-								rend="italic">omnipotentu.</hi>
-						</note><note type="footnote"> * lu B., <hi rend="italic">possumus
-								dicere.</hi> Er. Lugd. ven. !jov., <hi rend="italic">possimus <lb/>
-								fiicere.</hi> M. </note><note type="footnote"> * tu Mss., <hi
-								rend="italic">archangehtm.</hi>
-						</note><note type="footnote"> I Am. f.r. et Bfcw., omittunt, <hi
+						</note><note type="footnote"> 2 Quidam Mss. omittunt, <hi rend="italic"
+							>omnipotentiae.</hi> Alii cum Am. et <lb/> Er. ejus loco habent, <hi
+								rend="italic">omnipotentis.</hi>
+						</note><note type="footnote"> 3 In B., <hi rend="italic">possumus
+							dicere.</hi> Er. Lugd. ven. Lov., <hi rend="italic">possimus <lb/>
+								dicere.</hi> M. </note><note type="footnote"> 4 in Mss., <hi
+									rend="italic">archangelum.</hi>
+								</note><note type="footnote"> 5 Am. Er. et Mss., omittunt, <hi
 								rend="italic">a te.</hi>
 						</note>
-						<lb/> bere. Isto enim ordine ascende superius; et invenies <lb/> quemadmodum
+						<lb/>bere. Isto enim ordine ascende superius; et invenies <lb/> quemadmodum
 						est unus invisibilis Deus Pater, qui <lb/> superiorem non habet a quo
-						circuminspiciatur : qui <lb/> q tantus est, infinitus est; qui nec finiri
-						verbis, nec <lb/> mente concipi potest : de cujus magnitudine, nou <lb/>
+						circuminspiciatur : qui <lb/> quantus est, infinitus est; qui nec finiri
+						verbis, nec <lb/> mente concipi potest : de cujus magnitudine, nos <lb/>
 						solum humana lingua , sed etiam et omnes coelestes <lb/> virtutes pariter
 						coadunatae dicunt at valent. non ta<lb/>men explicant ut est. Plenus est ab
 						omni quod dici<lb/>tur. Hunc enim solus Filius condigne honorat et <lb/>
@@ -1269,12 +1276,12 @@
 						consecutus. Nam quia et honorat et <lb/> collaudat et glorificat suum
 						genitorem, quamvis qua<lb/>tuor Evangelia testantur, attamen in compendium
 						<lb/> referens , eis que carni soletis applicare postpositis , <lb/> jam
-						nunc pro'eram tesiiinonia , ubi in coelis suum <lb/> Patrem adorat. Dicit
+						nunc proferam testiinonia , ubi in coelis suum <lb/> Patrem adorat. Dicit
 						enim sic Paulus ad (Hebraeos : <lb/>
 						<hi rend="italic">Non enim in manufactis templis intravit Christus<lb/>
 							exemplarium veritatis ; sed in</hi> ipso <hi rend="italic">calo modo
 							apparet <lb/> personae Dei pro nobis</hi> ( <hi rend="italic">Hebr.</hi>
-						IX, 24) ? Hoc ulique <lb/> post Christi regressum in coelis. Posteaquam enim
+						IX, 24) ? Hoc utique <lb/> post Christi regressum in coelis. Posteaquam enim
 						<lb/> de coelo locutus est, dicens, <hi rend="italic">Saule, Saule , quid
 							<lb/> me persequeris</hi> ( <hi rend="italic">Act.</hi> ix , 4)?
 						Posteaquam Spiritus <lb/> sanctus ait, <hi rend="italic">Segregate mihi
@@ -1308,22 +1315,24 @@
 						humanum , aut certe secun<lb/>dum auctoritatem divinarum Scripturarum, non
 						pet <lb/> omnia comparatio ulla digna invenitur ad illum , qui <lb/> est
 						incomparabilis.</p>
+					
 					<p>10. Ego Patrem solum secundum antelata testimo<lb/>nia, non cum altero et
 						tertio dico quod unus est, sed <lb/> quod solus unus est Deus. Si vero solus
-						unus non est, <lb/> pars est. Nec cnim ex partibus compositum unum di­ <lb/>
+						unus non est, <lb/> pars est. Nec cnim ex partibus compositum unum di<lb/>
 						<lb/>
-						<pb n="729"/> cu Deun: : * J ille quod ea, virtu; est ingenita sim<lb/>plex
+						<pb n="729"/> eo Deum: : sed ille quod est, virtus; est ingenita sim<lb/>plex
 						: Filius ante omnia saecula et ipse virtus est ge<lb/>nitus1. De hac sane
 						virtute Filii bealus Apostolus di<lb/>cebat : <hi rend="italic">Congregatis
 							vobis et meo spiritu, cum virtute</hi>
 						<lb/> Domini <hi rend="italic">Jesu</hi> ( I <hi rend="italic">Cor.</hi> v,
-						4 ). Dico enim et profileor <lb/> quod nos sancta docent Evangelia. Et quia
-						Spiritus <lb/> sanctus et ipse sit virtus in sua proprietate i de quo <lb/>
+						4 ). Dico enim et profiteor <lb/> quod nos sancta docent Evangelia. Et quia
+						Spiritus <lb/> sanctus et ipse sit virtus in sua proprietate : de quo <lb/>
 						Dominus testimonium perhibet, dicendo, <hi rend="italic">Vos autem<lb/>
 							sedete</hi> ( ad suos discipulos ) in <hi rend="italic">civitate
 							Jerusalem, quo<lb/>adurque induamini</hi> virtute <hi rend="italic">ab
 							alto</hi> ( <hi rend="italic">Luc.</hi> XXIV, 49 ).</p>
-					<p>ii. Si ob hoc invisibilis Filius a te pronuntiatur, <lb/> eo quod oculis
+					
+					<p>11. Si ob hoc invisibilis Filius a te pronuntiatur, <lb/> eo quod oculis
 						humanis contemplari uon possit; cur <lb/> non et coelestes virtutes pariter
 						invisibiles pronun­ <lb/> tias, quando nec ipsi; obtutibus humanis videri
 						pos<lb/>sint? Ego quidem testimonium protuli sine aliqua
@@ -1332,11 +1341,12 @@
 							dominantium</hi>
 						<lb/> ( I Tim. VI, 15). Si Scripturam recitavi, reprehendi <lb/> non debui:
 						sin vero perscrutaris sensum Scripturae, <lb/> reddo rationem.</p>
+					
 					<p>12. Ait enim Apostolus, <hi rend="italic">Beatus et solus potens, Rex <lb/>
 							regum.</hi> Solum dicit potentem Patrem, non quia Fi<lb/>lius non sit
 						potetiS. Audi igitur testimonium de Filio, <lb/> ipsum Spiritum sanctum
 						clamantem et dicentem, <lb/>
-						<hi rend="italic">Tollite portas, principes</hi> vestri' ; <hi rend="italic"
+						<hi rend="italic">Tollite portas, principes</hi> vestri2 ; <hi rend="italic"
 							>et elevamini, portae</hi>
 						<lb/> aeternales, <hi rend="italic">et</hi> introibit <hi rend="italic">rex
 							gloriae.</hi> Et seqnitur : <hi rend="italic">Quis est<lb/> iste
@@ -1344,9 +1354,10 @@
 							>Dominus<lb/> fortis et potens</hi> ( <hi rend="italic">Psal.</hi>
 						XXIII, 7, 8 ). Quomodo non <lb/> potens, cujus polentiam omnis praedicat
 						creatura ?</p>
-					<p>13. Quomodo non sapicns, de quo Spiritus sanctus <lb/> collaudans ejus
+					
+					<p>13. Quomodo non sapiens, de quo Spiritus sanctus <lb/> collaudans ejus
 						sapientiam clamat et dicit: : <hi rend="italic">Quam <lb/> magnificata sunt
-							opera tun,</hi> Domine ! <hi rend="italic">Omnia in sapien­<lb/> tia
+							opera tun,</hi> Domine ! <hi rend="italic">Omnia in sapien<lb/>tia
 							fecisti</hi> ( <hi rend="italic">Psal.</hi> CIII, 24 ). Nam cum omnia
 						per Chri<lb/>stum sint facta, sino dubio illum Spiritus sanctus <lb/>
 						laudans dicebat, <hi rend="italic">Omnia in sapientia fecisti.</hi> Et cum
@@ -1364,40 +1375,40 @@
 							Patre<lb/> meo</hi> ( Matth. xi, 27 ), non creatorem creavit, sed <lb/>
 						creaturam constituit. Istam enim potentiam admirans <lb/> Dei Patris,
 						dicebat Paulus, <hi rend="italic">Beatus et solus</hi> potem. <lb/> Nam si
-						et homo potens et verus, secundum quod de <lb/> lob legimus, <hi
+						et homo potens et verus, secundum quod de <lb/> Job legimus, <hi
 							rend="italic">Erat homo ille verus et justus Dei cultor;</hi>
 						<lb/> adhuc et regionem illius describens dicit, quod esset <lb/>
 						<hi rend="italic">potens et magnus inter omnes ex parte Orientis</hi> ( <hi
 							rend="italic">Job</hi>
 						<lb/> I, 1, 3) : quomodo ergo solus potens Pater? Sed so<lb/>lum dicit ob
 						hoc, quia nullus ei comparatur, quia so<lb/>lus est tantae magnitudinis,
-						tantae potestatis, tantae <note type="footnote">1 Alias, gen?&lt;a.
-							</note><note type="footnote"> * Fditi <hi rend="italic">vestrus.</hi> At
+						tantae potestatis, tantae <note type="footnote">1 Alias, genita.
+							</note><note type="footnote"> 2 Editi <hi rend="italic">vestrus.</hi> At
 							Mss., <hi rend="italic">vestri.</hi> Et sic Augustinus, Enarr. <lb/>
 							eumdem psalmum 35. <lb/> ' <lb/> jo </note><note type="footnote">9 sola
-							editio I.ov. omittit, <hi rend="italic">creatorem.</hi>
+							editio Lov. omittit, <hi rend="italic">creatorem.</hi>
 						</note>
 						<lb/> potentiae. Pari modo et sapientem solum Patrem <lb/> praedicat bcatus
-						Paulus apostolus dicens sie, <hi rend="italic">Soli</hi> sa­ <lb/>
-						<hi rend="italic">pienti</hi> Deo ( Rom. xvi, 27 ). Sud requirenda cst
+						Paulus apostolus dicens sie, <hi rend="italic">Soli</hi> sa<lb/>
+						<hi rend="italic">pienti</hi> Deo ( Rom. xvi, 27 ). Sed requirenda est
 						ratio, <lb/> quemadmodum solus sapiens : non quod Christus <lb/> non sit
 						sapiens. Jain protulisti Christum <hi rend="italic">Dei Virtutem</hi>
 						<lb/> et <hi rend="italic">Dei Sapientiam</hi> ( I <hi rend="italic"
 							>Cor.</hi> I, 24) : dedimus et nus te<lb/>stimonia, quod omnia in
 						sapientia condidit. Sed vero <lb/> solus sapiens Pater. Credimus Scripturis,
-						et venera. <lb/> mur ipsas Scripturas divinas : cl ncque apiccm unum <lb/>
+						et venera. <lb/> mur ipsas Scripturas divinas : et neque apicem unum <lb/>
 						praeterire optamus, timentes periculum quod in ipsis <lb/> divinis
-						Scripluris est positum : <hi rend="italic">Vai detrahentibus aut<lb/>
+						Scripluris est positum : <hi rend="italic">Vae detrahentibus aut<lb/>
 							addentibus</hi> ( <hi rend="italic">Dent.</hi> IV, 2 ) ! Vis scire
-						quanta est <lb/> sapientia f'atris? Iulucre Filium, et videbis
-						sapien<lb/>tiam Patris. Et ea de causa ipse ChriStus diccbal, <lb/>
+						quanta est <lb/> sapientia fratris? Iulucre Filium, et videbis
+						sapien<lb/>tiam Patris. Et ea de causa ipse Christus dicebat, <lb/>
 						<hi rend="italic">Quime vidit, vidit et Patrem ( Joan.</hi> XIV, 9) :
 						hocest, <lb/> in IDe ejus videt sapientiam, ejus laudat virtutem ; <lb/>
 						illum glorificat, qui me tantum ac talern genuit ante <lb/> omnia saecula,
 						unus unum, solus solum. Non quaerens <lb/> materiam unde faceret, non in
-						auxilio aliqueni acci<lb/>piens, sed ut novit ipse sua virtute et sap entia
-						gc<lb/>unit Filium. Non, ut calumniam facientes dicitis, quo­ <lb/> niam
-						sicuti alia creatura ex nihilo facta esi, ita et <lb/> profitemur quod ex
+						auxilio aliqueni acci<lb/>piens, sed ut novit ipse sua virtute et sapientia
+						ge<lb/>unit Filium. Non, ut calumniam facientes dicitis, quo<lb/>niam
+						sicuti alia creatura ex nihilo facta est, ita et <lb/> profitemur quod ex
 						nihilo quasi unus de creaturis sit <lb/> factus. Quod quidcm audi
 						auctoritatem synodicae le<lb/>ct onis, quia in Arimino patres nostri inter
 						caetera et <lb/> hoc dixerunt : <hi rend="italic">Si quis ex nihilo Filium
@@ -1405,64 +1416,65 @@
 						testimonia profe<lb/>ro. Ait enim sic beatus apostolus Joames : <hi
 							rend="italic">Qui diligit <lb/> genitorem, diligit et eum qui exeo natus
 							est</hi> (I <hi rend="italic">Joan. v,</hi> 1).</p>
-					<p>14. Miror namque, charissime. Cum cnim et Spi<lb/>ritum sanctum de substantia
+					
+					<p>14. Miror namque, charissime. Cum enim et Spi<lb/>ritum sanctum de substantia
 						Patris esse dicatis, si Fi<lb/>lius ex substantia Dei Patris est, de
-						substantia Paris <lb/> et Spiritus sanctus, cur unus Filius est, et alius
+						substantia Paris <lb/> et Spiritus sanctus, cor unus Filius est, et alius
 						non <lb/> est filius? Quid vobis deliquit, cum ex cadem sit sub<lb/>stantia,
 						cum aequalis sit Filio, ut dicis ; quare enim <lb/> non et ipse haeres
 						omnium constilutus ; quare non ut <lb/> ipse filius ? quare non et ipse eo
 						vocabulo vocatur <lb/> quo et Christus, <hi rend="italic">Primogenitus omnis
 							creaturae (Coloss</hi>
 						<lb/> I, 15 )? Aut si aequalis, jam non unus unigenitus, ha<lb/>bens et
-						alterum secum genitum, et praeterea ex ea. <lb/> dem substantia Patris, unde
-						et Filium dicitis esse, <lb/> Quod quidem et doloris cst audii e. Non enim
+						alterum secum genitum, et praeterea ex ea<lb/>dem substantia Patris, unde
+						et Filium dicitis esse, <lb/> Quod quidem et doloris est audire. Non enim
 						ad ani<lb/>mae ingenuitatem comparatis illam tantam magnifi<lb/>centiam, sed
 						ad fragilitatem corporis. De corpore <lb/> utique nascitur caro, corporalis
 						filius: non tamen <lb/> anima de anima nascitur. Si ergo nostra anima
 						in<lb/>corruptibiliter generat et impassibiliter, nullam sen­ <lb/> tiens
 						diminutionem, non inquinationem aliquam ; <lb/> sed legitime secundum jura
 						divina generat filium, <lb/> sapientia consensum 1 accommodans corpori ipsa
-						inte­ <lb/> gra manet : quanto magis omnipotens Dens ? jam ut <lb/> paulo
+						inte<lb/>gra manet : quanto magis omnipotens Deos ? jam ut <lb/> paulo
 						ante dixi, ad quem omnis comparatio humana <lb/> sileat, tamen ut valemus
 						dicere conamur, quanto Ina<lb/>gis Deus Pater incorruptibilis incorruptibili
-						er genuit <lb/> Filium ? Gcnuit autem : cautionem meam tene, uti<lb/>que
+						et genuit <lb/> Filium ? Gcnuit autem : cautionem meam tene, uti<lb/>que
 						habens testimonia sanctarum Scripturarum : <hi rend="italic">Ge.</hi>
-						<note type="footnote"> * Am., <hi rend="italic">filiumsapientiam.</hi>
-							—Lov., <hi rend="italic">etsapiemia.</hi> '"ide librum <lb/>
-							secundumcontra Maximinum, cap. 14. <hi rend="italic">Er., generatum
-								filium, <lb/> sapientium consensu.</hi> Uitfd. ven., <hi
-								rend="italic">generat</hi> fHium <hi rend="italic">sapicntiiun <lb/>
-								(onsensu.</hi> Alias, <hi rend="italic">et sapientiam
+						<note type="footnote"> 1 Am., <hi rend="italic">filium sapientiam.</hi>
+							—Lov., <hi rend="italic">et sapientia.</hi> Vide librum <lb/>
+							secundum contra Maximinum, cap. 14. <hi rend="italic">Er., generatum
+								filium, <lb/> sapientium consensu.</hi> Lugd. Ven., <hi
+								rend="italic">generat</hi> filium <hi rend="italic">sapientium <lb/>
+								consensu.</hi> Alias, <hi rend="italic">et sapientiam
 								consensum.</hi> M. </note>
 						<lb/>
 						<pb n="731"/>
 						<hi rend="italic">nerationem ejus quis enarrabit</hi> ( Isai. LIII, 8 ) ?
-						Ge<lb/>nuit ut voluit, ut p tens I I nihil subtrahens, nulla <lb/> invidia
+						Ge<lb/>nuit ut voluit, ut potens 1, nihil subtrahens, nulla <lb/> invidia
 						intercipiente potentem genuit. Dixi, religiosis <lb/> non deccet calumniam
-						facere : ego Verbum Dci, Ver­ <lb/> ham Dei profiteor, non mortate, non
+						facere : ego Verbum Dci, Ver<lb/>bam Dei profiteor, non mortate, non
 						corruptibile. <lb/> Siquidem corpus qnod soscepit pro salute nostra, <lb/>
 						clamat de illo Scriptura, Requiescet <hi rend="italic">caro mea in spe
 							;</hi>
 						<lb/> hoc est, resurrectionis spe : <hi rend="italic">quoniam non
 							derelinques <lb/> animam meam</hi> in <hi rend="italic">inferno,
-							neque</hi> dabis sanctum tuum vi­ <lb/>
+							neque</hi> dabis sanctum tuum vi<lb/>
 						<hi rend="italic">drre corruptionem</hi> ( <hi rend="italic">Psal.</hi> xv.
-						9). Si enim illud qnod <lb/> sanctum vocatum est Filius Dei, corruptionem
+						9). Si enim illud quod <lb/> sanctum vocatum est Filius Dei, corruptionem
 						non <lb/> vidit. quia, tertio utique die resurrexit a mortuis; <lb/> quanto
-						magis divinitas, quae suscepit corpus incorr<lb/>plihi!is manet ? Cur dicis
+						magis divinitas, quae suscepit corpus incorru<lb/>ptibilis manet ? Cur dicis
 						quod non intelligis ? Si <lb/> non tibi ad omnia responsum dedero, merito
-						sinc <lb/> intellectu esse jndieahor : si qnominus tamen non est. <lb/>
-						religionis injuriis appetere. Ego enim non solum Fi<lb/>Iii Dni sapientiam
-						immortalem esse assero, sed etiam <lb/> comprobabo qnod ct sanctorum Dci
+						sinc <lb/> intellectu esse judicabor : si quominus tamen non est. <lb/>
+						religionis injuriis appetere. Ego enim non solum Fi<lb/>lii Dei sapientiam
+						immortalem esse assero, sed etiam <lb/> comprobabo quod et sanctorum Dei
 						sapientia immor<lb/>talis sit. Nam si et ipsi, hoc est, eorum corpora ad
 						<lb/> immortalitatem revocantur ; quanto magis eorum <lb/> viva ila
-						snpienlia, quae usque ad consummationem <lb/> saeculi in omnibus credentibus
+						sapientia, quae usque ad consummationem <lb/> saeculi in omnibus credentibus
 						floret, utique immor<lb/>talis manet ? Licet in prolixitate sermonis
 						prae<lb/>termiserim de immortalitate omnipotentis Dei, de <lb/> « o quod
 						dixit beatus apostolus Paulus , Qui <hi rend="italic">solus<lb/> habet
 							immortalitatem</hi> ( I <hi rend="italic">Tim.</hi> VI, 16 ) : attamen
-						re<lb/>plicaho textum; subsequar antem et interpretatio<lb/>nem Deo favente
-						et donante gr aliam. Sic cnim solus <lb/> immortalitatem hibere describitur,
+						re<lb/>plicabo textum; subsequar antem et interpretatio<lb/>nem Deo favente
+						et donante gratiam. Sic enim solus <lb/> immortalitatem habere describitur,
 						sicut et solus po<lb/>tens, sicuti et solus sapiens. Quis autem spiritualium
 						<lb/> hominum ignorat, quia anima humana immortalis <lb/> est? Praeterea cum
 						Salvatoris sit sententia, dicentis, <lb/>
@@ -1474,25 +1486,25 @@
 							<lb/> non videbit in aeternum (Joan.</hi> VIII, 51). Etsi qui
 						ver<lb/>bum Christi custodit, <hi rend="italic">mortem non videbit in
 							aeternum ;</hi>
-						<lb/> quanto magis ille secundum divinitatis suae potcn<lb/>tiam immortalis
-						cst, cujus tantam vim habet verbum ? <lb/> In co autem quod dicit, <hi
+						<lb/> quanto magis ille secundum divinitatis suae poten<lb/>tiam immortalis
+						est, cujus tantam vim habet verbum ? <lb/> In co autem quod dicit, <hi
 							rend="italic">Qui solus habet immortali<lb/>tatem</hi> ; jam reddidimus
 						rationem. Habet quidem <lb/> Filius immortalitatem, sed accipiens a Patre.
 						Habent <lb/> et omnes virtutes caelestes immortalitatem, sed
-						ac<lb/>cipientes per Filium, quia omnia per illum sunt. Pa­ <lb/> tcr autem
+						ac<lb/>cipientes per Filium, quia omnia per illum sunt. Pa<lb/>ter autem
 						vere solus habet immortaliiatem, qui ipsam <lb/> immortalitatem aliunde non
 						est consecutus, qui geni<lb/>torem non habet, qui originem non habet. Filius
-						an­ <lb/> tem, ut ipse prosecutus es, quod ex Patre sit genitus. <lb/>
+						an<lb/>tem, ut ipse prosecutus es, quod ex Patre sit genitus. <lb/>
 						Sarlius aequalem Filium asseris Patr! : cum ipse uni<lb/>genitus Deus semper
 						et in omnibus auctorem suum <lb/> praedicet Patrem , a quo, ut paulo ante
-						dixi, et vilam sc <lb/> consecutum hoc modo professus est, dicens, <hi
-							rend="italic">Sicut<lb/> l'ater habet vitam in semetipso, sic dedit et
+						dixi, et vilam se <lb/> consecutum hoc modo professus est, dicens, <hi
+							rend="italic">Sicut<lb/> Pater habet vitam in semetipso, sic dedit et
 							Filio vitam <lb/> habere</hi> in semetipso <hi rend="italic">( Ill.</hi>
-						v, 2G). Intuere igitur, qno. <note type="footnote"> ' Plures Mss., <hi
+						v, 2G). Intuere igitur, quo. <note type="footnote"> ' Plures Mss., <hi
 								rend="italic">roh,;, ut potens</hi> : geminato scilicet vorbn, <lb/>
 							<hi rend="italic">whcu.</hi>
 						</note>
-						<lb/> niam et immortalitatem. ct incorrupiiblitatem ct
+						<lb/> niam et immortalitatem. et incorrupiiblitatem et
 						inac<lb/>cessibilitatem utique a Patre cum vita accepit. Patet <lb/> autem
 						habet in se vitam, non ab aliquo accipiens : ft <lb/> idco vere <hi
 							rend="italic">beatus et solus</hi> potens. Quis semetipsum <lb/>
@@ -1501,10 +1513,10 @@
 							rend="italic">Ego</hi> qum <hi rend="italic">placita sunt ei facio</hi>
 						semper (Joan. <lb/> VIII, 29) ? Quis est iste qui ad monumentum Lazar <lb/>
 						veniens dicebat : <hi rend="italic">Pater, gratias ago tibi, quoniam</hi>
-						au­ <lb/>
+						au<lb/>
 						<hi rend="italic">disti me; et ego sciebam quia semper me</hi> audis, <hi
 							rend="italic">sed <lb/> propter eos qui circumstant, dixi, ut credant
-							quia</hi> tu <hi rend="italic">mt <lb/> misisti (ld.</hi> xi, -II, 42) ?
+							quia</hi> tu <hi rend="italic">me <lb/> misisti (ld.</hi> xi, -II, 42) ?
 						Quis utique iste est, qui cum <lb/> caeci nati oculos figuraret, dicentibus
 						discipulis, <hi rend="italic">Quis<lb/> peccavit, hie</hi> aut <hi
 							rend="italic">parentes ejus, ut caecus nasceretur?</hi>
@@ -1518,26 +1530,27 @@
 							rend="italic">(Matth.</hi> xxvi, 26) : Et<lb/>enim Dominus <hi
 							rend="italic">Jesus in ea nocte qua tradebatur, acce­</hi>
 						<lb/> pit <hi rend="italic">panem, et gratias agens fregit (I Cor.</hi> xi,
-						23, 24). <lb/> Hic est Filius, ut jam non obtundam eloquentia ser. <lb/>
-						mouis vel copia testimoniorum proferens plurima •, <lb/> sed per compendium
+						23, 24). <lb/> Hic est Filius, ut jam non obtundam eloquentia ser<lb/>
+						monis vel copia testimoniorum proferens plurima 1, <lb/> sed per compendium
 						finiam, qui usque ad passeris <lb/> mortem sine permissione Patris nihil
 						fieri, hoc modo <lb/> praedicavit, dicens : <hi rend="italic">Nonne duo
 							passeres</hi>asse <hi rend="italic">veneunt; <lb/> et unus ex illis non
 							cadet in terram sine voluntate Pa<lb/>tris (Matth.</hi> x. 29)? Hic sane
 						et de sua potestate, <lb/> quam accepit a Patre, dicebat : <hi rend="italic"
-							>Potestatem habeo</hi> po­ <lb/>
-						<hi rend="italic">nendi animam meam, et potestatem habeo</hi> iterum su­ <lb/>
+							>Potestatem habeo</hi> po<lb/>
+						<hi rend="italic">nendi animam meam, et potestatem habeo</hi> iterum su<lb/>
 						<hi rend="italic">mendi eam. Hoc</hi> enim praeceptum <hi rend="italic"
 							>accepi a Patre meo<lb/> (Joan.</hi> x, 18). Si ita referuut Evangelia,
 						teneatur <lb/> quod legimus : si quominus aliud aliquid forte, aut <lb/> ut
 						obliviosus minus dixi, reprehendar. Nec enim talis <lb/> sum, ut
 						emendationem non accipiam. Praeterea cum <lb/> episcopum praecipiat beatus
-						apostolus Paulus doci. <lb/> bilem esse (I <hi rend="italic">Tim.</hi> III,
+						apostolus Paulus doci<lb/>bilem esse (I <hi rend="italic">Tim.</hi> III,
 						2); ille est autem docibilis, qui <lb/> quotidie et discit et proficit
 						docendo metiora : non <lb/> respuimus, si quid melius dictum fuerit; ad
 						omnia <lb/> sumus parati, quamvis injuriis afficiamur. Verumta<lb/>men ut
 						non obstrepatur veritati, non nostram queri<lb/>mur injuriam, sed Dei
 						gloriam praedicamus.</p>
+					
 					<p>15. Certum est quod ait Apostolus , Qui <hi rend="italic">cum in <lb/> forma
 							Dei esset.</hi> Quis enim negat Filium esse in forma <lb/> Dei ? Quod
 						enim sit Deus, quod sit Dominus, quod sit <lb/> Rex, jam puto latius
@@ -1549,27 +1562,26 @@
 							(Philipp.</hi> II, 68), totis viribus praedicamus. Nos dicti <lb/> sumus
 						filii gratia, non natura hoc nati : ideo unigeni <note type="footnote"> I
 							sic aliquot Mss. Alii vero quidam, <hi rend="italic">ul sancti</hi> non
-								<hi rend="italic">obiun­<lb/> dnm...,</hi> proferens <hi
-								rend="italic">pluritm.</hi> Editiones Am. et Er., <hi rend="italic"
-								>ut sait<lb/>ctum MOM obtundum eloquentia....</hi> proferens <hi
+								<hi rend="italic">obiun<lb/>dam...,</hi> proferens <hi
+								rend="italic">plurima.</hi> Editiones Am. et Er., <hi rend="italic"
+								>ut sant<lb/>ctum non obtundum eloquentia....</hi> proferens <hi
 								rend="italic">rim imll.</hi> Un , <lb/>
-							<hi rend="italic">rrl jnru non ob tantam cloquentiam sermonis, vel</hi>
-							lcot i <hi rend="italic">mi irsu<lb/>lrtU'itn''!;tll</hi> proferam pt
-							irima. </note>
+							<hi rend="italic">ut jam non ob tantam eloquentiam sermonis, vel</hi>
+							lcot i <hi rend="italic">copiam i <lb/>tetimoniorum</hi> proferam plurima. </note>
 						<lb/>
 						<pb n="733"/> tus est Filius quia quod est secundum divintatis suae <lb/>
-						naturam , hoc cst natus Filius. Cui forte si ipse fra<lb/>trem a; plicas,
+						naturam , hoc est natus Filius. Cui forte si ipse fra<lb/>trem a; plicas,
 						quia Spiritum sanctum parem atque <lb/> a qualem asseris Filio; aeque et de
 						substantia Patris <lb/> cuin esse profiteris : si ita est, ergo jam non est
 						uni<lb/>genitus Filius, cum et aliter sit ex eadem substantia. <lb/> . Nos
-						in Patrem Deum innatum , naturam nun accepi<lb/>mus I : credimus quod ait
+						in Patrem Deum innatum , naturam nun accepi<lb/>mus 1 : credimus quod ait
 						Christus, <hi rend="italic">Spiritus</hi> eat Deus <lb/>
 						<hi rend="italic">(Joan.</hi> IV, 24). Filius natus est, ut dixinus : nos et
 						<lb/> verum Filium profitemur, et similem Patri non dene <lb/> gamus :
 						praeterea de divinis Scripturis instructi. Nam <lb/> quia diversas accusamur
 						dicere naturas, hoc scito, <lb/> quod nos dicimus, quod Pater spiritus
-						spiritum ge<lb/>nuit' ante omnia saecula, Deus Deum genuit : et cae<lb/>tera
-						quae jam supcrius dicta sunt. V crus innatus Pa­ <lb/> ter 'crum genuit
+						spiritum ge<lb/>nuit2 ante omnia saecula, Deus Deum genuit : et cae<lb/>tera
+						quae jam supcrius dicta sunt. V crus innatus Pa<lb/>ter verum genuit
 						Filium. Sed cum dicit Dominus in <lb/> Evangelio, <hi rend="italic">Ut
 							cognoscant te solum Deum</hi> verum, <hi rend="italic">et <lb/> quem
 							misisti</hi> Jesum <hi rend="italic">Christum (Id.</hi> XVII, 3); sic
@@ -1580,44 +1592,45 @@
 						comparationem, si poterat perfectum mox generare <lb/> filium, nun parvulum
 						generaret, qui coagmentatis <lb/> annis tandem aliquando compleat sui
 						genitoris vo<lb/>luntatem. Pater autem qui vere beatus est et solus <lb/>
-						potens, talem genuit Filium qualis ct nunc est, qua<lb/>tis et permanet sine
+						potens, talem genuit Filium qualis et nunc est, qua<lb/>tis et permanet sine
 						fine, non proficientem, sed per<lb/>fectum : quique et perfectionem a suo
-						genitore accc<lb/>pit, a quo et vitam consecutus est. Salvatoris est <lb/>
+						genitore acce<lb/>pit, a quo et vitam consecutus est. Salvatoris est <lb/>
 						sententia, <hi rend="italic">In ore duorum aut</hi> trium <hi rend="italic"
 							>testium constubit<lb/> omne verbum (Matth.</hi> XVIII, 46). Protulisti
 						apostoli<lb/>cum testimonium , <hi rend="italic">Qui cum</hi> in <hi
 							rend="italic">forma Dei esset? non<lb/> rapinam arbitratus est :</hi>
-						quod tuo arbitrio interpreta­ <lb/> tus es; aeque et nos, ut sensimus ,
+						quod tuo arbitrio interpreta<lb/>tus es; aeque et nos, ut sensimus ,
 						respondimns. In <lb/> auditorum sane erit arbitrio, quid el gant alterum
-						<lb/> de duobus : aut certe secundum sequentiam lectio­ <lb/> nis Filium
-						obedientem Patri approbent, qui <hi rend="italic">se exi­</hi>
-						<lb/> nanivit, <hi rend="italic">formam accipiens servi;</hi> cui et Pater
+						<lb/> de duobus : aut certe secundum sequentiam lectio<lb/>nis Filium
+						obedientem Patri approbent, qui <hi rend="italic">se exi</hi>
+						<lb/>nanivit, <hi rend="italic">formam accipiens servi;</hi> cui et Pater
 							<hi rend="italic">donavit,</hi>
 						<lb/> ut diximus, <hi rend="italic">nomen quod est super omne nomen :</hi>
 						an <lb/> tuam quisque intelligat interpretationem.</p>
+					
 					<p>16. <hi rend="italic">Ascendo ad Deum</hi> meum <hi rend="italic">et ad Deum
 							vestrum <lb/> (Joan.</hi> xx, 17), Dominum propter formam servi
 						di<lb/>xisse , quam suscepit, asseris, ut puto, ut dicis : si <lb/> ipse
 						humilians se in corpore dum esset humano , <lb/> quamvis devicta morte
-						triumphato diabolo post rc<lb/>surrectioncm suam, isto utitur sermone4,
+						triumphato diabolo post re<lb/>surrectionem suam, isto utitur sermone4,
 						dicens, <lb/>
 						<hi rend="italic">Ascendo ad Patrem meum et ad Patrem vestrum :</hi> ubi
 						<lb/> jam humilitas carnis necessaria non erat, ut dicis, <lb/> propter
 						Judaeos : sed integra regula fidei tradebatur. <lb/> Sicuti et in alio loco
-						post resurrectionem suam, as­ <lb/> sumptis discipulis suis in montem
+						post resurrectionem suam, as<lb/>sumptis discipulis suis in montem
 						Oliveti, dicebat: <lb/>
 						<hi rend="italic">Data est</hi> mihi <hi rend="italic">omnia potestas</hi>
 						in <hi rend="italic">coelo et in terra : euntes <lb/> docete omnes gentes,
 							baptizantes eos in nomine Patris,</hi>
-						<note type="footnote"> I Apud I.ngd, vcn. Lov., <hi rend="italic"
-								>accipimus.</hi> M. </note><note type="footnote"> * "pud Lov.,
+						<note type="footnote"> 1 Apud Lugd, ven. Lov., <hi rend="italic"
+								>accipimus.</hi> M. </note><note type="footnote"> 1 Apud Lov.,
 							spiritum <hi rend="italic">filium genuit.</hi>
-						</note><note type="footnote"> * In eadem edilionc lx&gt;v., <hi
-								rend="italic">ante omnia saeculu fitiunt.</hi>
-						</note><note type="footnote"> * In Mss , <hi rend="italic">istos utitur
-								seniwncs.</hi> sic in iisdem codicibus <lb/> sui ra, col. 726, n. 6,
-							ct col. 7i8, fl. n, circa linem, wfi cum <lb/> accusativo
-							juagitMaximinus. </note>
+								</note><note type="footnote">3 In eadem editione Lov., <hi
+								rend="italic">ante omnia saeculu filium.</hi>
+						</note><note type="footnote"> 4 In Mss , <hi rend="italic">istos utitur
+							sermones.</hi> sic in iisdem codicibus <lb/> supra, col. 726, n. 6,
+							et col. 738, n. 9, circa linem, uti cum <lb/> accusativo
+							jungit Maximinus. </note>
 						<lb/>
 						<hi rend="italic">et Filii, et Spiritus sancti, docentes eos servare onmia
 							<lb/> quaecumque. mandavi vobis (Matth.</hi> XXVIII, 18-20). Et <lb/> si
@@ -1629,10 +1642,10 @@
 							<lb/> Christi scit, qui est benedictus</hi> in <hi rend="italic"
 							>saecula</hi> (II <hi rend="italic">Cor.</hi> xi, 31) ? <lb/> Necnon,
 							<hi rend="italic">Ut unanimes in uno ore honorificetis Deum et <lb/>
-							Patrem Domini nostri Jesu Christi (Rom.</hi> XV, 6) ? ad<lb/>huc autcm
+							Patrem Domini nostri Jesu Christi (Rom.</hi> XV, 6) ? ad<lb/>huc autem
 						aggregat et dicit, <hi rend="italic">Benedictus Deus ct Pater <lb/> Domini
-							nostri Jesu Christi</hi> (II <hi rend="italic">Cor.</hi> I, 3) ? Cur
-						sanc ct <lb/> ante incarnalioncm Christi etiam Spiritus sanctus ad <lb/>
+							nostri Jesu Christi</hi> (II <hi rend="italic">Cor.</hi> I, 3) ? Cor
+						sane et <lb/> ante incarnationem Christi etiam Spiritus sanctus ad <lb/>
 						Filium dicebat. <hi rend="italic">Propterea unxit te Deus, Deus tuus<lb/>
 							(Psal.</hi> XLIV, 8)? Quam unctionem, quamvis argumen<lb/>tari volueris,
 						probare non poteris in corpore factam : <lb/> siquidem baptizatum legimus
@@ -1651,13 +1664,14 @@
 						Filii Pater, sicut legimus, <hi rend="italic">Et vidit Deus, <lb/> et ecce
 							omnia bona valde (Gen.</hi> I, 31 ); laudans Filii sui <lb/> opus,
 						gaudebat et laetabatur in Filio: aque ct Filius <lb/> perfecta voluntate
-						Patris laetabatur in conspectu sui <lb/> gcnitoris. <hi rend="italic">Omnis
+						Patris laetabatur in conspectu sui <lb/> genitoris. <hi rend="italic">Omnis
 							Scriptura divinitus inspirata utilis</hi> eat <lb/>
 						<hi rend="italic">ad docendum</hi> (II Tim. III, 16). Ob quam rem non <hi
-							rend="italic">trans­<lb/> ibit iota</hi> unum <hi rend="italic">vel unus
+							rend="italic">trans<lb/>ibit iota</hi> unum <hi rend="italic">vel unus
 							apex (Matth,</hi> v, 18). Dominus <lb/> dixit, <hi rend="italic">Caelum
 							et terra transibunt, verba autem mea non <lb/> praeteribunt</hi> ( Id.
 						XIIV, 55).</p>
+					
 					<p>17. Constat quod in principio erat Filius, et apud <lb/> Patrem erat, et Deus
 						erat : et hic erat in principio <lb/> apud Deum, ut primogenitus omnis
 						creature : et <lb/> omnia per ipsum facta sunt, et sine ipso factum cst
@@ -1666,19 +1680,20 @@
 						aequalem asseras Filio. Si<lb/>quidem et Filius in principio erat: Pater
 						vero ante <lb/> principium et sine principio est, ut ingenitus et
 						inna<lb/>tus. Erat autem in principio ut primogenitus omnis <lb/> creaturae
-							<hi rend="italic">(Coloss.</hi> I, 15). Ante omnem creaturam crat, <lb/>
-						antequam quidquid esset, et apud Deum crat, et Deus <lb/> erat, et hic crat
+							<hi rend="italic">(Coloss.</hi> I, 15). Ante omnem creaturam erat, <lb/>
+						antequam quidquid esset, et apud Deum erat, et Deus <lb/> erat, et hic crat
 						in principio apud Deum.</p>
+					
 					<p>18. Quid, si audieris Patrem dicentem, <hi rend="italic">Tecum <lb/>
 							principium in die virtutis tuae,</hi> in <hi rend="italic">splendoribus
-							san­<lb/> ctorum, ex</hi> ulTro <hi rend="italic">ante luciferuim genui
+							san<lb/>ctorum, ex</hi> ultro <hi rend="italic">ante luciferuim genui
 							te</hi> ( <hi rend="italic">Psal.</hi>
 						<lb/> CIX, 3) ? Ex ventre matris, quod nec Judaei dir<lb/>fidunt, natum
-						profiteris secundum carnem. Et cur <lb/> ista testimonia in medium non
-						profcrantur, quae iI­ <lb/> lam nativitatem demonstrant in principio, sicut
-						ct <lb/> praecedens nos instruit testimonium i Si propter cor<lb/>pus in quo
-						exinanivit semetipsum , <hi rend="italic">qui cum dives</hi> es­ <lb/>
-						<hi rend="italic">set, propter nos pauper (actus</hi> rat, ut ait Apostolus
+						profiteris secundum carnem. Et cor <lb/> ista testimonia in medium non
+						proferantur, quae il<lb/>lam nativitatem demonstrant in principio, sicut
+						et <lb/> praecedens nos instruit testimonium : si propter cor<lb/>pus in quo
+						exinanivit semetipsum , <hi rend="italic">qui cum dives</hi> es<lb/>
+						<hi rend="italic">set, propter nos pauper (actus</hi> est, ut ait Apostolus
 						(II <lb/>
 						<hi rend="italic">Cor.</hi> vm, 0), debitarem se sentit suc geniteri; multo <lb/>
 						<pb n="735"/> .agis qui illum tantum ac talem gen<unclear>nit</unclear>, ei
@@ -1686,16 +1701,16 @@
 						charissimus <lb/> Filius necesse est ut semper offerat suo genitori.
 						Op<lb/>line prosecutus es dicens, quoniam et parentibus <lb/> propter formam
 						servi esset subjectus <hi rend="italic">(Luc.</hi> II , 51). <lb/> Si enim
-						parentibussubjectus invenitur quos ipsecrca<lb/>v it , quia omnia per ipsum
+						parentibussubjectus invenitur quos ipse crca<lb/>v it , quia omnia per ipsum
 						sunt facta ; nec enim post <lb/> tempora , sed aute tempora novimus Filium
-						genitum <lb/> a Patre : si parentibus subditus , ut divinarum Scri­ <lb/>
+						genitum <lb/> a Patre : si parentibus subditus , ut divinarum Scri<lb/>
 						pturarum auctoritas luce clarius praedicat; quanto <lb/> magis utique illi
-						suo genitori est subditus , qui tan<lb/>tu II ac talem genuit, secundum quod
+						suo genitori est subditus , qui tan<lb/>tum ac talem genuit, secundum quod
 						ait apostolus <lb/> Paulus, <hi rend="italic">Cum omnia fuerint Filio
 							subjecta, tunc et ipse <lb/> Filius subjectus erit illi qui sibi
 							subjecit omnia</hi> (I Cor. <lb/> x v , 28) ? Ilnc vis ut et a nobis
-						dicatur , quod cor<lb/>pori, imo magis dispensationi , quam pro nostra sa­
-						<lb/> lute suscepit, omnia subjecta profiteamur : revera et <lb/> rorpus
+						dicatur , quod cor<lb/>pori, imo magis dispensationi , quam pro nostra sa
+						<lb/>lute suscepit, omnia subjecta profiteamur : revera et <lb/> rorpus
 						Patri subjectum , non Filium ipsum unigeni<lb/>tum Deum. Nus enim scimus et
 						credimus quod <hi rend="italic">Pater<lb/> judicat</hi> neminem , <hi
 							rend="italic">sed omne judicium dedit</hi> Filio, ut <lb/>
@@ -1703,47 +1718,49 @@
 						Pa<lb/>trem <hi rend="italic">(Joan.</hi> v , 22 , 25). Hoc enim prolitcmur
 						, quia <lb/> et in resurrectione, cum omnia fuerim Filio subjecta, <lb/> cum
 						omnes cum honorant, et venerantur, et adorari, <lb/> nec tunc sane Filius
-						extollit se : sed eliam cum om­ <lb/> nibus sibi subjectis subditus Patri
+						extollit se : sed eliam cum om<lb/>nibus sibi subjectis subditus Patri
 						hoc modo inve<lb/>nitur, ut dicat, Venite, <hi rend="italic">benedicti
-							Patris</hi> mei , possi­ <lb/>
+							Patris</hi> mei , possi<lb/>
 						<hi rend="italic">dete regnum paratum vobis ab origine mundi (Matth.</hi>
 						<lb/> XXV , 34).</p>
+					
 					<p>19. Jam dictum est quod et ipse pro tuo arbitrio <lb/> secundum sensum luum
-						visus es alienare. Stat lameD <lb/> apostolicum dictum , quia <hi
-							rend="italic">sicut oportet, orare nesci­</hi>
-						<lb/> mus; <hi rend="italic">sed ipse Spiritus postulat pro nobis gemitibus
+						visus es alienare. Stat tamen <lb/> apostolicum dictum , quia <hi
+							rend="italic">sicut oportet, orare nesci</hi>
+						<lb/>mus; <hi rend="italic">sed ipse Spiritus postulat pro nobis gemitibus
 							ine­<lb/> narrabilibus.</hi> Et quia argumento visus es obstrepere <lb/>
 						diccns, Ergo tam miserabilis est Spiritus sancius, ut <lb/> gemat? Nos enim
-						non miserabilem Spiritum sanctum <lb/> di. imus, siquidem ex ipsa lectione
+						non miserabilem Spiritum sanctum <lb/> dicimus, siquidem ex ipsa lectione
 						gloria Spiritus san<lb/>cti ostenditur, quia non pro se gemit : sed audi
 						le<lb/>ctionem 1, quia <hi rend="italic">pro sanctis ( Rom,</hi> VIII , 26,
-						27). Si<lb/>quidem uec.Filius pro se, sed pro nobis utique postu<lb/>lat ct
+						27). Si<lb/>quidem nec Filius pro se, sed pro nobis utique postu<lb/>lat et
 						interpellat, sicut jam protuli in praecedenti. <hi rend="italic">Qui</hi>
 						<lb/> in <hi rend="italic">modico fidelis</hi> est, <hi rend="italic"
 							>et</hi> in <hi rend="italic">majus fidelis invenitur (Luc.</hi>
 						<lb/> XV!, 10).</p>
-					<p>20. Nee enim aliter asseri potest quod Pater et Fi<lb/>lius unum sint, nisi
+					
+					<p>20. Nec enim aliter asseri potest quod Pater et Fi<lb/>lius unum sint, nisi
 						hoc sane modo quo tu ipse et nos <lb/> probare possumus bis ipsis exemplis
 						quibus usus es. <lb/> Nam si , ut dcis , et Apostolus confirmat, <hi
-							rend="italic">Qui</hi> adjun­ <lb/>
+							rend="italic">Qui</hi> adjun<lb/>
 						<hi rend="italic">git</hi> se Domino t unus <hi rend="italic">spiritus
-							eat</hi> ( I <hi rend="italic">Cor.</hi> VI, 17); e a <lb/> utique unus
+							est</hi> ( I <hi rend="italic">Cor.</hi> VI, 17); e a <lb/> utique unus
 						spiritus in consensu implens voluntatem <lb/> Dei, secundum Salvatoris
-						magisterium : qui etiam <lb/> boc modo nos orare docuit, ut inter caetera
+						magisterium : qui etiam <lb/> hoc modo nos orare docuit, ut inter caetera
 						precum <lb/> nostrarum ct hoc dicamus , <hi rend="italic">Fiat voluntas tua
 							sicut in<lb/> coelo et</hi> in <hi rend="italic">terra (Matth.</hi> VI ,
-						10). Terra utique nos su<lb/>mus. Sicut ergo in coelestibus Dei fit volunlas
+						10). Terra utique nos su<lb/>mus. Sicut ergo in coelestibus Dei fit voluntas
 						, ut et <lb/> in nobis hoc modo compleatur qui hoc oramus, et hoc <lb/>
 						factis adimpleamus ; ut unus spiritus efficiamur cum <lb/> Oleo, quando hoc
 						volumus quod Deus vult. Nam et Ipse <note type="footnote"> I Sic plerique
-							&gt;iss. Alii vero, <hi rend="italic">scd uut dilectione.</hi> Editi, <lb/>
+							Mss. Alii vero, <hi rend="italic">sed aut dilectione.</hi> Editi, <lb/>
 							<hi rend="italic">sed pro dilectione.</hi>
 						</note>
-						<lb/> .dius passioni proximus, hoc ad suum ge<unclear>nitorem</unclear> uti.
-						<lb/> que cl amabat dicens : <hi rend="italic">Abba, Puter , transeat</hi> a
+						<lb/> Filius passioni proximus, hoc ad suum ge<unclear>nitorem</unclear> uti
+						<lb/>que et amabat dicens : <hi rend="italic">Abba, Pater , transeat</hi> a
 							<hi rend="italic">me</hi> ca<lb/>lix <hi rend="italic">iste ;
 							verumtamen</hi> non <hi rend="italic">sicut ego volo , sed</hi> sicut tu
-						t is <lb/>
+						vis <lb/>
 						<hi rend="italic">(Marc.</hi> xiv , 3G) Dicendo autem , Non <hi
 							rend="italic">sicut ego</hi> volo , <lb/>
 						<hi rend="italic">sed sicut</hi> tu <hi rend="italic">vis ;</hi> ostendit
@@ -1755,12 +1772,13 @@
 						<lb/> et Filii voluntas ad voluntatem Patris. In quantu<unclear>m</unclear>
 						<lb/> major est Filius ut Deus ab omni creatura, in tantum <lb/> magis
 						consonans voluntati Patris invenitur, et magis <lb/> adhaeret suo genitori.
-						Dico enim, adhaeret suo ge<lb/>nitori ut chan issimus (ilius , in amore , ct
+						Dico enim, adhaeret suo ge<lb/>nitori ut chan issimus (ilius , in amore , et
 						dilectio<lb/>ne, et unanimitate , et consensu , et convenientia. <lb/> Omnia
 						qua proferuntur a sanctis Scripturis, pie. <lb/> na veneratione suscipere
 						debemus. Nec eniiu in no<lb/>strum magisterium devenit divina Scriptura , ut
 						<lb/> a nobis emendationem accipiat. Atque utinam et <lb/> digni inveniamur
 						Scripturarum discipuli approbari !</p>
+					
 					<p>21. Suscipio quae protulisti , <hi rend="italic">Nescitis quia templum <lb/>
 							Dei estis, et Spiritus Dei habitat in vobis</hi> (I <hi rend="italic"
 							>Cor.</hi> III, 16) ? <lb/> Nec enim Deus inhabitat in homine , quem non
@@ -1799,6 +1817,7 @@
 						et qui <hi rend="italic">non honorificat</hi> Filium , non <lb/>
 						<hi rend="italic">honorificat Patrem qui eum</hi> misit <hi rend="italic"
 							>(Id.</hi> v , 23).</p>
+					
 					<p>22. Dicis quod non dixerit Salvator noster Christus, <lb/> Ut ipsi et nos
 						unum; sed, <hi rend="italic">Ut ipsi sint</hi> unum in na <lb/>
 						<pb n="737"/> tura sua et substantia sua, concordi aequalitate ' quo<lb/>dam
@@ -1808,8 +1827,8 @@
 						Evangelio, Patrem suum orans pro discipulis : <hi rend="italic">Pater; <lb/>
 							fac illos unum , sicut et</hi> noa unum <hi rend="italic">sumus : sicut
 							ego in<lb/> te et tu</hi> in <hi rend="italic">me, ut et</hi> illi in
-							<hi rend="italic">nobis unum</hi> sint; <hi rend="italic">ut cogno­
-							<lb/> scat hic mundus</hi> quoniam tu <hi rend="italic">me misisti, et
+							<hi rend="italic">nobis unum</hi> sint; <hi rend="italic">ut cogno
+							<lb/>scat hic mundus</hi> quoniam tu <hi rend="italic">me misisti, et
 							dilexisti illos<lb/> sicut me dilexisti (Joan.</hi> xvn, 21-23). Quod
 						lego, credo : <lb/> dilectionis fecit mentionem , et non substantiae.
 						Cer<lb/>tum cst autem ipsum Salvatorem dixisse, <hi rend="italic">Qui audit
@@ -1820,7 +1839,7 @@
 						<lb/> (Id. XIV , 21, 23). Si enim tanta illa sublimitas atque <lb/> majestas
 						l'atris, necnon etiam Filii, intra unam aedi<lb/>culam mentis nostrae
 						recipitur; quanto magis utique <lb/> Filius certum est et sine dubio quod
-						crit in Patre? <lb/> Ita tamen ut Filius, ut alius a Patre : qui quidem, ut
+						erit in Patre? <lb/> Ita tamen ut Filius, ut alius a Patre : qui quidem, ut
 						<lb/> ipse exposuisti 2, unum sunt, Pater et Filius; non ta<lb/>men unus :
 						unum ad concordiam pertinet, unus ad <lb/> numerum singularitatis. Nam ct
 						Pauli beati testimo<lb/>nium protulisti, quod libenti animo suscepimus :
@@ -1871,8 +1890,9 @@
 						<lb/> est : cum qu indo dicat ipsc Paulus , <hi rend="italic">Plus omnibus
 							ii­<lb/> lis laboravi; non ego autem , sed gratia Dei mecum</hi> (I
 						<lb/> Cor. xv , 10) ? Nam qui plus lahoraL, plus consequi<lb/>tur.
-						Verumtamen unum sunt, in consensu, in conve­ <lb/> nientia , in dilectione ;
+						Verumtamen unum sunt, in consensu, in conve<lb/>nientia , in dilectione ;
 						quando id faciunt quod Deus <lb/> vult.</p>
+					
 					<p>23. Dicis quod unus est Deus. Astrue, si Pater et <lb/> Filius et Spiritus
 						sancius unus esl Ocus, an solus Pa<lb/>ter ninus Deus dicendus est, cujus
 						Filius ChristUs <lb/> noster cst Deus. Judaico more hortaris nos profiteri
@@ -1901,7 +1921,7 @@
 						valde. Si creatura bona, si <lb/> homo bonus, si Spiritus sancius bonus, si
 						Christus <lb/> bonus, quemadmodum unus bonus requirendum est. <lb/> Quia
 						utique sic ait Salvator, <hi rend="italic">Nemo bonus nisi unus<lb/>
-							Deus:</hi> eo quod ipse &lt; st fons bonitatis, qui quod pet <lb/>
+							Deus:</hi> eo quod ipse est fons bonitatis, qui quod pet <lb/>
 						bonus, a nemine accepit. Nam et Christus quod est <lb/> bonus, a suo
 						genitore est ut sit bonus; et oui, crea<lb/>Iura Dui bona , pcr Christum
 						accepit ut esset bona. <lb/> Sed sive Filius, sive qui per illum sunt facti,
@@ -1910,18 +1930,20 @@
 						nemine accepit. Et ideo ait <lb/> Christus, <hi rend="italic">Nemo eat
 							bonus, nisi unus.</hi> Sic ergo unus est <lb/> Deus, quia unus est
 						incomparabilis, quia unus est im<lb/>mensus, ut jam sumus prosecuti.</p>
+					
 					<p>24. Non denegamus quod Filius diligat Patrem, <lb/> cum quando et scriptum
-						ierimus : <hi rend="italic">Ut sciat hic</hi> mun­ <lb/>
+						ierimus : <hi rend="italic">Ut sciat hic</hi> mun<lb/>
 						<hi rend="italic">dus quia diligo Patrem, et</hi> sicut <hi rend="italic"
-							>mandatum mihi</hi> dedi' <lb/>
+							>mandatum mihi</hi> dedit <lb/>
 						<hi rend="italic">Pater, sic facio (Joan.</hi> XIV, 31). Constat Filium et
 						di­ <lb/> ligi et diligerc, ei mandatum Patris, ut ipse asserit r <lb/>
 						implere. Et ideo unum sunt, secundum quod ait, <hi rend="italic">Eya <lb/>
 							et Pater unum sumus (Id.</hi> x, 30). Nam in eo quod di. <lb/> eit, <hi
 							rend="italic">Qui me vidit, vidit it Patrem (Id.</hi> XIV, 9) ; certa
-						fide <lb/> eredendum est quia qui videt Filium , per Filium vi<lb/>dcl et
+						fide <lb/> eredendum est quia qui videt Filium , per Filium vi<lb/>det et
 						intelligit Patrem.</p>
-					<p>25. Propter formam servi, majorem Patrem profes- <note type="footnote"> I
+					
+					<p>25. Propter formam servi, majorem Patrem profes<note type="footnote"> I
 							Editi, per ipsum At Mss., in <hi rend="italic">ipso :</hi> ct sic locum
 							a Maxr<lb/>mino minus recte i rolatum Dol. Augustinus in tibro it <lb/>
 							cap. 23, n. 3. </note>
@@ -1936,7 +1958,7 @@
 						hoc <lb/> Filio qui magnus est Dcus. Nos cnim sic glorificamus <lb/> Patrem,
 						ut magno Dco majorem illum profiteamur, <lb/> ut alto sublimiorem
 						annuntiemus. An vcro iste est <lb/> debitus honor Dei, ut forma servili
-						major sii Pater, <lb/> tu vidcris.</p>
+						major sii Pater, <lb/> tu videris.</p>
 					<p>26. Dicis quod se divinitas patribus ostendit : et <lb/> ,saulo ante
 						prosecutus es, quod utique divinitas sit <lb/> invisibilis. Ostendit se
 						sanc, non Pater, qui invisibilis <lb/> cst: ne si dicamus Patrem visum
@@ -1945,9 +1967,9 @@
 						<hi rend="italic">nemo,</hi><hi rend="italic">neque videre potest</hi> (I
 							<hi rend="italic">Tim.</hi> VI, 16). Et non solum <lb/> invenimur Novo
 						resistere Testamento, verum ctiam <lb/> ci Veteri pari modo contrarii
-						invenimur. Denique sic <lb/> ait Moyses : <hi rend="italic">Non polest
+						invenimur. Denique sic <lb/> ait Moyses : <hi rend="italic">Non potest
 							quisque Deum videre et vivere</hi>
-						<lb/> ( <hi rend="italic">Exod.</hi> XXXIII, 20). Ipse sanc Moyscs
+						<lb/> ( <hi rend="italic">Exod.</hi> XXXIII, 20). Ipse sanc Moyses
 						descripsit in li­ <lb/> bro Geneseos, quod ab ilio primo homine Adam
 						us<lb/>quc ad ipsam incarnationem semper Filius visus cst. <lb/> Nam si
 						testimonia quaeris, utique habes positum I'a- <lb/> trem ad Filium dicentem
@@ -1962,7 +1984,7 @@
 						visus, secundum quod legimus Adam dicen<lb/>tem, <hi rend="italic">Vocem
 							tuam audivi ambulantis in paradiso, et abs­<lb/> condi me, quia
 							nudus</hi> eram. Habes utique quod Deus <lb/> dixit ei, <hi
-							rend="italic">Et quia tibi indicavit quia nudus cras, nisi de <lb/>
+							rend="italic">Et quia tibi indicavit quia nudus eras, nisi de <lb/>
 							ligno de quo proeceperam libi ne manducares, ex eo <lb/> manducasti
 							(Id.</hi> III, 10, 11)? Hic Deus et Abrahae vi<lb/>sus est <hi
 							rend="italic">(ld.</hi> XVIII, 1) : cl quia Filius visus est Abrahae,
@@ -1977,7 +1999,7 @@
 							rend="italic">et<lb/> salva facta eat anima mea.</hi> Et loci ipsius
 						vocabulum <lb/> nuncupatum cst, <hi rend="italic">Visio Dei.</hi> Hoc ipsum
 						affirmans uti<lb/>que Deus , qui ip praemeditatione colluctabatur cum <lb/>
-						i acob, quod in passionc Christi impletum videmus. <lb/> Ait enim ad ipsum
+						Jacob, quod in passionc Christi impletum videmus. <lb/> Ait enim ad ipsum
 						Jacob, <hi rend="italic">Jam non vocabitur nomen<lb/> tuum Jacob, sed Israel
 							erit nomen tuum ( Gen,</hi> XXXII, <lb/> 2 3-30), hoc est, Homo videns
 						Dcum. Hunc et in Novo <lb/> Testamento visum probamus. De hoc Apostoli
@@ -2087,12 +2109,12 @@
 							quem habetis a Deo;</hi> et eodem loco 1 : <lb/>
 						<hi rend="italic">Nescitis quia corpora vestra membra sunt Christi</hi> (I
 						Cor. <lb/> VI, i 9, 15) : cum ergo h:cc audis , noli negare Deum <lb/> esse
-						Spiritum sanctum, IIC templum creaturae facias <lb/> membra Creatoris. Prius
+						Spiritum sanctum, hic templum creaturae facias <lb/> membra Creatoris. Prius
 						crede istos tres, et in suis <lb/> singulis personis tres l'sse, ct tamen
 						simul non tres <lb/> dominos deos, sed unum Dominum Deum esse: ct <lb/>
 						dabit credenti ct oranti ipse Doluimus intellectum , <lb/> ut id quod
 						credis, etiam vidcre, id est, intelligere <lb/> merearis. Nam considera
-						diligenter omnia, qua* pro<lb/>lixa disputatione dixisti, et videbis ex boc
+						diligenter omnia, quae pro<lb/>lixa disputatione dixisti, et videbis ex boc
 						errore de<lb/>scendere, quo facitis duos dominos deos, contra
 						cla<lb/>rissimam vocem Domini Dei dicentis, <hi rend="italic">Dominus
 							Deus</hi>
