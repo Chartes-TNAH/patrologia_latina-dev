@@ -142,7 +142,7 @@
 			<refsDecl n="CTS">
 				<!-- refsDecl contains cRefPattern to order nodes from deeper to highest -->
 				<!-- cRefPattern is used to structure this XML document according to CapiTainS Guidelines -->
-				<cRefPattern n="no citable units founds" matchPattern="(.+)"
+				<cRefPattern n="gradus" matchPattern="(.+)"
 					replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div/tei:div[@n='$1'])"
 				/>
 			</refsDecl>
@@ -167,14 +167,21 @@
 				<change who="Lucie" when="2019-04-03">Ajout des div de @type"textpart" et de
 					@subtype"gradus", avec numérotation et d'une balise contenant le titre de chaque
 					'textpart'</change>
+				<change who="Lucie" when="2019-04-05">modification de la balise cRefPattern
+					@n="gradus"</change>
+				<change who="Lucie" when="2019-04-05">suppression du @subtype="collection" dans la
+					div de premier niveau</change>
+				<change who="Lucie" when="2019-04-05">ajout d'un gradus @n="12", que j'ai repéré
+					alors qu'il était "perdu" dans la masse du texte</change>
+				<change who="Lucie" when="2019-04-05">modification des ab dans les div de deuxième
+					niveau, au profit d'une balise head contenant le titre</change>
 			</listChange>
 		</revisionDesc>
 
 	</teiHeader>
 	<text>
 		<body>
-			<div type="edition" subtype="collection" n="urn:cts:latinLit:stoa0040.stoa040a.opp-lat1"
-				xml:lang="la">
+			<div type="edition" n="urn:cts:latinLit:stoa0040.stoa040a.opp-lat1" xml:lang="la">
 				<head>
 					<title type="main">DE DUODECIMI ABUSIONUM GRADIBUS</title>
 				</head>
@@ -184,9 +191,11 @@
 				<div type="textpart" subtype="gradus" n="1">
 					<!-- J'ai laissé le terme "gradus" car il existe encore aujourd'hui dans la langue française, 
 						on en trouve la définition dans le E.Littré -->
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Sapiens sine operibus.</hi></title>
-					</ab>
+					</head>
+					<!-- J'ai retiré "GRADUS PRIMUS" qui est en début de titre avant "Sapiens sine operibus". 
+						Si je le retire ici également je retire du texte, pas seulement de l'information. -->
 					<p>Primus<lb/>abusionis gradus est, si sine bonis operibus sapiens<lb/>et
 						praedicatur luerit : qui quod sermone docet, acti<lb/>bus explere negligit.
 						Auditores enim doctrinae dicta<lb/>facere contemuunt, cum praedicatoris
@@ -196,11 +205,11 @@
 						vitiorum amorem delapsus fuerit,<lb/>alterius doctoris medicamentum suis
 						vulneribus adhi<lb/>bere parvipendit. Unde et ipse Dominus in
 						Evangelio<lb/>de doctrina pariter et bono opere discipulos
-						instruere<lb/>volens, qualem in his cautelam haberent admonebat ,<lb/>dicens
+						instruere<lb/>volens, qualem in his cautelam haberent admonebat,<lb/>dicens
 						: Quod si sal evanuerit, in quo salietur (Matth.<lb/>V, 13) ? Hoc est, si
 						doctor erraverit, a quo iterum do<lb/>ctore emendabitur. ? Et, Si lumen quod
 						in te est, tene<lb/>brae sunt, ipsae tenebrae quantae erunt (Id. VI, 23) ?
-						Si<lb/>namque oculus a videndi officio desiverit, quis a ma<lb/> nu, vel a
+						Si<lb/>namque oculus a videndi officio desiverit, quis a ma<lb/>nu, vel a
 						pede, vel a reliquo corpore illud ministe<lb/>rium exiget ? Quapropret
 						doctores cogitent, ne ampliori<lb/>vindictae subjaceant, si plurimis1
 						perditionis occaio<lb/>nem abundantius praestent. Nam et ipse
@@ -213,28 +222,28 @@
 						graviori<lb/>busque vindictis vapulabit (Luc. XII, 47).</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="2">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Senex sine religione.</hi></title>
-					</ab>
+					</head>
 					<p>Duoe res in homine<lb/>non beterascentes. Secundus abusionis gradus est,
-						si<lb/>sine religione senex esse inveniatur : cui cum mem<lb/> bra
-						exterioris hominis veterascunt, vires animi,id<lb/>est, interioris hominis
-						membra, incrementa roboris<lb/>non capiunt . Plus enim omnibus religioni
+						si<lb/>sine religione senex esse inveniatur : cui cum mem<lb/>bra exterioris
+						hominis veterascunt, vires animi,id<lb/>est, interioris hominis membra,
+						incrementa roboris<lb/>non capiunt . Plus enim omnibus religioni
 						operam<lb/>dare senibus convenit, quos praesentis saeculi florida<lb/>aetas
 						transacta deseruit. Sicut namque in liguis ipsa<lb/>reproba arbor comparet,
-						quae post flores fructus opti<lb/> mos cultori suo non exhibet : sic et in
+						quae post flores fructus opti<lb/>mos cultori suo non exhibet : sic et in
 						hominibus<lb/>ipse reprobus est, quem flos juventutis deseruit, et<lb/>tamen
 						in sui corporis sencetute bonorum operum ma<lb/> turos fructus profere
 						parvipandit. Quid enim stoli<lb/>dius fieri potest, si mens ad perfectionem
-						festinare<lb/>non confendat, quando totius corporis habitus sene<lb/> ctute
+						festinare<lb/>non confendat, quando totius corporis habitus sene<lb/>ctute
 						confectus ad interitum properat ? Dum oculi<lb/>caligant, aures graviter
 						audiunt, capilli fluunt, facies<lb/>in pallorem mutatur, dentes lapsi numero
-						minuuntur,<lb/> cutis arescit, flatus non saaviter olet, pectus suffoca<lb/>
+						minuuntur,<lb/>cutis arescit, flatus non saaviter olet, pectus suffoca<lb/>
 						<note type="footnote"> 1 Hic. addunt editi, morum. </note><note
-							type="footnote">2, Corb Ms. largitoris. </note>tur, tussis cachinat,
-						genua trepidant, talos et pedes<lb/> tumor inflat ; etiam homo interior qui
+							type="footnote">2, Corb Ms. largitoris.</note>tur, tussis cachinat,
+						genua trepidant, talos et pedes<lb/>tumor inflat ; etiam homo interior qui
 						non senescit,<lb/>his omnibus aggravator. Et haec omnia ruituram
-						jam<lb/>jamque domum corporis cito praenuntiant. Quid ergo<lb/> superest, ;
+						jam<lb/>jamque domum corporis cito praenuntiant. Quid ergo<lb/>superest, ;
 						nisi ut dum hujus vitae defectus appropriat,<lb/>nibil aliud cogitare, quam
 						quomodo futurae vitae adi<lb/>tus1 propere comprehendatur, quisque senex
 						appetat ?<lb/> Juvenibus enim incertus hujus vitae terminus
@@ -249,10 +258,10 @@
 						aetatem, nec ministeriu vile reddat.</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="3">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Adolescens siine
 							obedientia.</hi></title>
-					</ab>
+					</head>
 					<p>Pater qua<lb/>tuor modis dicitur. Tertius abusionis gradus est,
 						ado<lb/>lescens sine obedientia, quo mundus a recto rationis<lb/>ordine
 						depravatur. Qualiter namque on senectute ille<lb/>ministrari sibi sperabit
@@ -267,7 +276,7 @@
 						in<lb/>his quae ad homines pertinent, patris et matris honor<lb/>imperatur
 						(Exod. XX, 12) : quia quamvis carnalis pa<lb/>ter non supervixerit, aut
 						indignus fuerit, alicui tamen<lb/>patri digno et viventi paternus honor
-						usque ad per<lb/> fectam et dignam aetatem a filiis praebendus
+						usque ad per<lb/>fectam et dignam aetatem a filiis praebendus
 						esse<lb/>ostenditur. Quator etenim modis per Scripturas di<lb/>vinas patres
 						vocantur ; hoc est, natura, gente, admo<lb/>nitione, et aetate. De patre
 						namque naturali Jacob ad<lb/>Laban loquitur, Nisi timor patris mei Isaac
@@ -275,7 +284,7 @@
 						pater dicitur, qumdo Dominus ad Moysen de<lb/>rubo loquebatur, Ego sum,
 						inquiens, Deus patrum<lb/>tuorum, Deus Abraham, Deus Isaac, Deus Jacob (Exod.<lb/>
 						<note type="footnote"> 1 Mss. Corbedeusis, futurae aditus prosperitatis.
-							Apud Cy<lb/> prianum, futura futura habitatio prospere.</note><note
+							Apud Cy<lb/>prianum, futura futura habitatio prospere.</note><note
 							type="footnote"> 1. Apocalyps, altis ministerum imperabit.</note>.<lb/>
 						<pb n="1081"/>m. 6 ). AEtate autem et admonitione pater dicitur,<lb/>eum
 						Moyses in cantico Deuteronomii loquitur, Inter<lb/>roga patrem tuu, et
@@ -287,7 +296,7 @@
 						hoc<lb/>et metet . Omnis namque disciplina in proesenti non<lb/>videtur esse
 						gaudii, sed moeroris : postea autem fructum<lb/>pacatissimum exercetatis per
 						eam reddet justitioe ( Hebr.<lb/>XII, 11). Sicut ergo fructus non invenitur
-						in abore,<lb/> in qua pampinus aut fios prius non apparuerit ; sic et<lb/>in
+						in abore,<lb/>in qua pampinus aut fios prius non apparuerit ; sic et<lb/>in
 						senectute honorem legitimum assequi non poterit,<lb/>aui in adolescentia
 						disciplinae alicujus eercitatione<lb/>non laboraverit. Disciplina igitur
 						absque obedientia,<lb/>qualiter liere potest ? Adolescens ergo sine
@@ -295,23 +304,23 @@
 						obe<lb/>dientia, quae omnium disciplinarum mater est, magna<lb/>
 						exercitatione indiget, quae sui normam studii Chri<lb/>sto Domino sumpsit,
 						qui obediensPatri usque ad<lb/>mortem, crucis ignominiam libenter sustinuit
-						( Phi<lb/> lipp. II, 8).</p>
+						( Phi<lb/>lipp. II, 8).</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="4">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Dives sine eleemosyna.</hi></title>
-					</ab>
+					</head>
 					<p>Amanda non<lb/>sunt, quoe redamare nequeunt. Quartus abusionis gra<lb/>dus
 						est, dives sine eleemosyna, qui superflua usus sus,<lb/>quae custodienda in
 						posterum recondit, indigen<lb/>tibus et nihil habentibus non distribuit :
 						per quod<lb/>efficitur, ut dum in terra quaesita diligenti cura
 						custo<lb/>dit, coelestis patriae perennem thesaurum amittat. Ad<lb/>quem
 						thesaurum Dominus Jesus adolescentem divi<lb/>tem, qui illum de perfectione
-						interrogaverat, ita re<lb/> spondens invitavit : Si vis perfectus esse,
-						vade, et vende<lb/>omnia quoe habes, et da pauperibus, et veni, sequere
-						me,<lb/>et habebis thesaurum in coelo ( Matth. Xix, 21). Quem<lb/>thesaurum
-						nullus unquam hominum habere potest,<lb/>nisi qui pauperibus solatia
-						praestat, aut qui per se<lb/>ipsum pauper est. Non ergo dormiat in thesauris
+						interrogaverat, ita re<lb/>spondens invitavit : Si vis perfectus esse, vade,
+						et vende<lb/>omnia quoe habes, et da pauperibus, et veni, sequere me,<lb/>et
+						habebis thesaurum in coelo ( Matth. Xix, 21). Quem<lb/>thesaurum nullus
+						unquam hominum habere potest,<lb/>nisi qui pauperibus solatia praestat, aut
+						qui per se<lb/>ipsum pauper est. Non ergo dormiat in thesauris
 						tuis,<lb/>quod pauperi prodesse potest. Dives namque, etsi<lb/>multa
 						congregaverit, his frui solus nequaquam pote- r<lb/>it ; quia unius hominis
 						natura multis rebus non suc<lb/>currit. (a) Quid ergo stultius est, quam
@@ -349,9 +358,9 @@
 						substaei<lb/>tiam, sed affectum Deus requirit.</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="5">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Femina sine pudicitia.</hi></title>
-					</ab>
+					</head>
 					<p>Pudicitia du<lb/>plex : corporis, animi. Quintus abusionis gradus
 						est<lb/>femina sine pudicitia. Sicut enim omnes mores<lb/>bonos procurat et
 						custodit in viris prudentia ; sic et<lb/>in feminis cunctos honestos actus
@@ -372,7 +381,7 @@
 						exercitatio, id est,<lb/>corporis habitu et superficie, et animi affectu
 						in<lb/>terno. Per exteriorem modum, juxta Apostolum, co<lb/>ram hominibus
 						exempla, per interiorem modum co<lb/>ram Deo providemus opera bona.
-						Pudicitia namque<lb/> corporis est, alienas res non appetere, et
+						Pudicitia namque<lb/>corporis est, alienas res non appetere, et
 						omnem<lb/>immunditiam devitare, ante horam congruam non<lb/>gustare velle,
 						risum non excitare, verba vana et falsa<lb/>non loqui, habitum per omnia
 						ordinatum, composi<lb/>tionemque convenicatem tam capillorum quam
@@ -400,9 +409,9 @@
 						multiplicatio<lb/>meritorum, creatoris omnium Dei amicitia.</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="6">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Dominus sine virtute.</hi></title>
-					</ab>
+					</head>
 					<p>Tria his qui<lb/>dominantur necessaria. In dignitatibus alii
 						meliores,<lb/>deteriores alii fiunt. Sextus abusionis gradus
 						est,<lb/>dominus sine virtute : quia nihil proficit dominandi<lb/>habere
@@ -425,14 +434,14 @@
 						ducatum constituit, qui<lb/>ad portandum multorum onera ipsum veluti
 						fortio<lb/>rem solidavit. Paxillus enim nisi bene fixus firmetur,<lb/>et
 						alicui fortiori adhaereat, omne quod in co pendet<lb/>cito labitur ; et ipse
-						solutus a rigore suae firmitatis,<lb/> cum oneribus ad terram delabitur. Sic
+						solutus a rigore suae firmitatis,<lb/>cum oneribus ad terram delabitur. Sic
 						et princeps<lb/>nisi suo Conditori perinaciter adhaeserit, et ipse,
 						et<lb/>omne quod continet, cito deperit. Quidam namque<lb/>per dominandi
 						officium plus Deo appropinquant, qui<lb/>dam imposito sibi dignitatis honore
 						deteriores fiunt.<lb/>Moyses enim accepto populi ducatu, familiarius
 						Dei<lb/> locutionibus utebatur (Exod. XXXIII, 11). Saüi vero<lb/>filius Cis
 						postquam sceptra regni suscepit, per inobe<lb/>dientiae superbiam Deum
-						offendit (I Reg. XV, 11).<lb/> Rex Salomon postquam patris sui David sedem
+						offendit (I Reg. XV, 11).<lb/>Rex Salomon postquam patris sui David sedem
 						obti<lb/>nuit, Deus illum ultra omnes mortales velut ad in<lb/>numerosi
 						populi gubernationem sapientiae munere<lb/>donavit (III Reg. III, 12) : e
 						contrario vero Jeroboam<lb/>servus Salomonis, postquam regni domus David
@@ -449,7 +458,7 @@
 						quoniam magna magnis infestationi<lb/>bus vel adversitatibus solent
 						laborare. Omnis igitur<lb/>qui praeest, hoc primitus tota animi intentione
 						pro<lb/>curet, ut per omnia de Dei adjutorio omnino non du<lb/>bitet. Si
-						namque coeperit in actibus suis auxiliatorem<lb/> habere Dominum dominorum,
+						namque coeperit in actibus suis auxiliatorem<lb/>habere Dominum dominorum,
 						nullus hominum con<lb/>temptui poterit habere ejus dominatum : Non
 						enim<lb/>est potestas nisi a Deo (Rom. XIII, 1). Ipse enim ele<lb/>vat de
 						stercore egenum, et sedere facit cum princi<lb/>pibus populi sui (Psal.
@@ -457,9 +466,9 @@
 						subdi<lb/>tus fiat omnis mundus Deo, et egeat omnis gloria 1<lb/>Dei.</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="7">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Christianus contentiosus.</hi></title>
-					</ab>
+					</head>
 					<p>Conten<lb/>tionis causae. An in mundo aliquid amari debeat. Se<lb/>ptimus
 						abusionis gradus est, christianus contentio<lb/>sus : qui cum
 						participationem nominis Christi per<lb/>fidem et Baptismum susceperit,
@@ -472,7 +481,7 @@
 						odioso labore vel formidine<lb/>satis contensiose expetuntur. Unde patenter intelligi<lb/>
 						<note type="footnote"> 1 Alias, erigatur gloria.</note><lb/>tur, nihil
 						contendi posse, nisi propter dilectionem,<lb/>speratam scilicet et
-						subsequentem amabilem remu<lb/> nerationem. Qui igitur de mundo praesenti ex
+						subsequentem amabilem remu<lb/>nerationem. Qui igitur de mundo praesenti ex
 						qua<lb/>cumque causa contendit, perspicue ostendit quod il<lb/>lum diligit.
 						Quomodo ergo mandum diligi per Joan<lb/>nem Spiritus sancti sermones
 						interdicunt, quibus ait,<lb/>Nolite diligere mundum, neque ea quae in mundo
@@ -499,7 +508,7 @@
 						moribus coaequatur. De Christo vero per pro<lb/>phetam ita scribitur : Ecce
 						puer meus quem elegi, ele<lb/>ctus meus, complacuit in illo sibi anima mea.
 						Ponam<lb/>spiritum meum super eum. Non coutendet, neque cla<lb/>mabit, neque
-						audiet aliquis in plateis vocem ejus (Isai.<lb/> XLII, 15 ; Matth. XII, 18).
+						audiet aliquis in plateis vocem ejus (Isai.<lb/>XLII, 15 ; Matth. XII, 18).
 						Ecce Christus non conten<lb/>dit, neque clamavit : et tu si morum Christi
 						similitu<lb/>dinem retinere cupis, ne contendas ; ne abusivus in<lb/>
 						Ecclesia christianus existas. Suis enim sectatoribus<lb/>Christus praecepit,
@@ -509,22 +518,22 @@
 						Quibus ad supplicandum imperavit dicens, Sic<lb/>autem orabitis : Pater
 						noster qui es in coelis, sanctifice<lb/>tur nomen tuum (Id. VI, 9), et
 						caetera. Frustra autem<lb/>contendit Patrem se habere in terra, qui patrem
-						et<lb/>patriam profitetur se habere in coelo : cujus patriae<lb/> possessor
+						et<lb/>patriam profitetur se habere in coelo : cujus patriae<lb/>possessor
 						nemo efficitur, nisi qui de terrenae patriae<lb/>contentione securus
 						habetur.</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="8">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Pauper superbus.</hi></title>
-					</ab>
+					</head>
 					<p>Pauper spiritu, pauper<lb/>humilis. Nobilis pauper. Octavus abusionis gradus
 						est,<lb/>pauper superbus, qui nihil habens in superbiam extol<lb/>litur :
 						cum e contrario divitibus saeculi non superbe sa<lb/>pere per apostolum
 						Paulum imperetur (I Tim. VI, 17).<lb/>Quid ergo stolidius potest fieri, quam
 						illum, qui per infi<lb/>mam miseriam velut in terram abjectus, extremus
-						et<lb/> humilis incedere et contristari debuerat, supercilioso<lb/>superbiae
+						et<lb/>humilis incedere et contristari debuerat, supercilioso<lb/>superbiae
 						tumore inflatam mentem contra Deum cri<lb/>gere ? Per quod vitium lapsi
-						corruerunt, qui in summo<lb/> coeli conditi erant culmine. Quid ergo vult
+						corruerunt, qui in summo<lb/>coeli conditi erant culmine. Quid ergo vult
 						quasi po<lb/>tens in terra superbire, qui prae omnibus
 						hominibus<lb/>debuerat humilis apparere ? Sed ne de paupertate s<lb/>sua
 						tristitiam habeant, quid a Deo recepturi sunt<lb/>pauperes attendant : ipse
@@ -534,12 +543,12 @@
 						mortales abstulit : ut ipse di<lb/>ves in coeli sede appareat, qui in terra
 						nihil penitus<lb/>procurat. Cavendum ergo pauperibus est, ne dum per<lb/>
 						<note type="footnote"> 1 Editi, et interim a regni, etc Ms. Corb., ab imimis
-							re<lb/> gni, etc.</note><lb/><pb n="1085"/><lb/>egestatem et
-						necessitatem terrenum regnum perdunt,<lb/>per mentis etiam imprudentiam
-						coelorum regna amit<lb/>tant. Cum enim Dei dispensation paupertatem
-						ne<lb/>cessariam acceperint, in ipsorum arbitrio pendet,<lb/>trum paupers
-						spiritu sint. Non enim quibuscumque<lb/>pauperibus coeli regna promittuntur,
-						sed his tantum<lb/>modo in quibus divitiarum inopiam animorum humi<lb/>litas
+							re<lb/>gni, etc.</note><pb n="1085"/><lb/>egestatem et necessitatem
+						terrenum regnum perdunt,<lb/>per mentis etiam imprudentiam coelorum regna
+						amit<lb/>tant. Cum enim Dei dispensation paupertatem ne<lb/>cessariam
+						acceperint, in ipsorum arbitrio pendet,<lb/>trum paupers spiritu sint. Non
+						enim quibuscumque<lb/>pauperibus coeli regna promittuntur, sed his
+						tantum<lb/>modo in quibus divitiarum inopiam animorum humi<lb/>litas
 						comitatur. Pauper enim humilis, pauper spiritu<lb/>appellatur ; qui cum
 						egenus foris cernitur, nunquam<lb/>in superbiam elevatur : quoniam ad
 						appetenda regna<lb/>coelorum plus valet mentis humilitas, quam
@@ -549,19 +558,19 @@
 						privari.<lb/>De quibus utrisque sancta Seriptura ita loquitur :<lb/>Est
 						quasi dives, cum nihil habeat, et est quasi pauper,<lb/>cum in multis
 						divitiis, est dives humilis spiritu : et<lb/>nihil habens quasi dives, est
-						pauper superbus men<lb/> tis affectu. Nobilis ergo inopia est mentis
+						pauper superbus men<lb/>tis affectu. Nobilis ergo inopia est mentis
 						humi<lb/>litas, et ineptae divitae sunt animorum enormi<lb/>tas. Providendum
 						ergo pauperibus est, ut semet<lb/>ipso squales sint intelligant : et quia
 						rebus consequi<lb/>quod capiunt non valent, mentis tumore
 						superbire<lb/>desinant</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="9">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Rex iniquus. Justitia
 							regis.</hi></title>
-					</ab>
+					</head>
 					<p>Ex rege in<lb/>justo quot mala. Ex juxto rege quot bona. Nonus abu<lb/>sionis
-						gradus est, rex iniquus. Etenim regem non<lb/> iniquum, sed correctorem
+						gradus est, rex iniquus. Etenim regem non<lb/>iniquum, sed correctorem
 						iniquorum esse oportel.<lb/>Inde in semetipso nominis sui dignitatem
 						custodire<lb/>debet : nomen enim regis intellectualiter hoc retinef,<lb/>ut
 						subjectis omnibus rectoris officium procuret. Sed<lb/>qualiter alias
@@ -584,10 +593,10 @@
 						cu<lb/>jus principes mane comedunt (Eccle. x, 16). Haec re<lb/>gni
 						prosperitatem in praesenti faciunt, et regem ad<lb/> coelestia regna meliora
 						perducunt. Qui vero regnum s<lb/>ecundum hanc legem non dispensat, multas
-						nimirum<lb/>adversitates imperii tolerat. Idcirco enim pax popu<lb/> lorum
+						nimirum<lb/>adversitates imperii tolerat. Idcirco enim pax popu<lb/>lorum
 						saepe rumpitur, offendiculctiam de regno sus<lb/>citantur, serrarum quoque
 						fructus diminnuntur, et<lb/>servitia populorum praepeditur, multi et varii
-						do<lb/> tores prosperitatem regni infici, charorum et fi<lb/>berorum mortes
+						do<lb/>tores prosperitatem regni infici, charorum et fi<lb/>berorum mortes
 						tristitiam conferunt, hostium incur<lb/>sus provincias undique vastant,
 						bestiae armentorum<lb/>et pecorum greges dilacerant, tempestates veris
 						et<lb/>hiemis 2 terrarum fecunditatem et maris ministeria<lb/>prohibent, et
@@ -610,17 +619,17 @@
 						throno<lb/>hominum primus constitutes est : sic et in poenis, si<lb/>
 						justitiam non fecerit, primatum habiturus est. Omnes<lb/>namque quoscumque
 						peccatores sub se in praesenti<lb/>habuit, supra se modo implacabili in illa
-						futura poea<lb/> habebit</p>
+						futura poea<lb/>habebit</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="10">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Episcopus negligens.</hi></title>
-					</ab>
+					</head>
 					<p>Quid episcopus<lb/>debeat gregi. Quid sibi. Decimus gradus abusionis
-						est,<lb/>episcopus negligens : qui gradus sui honorem inter<lb/> homines
+						est,<lb/>episcopus negligens : qui gradus sui honorem inter<lb/>homines
 						requirit, sed ministerii sui dignitatem coram<lb/>Deo, pro quo legatione
 						fungitur (II Cor. v, 20), non<lb/>custodit. Primo namque ab episcopo, quid
-						sui no<lb/> minis dignitas teneat, inquiratur; quoniam cum<lb/>Episcopus
+						sui no<lb/>minis dignitas teneat, inquiratur; quoniam cum<lb/>Episcopus
 						graecum nomen sit, speculator interpreta<lb/>tur. Quare vero speculator
 						poaitur, el quid a specu<lb/> latore requiritur, Dominus ipse denudate, cum
 						sub<lb/>Ezechielis prophetae persona episcopo officii sui ra<lb/>tionem
@@ -641,10 +650,10 @@
 						Ecclesiam non audierit, sit tibi sicut ethnicus et pu<lb/>blicanus (Matth.
 						XVIII, 15-17). Tali ordine expellen<lb/> dus est, quicumque doctori vel
 						episcopo adhaerere<lb/>noluerit. Et qui tali ordine expul us fuerit. ab
-						alio<lb/>aliquo doctore vel episcopo non debet recipi. De sa<lb/> cerdote
+						alio<lb/>aliquo doctore vel episcopo non debet recipi. De sa<lb/>cerdote
 						nanque in lege scribitur : Viduam aut repu<lb/>diatam non accipiat uxorem
 						(Levit. XXI, 7). Qui ergo<lb/>illum excommunicatum a catholico, illo non
-						permit<lb/> tente, sibi jungit, jura sacerdotii sancti, quod
+						permit<lb/>tente, sibi jungit, jura sacerdotii sancti, quod
 						Chri<lb/>stianorum genus electum est, excedit. Hac ratione<lb/>episcopum ad
 						eos quibus in speculatione positus est,<lb/>esse oportel. Caeterum vero
 						quails in semetpso esse<lb/>debeat, Paulus apostolus exponit, ut ad gradum
@@ -652,25 +661,25 @@
 						hospitalis, filios habens subditos cum<lb/>omni castitate, testimonium
 						habens bonum ab his qui<lb/>foris sunt, proferens doctrinae fidelem
 						sermonem,<lb/>ante episcopatum non plures habens uxores quam<lb/>unam ; non
-						percussor, non bilinguis, non ebriosus,<lb/> non neophytus (1 Tim. III, 2-4)
+						percussor, non bilinguis, non ebriosus,<lb/>non neophytus (1 Tim. III, 2-4)
 						: ut per haec ipse os<lb/>tendat in opera, quod alios docet in sermon
-						doctri<lb/>nae. Caveant ergo negligentes episcope, quod in tem<lb/> pore
+						doctri<lb/>nae. Caveant ergo negligentes episcope, quod in tem<lb/>pore
 						vindictae Dominus per prophetam conqueritur<lb/>dicens, Pastores mei 1
 						demoliti sunt populum meum ;<lb/>et non pascebant gregem meum pastores, sed
-						pascebant<lb/> semetipsos (Ezech. XXXIV, 8) : sed potius procurent<lb/>hi,
+						pascebant<lb/>semetipsos (Ezech. XXXIV, 8) : sed potius procurent<lb/>hi,
 						quos constituit Dominus super familiam suam dare<lb/>illis cibum in tempore
-						suo mensuram tritici (Luc.<lb/> XII, 42), puram scilicet et probatam
+						suo mensuram tritici (Luc.<lb/>XII, 42), puram scilicet et probatam
 						doctrinam, qua<lb/>tenus veniente Domino mereantur audire, Euge serve<lb/>
 						<note type="footnote"> 1 Ms. corb., . Apud Cyp., multt. </note><lb/>
 						<pb n="1087"/> bone <hi rend="italic">et</hi> fdelis : quia supra pauca
-						fuisti fidelis , supra<lb/>amila le constiluam; intra in gaudium Domini tui<lb/>
-						<lb/>(Matth XXV, 23).</p>
+						fuisti fidelis , supra<lb/>amila le constiluam; intra in gaudium Domini
+						tui<lb/> (Matth XXV, 23).</p>
 				</div>
 				<div type="textpart" subtype="gradus" n="11">
-					<ab>
+					<head>
 						<title type="sub"><hi rend="italic">Plebs sine disciplina Disciplina
 								quid.</hi></title>
-					</ab>
+					</head>
 					<p>Undecimus abusiionis gradus est, plebs sine disciplina;<lb/>quae cum
 						disciplinae exercitationibus non servit, com<lb/>
 						<lb/>muni se perditionis laqueo constringit; iram enim<lb/>
@@ -703,38 +712,42 @@
 						<lb/>qui autem extra disciplinam est, alienus est a corpore<lb/>Christi. Non
 						scindamus igitur illam, sed sortiamur de<lb/>illa cujus sit (Joan. XIX, 24)
 						: id est, non solvamus<lb/>quidquam de mandatis Domini, sed unusquique
-						in<lb/>quo vocatus est, in eo permaneat apud Dominum.<lb/>sunt,<lb/>
-						<lb/>CRADUS XII. Populus. sine lege. dum Duodecimus ab<lb/>
-						<lb/>usionis gradus est, populus sine lege : qui dum Dei<lb/>
+						in<lb/>quo vocatus est, in eo permaneat apud Dominum.<lb/>sunt,</p>
+				</div>
+				<div type="textpart" subtype="gradus" n="12">
+					<head>
+						<title type="sub"><hi rend="italic">Populus sine lege.</hi></title>
+					</head>
+					<p>Duodecimus ab<lb/> usionis gradus est, populus sine lege : qui dum Dei
 						<lb/>dicta, et legum scita contemnit, per diversas erro<lb/>rum vias
 						praevaricationis laqueum incurrit. Deo quibus<lb/>viis sub persona
-						praevaricatoris populi humanum<lb/>
-						<lb/>genus propheta ita deplangit : Nos autem sicut oves<lb/>erravimus,
-						unuquisque ill viam suam <hi rend="italic">declinavit</hi>(Isai.<lb/>LII,
-						6): de quibus viis etiam Sapientia loquitur per<lb/>Salomonem, Multae viae
-						videntur hominibus rectoe, et<lb/>novissima earum deducunt ad mortem (Prov.
-						XIV, 12).<lb/>Quae utique multae perdititionis viae tunc inceduntur
-						,<lb/>cum una regalis via, lex Dei videlicet, quae neque ad<lb/>dexeteram
-						neque ad sinistram declinat, per negligen<lb/>tiam desertiur. De qua via
-						Dominuus Jesus Christus,<lb/>qui est finis legis ad justitiam omni credenti
-						(Rom.<lb/>X, 4. denuntiat : Ego sum via, veritas et vita. Nemo<lb/>venit ad
-						Patrem nisi per me (Joan XIV, 6). Ad quam<lb/>viam omnes homines communiter
-						invitat dicens :<lb/>Venite ad me, omnes qui laboratis et onerati estis ,
-						et<lb/>ego vos reficiam (Matth. IX, 28). Quia non est perso<lb/>narum
-						acceptio apud Deum (Rom II, 11). ubi non est<lb/>Judaeus et Graecus,
-						masculus et femina, servus et<lb/>liber, Barbarus et Seytha ; sed omnia in
-						omnibus<lb/>Christus : omnes enim unum sunt in Christo Jesu<lb/>(Galat. III,
-						28). Dum ergo Christus finis est legis<lb/>(Rom. X, 4), qui sine lege sunt,
-						sine Christo flunt :<lb/>igitur poputas sine lege, populous sine Christo
-						est.<lb/>Abusivum ergo est in temporibus Evangelii populum<lb/>sine lege
-						fieri, quando Apostolis in cunetas gentes<lb/>centia praedicationis data est
-						(Matth. XXVIII, 19),<lb/>quando tonitruum Evangilii per conctas saeculi
-						par<lb/>tes intonuit ; quando gentes quae non sectabantur<lb/>justitiam,
-						apprehenderunt justitiam (Rom. IX, 50) ;<lb/>quando qui longe fuerant, facti
-						sunt prope in san<lb/>guine Christi (Ephes. II, 13) ; qui aliquando
-						non<lb/>populus, unc autem populus Dei in Christo (Rom.<lb/>IX, 25) : quando
-						est tempus acceptabile et dies salu<lb/>tis (II Cor. VI, 2) et tempora
-						refrigerii in conspectu<lb/>Altissimi ; quando unaquaeque gens habet
+						praevaricatoris populi humanum<lb/>genus propheta ita deplangit : Nos autem
+						sicut oves<lb/>erravimus, unuquisque ill viam suam <hi rend="italic"
+							>declinavit</hi>(Isai.<lb/>LII, 6): de quibus viis etiam Sapientia
+						loquitur per<lb/>Salomonem, Multae viae videntur hominibus rectoe,
+						et<lb/>novissima earum deducunt ad mortem (Prov. XIV, 12).<lb/>Quae utique
+						multae perdititionis viae tunc inceduntur ,<lb/>cum una regalis via, lex Dei
+						videlicet, quae neque ad<lb/>dexeteram neque ad sinistram declinat, per
+						negligen<lb/>tiam desertiur. De qua via Dominuus Jesus Christus,<lb/>qui est
+						finis legis ad justitiam omni credenti (Rom.<lb/>X, 4. denuntiat : Ego sum
+						via, veritas et vita. Nemo<lb/>venit ad Patrem nisi per me (Joan XIV, 6). Ad
+						quam<lb/>viam omnes homines communiter invitat dicens :<lb/>Venite ad me,
+						omnes qui laboratis et onerati estis , et<lb/>ego vos reficiam (Matth. IX,
+						28). Quia non est perso<lb/>narum acceptio apud Deum (Rom II, 11). ubi non
+						est<lb/>Judaeus et Graecus, masculus et femina, servus et<lb/>liber,
+						Barbarus et Seytha ; sed omnia in omnibus<lb/>Christus : omnes enim unum
+						sunt in Christo Jesu<lb/>(Galat. III, 28). Dum ergo Christus finis est
+						legis<lb/>(Rom. X, 4), qui sine lege sunt, sine Christo flunt :<lb/>igitur
+						poputas sine lege, populous sine Christo est.<lb/>Abusivum ergo est in
+						temporibus Evangelii populum<lb/>sine lege fieri, quando Apostolis in
+						cunetas gentes<lb/>centia praedicationis data est (Matth. XXVIII,
+						19),<lb/>quando tonitruum Evangilii per conctas saeculi par<lb/>tes intonuit
+						; quando gentes quae non sectabantur<lb/>justitiam, apprehenderunt justitiam
+						(Rom. IX, 50) ;<lb/>quando qui longe fuerant, facti sunt prope in
+						san<lb/>guine Christi (Ephes. II, 13) ; qui aliquando non<lb/>populus, unc
+						autem populus Dei in Christo (Rom.<lb/>IX, 25) : quando est tempus
+						acceptabile et dies salu<lb/>tis (II Cor. VI, 2) et tempora refrigerii in
+						conspectu<lb/>Altissimi ; quando unaquaeque gens habet
 						testem<lb/>resurrectionis, quando ipse Dominus protestatur,<lb/>Ecce ego
 						vobiscum sum omnibus diebus usque ad con<lb/>summationem soeculi (Matth.
 						XXVIII, 20). Non flamus<lb/>ergo sine Christo in hoc tempore transitorio ;
